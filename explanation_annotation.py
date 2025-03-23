@@ -34,17 +34,20 @@ if uploaded_file is not None:
     row = data.iloc[sample_index]
     premise = row.get("premise", "")
     hypothesis = row.get("hypothesis", "")
+    gold_label = row.get("gold_label", "")
     explanation = row.get("explanation", "")
 else:
     # fallback default
     premise = st.text_area("Premise (Example)", "John bought a Ferrari.")
     hypothesis = st.text_area("Hypothesis (Example)", "John is wealthy.")
+    gold_label = st.text_area("Gold Label (Example)", "Entailment")
     explanation = st.text_area("Explanation (Example)", "Because Ferraris are expensive, people who buy them are usually rich.")
 
 if uploaded_file is not None:
     st.subheader("📝 Current Sample")
     premise = st.text_area("Premise", premise)
     hypothesis = st.text_area("Hypothesis", hypothesis)
+    gold_label = st.text_area("Gold Label", gold_label)
     explanation = st.text_area("Explanation", explanation)
 
 st.divider()
@@ -184,7 +187,7 @@ if st.button("✅ Save Annotation"):
             existing_records = [json.loads(line) for line in f if line.strip()]
     except FileNotFoundError:
         pass
-    
+
     # check for existing annotation
     updated = False
     for i, rec in enumerate(existing_records):
@@ -198,7 +201,7 @@ if st.button("✅ Save Annotation"):
     with open("annotations.jsonl", "w", encoding="utf-8") as f:
         for rec in existing_records:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
-    
+            
     # Show annotation count summary
     try:
         with open("annotations.jsonl", "r", encoding="utf-8") as f:
