@@ -14,6 +14,10 @@ sample_index = 0
 if uploaded_file is not None:
     data = pd.read_csv(uploaded_file)
     st.sidebar.success(f"Loaded {len(data)} examples.")
+    
+    if "sample_index" not in st.session_state:
+        st.session_state.sample_index = 0
+        
     st.sidebar.markdown(f"**Progress**: {st.session_state.sample_index + 1} / {len(data)}")
     st.sidebar.progress((st.session_state.sample_index + 1) / len(data))
     
@@ -149,6 +153,7 @@ annotator_note = st.text_area("Note(optional)")
 
 # Save Annotation Results
 if st.button("✅ Save Annotation"):
+    
     # determine high-level category
     text_based_types = [
         "Coreference Resolution",
@@ -163,7 +168,7 @@ if st.button("✅ Save Annotation"):
     else:
         high_level_category = "World-Knowledge-Based Inference"
         
-    record = {
+    current = {
         "pairID": row.get("pairID") if uploaded_file is not None else "",
         "premise": premise,
         "hypothesis": hypothesis,
@@ -172,9 +177,27 @@ if st.button("✅ Save Annotation"):
         "explanation_category": selected_category,
         "note": annotator_note
     }
-    with open("annotations.jsonl", "a", encoding="utf-8") as f:
-        f.write(json.dumps(record, ensure_ascii=False) + "\n")
-    st.success("✅ Annotation saved!")
+    
+    existing_records = []
+    try:
+        with open("annotations.jsonl", "r", encoding="utf-8") as f:
+            existing_records = [json.loads(line) for line in f if line.strip()]
+    except FileNotFoundError:
+        pass
+    
+    # check for existing annotation
+    updated = False
+    for i, rec in enumerate(existing_records):
+        if rec.get("pairID") == current["pairID"] and rec.get("explanation") == current["explanation"]:
+            existing_records[i] = current
+            updated = True
+            break
+
+    if not updated:
+        existing_records.append(current)
+    with open("annotations.jsonl", "w", encoding="utf-8") as f:
+        for rec in existing_records:
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
     
     # Show annotation count summary
     try:
