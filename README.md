@@ -18,3 +18,13 @@ Then, open a terminal and run:
 ```bash
 $ streamlit run explation_annotation.py
 ```
+
+### Datasets and Preprocessing for Annotation
+
+```bash
+$ python reformat_esnli.py --input /your/esnli.csv --output /your/output.csv
+```
+
+```bash
+$ python reformat_varierr.py --input /your/varierr.json --output /your/output.csv
+```
