@@ -10,9 +10,9 @@ This thesis aims to investigate the linguistic characteristics of explanations i
 - Enhance LLM-generated explanations for NLI (diverse, linguistically grounded explanations that align with human reasoning)
 
 ### Annotation Process
-The annotation interface is designed using Streamlit(https://github.com/streamlit/streamlit)
+The annotation interface is designed using Streamlit (https://github.com/streamlit/streamlit)
 
-To run the interactive web app, please follow the Quickstart instruction provided on Streamlit Guide(https://github.com/streamlit/streamlit).
+To run the interactive web app, please follow the Quickstart instruction provided on Streamlit Guide (https://github.com/streamlit/streamlit).
 
 Then, open a terminal and run:
 ```bash
@@ -23,8 +23,4 @@ $ streamlit run explation_annotation.py
 
 ```bash
 $ python reformat_esnli.py --input /your/esnli.csv --output /your/output.csv
-```
-
-```bash
-$ python reformat_varierr.py --input /your/varierr.json --output /your/output.csv
 ```
