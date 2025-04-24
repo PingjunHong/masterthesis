@@ -1,8 +1,15 @@
 #!/bin/bash
 
-MODEL=$1
-MODE=$2
-INPUT=$3
-OUTPUT=$4
+INPUT_PATH="input_path"
+OUTPUT_PATH="output_path"
 
-python model_generator.py --model $MODEL --mode $MODE --input $INPUT --output $OUTPUT
+MODE="label"
+BACKEND="hf"
+HF_MODEL="meta-llama/Llama-3.2-3B-Instruct"
+
+python model_generator.py \
+  --backend $BACKEND \
+  --hf_model "$HF_MODEL" \
+  --mode $MODE \
+  --input "$INPUT_PATH" \
+  --output "$OUTPUT_PATH"

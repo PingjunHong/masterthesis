@@ -23,23 +23,24 @@ Highlights are **rendered in-line** using `**XXX**` markers for token emphasis.
 
 - `hf`: Local generation with Huggingface model
 
-  - Default: `meta-llama/Llama-3.2-3B-Instruct`
+  - You can now specify your HF model with `--hf_model` (default: `meta-llama/Llama-3.2-3B-Instruct`).
 
 ## Usage
 
 ```bash
-python model_generator.py \\
-  --mode highlight_index \\
-  --backend openai \\
-  --model gpt4o \\
-  --input ./your_input.jsonl \\
-  --output ./your_output.jsonl
+python model_generator.py \
+  --backend openai \
+  --model gpt4o \
+  --mode highlight_index \
+  --input ./data.jsonl \
+  --output ./gpt4o_results.jsonl
 ```
 
-```
-python model_generator.py \\
-  --mode label \\
-  --backend hf \\
-  --input ./your_input.jsonl \\
-  --output ./output_llama.jsonl
+```bash
+python model_generator.py \
+  --backend hf \
+  --hf_model meta-llama/Llama-3.2-3B-Instruct \
+  --mode label \
+  --input ./data.jsonl \
+  --output ./llama_output.jsonl
 ```

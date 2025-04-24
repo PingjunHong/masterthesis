@@ -6,8 +6,6 @@ import re
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-HF_MODEL_NAME = "meta-llama/Llama-3.2-3B-Instruct"
-
 def init_client(model_name, backend):
     if backend == "openai":
         if model_name == "gpt4o":
@@ -23,9 +21,12 @@ def init_client(model_name, backend):
         else:
             raise ValueError("Invalid model. Choose from gpt4o or deepseek-chat")
     elif backend == "hf":
-        tokenizer = AutoTokenizer.from_pretrained(HF_MODEL_NAME)
-        model = AutoModelForCausalLM.from_pretrained(HF_MODEL_NAME, torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32).to("cuda" if torch.cuda.is_available() else "cpu")
-        return (tokenizer, model), HF_MODEL_NAME
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
+        ).to("cuda" if torch.cuda.is_available() else "cpu")
+        return (tokenizer, model), model_name
     else:
         raise ValueError("Invalid backend. Choose from openai or hf")
 
@@ -69,13 +70,14 @@ def build_prompt(mode, premise, hypothesis, gold_label, highlighted_1="", highli
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", type=str, choices=["gpt4o", "deepseek-chat"], required=False, default="gpt4o")
+    parser.add_argument("--hf_model", type=str, default="meta-llama/Llama-3.2-3B-Instruct")
     parser.add_argument("--backend", type=str, choices=["openai", "hf"], default="openai")
     parser.add_argument("--input", type=str, required=True)
     parser.add_argument("--output", type=str, default="api_generated_output.jsonl")
     parser.add_argument("--mode", type=str, choices=["highlight_index", "highlight_marked", "label"], required=True)
     args = parser.parse_args()
 
-    client, model_name = init_client(args.model, args.backend)
+    client, model_name = init_client(args.hf_model if args.backend == "hf" else args.model, args.backend)
 
     with open(args.input, "r", encoding="utf-8") as f:
         all_data = [json.loads(line) for line in f if line.strip()]
@@ -89,7 +91,6 @@ def main():
     except FileNotFoundError:
         pass
 
-    # if label mode: deduplicate by pairID
     if args.mode == "label":
         unique_data = {}
         for item in all_data:
