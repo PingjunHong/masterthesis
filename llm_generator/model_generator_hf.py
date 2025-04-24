@@ -6,9 +6,7 @@ import re
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-
 HF_MODEL_NAME = "meta-llama/Llama-3.2-3B-Instruct"
-
 
 def init_client(model_name, backend):
     if backend == "openai":
