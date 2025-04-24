@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 MODEL=$1
 MODE=$2
 INPUT=$3
