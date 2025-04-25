@@ -13,6 +13,16 @@ Use **word index** annotations (`Sentence1_Highlighted`, `Sentence2_Highlighted`
 3. `highlight_marked`
 Highlights are **rendered in-line** using `**XXX**` markers for token emphasis.
 
+4. `taxonomy`
+Generate explanations for all 8 explanation categories (taxonomy),
+based on: `premise` + `hypothesis` + `gold_label`
+
+5. `classify_only`
+Generate appropriate category indexes for the possible explanation types. Output only the indexes. This mode is intended to filter the explanations produced in Mode 4. Input: `premise` + `hypothesis` + `gold_label`
+
+4. `classify_and_generate`
+The model is prompted to first identify the most relevant explanation types, and then generate corresponding explanations based on: `premise` + `hypothesis` + `gold_label`
+
 ## Backends (--backend)
 
 - `openai` *(default)*: Uses either:

@@ -63,8 +63,74 @@ def build_prompt(mode, premise, hypothesis, gold_label, highlighted_1="", highli
         return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences. Highlighted parts are marked in \"**\".\n\n    Content: {marked_premise}\n    Statement: {marked_hypothesis}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
     elif mode == "label":
         return f"""You are an expert in Natural Language Inference (NLI). Please list all possible explanations for why the following statement is {gold_label} given the content below without introductory phrases.\n    Content: {premise}\n    Statement: {hypothesis}\n    Answer:"""
+    elif mode == "taxonomy":
+        return f"""You are an expert in Natural Language Inference (NLI). Given the following Premise, Hypothesis, and a gold label, your task is to generate explanations for **each** of the explanation categories listed below, assuming the same gold label holds. Each category reflects a specific type of inference in the explanation between the premise and hypothesis.
+        The explanation categories are:
+        1. Coreference Resolution – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.
+        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
+        3. Syntactic-level Inference – Based on structural rephrasing that preserves meaning (e.g., alternation, coordination, subordination).
+        4. Pragmatic-level Inference – Based on logical implications embedded in the structure of the text.
+        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned information.
+        6. Logical Structure Conflict – Identifies logical inconsistency (e.g., either-or, temporal, quantifier).
+        7. Factual Knowledge – Explanation based on commonsense or factual knowledge, no further inference.
+        8. World-Informed Logical Reasoning – Requires real-world causal or assumed reasoning beyond the text.
+        Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
+        Please list all possible explanations without introductory phrases. Format your answer as:
+        1. Coreference Resolution:  
+        - [Your explanation(s) here]  
+
+        2. Semantic-level Inference:  
+        - [Your explanation(s) here]  
+
+        ... (continue for all 8 categories)
+        Answer:"""
+        
+    elif mode == "classify_and_generate":
+        return f"""You are an expert in Natural Language Inference (NLI). Your task is to examine the relationship between the following Premise and Hypothesis under the given gold label, and:
+        1. Identify all categories for explanations from the list below (you may choose more than one) that could reasonably support the label.
+        2. For each selected category, generate all possible explanations that reflects that type.
+        The explanation categories are:
+        1. Coreference Resolution – Resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.  
+        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).  
+        3. Syntactic-level Inference – Structural rephrasing with same meaning (e.g., alternation, coordination, subordination).  
+        4. Pragmatic-level Inference – Based on logical implications embedded in structure or semantics of the text itself.  
+        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned info.  
+        6. Logical Structure Conflict – Logical conflict (e.g., either-or, quantifier, temporal, location, gender).  
+        7. Factual Knowledge – Based on commonsense or domain-specific facts without further reasoning.  
+        8. World-Informed Logical Reasoning – Requires real-world causal or assumed reasoning beyond the text.
+
+        Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
+
+        Please list all possible explanations without introductory phrases for all the chosen categories. Format your answer as:
+        1. Coreference Resolution:  
+        - [Your explanation(s) here]  
+
+        2. Semantic-level Inference:  
+        - [Your explanation(s) here]  
+
+        ... (continue for all reasonable categories)
+        Answer:"""
+    
+    elif mode == "classify_only":
+        return f"""You are an expert in Natural Language Inference (NLI). Your task is to identify all applicable reasoning categories for explanations from the list below that could reasonably support the label. Multiple categories may apply. Only output the numbers of the applicable categories, separated by commas. Do not include any explanation.
+
+        The explanation categories are:
+
+        1. Coreference Resolution – Resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.  
+        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).  
+        3. Syntactic-level Inference – Structural rephrasing with same meaning (e.g., alternation, coordination, subordination).  
+        4. Pragmatic-level Inference – Based on logical implications embedded in structure or semantics of the text itself.  
+        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned info.  
+        6. Logical Structure Conflict – Logical conflict (e.g., either-or, quantifier, temporal, location, gender).  
+        7. Factual Knowledge – Based on commonsense or domain-specific facts without further reasoning.  
+        8. World-Informed Logical Reasoning – Involves real-world causal, probabilistic or assumed background reasoning.
+
+        Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
+
+        Answer (category numbers only, separated by commas):"""
+    
     else:
-        raise ValueError("Invalid mode. Choose from highlight_index, highlight_marked, or label")
+        raise ValueError("Invalid mode. Choose from highlight_index, highlight_marked, label, taxonomy, classify_and_generate or classify_only")
 
 
 def main():
@@ -74,7 +140,7 @@ def main():
     parser.add_argument("--backend", type=str, choices=["openai", "hf"], default="openai")
     parser.add_argument("--input", type=str, required=True)
     parser.add_argument("--output", type=str, default="api_generated_output.jsonl")
-    parser.add_argument("--mode", type=str, choices=["highlight_index", "highlight_marked", "label"], required=True)
+    parser.add_argument("--mode", type=str, choices=["highlight_index", "highlight_marked", "label", "taxonomy" , "classify_and_generate", "classify_only"], required=True)
     args = parser.parse_args()
 
     client, model_name = init_client(args.hf_model if args.backend == "hf" else args.model, args.backend)
@@ -91,7 +157,7 @@ def main():
     except FileNotFoundError:
         pass
 
-    if args.mode == "label":
+    if args.mode in ["label", "taxonomy", "classify_and_generate", "classify_only"]:
         unique_data = {}
         for item in all_data:
             pid = item["pairID"]
