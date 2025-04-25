@@ -66,10 +66,10 @@ def build_prompt(mode, premise, hypothesis, gold_label, highlighted_1="", highli
     elif mode == "taxonomy":
         return f"""You are an expert in Natural Language Inference (NLI). Given the following Premise, Hypothesis, and a gold label, your task is to generate explanations for **each** of the explanation categories listed below, assuming the same gold label holds. Each category reflects a specific type of inference in the explanation between the premise and hypothesis.
         The explanation categories are:
-        1. Coreference Resolution – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.
+        1. Coreference Resolution – The explanation resolves coreferences (e.g., pronouns or demonstratives) across premise and hypothesis.
         2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
         3. Syntactic-level Inference – Based on structural rephrasing that preserves meaning (e.g., alternation, coordination, subordination).
-        4. Pragmatic-level Inference – Based on logical implications embedded in the structure of the text.
+        4. Pragmatic-level Inference – Based on implicature, presupposition, or speaker intent.
         5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned information.
         6. Logical Structure Conflict – Identifies logical inconsistency (e.g., either-or, temporal, quantifier).
         7. Factual Knowledge – Explanation based on commonsense or factual knowledge, no further inference.
@@ -87,16 +87,17 @@ def build_prompt(mode, premise, hypothesis, gold_label, highlighted_1="", highli
         
     elif mode == "classify_and_generate":
         return f"""You are an expert in Natural Language Inference (NLI). Your task is to examine the relationship between the following Premise and Hypothesis under the given gold label, and:
-        1. Identify all categories for explanations from the list below (you may choose more than one) that could reasonably support the label.
-        2. For each selected category, generate all possible explanations that reflects that type.
+        Firstly, identify all categories for explanations from the list below (you may choose more than one) that could reasonably support the label.
+        Secondly, for each selected category, generate all possible explanations that reflects that type.
+        
         The explanation categories are:
-        1. Coreference Resolution – Resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.  
-        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).  
-        3. Syntactic-level Inference – Structural rephrasing with same meaning (e.g., alternation, coordination, subordination).  
-        4. Pragmatic-level Inference – Based on logical implications embedded in structure or semantics of the text itself.  
-        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned info.  
-        6. Logical Structure Conflict – Logical conflict (e.g., either-or, quantifier, temporal, location, gender).  
-        7. Factual Knowledge – Based on commonsense or domain-specific facts without further reasoning.  
+        1. Coreference Resolution – The explanation resolves coreferences (e.g., pronouns or demonstratives) across premise and hypothesis.
+        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
+        3. Syntactic-level Inference – Based on structural rephrasing that preserves meaning (e.g., alternation, coordination, subordination).
+        4. Pragmatic-level Inference – Based on implicature, presupposition, or speaker intent.
+        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned information.
+        6. Logical Structure Conflict – Identifies logical inconsistency (e.g., either-or, temporal, quantifier).
+        7. Factual Knowledge – Explanation based on commonsense or factual knowledge, no further inference.
         8. World-Informed Logical Reasoning – Requires real-world causal or assumed reasoning beyond the text.
 
         Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
@@ -116,14 +117,14 @@ def build_prompt(mode, premise, hypothesis, gold_label, highlighted_1="", highli
 
         The explanation categories are:
 
-        1. Coreference Resolution – Resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.  
-        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).  
-        3. Syntactic-level Inference – Structural rephrasing with same meaning (e.g., alternation, coordination, subordination).  
-        4. Pragmatic-level Inference – Based on logical implications embedded in structure or semantics of the text itself.  
-        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned info.  
-        6. Logical Structure Conflict – Logical conflict (e.g., either-or, quantifier, temporal, location, gender).  
-        7. Factual Knowledge – Based on commonsense or domain-specific facts without further reasoning.  
-        8. World-Informed Logical Reasoning – Involves real-world causal, probabilistic or assumed background reasoning.
+        1. Coreference Resolution – The explanation resolves coreferences (e.g., pronouns or demonstratives) across premise and hypothesis.
+        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
+        3. Syntactic-level Inference – Based on structural rephrasing that preserves meaning (e.g., alternation, coordination, subordination).
+        4. Pragmatic-level Inference – Based on implicature, presupposition, or speaker intent.
+        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned information.
+        6. Logical Structure Conflict – Identifies logical inconsistency (e.g., either-or, temporal, quantifier).
+        7. Factual Knowledge – Explanation based on commonsense or factual knowledge, no further inference.
+        8. World-Informed Logical Reasoning – Requires real-world causal or assumed reasoning beyond the text.
 
         Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
 
