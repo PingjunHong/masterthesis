@@ -287,7 +287,7 @@ def main():
                     highlighted_1=item.get("Sentence1_Highlighted", ""),
                     highlighted_2=item.get("Sentence2_Highlighted", "")
                 )
-                print(f"------Prompt:------ {prompt}")
+                #print(f"------Prompt:------ {prompt}")
                 if args.backend == "openai":
                     response = client.chat.completions.create(
                         model=model_name,
