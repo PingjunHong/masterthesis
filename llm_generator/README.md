@@ -15,9 +15,9 @@ Highlights are **rendered in-line** using `**XXX**` markers for token emphasis.
 
 4. `taxonomy`
 Generate explanations for all 8 explanation categories (taxonomy),
-based on: `premise` + `hypothesis` + `gold_label`
+based on: `premise` + `hypothesis` + `gold_label` + GIVEN `taxonomy`
 
-5. `classify_only`
+5. `classify`
 Generate appropriate category indexes for the possible explanation types. Output only the indexes. This mode is intended to filter the explanations produced in Mode 4. Input: `premise` + `hypothesis` + `gold_label`
 
 4. `classify_and_generate`

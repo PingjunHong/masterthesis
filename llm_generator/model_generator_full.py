@@ -44,7 +44,7 @@ def generate_with_hf(model_pack, prompt):
         )
     return tokenizer.decode(outputs[0], skip_special_tokens=True).split("Answer:")[-1].strip()
 
-
+# retrieve highlighted tokens from index
 def mark_tokens(text, highlight_indices_str):
     highlight_indices = sorted(set(int(i.strip()) for i in highlight_indices_str.split(",") if i.strip().isdigit()))
     tokens = re.findall(r"\w+|[^\w\s]", text, re.UNICODE)
@@ -53,56 +53,147 @@ def mark_tokens(text, highlight_indices_str):
             tokens[i] = f"**{tokens[i]}**"
     return " ".join(tokens)
 
+# description for taxonomy
+taxonomy_descriptions = {
+    1: "Coreference Resolution – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.",
+    2: "Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).",
+    3: "Syntactic-level Inference – Based on structural rephrasing with the same meaning (e.g., syntactic alternation, coordination, subordination). If the explanation itself is the rephrase of the premise or hypothesis, it should be included in this category.",
+    4: "Pragmatic-level Inference – This category would capture inferences that arise from logical implications embedded in the structure or semantics of the text itself, without relying on external context or background knowledge.",
+    5: "Absence of Mention – Lack of supporting evidence, the hypothesis introduce information that is not supported, not entailed, or not mentioned in the premise, but could be true.",
+    6: "Logical Structure Conflict – Structural logical exclusivity (e.g., either-or, at most, only, must), quantifier conflict, temporal conflict, location conflict, gender conflict etc.",
+    7: "Factual Knowledge – Explanation relies on commonsense, background, or domain-specific facts. No further reasoning involved.",
+    8: "World-Informed Logical Reasoning – Requires real-world causal, probabilistic reasoning or unstated but assumed information."
+}
 
-def build_prompt(mode, premise, hypothesis, gold_label, highlighted_1="", highlighted_2=""):
+# few-shot examples for taxonomy
+few_shot_examples = {
+    1: {
+        "premise": "The man in the black t-shirt is trying to throw something.",
+        "hypothesis": "The man is in a black shirt.",
+        "gold_label": "entailment",
+        "explanation": "The man is in a black shirt refers to the man in the black t-shirt."
+    },
+    2: {
+        "premise": "A man in a black tank top is wearing a red plaid hat.",
+        "hypothesis": "A man in a hat.",
+        "gold_label": "entailment",
+        "explanation": "A red plaid hat is a specific type of hat."
+    },
+    3: {
+        "premise": "Two women walk down a sidewalk along a busy street in a downtown area.",
+        "hypothesis": "The women were walking downtown.",
+        "gold_label": "entailment",
+        "explanation": "The women were walking downtown is a rephrase of, Two women walk down a sidewalk along a busy street in a downtown area."
+    },
+    4: {
+        "premise": "A girl in a blue dress takes off her shoes and eats blue cotton candy.",
+        "hypothesis": "The girl is eating while barefoot.",
+        "gold_label": "entailment",
+        "explanation": "If a girl takes off her shoes, then she becomes barefoot, and if she eats blue candy, then she is eating."
+    },
+    5: {
+        "premise": "A person with a purple shirt is painting an image of a woman on a white wall.",
+        "hypothesis": "A woman paints a portrait of a person.",
+        "gold_label": "neutral",
+        "explanation": "A person with a purple shirt could be either a man or a woman. We can't assume the gender of the painter."
+    },
+    6: {
+        "premise": "Five girls and two guys are crossing an overpass.",
+        "hypothesis": "The three men sit and talk about their lives.",
+        "gold_label": "contradiction",
+        "explanation": "Three is not two."
+    },
+    7: {
+        "premise": "Two people crossing by each other while kite surfing.",
+        "hypothesis": "The people are both males.",
+        "gold_label": "neutral",
+        "explanation": "Not all people are males."
+    },
+    8: {
+        "premise": "A girl in a blue dress takes off her shoes and eats blue cotton candy.",
+        "hypothesis": "The girl in a blue dress is a flower girl at a wedding.",
+        "gold_label": "neutral",
+        "explanation": "A girl in a blue dress doesn’t imply the girl is a flower girl at a wedding."
+    }
+}
+
+def build_prompt(mode, premise, hypothesis, gold_label, taxonomy_idx=None, highlighted_1="", highlighted_2=""):
     if mode == "highlight_index":
         return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences.\n\n    Content: {premise}\n    Highlighted word indices in Content: {highlighted_1}\n\n    Statement: {hypothesis}\n    Highlighted word indices in Statement: {highlighted_2}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
+    
     elif mode == "highlight_marked":
         marked_premise = mark_tokens(premise, highlighted_1)
         marked_hypothesis = mark_tokens(hypothesis, highlighted_2)
         return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences. Highlighted parts are marked in \"**\".\n\n    Content: {marked_premise}\n    Statement: {marked_hypothesis}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
+    
     elif mode == "label":
         return f"""You are an expert in Natural Language Inference (NLI). Please list all possible explanations for why the following statement is {gold_label} given the content below without introductory phrases.\n    Content: {premise}\n    Statement: {hypothesis}\n    Answer:"""
+    
     elif mode == "taxonomy":
-        return f"""You are an expert in Natural Language Inference (NLI). Given the following Premise, Hypothesis, and a gold label, your task is to generate explanations for **each** of the explanation categories listed below, assuming the same gold label holds. Each category reflects a specific type of inference in the explanation between the premise and hypothesis.
-        The explanation categories are:
-        1. Coreference Resolution – The explanation resolves coreferences (e.g., pronouns or demonstratives) across premise and hypothesis.
-        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
-        3. Syntactic-level Inference – Based on structural rephrasing that preserves meaning (e.g., alternation, coordination, subordination).
-        4. Pragmatic-level Inference – Based on implicature, presupposition, or speaker intent.
-        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned information.
-        6. Logical Structure Conflict – Identifies logical inconsistency (e.g., either-or, temporal, quantifier).
-        7. Factual Knowledge – Explanation based on commonsense or factual knowledge, no further inference.
-        8. World-Informed Logical Reasoning – Requires real-world causal or assumed reasoning beyond the text.
-        Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
-        Please list all possible explanations without introductory phrases. Format your answer as:
-        1. Coreference Resolution:  
-        - [Your explanation(s) here]  
+        # generate descriptions per category (1/8)
+        description = taxonomy_descriptions[taxonomy_idx]
+        few_shot = few_shot_examples[taxonomy_idx]
+        few_shot_text = f"""Here is an example:\n
+        Premise: {few_shot['premise']}
+        Hypothesis: {few_shot['hypothesis']}
+        Label: {few_shot['gold_label']}
+        Explanation: {few_shot['explanation']}\n"""
 
-        2. Semantic-level Inference:  
-        - [Your explanation(s) here]  
-
-        ... (continue for all 8 categories)
+        return f"""You are an expert in Natural Language Inference (NLI). Given the following taxonomy with description and one example, generate as many possible explanations as you can that specifically match the reasoning type described below. The explanation is for why the following statement is **{gold_label}**, given the content.
+        ---
+        The explanation category for generation is: {taxonomy_idx}: {description}
+        {few_shot_text}
+        ---
+        Now, consider the following premise and hypothesis:
+        Content: {premise}    
+        Statement: {hypothesis}
+        Please list all possible explanations for the given category without introductory phrases.
         Answer:"""
-        
+    
+    elif mode == "classify":
+        examples_text = ""
+        for idx in range(1, 9):
+            few_shot = few_shot_examples[idx]
+            description = taxonomy_descriptions[idx]
+            examples_text += f"""{idx}. {description}
+        Example:
+        Premise: {few_shot['premise']}
+        Hypothesis: {few_shot['hypothesis']}
+        Label: {few_shot['gold_label']}
+        Explanation: {few_shot['explanation']}\n\n"""
+
+        return f"""You are an expert in Natural Language Inference (NLI). Your task is to identify all applicable reasoning categories for explanations from the list below that could reasonably support the label. Please choose at least one category and multiple categories may apply.
+        One example for each category is listed as below:
+        ---
+        {examples_text}
+        ---
+        Given the following premise and hypothesis, identify the applicable explanation categories:
+        Premise: {premise}
+        Hypothesis: {hypothesis}
+        Label: {gold_label}
+        Respond only with the numbers corresponding to the applicable categories, separated by commas, and no additional explanation.
+        Answer:"""    
+    
     elif mode == "classify_and_generate":
-        return f"""You are an expert in Natural Language Inference (NLI). Your task is to examine the relationship between the following Premise and Hypothesis under the given gold label, and:
-        Firstly, identify all categories for explanations from the list below (you may choose more than one) that could reasonably support the label.
-        Secondly, for each selected category, generate all possible explanations that reflects that type.
+        return f"""You are an expert in Natural Language Inference (NLI). Your task is to examine the relationship between the following content and statement under the given gold label, and:
+        First, identify all categories for explanations from the list below (you may choose more than one) that could reasonably support the label.
+        Second, for each selected category, generate all possible explanations that reflect that type.
         
         The explanation categories are:
-        1. Coreference Resolution – The explanation resolves coreferences (e.g., pronouns or demonstratives) across premise and hypothesis.
+        1. Coreference Resolution – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.
         2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
-        3. Syntactic-level Inference – Based on structural rephrasing that preserves meaning (e.g., alternation, coordination, subordination).
-        4. Pragmatic-level Inference – Based on implicature, presupposition, or speaker intent.
-        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned information.
-        6. Logical Structure Conflict – Identifies logical inconsistency (e.g., either-or, temporal, quantifier).
-        7. Factual Knowledge – Explanation based on commonsense or factual knowledge, no further inference.
-        8. World-Informed Logical Reasoning – Requires real-world causal or assumed reasoning beyond the text.
+        3. Syntactic-level Inference – Based on structural rephrasing with the same meaning (e.g., syntactic alternation, coordination, subordination). If the explanation itself is the rephrase of the premise or hypothesis, it should be included in this category.
+        4. Pragmatic-level Inference – This category would capture inferences that arise from logical implications embedded in the structure or semantics of the text itself, without relying on external context or background knowledge.
+        5. Absence of Mention – Lack of supporting evidence, the hypothesis introduce information that is not supported, not entailed, or not mentioned in the premise, but could be true.
+        6. Logical Structure Conflict – Structural logical exclusivity (e.g., either-or, at most, only, must), quantifier conflict, temporal conflict, location conflict, gender conflict etc.
+        7. Factual Knowledge – Explanation relies on commonsense, background, or domain-specific facts. No further reasoning involved.
+        8. World-Informed Logical Reasoning – Requires real-world causal, probabilistic reasoning or unstated but assumed information.
 
-        Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
+        Content: {premise}   
+        Statement: {hypothesis}  
+        Label: {gold_label}
 
-        Please list all possible explanations without introductory phrases for all the chosen categories. Format your answer as:
+        Please list all possible explanations without introductory phrases for all the chosen categories. Start directly with the category number and explanation, following the strict format below:
         1. Coreference Resolution:  
         - [Your explanation(s) here]  
 
@@ -112,26 +203,8 @@ def build_prompt(mode, premise, hypothesis, gold_label, highlighted_1="", highli
         ... (continue for all reasonable categories)
         Answer:"""
     
-    elif mode == "classify_only":
-        return f"""You are an expert in Natural Language Inference (NLI). Your task is to identify all applicable reasoning categories for explanations from the list below that could reasonably support the label. Multiple categories may apply. Only output the numbers of the applicable categories, separated by commas. Do not include any explanation.
-
-        The explanation categories are:
-
-        1. Coreference Resolution – The explanation resolves coreferences (e.g., pronouns or demonstratives) across premise and hypothesis.
-        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
-        3. Syntactic-level Inference – Based on structural rephrasing that preserves meaning (e.g., alternation, coordination, subordination).
-        4. Pragmatic-level Inference – Based on implicature, presupposition, or speaker intent.
-        5. Absence of Mention – Hypothesis introduces plausible but unsupported or unmentioned information.
-        6. Logical Structure Conflict – Identifies logical inconsistency (e.g., either-or, temporal, quantifier).
-        7. Factual Knowledge – Explanation based on commonsense or factual knowledge, no further inference.
-        8. World-Informed Logical Reasoning – Requires real-world causal or assumed reasoning beyond the text.
-
-        Premise: {premise}\n Hypothesis: {hypothesis}\n Label: {gold_label}\n 
-
-        Answer (category numbers only, separated by commas):"""
-    
     else:
-        raise ValueError("Invalid mode. Choose from highlight_index, highlight_marked, label, taxonomy, classify_and_generate or classify_only")
+        raise ValueError("Invalid mode. Choose from highlight_index, highlight_marked, label, taxonomy, classify or classify_and_generate")
 
 
 def main():
@@ -141,7 +214,7 @@ def main():
     parser.add_argument("--backend", type=str, choices=["openai", "hf"], default="openai")
     parser.add_argument("--input", type=str, required=True)
     parser.add_argument("--output", type=str, default="api_generated_output.jsonl")
-    parser.add_argument("--mode", type=str, choices=["highlight_index", "highlight_marked", "label", "taxonomy" , "classify_and_generate", "classify_only"], required=True)
+    parser.add_argument("--mode", type=str, choices=["highlight_index", "highlight_marked", "label", "taxonomy", "classify", "classify_and_generate"], required=True)
     args = parser.parse_args()
 
     client, model_name = init_client(args.hf_model if args.backend == "hf" else args.model, args.backend)
@@ -157,8 +230,9 @@ def main():
                 seen_pair_ids.add(record["pairID"])
     except FileNotFoundError:
         pass
-
-    if args.mode in ["label", "taxonomy", "classify_and_generate", "classify_only"]:
+    
+    # generate explanations based on unique pairID (premise + hypothesis)
+    if args.mode in ["label", "classify_and_generate", "classify"]:
         unique_data = {}
         for item in all_data:
             pid = item["pairID"]
@@ -170,6 +244,31 @@ def main():
                     "gold_label": item["gold_label"].strip()
                 }
         data_to_process = list(unique_data.values())
+    
+    # generate or classify based on unique pairID + 8 taxonomy 
+    elif args.mode in ["taxonomy"]:
+        unique_data = {}
+        for item in all_data:
+            pid = item["pairID"]
+            if pid not in unique_data:
+                unique_data[pid] = {
+                    "pairID": pid,
+                    "premise": item["premise"].strip(),
+                    "hypothesis": item["hypothesis"].strip(),
+                    "gold_label": item["gold_label"].strip()
+                }
+        unique_data = list(unique_data.values())
+        expanded_data = []
+        for item in unique_data:
+            for idx in range(1, 9):
+                expanded_data.append({
+                    "pairID": item["pairID"],
+                    "premise": item["premise"].strip(),
+                    "hypothesis": item["hypothesis"].strip(),
+                    "gold_label": item["gold_label"].strip(),
+                    "taxonomy_idx": idx
+                })
+        data_to_process = expanded_data       
     else:
         data_to_process = all_data
 
@@ -184,10 +283,11 @@ def main():
                     premise=item["premise"],
                     hypothesis=item["hypothesis"],
                     gold_label=item["gold_label"],
+                    taxonomy_idx=item.get("taxonomy_idx"),
                     highlighted_1=item.get("Sentence1_Highlighted", ""),
                     highlighted_2=item.get("Sentence2_Highlighted", "")
                 )
-
+                print(f"------Prompt:------ {prompt}")
                 if args.backend == "openai":
                     response = client.chat.completions.create(
                         model=model_name,
@@ -207,6 +307,11 @@ def main():
                 "Sentence2_Highlighted": item.get("Sentence2_Highlighted", ""),
                 "Answer": answer
             }
+            
+            # include taxonomy index in results for mode "taxonomy"
+            if args.mode in ["taxonomy"]:
+                result["taxonomy_idx"] = item["taxonomy_idx"]
+                
             out_f.write(json.dumps(result, ensure_ascii=False) + "\n")
             out_f.flush()
 
