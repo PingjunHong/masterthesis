@@ -1,0 +1,6 @@
+- A black shirt is a specific type of shirt.
+- The phrase "in a commercial kitchen" is identical in both sentences.
+- "Holding up meat" is identical in both the premise and hypothesis.
+- "He took out of a bag" is the same in both the premise and hypothesis.
+- The word "man" is used in both the premise and hypothesis, referring to the same entity.
+- The structure of both the premise and hypothesis is identical, so they convey the same meaning.

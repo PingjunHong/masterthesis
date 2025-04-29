@@ -1,0 +1,10 @@
+1. A library and a school are different locations.
+2. Library steps and school steps are distinct places.
+3. The child cannot be in two distinct places simultaneously.
+4. The library is not the same as the school.
+5. Being on library steps excludes being on school steps.
+6. The locations of the library and school are mutually exclusive.
+7. The child on the library steps cannot be on the school steps.
+8. Library steps indicate a location different from school steps.
+9. The premise specifies library steps, not school steps.
+10. The child's location at the library precludes being at the school.

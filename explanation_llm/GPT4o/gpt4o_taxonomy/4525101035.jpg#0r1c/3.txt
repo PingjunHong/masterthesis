@@ -1,0 +1,10 @@
+1. The statement about the young man being at his grandmother's house does not rephrase the description of him standing in front of a blue railing.
+2. The premise describes the young man's appearance and location, while the hypothesis introduces a new location, his grandmother's house, without structural rephrasing.
+3. There is no syntactic alternation between the premise and the statement that maintains the same meaning.
+4. The premise focuses on the man's current action and surrounding environment, which is structurally different from the hypothesis mentioning his grandmother's house.
+5. The hypothesis adds new information about the man's possible location, which is not a syntactic rephrasing of the premise.
+6. The structural elements in the premise do not correspond to those in the hypothesis regarding the young man's location.
+7. The premise and hypothesis use different syntactic structures to describe unrelated scenarios.
+8. The hypothesis about the young man's location at his grandmother's house does not involve any coordination or subordination with the premise's structural elements.
+9. The sentence structure in the hypothesis introduces a different context that isn't inferred through rephrasing from the premise.
+10. The premise describes a scene without reference to familial locations, which the hypothesis focuses on, showing no structural rephrasing.

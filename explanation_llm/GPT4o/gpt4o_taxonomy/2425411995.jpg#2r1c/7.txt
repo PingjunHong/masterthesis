@@ -1,0 +1,11 @@
+Pete Sampras is male.
+The premise mentions a woman, not Pete Sampras.
+Pete Sampras is not the woman described in the premise.
+Pete Sampras is a retired professional tennis player.
+The premise does not mention Pete Sampras.
+Pete Sampras cannot be the woman running in the premise.
+Pete Sampras played professional tennis in the past, but the premise does not specify his involvement.
+Pete Sampras is not currently playing in the scenario described.
+The premise does not specify any individual by name.
+Pete Sampras is known for playing tennis, but the premise involves a different person.
+The statement involves a specific person not mentioned in the premise.

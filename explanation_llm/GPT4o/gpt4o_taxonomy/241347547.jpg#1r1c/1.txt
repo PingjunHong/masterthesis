@@ -1,0 +1,10 @@
+1. "There" refers to the location where the group of football players and the coaching official are present, indicating multiple people.
+2. "One person" contradicts the presence of a group of football players and the coaching official mentioned in the premise.
+3. "Person present" in the statement does not resolve to the plural "players" and "official" in the premise, leading to a contradiction.
+4. "Coaching official" refers to an additional person besides the football players, contradicting the statement of only one person.
+5. "Group of football players" implies multiple individuals, contradicting the claim that there is only a single person.
+6. "Football players" is a plural term indicating more than one person, resolving the contradiction with "one person."
+7. "Standing behind" suggests more than one person is involved, conflicting with the statement that only one person is present.
+8. "Football players" and "coaching official" collectively refer to more than one person, not just a single individual as claimed.
+9. "Group" inherently suggests more than one person, contradicting the statement of there being only one person.
+10. "Presence of players and official" conflicts with the singular 'one person' claim, as references in the premise indicate multiple people.

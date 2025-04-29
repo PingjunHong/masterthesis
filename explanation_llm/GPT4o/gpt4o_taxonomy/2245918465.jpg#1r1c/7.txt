@@ -1,0 +1,10 @@
+1. Men are not women.
+2. The person involved in the premise is a man, not a woman.
+3. Women are not the same as men.
+4. The statement mentions women, but the premise involves a man.
+5. The premise describes an activity involving a man, not women.
+6. A man being present does not imply women are present.
+7. The premise does not mention a park.
+8. The activity described does not occur at a park.
+9. The premise involves a religious ritual, not a park setting.
+10. The location in the premise is unspecified and does not imply a park setting.

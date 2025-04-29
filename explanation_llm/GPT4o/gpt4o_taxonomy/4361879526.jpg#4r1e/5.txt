@@ -1,0 +1,9 @@
+1. The premise specifies "men," but the hypothesis uses the more general term "people," which includes men but is not limited to them; however, since the premise states they are men, the hypothesis is entailed.
+2. The hypothesis does not introduce any new information that contradicts or extends beyond the premise, as both statements agree on the number of individuals and the scaffold activity.
+3. The hypothesis does not specify any details that are absent in the premise, such as the type of scaffold or the activity, ensuring it remains within the entailment.
+4. The premise explicitly mentions "men," and since "people" is an inclusive term that encompasses men, the hypothesis is fully supported by the premise.
+5. The activity of climbing and the object being climbed (the wooden scaffold) are consistent between the premise and the hypothesis, with no additional, unsupported details introduced.
+6. The premise's mention of "two men" automatically satisfies the hypothesis's reference to "two people," as men fall under the category of people, ensuring entailment.
+7. The hypothesis introduces no new context or elements beyond what is described in the premise, maintaining the entailment relationship.
+8. The use of "people" in the hypothesis is a broader term for "men," which does not introduce unsupported information, confirming the entailment status.
+9. The hypothesis does not imply any additional actions or characteristics absent from the premise, which maintains its status as entailed by the premise.

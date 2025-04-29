@@ -1,0 +1,10 @@
+1. The pickaxe mentioned in the content is a tool, and the man is using it.
+2. The action of working on an earthen structure implies the man is using tools, such as the pickaxe.
+3. The presence of a pickaxe in the context confirms the man possesses at least one tool.
+4. The statement generalizes the specific tool (pickaxe) mentioned in the content to the broader category of tools.
+5. The man's activity (working on a structure) suggests he is equipped with tools, even if only the pickaxe is explicitly mentioned.
+6. The pickaxe is a clear example of a tool, fulfilling the statement's claim that the man has tools.
+7. The content provides direct evidence (the pickaxe) supporting the statement's assertion about the man having tools.
+8. The man's use of a pickaxe demonstrates ownership or access to tools, validating the statement.
+9. The statement is entailed because the content explicitly describes the man using a tool (pickaxe).
+10. The pickaxe is an instrument used for labor, qualifying it as a tool, which the man is actively using.

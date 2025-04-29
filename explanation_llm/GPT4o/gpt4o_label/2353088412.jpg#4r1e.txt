@@ -1,0 +1,5 @@
+- The content describes a scenario where a dog is engaged in running, which matches the action described in the statement.
+- The content specifies that the dog is being chased by another dog, which directly aligns with the second part of the statement.
+- The presence of the pet toy in the content does not contradict or negate any part of the statement, so it does not affect the entailment.
+- The grammatical structure of the statement accurately reflects the sequence of events outlined in the content.
+- The key actions and subjects (dog running, being chased by another dog) are consistent between the content and the statement.

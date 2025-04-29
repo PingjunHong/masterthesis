@@ -1,0 +1,12 @@
+1. An escalator is not an elevator.
+2. People on an escalator are not taking an elevator.
+3. Escalators and elevators are distinct modes of vertical transportation.
+4. The premise describes an escalator, whereas the statement mentions an elevator, which are different.
+5. The premise and statement describe transportation methods that are mutually exclusive.
+6. An escalator moves continuously, while an elevator operates on demand, indicating different experiences.
+7. The function and operation of an escalator and an elevator are not interchangeable.
+8. The structure and mechanics of an escalator differ from those of an elevator.
+9. Being on an escalator implies a different setting than being in an elevator.
+10. The architecture described (glass wall) aligns with escalator movement, not elevator containment.
+11. The method of conveyance (escalator vs. elevator) creates a logical inconsistency.
+12. The premises imply stairs with movement, unlike the enclosed lift area of an elevator.

@@ -1,0 +1,10 @@
+1. The snowboarder on a wide plain of snow does not refer to a snowmobile in a blizzard.
+2. The snowboarder and the snowmobile are distinct entities and do not refer to each other.
+3. The wide plain of snow does not refer to a blizzard.
+4. The snowboarder is not synonymous with the snowmobile.
+5. The context of snowboarding does not resolve to snowmobiling in a blizzard.
+6. The plain of snow and the blizzard are not interchangeable references.
+7. There is no coreferential link between the snowboarder and the snowmobile.
+8. The description of a snowboarder does not resolve any references to a snowmobile.
+9. The reference to a plain of snow does not clarify or connect to a blizzard.
+10. The entities and activities described in the premise and hypothesis do not corefer.

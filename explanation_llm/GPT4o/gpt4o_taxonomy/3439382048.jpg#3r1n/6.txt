@@ -1,0 +1,10 @@
+1. The premise does not specify what the tattoo says, only that the player is tattooed.
+2. The content mentions a tattoo but provides no details about its design or text.
+3. There is no information in the premise about the specific content of any tattoos.
+4. The premise describes a basketball player with tattoos, but not the details of those tattoos.
+5. The statement about the tattoo's text is not addressed or contradicted by the premise.
+6. The premise allows for various tattoo descriptions, and "mother" is just one possibility.
+7. The premise does not limit or specify the tattoo's message, allowing for multiple interpretations.
+8. The hypothesis introduces specific tattoo content that is not confirmed or denied by the premise.
+9. The information given in the premise does not address or conflict with the hypothesis about the tattoo's wording.
+10. The premise's lack of detail on tattoo specifics makes the hypothesis neither contradicted nor entailed.

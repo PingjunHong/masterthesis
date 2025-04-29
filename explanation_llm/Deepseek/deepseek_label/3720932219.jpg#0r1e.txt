@@ -1,0 +1,10 @@
+1. The blond woman in the content matches the description "a blond" in the statement.
+2. The "group of young dark-haired female students" in the content aligns with the "group of young dark-haired woman students" in the statement.
+3. The phrase "carrying pieces of paper" is identical in both the content and the statement.
+4. The action "speaks with" is the same in both the content and the statement.
+5. The term "female students" in the content is synonymous with "woman students" in the statement.
+6. The statement generalizes "a blond woman" to "a blond," which is still accurate.
+7. The statement preserves all key elements (speaker, listeners, objects carried) from the content.
+8. No contradictory or unsupported information is introduced in the statement.
+9. The slight rephrasing (e.g., "female" to "woman") does not change the meaning.
+10. The logical relationship between the entities and actions remains unchanged.

@@ -1,0 +1,10 @@
+1. The content does not specify the location of the boys playing with Legos, so the statement "Boys are playing outside" could be true or false, making it neutral.
+2. The statement introduces new information ("outside") not mentioned in the content, so there is no direct contradiction or entailment.
+3. The content and statement describe different activities (playing with Legos vs. playing generically), so neither confirms nor contradicts the other.
+4. The statement generalizes "boys" without specifying if they are the same boys as in the content, leaving the relationship ambiguous.
+5. The content focuses on the activity (playing with Legos) while the statement focuses on the location (outside), making them independent claims.
+6. The statement could refer to a different group of boys unrelated to those in the content, resulting in no logical connection.
+7. The content does not exclude the possibility of the boys playing outside, but it also does not confirm it, leading to neutrality.
+8. The statement lacks specificity about what the boys are doing outside, preventing alignment or conflict with the content.
+9. The content and statement describe overlapping but not identical scenarios, so neither supports nor opposes the other.
+10. The statement's claim about location is neither confirmed nor denied by the content, as Legos can be played with indoors or outdoors.

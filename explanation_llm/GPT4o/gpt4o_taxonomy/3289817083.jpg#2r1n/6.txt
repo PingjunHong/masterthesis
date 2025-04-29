@@ -1,0 +1,10 @@
+1. The term "baby" does not specify gender, while "daughter" implies female gender.
+2. "Holding a baby" suggests a different activity than "petting a pony."
+3. The premise involves one person actively holding the baby, while the statement implies the baby is participating in petting.
+4. The statement introduces a familial relationship ("daughter") not mentioned in the premise.
+5. The premise does not specify the relationship between the man and the baby, while the statement assumes a paternal relationship.
+6. "A man holding a baby" could involve any child, not specifically a daughter, creating a logical exclusivity conflict.
+7. The premise describes one activity, while the statement describes two activities, leading to a structural mismatch.
+8. The premise does not specify the gender of the child, while the statement specifies a daughter, creating a gender conflict.
+9. The premise indicates the man is holding a baby, while the statement suggests both the man and the daughter are engaged in the same activity, leading to a quantifier conflict.
+10. The statement implies the presence of a daughter, which is not explicitly confirmed by the premise, creating structural exclusivity.

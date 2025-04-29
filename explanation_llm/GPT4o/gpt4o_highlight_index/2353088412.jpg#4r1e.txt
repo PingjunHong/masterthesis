@@ -1,0 +1,5 @@
+1. The word "running" in both the content and the statement indicates the same action being performed by the dog, confirming that it is involved in running.
+2. The term "dog" is highlighted in both instances, which refers to the same subject in both the content and the statement, ensuring they are talking about the same entity.
+3. The concept of one dog being "chased by another dog" is explicitly stated in both the content and the statement, demonstrating a direct relationship between the actions described in both.
+4. The structure of the statement matches the sequence of events in the content, where a dog is running and this action is followed by being chased, which aligns with the content description.
+5. The highlighted words in the statement capture the main actions and entities from the content, ensuring all critical elements are preserved and accurately reflected, leading to entailment.

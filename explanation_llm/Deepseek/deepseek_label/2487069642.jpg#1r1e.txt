@@ -1,0 +1,10 @@
+1. The statement does not mention the flight attendant's clothing color, which is specified in the content.
+2. The statement does not describe the flight attendant demonstrating life vest usage, a key detail in the content.
+3. The statement only confirms the flight attendant's presence and position, not their actions or attire.
+4. The content provides additional context (dressed in yellow, demonstrating life vest usage) not reflected in the statement.
+5. The statement is a general observation that neither contradicts nor fully aligns with the specific details in the content.
+6. The statement lacks the descriptive elements (yellow attire, life vest demonstration) that would make it entailed by the content.
+7. The statement could be true independently of the content's specifics, making it neutral rather than entailed or contradictory.
+8. The content’s focus on the flight attendant’s actions and appearance is not mirrored in the statement’s minimal information.
+9. The statement does not provide enough information to confirm or deny the content’s details.
+10. The statement’s generality means it neither confirms nor conflicts with the more detailed content.

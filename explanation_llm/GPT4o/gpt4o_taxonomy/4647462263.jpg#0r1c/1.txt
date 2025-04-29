@@ -1,0 +1,10 @@
+- The pronoun "A woman" in the statement does not resolve to any individual mentioned in the premise, which only involves men.
+- The premise describes men, whereas the statement involves a woman, indicating mismatched coreference.
+- The reference to "A woman" in the statement is not found in the premise, which only discusses men.
+- There is no mention of a woman in the premise to support the statement's claim.
+- The individuals described in the premise are exclusively men, conflicting with the reference to a woman in the statement.
+- "A woman" in the statement cannot be linked to any entity in the premise, which focuses on men.
+- The premise involves two men, wearing jackets, while the statement refers to a woman with no corresponding reference in the premise.
+- The premise and statement refer to different genders, creating a coreference mismatch.
+- The activity described in the premise involves men and does not link to the activity or subject of a woman putting on makeup in the statement.
+- The statement's subject, "A woman," lacks a corresponding entity in the premise, which deals solely with men.

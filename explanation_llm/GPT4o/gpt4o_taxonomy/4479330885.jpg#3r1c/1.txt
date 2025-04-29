@@ -1,0 +1,5 @@
+1. "several young people" in the statement refers to "several younger people" in the content.
+2. "sitting in front of a statue" in the content refers to the location where the individuals are sitting, conflicting with "sitting in an auditorium" in the statement.
+3. "Several younger people" in the content resolves to the same group as "several young people" in the statement, but the locations "in front of a statue" and "in an auditorium" contradict each other.
+4. "An auditorium" in the statement is resolved as the assumed location for "several young people," contradicting "in front of a statue" in the content.
+5. "Sitting in front of a statue" in the content refers to the place where the younger people are located, conflicting with them being "in an auditorium" in the statement.

@@ -1,0 +1,13 @@
+1. "Boy in midair on bicycle" is structurally different from "The boy is falling off of his bicycle."
+2. Premise is a snapshot description, whereas the hypothesis implies a motion or outcome.
+3. The premise describes a static moment, while the hypothesis suggests an action in progress.
+4. Syntactic structure of the premise doesn't imply the consequence of falling off.
+5. "Midair" in the premise does not inherently mean the boy is falling.
+6. "On bicycle" in the premise can indicate balance, not necessarily losing it as implied by the hypothesis.
+7. The premise focuses on the current state, whereas the hypothesis predicts a future action.
+8. The premise lacks any indication of loss of control or impending fall.
+9. The premise describes a situation; the hypothesis suggests a possible development from that situation.
+10. "Boy in midair on bicycle" can imply various situations, not limited to falling off.
+11. Structural rephrasing of the premise doesn’t inherently mean the boy is in danger.
+12. The juxtaposition of "midair" and "falling off" has different syntactic implications.
+13. The premise and hypothesis rely on different syntactic cues to convey meaning.

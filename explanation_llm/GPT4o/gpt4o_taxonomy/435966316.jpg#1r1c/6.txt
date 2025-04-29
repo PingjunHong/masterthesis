@@ -1,0 +1,12 @@
+1. Four is not three.
+2. Workers are not fishermen.
+3. Life vests and hard hats suggest workers, not fishermen.
+4. Workers are hanging from a boat, not over it.
+5. The premise describes workers with safety equipment, not fishing activity.
+6. The premise involves a boat hanging from cables, not a boat with people hanging over it.
+7. Fishermen trying to pet a shark is inconsistent with workers in a safety context.
+8. There is no mention of a shark in the premise.
+9. The premise specifies workers, not individuals engaged in fishing activities.
+10. Hanging over a boat implies a different spatial relationship than hanging from a boat.
+11. The premise describes a specific number of people (three), conflicting with the hypothesis (four).
+12. The premise's context involves workers, which conflicts with the hypothesis describing leisure fishing.

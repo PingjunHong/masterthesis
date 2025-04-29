@@ -1,0 +1,10 @@
+- "Two men" in both the premise and the statement refers to the same individuals.
+- The mention of "a dock" in the premise does not specify any fishing activity, while "fishing all day" in the statement suggests a different context not explicitly mentioned in the premise.
+- The phrase "prepare a fish" in the premise does not imply that the men were fishing all day, creating ambiguity in the reference to their previous activities.
+- "Have just come in" in the statement refers to an action not evidenced by the premise, which only mentions preparation of a fish.
+- "Fishing all day" in the statement introduces a temporal element not addressed in the premise, making the references between the two unclear.
+- The action of "preparing a fish" does not inherently resolve to "having just come in" from any activity, including fishing.
+- The premise lacks any reference to the duration or origin of the men's activities, which is implied in the statement.
+- The context of "at a dock" does not inherently imply fishing activity, leaving the statement's reference to "fishing all day" unresolved.
+- The premise describes a current activity, while the statement implies a past activity, indicating unresolved temporal references.
+- "Prepare a fish" does not specify whether the men were involved in catching the fish, which is implied by "fishing all day" in the statement.

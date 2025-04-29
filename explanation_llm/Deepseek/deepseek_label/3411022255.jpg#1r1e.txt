@@ -1,0 +1,10 @@
+1. The statement summarizes the main action and subjects from the content.
+2. "People" in the statement corresponds to "Four people" in the content.
+3. "A baby" is explicitly mentioned in both the content and the statement.
+4. "Crossing the street" is the same action described in both the content and the statement.
+5. The crosswalk detail in the content is omitted in the statement, but it does not contradict the entailment.
+6. The number "four" is omitted in the statement, but the general term "people" still holds true.
+7. The statement captures the core meaning of the content without requiring additional details.
+8. No information in the statement contradicts the content.
+9. The statement is a simplified version of the content, preserving the key elements.
+10. The content logically implies the statement as a valid interpretation.

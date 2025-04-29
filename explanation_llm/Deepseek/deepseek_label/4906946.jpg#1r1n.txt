@@ -1,0 +1,10 @@
+1. The content does not specify the gender of the workers.
+2. The content does not mention any action related to placing construction cones.
+3. The content does not indicate any preparation for a new pipeline building.
+4. The workers' activity or purpose is not described in the content.
+5. The statement introduces new information (pipeline building) not present in the content.
+6. The content only describes the appearance and setting of the workers, not their actions.
+7. The statement assumes the workers are men, while the content does not confirm this.
+8. The connection between the workers and pipeline construction is not supported by the content.
+9. The content lacks details about the workers' tasks or goals.
+10. The statement infers intent (preparation) that is not explicitly stated in the content.

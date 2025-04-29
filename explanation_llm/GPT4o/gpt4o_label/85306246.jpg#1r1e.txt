@@ -1,0 +1,4 @@
+- The pickaxe mentioned in the content is considered a tool.
+- The presence of a pickaxe implies that the man possesses at least one tool.
+- Working on an earthen structure with a pickaxe suggests the necessity of tools for the task.
+- The activity described requires the use of tools, specifically a pickaxe, confirming the man has tools.

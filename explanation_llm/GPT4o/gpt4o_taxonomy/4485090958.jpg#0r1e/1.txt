@@ -1,0 +1,5 @@
+- "People are loitering or waiting on the steps of said building" refers to "several people outside of a building."
+- "A large building with people" refers to "a building" with "several people."
+- "People are loitering or waiting" on the steps clarifies that there are "several people outside."
+- "People" in the premise resolves to "several people" in the hypothesis.
+- "Said building" and "a building" are coreferential, linking the presence of people to both statements.

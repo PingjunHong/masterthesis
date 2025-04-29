@@ -1,0 +1,13 @@
+1. Mowing the grass does not involve swimming.
+2. A person operating a mower cannot simultaneously be swimming.
+3. The activities of mowing and swimming are mutually exclusive.
+4. The location required for mowing grass is not the same as the location for Olympic swimming.
+5. The event of Olympic swimming is distinct from the activity of mowing the lawn.
+6. A riding mower is not used in Olympic swimming events.
+7. The premise specifies a single activity, while the hypothesis describes a different and incompatible activity.
+8. The setting for using a riding mower is a lawn, not an Olympic swimming pool.
+9. The attire for mowing grass is not specific to Olympic swimming attire.
+10. The context implies different physical environments, one being a grassy area and the other a swimming competition.
+11. A person cannot be both on a riding mower and in a swimming pool simultaneously.
+12. The temporal context for mowing and participating in an Olympic event do not match.
+13. The hypothesis assumes a competitive sporting event, which is not indicated in the premise.

@@ -1,0 +1,5 @@
+- The climber pulls himself up some rocks refers to the climber wearing a red headband pulling himself up some gray rocks.
+- Himself in the statement refers to the climber wearing a red headband in the premise.
+- The climber in the statement is the same individual as the climber wearing a red headband in the premise.
+- The act of pulling himself up some rocks in the statement matches with pulling himself up some gray rocks in the premise.
+- The reference to some rocks in the statement corresponds to the gray rocks in the premise.

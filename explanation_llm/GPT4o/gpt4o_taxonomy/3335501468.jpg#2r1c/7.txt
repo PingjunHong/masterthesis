@@ -1,0 +1,10 @@
+1. Birds cannot be on the water and simultaneously flying over the trees.
+2. Flapping wings on the water indicates the bird is not in flight over trees.
+3. A bird on the water is not capable of flying over trees at the same time.
+4. Being on the water and flying over trees are mutually exclusive states for a bird.
+5. A bird flapping its wings on the water is not in a position to fly over trees.
+6. Birds on the water are not able to be over trees simultaneously.
+7. If a bird is flapping its wings on the water, it is grounded, not airborne over trees.
+8. The action of flapping wings on water contradicts flying over trees.
+9. A bird cannot physically occupy both on the water and over the trees at the same time.
+10. Birds that are on the water are not in the air over trees.

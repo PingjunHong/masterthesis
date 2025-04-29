@@ -1,0 +1,7 @@
+The electric guitar is a type of guitar, so playing an electric guitar implies playing a guitar.
+The phrase "on stage" is consistent in both the premise and the hypothesis, so the setting remains unchanged.
+The word "man" is used in both the premise and hypothesis, indicating the subject remains the same.
+The action of playing an electric guitar includes the action of playing a guitar, given that an electric guitar is a subset of guitars.
+The premise specifies the type of guitar as electric, while the hypothesis generalizes to any type of guitar, which includes electric guitars.
+The premise specifies "electric guitar," which logically includes the more general term "guitar" used in the hypothesis.
+The premise does not introduce any additional elements that would contradict the hypothesis.

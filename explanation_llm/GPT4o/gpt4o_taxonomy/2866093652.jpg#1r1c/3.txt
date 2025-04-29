@@ -1,0 +1,6 @@
+1. The statement "four men are rollerskating" contradicts the premise "Four women competitively rollerskating around an area" because the subjects of the actions have been structurally rephrased from "women" to "men," which changes the meaning.
+2. The premise specifies "women," while the statement specifies "men," and this syntactic change in the subject results in a contradiction.
+3. The statement rephrases the premise by changing "women" to "men," altering the gender of the participants and leading to a contradiction.
+4. The contradiction arises because the structural rephrasing in the statement involves changing "women" to "men," which negates the original meaning.
+5. The premise describes "Four women competitively rollerskating," whereas the statement describes "four men," which is a rephrasing that contradicts the original information.
+6. The syntactic alternation from "women" in the premise to "men" in the statement changes the meaning entirely, resulting in a contradiction.

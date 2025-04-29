@@ -1,0 +1,10 @@
+1. Catching many fish is not guaranteed after a long day of fishing.
+2. The quantity of fish caught cannot be determined solely by the duration of the work.
+3. A long day of fishing does not imply a large catch.
+4. The number of fish caught is not specified in the premise.
+5. Fishermen may have had a long day without catching many fish.
+6. The premise does not provide information about the success of the fishing.
+7. The amount of fish caught is unknown based on the given information.
+8. Long hours of fishing do not necessarily correlate with catching many fish.
+9. The premise does not mention the outcome of the fishing efforts.
+10. The success of fishing is not indicated in the premise.

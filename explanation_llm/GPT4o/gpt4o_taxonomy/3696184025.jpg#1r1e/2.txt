@@ -1,0 +1,8 @@
+A young girl is a type of girl.
+Standing on a blanket implies standing.
+A young girl standing implies a girl standing.
+The presence of a girl in the premise means a girl is present in the hypothesis.
+The action of standing on a blanket requires standing.
+The word "girl" in the premise corresponds to "girl" in the hypothesis.
+Being on a blanket implies the state of standing.
+The word "young" specifies age but does not negate the status of being a girl.

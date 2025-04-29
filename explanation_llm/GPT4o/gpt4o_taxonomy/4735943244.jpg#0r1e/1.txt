@@ -1,0 +1,5 @@
+- A man with a walking stick refers to the man resting his hands on a walking stick.
+- The man sitting by himself on a bench is the same as the man sitting by himself.
+- The walking stick mentioned in the hypothesis refers to the walking stick the man is resting his hands on.
+- The man in the hypothesis is coreferential with the man wearing dark knee boots, a green cape, and a hat with two big feathers in the premise.
+- The phrase "sits by himself" in the hypothesis corresponds to "sitting by himself on a bench" in the premise.

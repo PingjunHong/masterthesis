@@ -1,0 +1,10 @@
+1. Walking and eating are actions that are antonyms, as they describe different types of activities.
+2. The location "side of a bridge" and "kitchen" are antonyms, as they describe completely different places.
+3. "Walk" and "eat" are semantically different actions, indicating different activities.
+4. "Bridge" and "kitchen" are distinct locations, suggesting opposite environments.
+5. "Walking" does not involve "spaghetti," whereas "eating" specifically involves food consumption.
+6. The premise does not mention any food, whereas the hypothesis includes "spaghetti," indicating a contradiction.
+7. The setting "side of a bridge" and "kitchen" are semantically unrelated, suggesting a contradiction.
+8. "Bridge" and "spaghetti" are semantically unrelated, indicating different contexts.
+9. The premise involves "walking," which implies movement, whereas the hypothesis involves "eating," which implies being stationary.
+10. The premise describes an outdoor scene, while the hypothesis describes an indoor scene, which are contrasting environments.

@@ -1,0 +1,4 @@
+1. The term "young boy" in the content is a specification of "person" in the statement, meaning the boy is indeed a person.
+2. The phrase "balances on a pipe" in the content directly aligns with the concept of "balancing" in the statement.
+3. The context provided by "a river" is additional detail that does not contradict the premise of someone balancing, thus supporting the entailment.
+4. The activity of balancing described in the content is a specific instance of the general activity mentioned in the statement.

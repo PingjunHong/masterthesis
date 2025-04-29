@@ -1,0 +1,10 @@
+1. A man on a motorbike cannot simultaneously be sitting in a car.
+2. Standing on a motorbike implies the person is not inside a car.
+3. Wearing a red uniform and helmet while on a motorbike contradicts sitting inside a car.
+4. The action of standing on a motorbike is incompatible with the action of sitting in a car.
+5. The physical position of standing on a motorbike precludes the possibility of being seated in a car.
+6. The context of a motorbike does not align with the context of a car in terms of seating arrangement.
+7. The description of a man on a motorbike inherently conflicts with the description of a man in a car.
+8. The structure of the premise indicates a motorbike scenario, which contradicts a car scenario.
+9. The semantics of standing on a motorbike logically imply not being seated in a car.
+10. A uniform and helmet for motorbike riding are inconsistent with sitting in a car.

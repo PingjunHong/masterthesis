@@ -1,0 +1,10 @@
+1. Standing is not walking.
+2. Standing implies being stationary, while walking implies movement.
+3. Workers cannot be simultaneously standing and walking on the lift.
+4. The action of standing does not include the action of walking.
+5. Workers in a stationary position cannot be in motion simultaneously.
+6. The state of being stationary (standing) and the act of moving (walking) are mutually exclusive.
+7. Standing on a lift indicates remaining in place, contradicting the action of moving off the lift.
+8. There is a logical inconsistency between being stationary (standing) and moving (walking).
+9. The description of standing does not encompass the transition implied by walking off.
+10. The spatial position of standing is exclusive of the movement required to walk off.

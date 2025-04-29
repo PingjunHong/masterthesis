@@ -1,0 +1,10 @@
+1. A guy and a young man can refer to the same person, as they are synonyms in this context.
+2. Carrying a skateboard implies having a skateboard, which matches with the guy having a skateboard.
+3. Looking at an outdoor skateboard park entails looking at a park to skateboard, as an outdoor skateboard park is a type of park where skateboarding occurs.
+4. A skateboard park is a specific type of park designed for skateboarding activities.
+5. The phrase "to skateboard" is implied by the presence of a skateboard park, which is intended for that purpose.
+6. "Wearing black" is additional information that does not contradict the hypothesis and does not affect the entailment.
+7. "Looking at" in the premise implies visual attention, which aligns with "looking at" in the hypothesis.
+8. A skateboard park is inherently related to skateboarding, establishing the connection between the location and the activity.
+9. The premise's mention of an outdoor skateboard park suggests an intention or potential for skateboarding, aligning with the hypothesis's mention of a park for skateboarding.
+10. The presence of a skateboard indicates the person's intention or interest in skateboarding, which aligns with the hypothesis.

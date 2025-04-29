@@ -1,0 +1,7 @@
+1. "Two teenage girls" are a subset of "people," so the statement generalizes the specific individuals mentioned in the content.
+2. "Conversing" is a specific form of "talking," making the statement a broader description of the action.
+3. The location "next to lockers" is identical in both the content and the statement.
+4. The statement captures the core elements (actors, action, location) of the content without requiring additional specificity.
+5. The content provides sufficient evidence to support the truth of the statement without contradiction.
+6. The statement does not introduce any new information that is not implied or directly stated in the content.
+7. The relationship between the content and the statement satisfies the definition of entailment, where the content logically implies the statement.

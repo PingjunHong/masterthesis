@@ -1,0 +1,10 @@
+1. "Log" does not specify "oak" log, so the premise does not imply the type of log mentioned in the statement.
+2. "Saw a log" encompasses various types of logs, including but not limited to oak, making the statement neutral.
+3. The word "log" is more general and does not indicate the specific wood type "oak," causing neutrality.
+4. "Oak log" introduces a detail not present in the premise, affecting the specificity level needed for entailment.
+5. The premise lacks any indication of the log being "oak," resulting in a semantic gap between the premise and statement.
+6. The term "oak" adds specificity that is absent from "log," preventing an entailment relationship.
+7. The premise mentions "a log," which can be various types, while the statement specifies "oak," thus maintaining neutrality.
+8. "Oak" as a descriptor for "log" in the statement adds information not semantically inferred from the premise.
+9. The premise does not negate or confirm the log being "oak," leading to a neutral classification.
+10. "Oak log" requires additional semantic inference not supported by the premise's general mention of "log."

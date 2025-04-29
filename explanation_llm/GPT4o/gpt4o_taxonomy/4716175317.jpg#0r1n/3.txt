@@ -1,0 +1,8 @@
+1. The hypothesis specifies that the street market sells fruits, which is additional information not present in the premise.
+2. The premise describes a street market without detailing what is being sold, whereas the hypothesis adds that fruits are being sold.
+3. The hypothesis includes a specific type of goods (fruits) being sold at the market, which is not mentioned in the premise.
+4. The premise mentions a street market in an urban area but does not specify the nature of the goods, unlike the hypothesis which specifies fruits.
+5. The premise and hypothesis both discuss a street market but differ in the level of detail regarding the merchandise.
+6. The additional information about the market selling fruits in the hypothesis introduces a detail not contained in the premise.
+7. The premise provides a general context of a street market setting, while the hypothesis adds a specific element regarding fruit sales.
+8. The hypothesis's mention of fruit sales is a detail that modifies the scenario described in the premise without being directly derived from it.

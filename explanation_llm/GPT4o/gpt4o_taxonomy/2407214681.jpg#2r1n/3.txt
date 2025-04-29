@@ -1,0 +1,7 @@
+1. The statement "They were playing soccer" introduces an activity that is not explicitly mentioned or implied in the premise, "Two little boys wearing athletic jerseys are washing their hands in a public restroom."
+2. The premise describes the boys wearing athletic jerseys and washing hands in a restroom, while the statement suggests an activity (playing soccer) that is not structurally rephrased or inherently connected to the act of washing hands in a restroom.
+3. The statement involves a syntactic shift from describing a scene to inferring an activity, which is a neutral inference since the premise does not include or imply any information about playing soccer.
+4. The structural rephrasing of the premise does not include any action or context related to playing soccer, making the statement a neutral inference with no direct syntactic correlation.
+5. The premise focuses on the current action (washing hands) and attire (athletic jerseys) without syntactic evidence or rephrasing that supports the inference of playing soccer.
+6. Coordination or subordination between activities (washing hands and playing soccer) is absent in the premise, leading to a neutral classification for the statement.
+7. The premise's structural representation is limited to the visual scene, lacking syntactic alternation that would entail or contradict the activity of playing soccer mentioned in the statement.

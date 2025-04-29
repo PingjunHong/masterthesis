@@ -1,0 +1,10 @@
+1. If an approaching wave is about to hit four boys, then a giant wave is about to crash on them.
+2. The phrase "about to be hit" implies an imminent event, which aligns with "about to crash."
+3. The term "approaching wave" semantically suggests a large or significant wave, which aligns with the description of a "giant wave."
+4. The word "some" in "some boys" is logically inclusive of "four boys."
+5. The structure of the premise implies a direct interaction between the boys and the wave, supporting the hypothesis of a crash.
+6. The use of "approaching" in the premise logically suggests that the wave is close enough to crash imminently, matching the hypothesis.
+7. The presence of a wave and boys in both premise and hypothesis connect directly in their semantic roles, leading to the same outcome described as a crash.
+8. The premise's scenario naturally leads to the conclusion that the wave will impact the boys, which is captured by "crash on" in the hypothesis.
+9. The logical progression from "about to be hit" to "about to crash" is consistent in both statements.
+10. The semantics of "wave" in both statements imply a similar size and force, reinforcing the entailment.

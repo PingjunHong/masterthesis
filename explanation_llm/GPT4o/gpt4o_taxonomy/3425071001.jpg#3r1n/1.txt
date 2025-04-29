@@ -1,0 +1,10 @@
+- "The boy" in the hypothesis refers to "a boy" in the premise, but the premise does not provide information about the boy's skill level at tennis.
+- "A boy" from the premise and "the boy" from the hypothesis refer to the same individual, yet the premise lacks any indication of the boy's proficiency in tennis.
+- "The boy" mentioned in the hypothesis is the same "boy" who hits a tennis ball in the premise, but hitting a tennis ball does not imply being good at tennis.
+- Reference to "a boy" in the premise corresponds to "the boy" in the hypothesis without any evidence about his tennis ability.
+- "The boy" in the hypothesis is a coreference to "a boy" in the premise, while the premise does not discuss the boy's tennis skills.
+- The reference to "the boy" in the hypothesis matches "a boy" in the premise, but hitting a tennis ball does not equate to being skilled at tennis.
+- "A boy" and "the boy" are the same individual across both sentences, with no details in the premise to suggest the boy's competence in tennis.
+- The coreference between "a boy" in the premise and "the boy" in the hypothesis exists, yet the premise does not address his capability at playing tennis.
+- "The boy" denotes "a boy" from the premise, but the action of hitting a tennis ball does not confirm tennis proficiency.
+- "The boy" in the hypothesis is the same as "a boy" hitting the tennis ball in the premise, without any indication of tennis expertise.

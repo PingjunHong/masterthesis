@@ -1,0 +1,9 @@
+1. The premise mentions "people," which is a broader term than the "men and women" specified in the hypothesis, allowing for other genders in the premise.
+2. The premise refers to "fresh lettuce," while the hypothesis specifies "fresh romaine lettuce," which is a subset of the broader category of lettuce.
+3. The phrase "at the local street market" is syntactically similar in both the premise and hypothesis, but the added detail in the hypothesis about the type of lettuce and specific group of people creates a neutral relationship.
+4. The premise uses "people," which can include any group composition, while the hypothesis specifies "men and women," altering the structure from the premise.
+5. The structural change from "fresh lettuce" to "fresh romaine lettuce" adds specificity to the hypothesis, which is not directly inferred from the premise.
+6. The coordination in the hypothesis of "men and women" is a syntactic alteration from the unspecific "people" in the premise, affecting the neutrality.
+7. The hypothesis has additional descriptive elements ("romaine lettuce," "men and women") that are not directly rephrased from the premise, resulting in a neutral label.
+8. The structural addition of "men and women" in the hypothesis does not change the meaning implied in the premise's "group of people," maintaining neutrality.
+9. The hypothesis divides the group into "men and women," whereas the premise uses the collective term "people," indicating a syntactic alternation that results in neutrality.

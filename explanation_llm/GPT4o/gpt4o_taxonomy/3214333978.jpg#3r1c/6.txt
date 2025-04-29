@@ -1,0 +1,5 @@
+1. Icy road is not a dry highway.
+2. Walking down an icy road implies the surface is slippery, not dry.
+3. The location described as a dry highway contradicts the location described as an icy road.
+4. An icy road cannot simultaneously be a dry highway.
+5. The context of walking on ice implies a different environment than walking on a dry highway.

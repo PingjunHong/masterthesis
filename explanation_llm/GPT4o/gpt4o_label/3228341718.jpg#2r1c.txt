@@ -1,0 +1,4 @@
+- Running implies they are on foot, while riding bikes implies they are on bicycles.
+- The actions of running and riding bikes are mutually exclusive in this context.
+- The content specifies the ladies are running, which contradicts the action of riding bikes mentioned in the statement.
+- The physical posture and movement involved in running differ from those involved in riding bikes, making the two actions incompatible simultaneously.

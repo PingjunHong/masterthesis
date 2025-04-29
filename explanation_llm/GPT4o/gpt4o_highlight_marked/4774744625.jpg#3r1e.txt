@@ -1,0 +1,5 @@
+1. "Three men" in the content implies "men" in the statement because three is a subset of men.
+2. "Sitting" in the content directly matches "sitting" in the statement, indicating the same action.
+3. "Outside" in the content aligns with "outside" in the statement, describing the same location.
+4. The additional details in the content, such as "on chairs with red seats," do not contradict or negate the simpler statement and are therefore irrelevant to the entailment.
+5. The statement generalizes the content by omitting specific details, but the core meaning of "men sitting outside" remains preserved.

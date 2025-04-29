@@ -1,0 +1,10 @@
+- "This child" and "The child" both refer to the same child, so they are interchangeable in this context.
+- "Library steps" are a specific type of steps, and "on the library steps" implies "on the steps."
+- The adjective "library" specifies a location but does not change the fundamental meaning that the child is on steps.
+- The presence of "This" versus "The" does not alter the factual situation that the child is on steps.
+- The premise specifies the location as "library steps," inherently including the general term "steps."
+- The word "steps" in both the premise and hypothesis refers to the same concept of a series of flat surfaces for walking up or down.
+- The location detail "library" is additional information that doesn't negate the basic premise of being on steps.
+- The premise's specificity about the steps being at a library includes the broader category of steps, making it entailed by the hypothesis.
+- The use of "is on" in both the premise and hypothesis confirms the child's position relative to the steps without contradiction.
+- Semantic equivalence between "library steps" and "steps" in context supports entailment based on word meaning.

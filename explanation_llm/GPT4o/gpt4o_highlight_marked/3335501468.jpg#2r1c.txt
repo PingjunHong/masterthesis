@@ -1,0 +1,5 @@
+1. **Flapping its wings on the water** implies the bird is near or on the water, while **flying over the trees** implies the bird is in the air above the trees.
+2. **On the water** indicates the bird's location is at water level, which contradicts **over the trees**, suggesting a higher altitude.
+3. **Flapping its wings** near the water suggests an action close to the water surface, whereas **flying** implies sustained motion through the air away from the water.
+4. **Its wings on the water** indicates physical proximity to the water, which is inconsistent with being **over the trees**, a completely different environment.
+5. **The water** and **the trees** are distinct locations, making it impossible for the bird to be in both places simultaneously.

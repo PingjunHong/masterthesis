@@ -1,0 +1,5 @@
+1. "A young man" and "A guy" both refer to a male individual, indicating the same subject in both sentences.
+2. "Waring black" implies the young man is dressed in black, which is not contradicted by the statement and is therefore irrelevant to the entailment.
+3. "Carrying a skateboard" and "with a skateboard" both describe the young man as having a skateboard with him, showing consistency in the description across both sentences.
+4. "Looks at" and "is looking at" both describe the action of the young man directing his attention toward something, implying the same action in both sentences.
+5. "An outdoor skateboard park" and "a park to skateboard" both refer to a location designed for skateboarding, confirming that the subject's focus is a place associated with skateboarding activities.

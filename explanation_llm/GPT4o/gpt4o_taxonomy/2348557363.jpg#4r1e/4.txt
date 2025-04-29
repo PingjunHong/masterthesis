@@ -1,0 +1,6 @@
+The steps mentioned in the premise are the same steps referred to in the hypothesis.
+Being on the library steps implies being on the steps.
+The premise specifies the location as library steps, which inherently includes the general concept of steps.
+The reference to a child being on the library steps necessarily implies the child is on steps.
+The presence of the child on any type of steps, including library steps, fulfills the condition of being on steps.
+Library steps are a subset of steps, so being on library steps implies being on steps.

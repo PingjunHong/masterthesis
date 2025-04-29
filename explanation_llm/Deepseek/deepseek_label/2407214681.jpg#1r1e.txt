@@ -1,0 +1,7 @@
+1. The content explicitly mentions "Two small boys" who are "use a wooden set of steps to wash their hands," which directly supports the statement "Two boys washing their hands."
+2. The action described in the content ("wash their hands") matches the action in the statement ("washing their hands").
+3. The number of boys ("Two") in the content aligns with the number in the statement ("Two boys").
+4. The content provides additional context (e.g., "blue soccer uniforms," "adult-sized bathroom"), but these details do not contradict the core claim in the statement.
+5. The statement is a simplified version of the content, focusing only on the key elements (two boys and the action of washing hands) without introducing any conflicting information.
+6. There is no ambiguity or contradiction in the content that would prevent the statement from being entailed.
+7. The statement captures the main event described in the content without requiring any additional assumptions or inferences beyond what is explicitly stated.

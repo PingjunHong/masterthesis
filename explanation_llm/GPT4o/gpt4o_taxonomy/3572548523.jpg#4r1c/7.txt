@@ -1,0 +1,5 @@
+1. Walking and sitting are distinct activities and cannot occur simultaneously.
+2. A couple walking implies they are moving, while sitting implies they are stationary.
+3. Being on a street and being on a bench are incompatible locations in this context.
+4. Walking down a street suggests being upright and moving, which contradicts sitting.
+5. The act of walking involves using feet for movement, whereas sitting does not.

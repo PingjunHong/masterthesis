@@ -1,0 +1,10 @@
+1. The instrument in the content is an electric guitar, not a banjo.
+2. The location in the content is on stage, not on the floor.
+3. The action in the content is playing an electric guitar, not a banjo.
+4. The content specifies a musical performance setting (stage), while the statement implies a casual setting (floor).
+5. The statement contradicts the type of instrument being played.
+6. The statement contradicts the location of the performance.
+7. The content describes a formal performance context, while the statement suggests an informal one.
+8. The two scenarios (stage vs. floor) are mutually exclusive in this context.
+9. The instruments (electric guitar and banjo) are distinct and not interchangeable in the given context.
+10. The statement introduces a different activity (playing banjo) that does not align with the content.

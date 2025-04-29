@@ -1,0 +1,8 @@
+1. The statement "A person is selling coconuts" is not a direct rephrase of "A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground."
+2. The premise describes a scene with a person working with coconuts, but does not specify that the person is selling them, which is a different action.
+3. The structural elements in the premise, such as "standing outside working a steel apparatus," do not imply the action "selling" as stated in the hypothesis.
+4. The premise mentions "working a steel apparatus" which suggests an activity but not specifically the act of selling coconuts.
+5. The presence of coconuts on the ground in the premise does not syntactically equate to selling them, as the hypothesis suggests.
+6. The structural focus on "a pile of coconuts on the ground" in the premise does not align with the selling action in the hypothesis.
+7. Syntactically, the premise describes someone engaged in an activity with coconuts but lacks the specific coordination suggesting a commercial transaction as in the hypothesis.
+8. The premise uses a descriptive structure focusing on physical activity and location, while the hypothesis uses an action-oriented structure focusing on selling, which is not directly rephrased or implied.

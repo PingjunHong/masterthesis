@@ -1,0 +1,4 @@
+- Men in the statement refers to men wearing blue uniforms in the content.
+- The bus in the statement refers to the bus mentioned in the content.
+- Sit on the bus in the statement corresponds to sit on a bus in the content.
+- The action of sitting in the statement refers to the action of the men wearing blue uniforms sitting in the content.

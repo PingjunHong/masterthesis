@@ -1,0 +1,10 @@
+1. The content explicitly mentions "three dogs running," which directly matches the statement.
+2. The phrase "running through a field" implies that the dogs are in motion, confirming they are running.
+3. The number of dogs ("three") in the content aligns with the statement.
+4. The action described ("running") is the same in both the content and the statement.
+5. There are no contradictory details in the content that would negate the statement.
+6. The statement is a simplified version of the content, retaining the key elements (three dogs, running).
+7. The content provides sufficient evidence to conclude that the statement is true.
+8. The statement does not introduce any new information that isn't supported by the content.
+9. The semantic meaning of the content fully supports the statement.
+10. The statement is a direct subset of the information provided in the content.

@@ -1,0 +1,7 @@
+- The premise does not mention the location or position of the flight attendant; while they could be standing, they could also be seated or moving around.
+- The premise describes the flight attendant demonstrating something, but does not specify that they are standing while doing so.
+- The premise focuses on the demonstration of life vest usage, but does not provide information about the flight attendant's posture or position relative to passengers.
+- The statement introduces the idea of the flight attendant being in front of passengers, which is not explicitly supported by the premise.
+- While the flight attendant might be in front of passengers to demonstrate the life vest, the premise does not confirm this detail.
+- The premise does not mention the presence or absence of passengers, so the statement about standing in front of them is not supported.
+- The premise describes the flight attendant's action but lacks details about their exact location or orientation relative to passengers.

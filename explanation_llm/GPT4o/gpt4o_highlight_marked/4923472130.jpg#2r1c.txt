@@ -1,0 +1,5 @@
+- The **red** shirt mentioned in the content directly contradicts the **green** shirt mentioned in the statement.
+- The content specifies that the person is wearing a **red** shirt, while the statement claims it is **green**, which are mutually exclusive colors.
+- The highlighted word **shirt** in both sentences refers to the same article of clothing, but the colors **red** and **green** are contradictory.
+- A person cannot simultaneously wear a **red** shirt and a **green** shirt as described in the two sentences.
+- The description of the shirt's color in the content and the statement is inconsistent, creating a contradiction.

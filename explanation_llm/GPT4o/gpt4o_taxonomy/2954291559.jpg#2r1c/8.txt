@@ -1,0 +1,10 @@
+1. A worker is employed, which contradicts the statement that the person is unemployed.
+2. Being atop a building under construction indicates the person is actively working, not unemployed.
+3. The presence of a worker implies employment, directly contradicting the idea of being unemployed.
+4. Workers are typically employed, making it unlikely for an unemployed person to be working on a building.
+5. A worker atop a building is engaged in employment activities, incompatible with being unemployed.
+6. The premise describes an employed worker, whereas the statement suggests unemployment, which is logically inconsistent.
+7. Construction work involves employed individuals, conflicting with the notion of unemployment in the statement.
+8. The act of peering out from a building under construction suggests employment status, in contrast to the claimed unemployment.
+9. An unemployed person would not be actively involved in construction work, which is implied by the premise.
+10. Employment is a requirement for construction work, making it improbable for an unemployed person to be a worker atop a building.

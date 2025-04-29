@@ -1,0 +1,5 @@
+1. Quantifier conflict: "Two" in the premise matches "two" in the hypothesis, supporting the entailment.
+2. Temporal consistency: "Work" and "are working" indicate ongoing action in both statements.
+3. Structural exclusivity: The premise specifies "two strong men," and the hypothesis uses the same structure, confirming no additional individuals are involved.
+4. Logical consistency: The premise and hypothesis both describe actions by the same two men, maintaining logical coherence.
+5. Location consistency: Both statements imply the same setting where the men are working, supporting entailment.

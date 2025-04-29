@@ -1,0 +1,4 @@
+- The statement "Men are sitting outside" is a more general description of the situation described in the content.
+- "Three men" in the content implies "men" in the statement, since "three" is a specific number of men.
+- "Sitting outside" in the content directly supports "sitting outside" in the statement.
+- The content provides a more detailed account that inherently includes the simpler scenario depicted in the statement.

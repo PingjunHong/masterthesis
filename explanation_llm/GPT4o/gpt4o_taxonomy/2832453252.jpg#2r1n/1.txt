@@ -1,0 +1,10 @@
+- "Four girls" in the statement refers to "Four young girls" in the content.
+- "Playing in the water" in the content does not specify swimming, which is described in the statement.
+- The pronoun "girls" in both content and statement refers to the same group of young girls.
+- "The water" in the content does not explicitly indicate that the activity is swimming, as implied in the statement.
+- The activity "playing" in the content is not directly aligned with "swimming" in the statement, requiring coreference resolution to clarify different activities.
+- The reference to "young girls" in the content matches the "girls" in the statement, but their activity is not specified as swimming.
+- "In the water" resolves to a location where both playing and swimming could occur, but does not confirm the specific activity.
+- The statement refers to "girls" which correlates to "young girls" in the content, yet the activity is described differently.
+- The description "playing" in the content requires further resolution to verify if it includes swimming, as stated in the statement.
+- "Four" in the statement matches "Four young girls" in the content, but the activity of swimming is not confirmed by the premise.

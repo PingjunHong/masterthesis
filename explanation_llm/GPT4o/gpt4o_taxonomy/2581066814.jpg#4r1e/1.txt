@@ -1,0 +1,5 @@
+- A person biking refers to the naked man riding a bike.
+- The term "person" in the hypothesis refers to the "naked man" mentioned in the premise.
+- The act of "biking" in the hypothesis corresponds to "rides a bike" in the premise.
+- "A person" in the hypothesis is a coreference to "a naked man" in the premise.
+- The reference to "biking" in the statement is resolved by the action "rides a bike" in the content.

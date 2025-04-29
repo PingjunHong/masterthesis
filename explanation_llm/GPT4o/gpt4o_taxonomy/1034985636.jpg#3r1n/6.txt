@@ -1,0 +1,10 @@
+1. Playing an electric guitar on stage does not necessarily imply performing for cash.
+2. The premise does not specify any exchange of cash, creating a logical gap.
+3. A performance can occur without monetary compensation, which is not stated in the premise.
+4. The premise involves playing music, but no mention of financial transactions.
+5. The activity of playing an electric guitar does not exclusively equate to performing for cash.
+6. The premise lacks any quantifier or indicator of a financial arrangement.
+7. There is no temporal reference in the premise indicating a performance for cash.
+8. The premise does not specify the purpose or motivation behind playing the electric guitar.
+9. Playing on stage does not inherently involve monetary compensation, which is an assumption in the hypothesis.
+10. There is no indication of a financial audience or transaction in the premise.

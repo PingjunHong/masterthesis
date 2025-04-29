@@ -1,0 +1,10 @@
+1. The people performing are part of a chorus does not structurally align with five singers on a stage in terms of specific roles or group formation.
+2. The statement about being part of a chorus introduces new information about group affiliation that is not directly rephrased from the premise.
+3. A chorus implies a larger organized group, which is not syntactically inferred from mentioning singers on a stage.
+4. The premise focuses on the gender and number of singers, whereas the statement introduces a possible role or function without structural rephrasing.
+5. The premise's detail of three women and two men on stage does not syntactically infer participation in a chorus.
+6. Structural rephrasing does not occur between mentioning individuals on stage and their role in a chorus.
+7. The hypothesis about a chorus adds a new grouping concept not rephrased from the premise's details of five singers.
+8. The structural focus on the number and gender of singers does not entail the specific function or group affiliation of a chorus.
+9. There is no syntactic alternation from the stage setup to being part of a chorus.
+10. The premise does not use coordination or subordination to imply the specific group identity of a chorus.

@@ -1,0 +1,10 @@
+- "Cooking over high flames" does not specify for whom the cooking is being done.
+- The term "friends" is not mentioned in the premise.
+- The premise does not imply the presence of friends.
+- "Cooking" refers to the action, but does not specify the audience for the cooking.
+- The word "for" in the hypothesis suggests a purpose or audience, which is not present in the premise.
+- The premise does not include any indication of social context or companionship.
+- "Cooking for his friends" introduces a social element not found in the premise.
+- The premise focuses on the act of cooking, whereas the hypothesis suggests an intended group for the meal.
+- The hypothesis implies a social gathering, which is absent from the premise.
+- "High flames" relates to the method of cooking and not the social aspect mentioned in the hypothesis.

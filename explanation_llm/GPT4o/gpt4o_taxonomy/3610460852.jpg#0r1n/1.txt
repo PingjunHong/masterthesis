@@ -1,0 +1,9 @@
+1. "The woman" in the hypothesis refers to "a blond woman in a black shirt" in the premise, but there is no information about her hairstyle.
+2. "Her hair" in the hypothesis is not mentioned in the premise, and thus its style cannot be confirmed.
+3. The hypothesis refers to "the woman" which is the same as "a blond woman" in the premise, but the premise does not state anything about how her hair is styled.
+4. While both the premise and hypothesis mention a woman, the specific detail about "hair pulled back in a bun" is not addressed in the premise.
+5. The hypothesis uses "her" to refer to the woman in the premise, but the premise does not provide any information about the woman's hair, leaving the hairstyle unspecified.
+6. The reference "the woman" is resolved to "a blond woman in a black shirt," yet there is no indication in the premise about her hair being in a bun.
+7. The phrase "pulled back in a bun" in the hypothesis cannot be verified through the premise, which does not discuss her hair style.
+8. "The woman" in the hypothesis refers to the same individual as in the premise, but no details about hair are included in the premise to confirm the bun.
+9. The pronoun "her" refers back to "a blond woman" in the premise, but the specific hairstyle is not described, making the statement neutral.

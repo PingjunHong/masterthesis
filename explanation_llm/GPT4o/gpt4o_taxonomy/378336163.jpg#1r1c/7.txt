@@ -1,0 +1,5 @@
+1. A man is jumping in the snow.
+2. The description explicitly mentions a bearded man is jumping.
+3. The statement contradicts the observed action in the premise.
+4. The premise includes an action of jumping, which directly opposes the statement.
+5. The presence of a bearded man jumping is a factual detail that contradicts the claim that nobody is jumping.

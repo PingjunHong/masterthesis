@@ -1,0 +1,10 @@
+1. The content states that a dog is being chased by another dog, not a cat.
+2. There is no mention of a cat in the content.
+3. The chasing agent in the content is explicitly another dog, not a cat.
+4. The statement introduces a cat, which contradicts the absence of any reference to a cat in the content.
+5. The roles in the statement (dog chased by cat) are reversed from the content (dog chased by another dog).
+6. The content describes a scenario involving only dogs, while the statement introduces a different animal (cat).
+7. The statement misrepresents the subject performing the chasing (cat instead of another dog).
+8. The content's action involves two dogs, whereas the statement involves a dog and a cat.
+9. The statement contradicts the content by altering the entities involved in the chasing scenario.
+10. The content does not support the presence or action of a cat in any way.

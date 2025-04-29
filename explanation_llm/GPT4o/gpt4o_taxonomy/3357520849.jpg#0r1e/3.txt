@@ -1,0 +1,10 @@
+1. The man is in front of a building is a rephrase of, A man in a black ball cap, black jacket and pants sitting in front of a building painted white and blue with the words ING and PEOPLE written on it.
+2. The premise describes a man sitting in front of a building, which directly corresponds to the statement that he is in front of a building.
+3. The statement simplifies the premise by focusing on the man's position relative to the building, maintaining the same meaning.
+4. By stating "in front of a building," the hypothesis summarizes the part of the premise detailing the man's location.
+5. The syntactic structure of the statement captures the essential information about the man's position from the premise.
+6. The statement condenses the description in the premise to its core meaning, emphasizing the man's location in front of the building.
+7. The man is in front of a building is a simplified restatement of the premise's detailed scene description, preserving the essential meaning.
+8. The phrase "in front of a building" in the hypothesis is a structural rephrasing of the location details provided in the premise.
+9. The hypothesis focuses on the man's position relative to the building, which is structurally implied by the premise.
+10. The statement is a concise version of the premise's detailed setting, maintaining the same syntactic meaning regarding the man's location.

@@ -1,0 +1,9 @@
+- A woman is taking pictures is a rephrase of A woman leans over a small fence to take a picture of a yellow flower.
+- Taking a picture of a yellow flower is a specific instance of taking pictures, which structurally rephrases the activity.
+- The action of leaning over to take a picture implies the act of taking pictures, demonstrating a syntactic alternation.
+- The premise describes a woman taking a picture, which structurally supports the hypothesis that she is taking pictures.
+- The premise can be structurally rephrased to emphasize the action: A woman taking a picture involves taking pictures.
+- The hypothesis is a simplified version of the premise, focusing on the action of taking pictures.
+- The premise involves a woman engaging in photography, which is syntactically rephrased as taking pictures in the hypothesis.
+- The action described in the premise can be reduced to the general act of taking pictures, highlighting a syntactic alternation.
+- A woman leans over to take a picture is structurally similar to a woman is taking pictures, indicating entailment through rephrasing.

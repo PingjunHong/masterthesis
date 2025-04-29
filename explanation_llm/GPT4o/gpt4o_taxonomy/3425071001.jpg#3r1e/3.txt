@@ -1,0 +1,8 @@
+- A boy is hitting a ball is a rephrase of A boy hits a tennis ball on a court.
+- The sentence A boy hits a tennis ball on a court can be rephrased structurally as A boy is hitting a ball.
+- The action described in A boy hits a tennis ball on a court is expressed in simpler terms as A boy is hitting a ball.
+- A boy hits a tennis ball on a court implies the same action as A boy is hitting a ball through rephrasing.
+- Both sentences describe the action of a boy hitting a ball, one with additional detail about location and type of ball.
+- The hypothesis A boy is hitting a ball summarizes the premise A boy hits a tennis ball on a court by omitting specific details.
+- A boy is hitting a ball captures the core activity from A boy hits a tennis ball on a court in a simplified syntactic form.
+- The syntactic structure of A boy is hitting a ball is a reduced form of A boy hits a tennis ball on a court, conveying the same meaning.

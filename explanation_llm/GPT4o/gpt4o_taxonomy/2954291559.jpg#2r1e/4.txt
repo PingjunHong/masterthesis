@@ -1,0 +1,10 @@
+1. If a worker is atop a building under construction, then a person must be atop the building since a worker is a person.
+2. The phrase "atop a building" in the premise logically implies that the person is at the top of the building.
+3. The premise mentions "a worker," who is inherently a person, therefore establishing the presence of a person atop the building.
+4. The semantic structure of the premise directly places the worker, who is a person, at the top of the building, fulfilling the conditions of the hypothesis.
+5. The premise describes a scenario where a worker is atop a building, which logically entails that the worker, being a person, is atop the building.
+6. The sentence structure "peers out from atop a building" implies the worker is situated at the top of the building, and since the worker is a person, the hypothesis is entailed.
+7. The logical implication of a worker being atop a building under construction is that this worker, as a person, is necessarily atop the building.
+8. The semantic meaning of "a worker peers out from atop" confirms that the worker is physically at the top of the building, thus a person is atop the building.
+9. The premise identifies a worker's location as atop a building, and since the worker is a person, the hypothesis is supported by the logical structure of the text.
+10. By stating the worker is atop, the premise inherently affirms the presence of a person in that position due to the worker being a person.

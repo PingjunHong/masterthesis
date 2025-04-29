@@ -1,0 +1,6 @@
+1. "A young **man**" aligns with "**man**" in the statement, confirming the subject is the same.
+2. "**Arms spread**" in the content matches "**spreads his arms**" in the statement, describing the same action.
+3. "**In front of** a blue railing" in the content corresponds to "**in front of** a railing" in the statement, indicating the same relative location.
+4. The "**railing**" mentioned in both sentences refers to the same object, despite the color not being specified in the statement.
+5. The content's description of the **man**'s position and action ("stands in front of a blue railing with his arms spread") aligns semantically with the statement's phrasing ("The man spreads his arms while standing in front of a railing").
+6. Both sentences describe the **man** performing the action of spreading his arms in the same spatial context.

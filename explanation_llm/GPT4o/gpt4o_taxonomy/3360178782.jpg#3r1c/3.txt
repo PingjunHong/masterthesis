@@ -1,0 +1,10 @@
+1. The phrase "A group of people" cannot be rephrased as "A group of dogs" as they refer to different entities.
+2. "People" and "dogs" are distinct categories, so substituting one for the other changes the meaning entirely.
+3. The structure "A group of people look at fresh lettuce" is syntactically similar to "A group of dogs look at fresh lettuce," but the substitution of "people" with "dogs" creates a contradiction in meaning.
+4. "People" and "dogs" are not synonymous, thus the rephrasing changes the subject and contradicts the original premise.
+5. The semantic roles are altered when "people" is replaced by "dogs," leading to a contradiction rather than an equivalent rephrasing.
+6. The rephrased subject "dogs" in the hypothesis does not match the subject "people" in the premise, creating a contradiction.
+7. The sentence structure remains the same, but "people" and "dogs" are mutually exclusive terms, resulting in a contradiction.
+8. Replacing "people" with "dogs" changes the agent involved in the action, contradicting the premise's meaning.
+9. Both sentences describe a group looking at lettuce, but differing subjects ("people" vs. "dogs") lead to a contradiction despite structural similarity.
+10. The hypothesis maintains the same syntactic structure but introduces a contradiction by substituting "people" with "dogs."

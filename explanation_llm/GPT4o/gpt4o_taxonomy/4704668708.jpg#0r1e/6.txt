@@ -1,0 +1,12 @@
+1. "Decorated" and "fancy" refer to the same type of box.
+2. "A young child" and "a child" refer to the same individual.
+3. Temporal consistency is maintained as both actions occur simultaneously.
+4. The action of pulling tissue paper is consistent between both statements.
+5. The presence of colorful tissue paper is consistent in both the premise and statement.
+6. The act of looking for a present does not conflict with pulling tissue paper, allowing for entailment.
+7. The gender of the child is not specified in the hypothesis, avoiding conflict.
+8. The premise's joyous tone is not contradicted by the neutral statement.
+9. The number of children involved remains the same in both statements.
+10. The premise's context of searching for a present supports the action described in the hypothesis.
+11. No quantifier conflict exists as both statements implicitly refer to a singular child.
+12. There's no conflict in location; both statements imply the activity occurs in the same setting.

@@ -1,0 +1,10 @@
+1. A woman refers to the goofy looking woman.
+2. The goofy looking woman is the same woman who is singing.
+3. The woman singing on stage is the same woman mentioned in the hypothesis.
+4. The term "woman" in the hypothesis refers to the "goofy looking woman" in the premise.
+5. The woman who is singing is the goofy looking woman.
+6. The goofy looking woman on stage is the woman referred to in the hypothesis.
+7. "A woman" in the hypothesis is identified as "a goofy looking woman" from the premise.
+8. The goofy looking woman being referenced is the one performing on stage.
+9. The hypothesis's "woman" is the same individual as the "goofy looking woman" in the premise.
+10. The identity of the woman singing is resolved as the goofy looking woman on stage.

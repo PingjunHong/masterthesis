@@ -1,0 +1,5 @@
+1. "A couple" in the content refers to "people" in the statement, as a couple is a subset of people.
+2. "Eating" in the content directly matches "eating" in the statement.
+3. "Outside" in the content matches "outside" in the statement, indicating the same location.
+4. "At a table" in the content aligns with "at a table" in the statement, specifying the same setting.
+5. The additional detail "he is pointing at something" in the content does not contradict the statement and is irrelevant to the entailment.

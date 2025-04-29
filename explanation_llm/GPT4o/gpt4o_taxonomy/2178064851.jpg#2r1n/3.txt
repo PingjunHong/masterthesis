@@ -1,0 +1,8 @@
+1. The premise describes a "wet child" without specifying the gender, whereas the statement specifies "the child is a boy," which introduces new information not present in the premise.
+2. The phrase "A wet child" in the premise doesn't determine the child's gender, whereas the statement assumes the child is a boy, showing a syntactic shift from an unspecified to a specified gender.
+3. The premise and statement are structurally different in that the premise focuses on the child's location and condition, while the statement focuses on the child's gender.
+4. In the premise, the subject "a wet child" is gender-neutral, but the statement's "the child is a boy" adds a gender-specific detail not inferable from the premise.
+5. The transformation from "a wet child" to "the child is a boy" involves a rephrasing from a non-gendered subject to a gendered one without evidence in the premise.
+6. The premise uses "a wet child" as a syntactic construct to describe the scenario, whereas the statement shifts focus to "the child is a boy," introducing a new aspect not corroborated by the premise.
+7. The premise provides a scene description with "a wet child," and the statement syntactically alters this by specifying "the child is a boy," which creates a neutral relationship due to the lack of gender information in the premise.
+8. The syntactic alternation from "a wet child" to "the child is a boy" demonstrates a structural rephrasing where the premise does not confirm the statement's addition of gender-specific information.

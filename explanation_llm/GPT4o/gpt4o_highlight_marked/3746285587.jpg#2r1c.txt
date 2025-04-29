@@ -1,0 +1,7 @@
+- **Kneeling** and **riding** describe mutually exclusive physical actions.
+- Someone **kneeling** cannot simultaneously be **riding**.
+- A person **kneeling** in the street cannot be using a **bicycle**.
+- The activity of **kneeling** has no overlap with the activity of **riding** a **bicycle**.
+- The presence of a **bicycle** in the second sentence is inconsistent with the action of **kneeling** in the first sentence.
+- The statement implies motion with **riding**, while **kneeling** implies being stationary.
+- The physical posture of **kneeling** is incompatible with the position required to **ride** a **bicycle**.

@@ -1,0 +1,8 @@
+1. "Man" implies male gender, while "people" can include any gender, but does not exclude males.
+2. "Young man" suggests a male individual, aligning with "hood wearing people."
+3. "In the middle of a quiet street" does not impose any temporal conflict with "in a street."
+4. "3 young man" quantifies the number as three, which matches "Three hood wearing people."
+5. The structure of the premise does not exclude the possibility of the individuals being "hood wearing."
+6. The location "in the middle of a quiet street" is consistent with "in a street" as there is no specified street conflict.
+7. There is no logical exclusivity or contradiction between "young man" and "people" as "people" can include "young man."
+8. The structural logical elements in both sentences align without conflict, confirming the entailment.

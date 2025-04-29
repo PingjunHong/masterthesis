@@ -1,0 +1,10 @@
+1. Three hood wearing people stand in a street is a rephrase of 3 young man in hoods standing in the middle of a quiet street facing the camera.
+2. The phrase "3 young man in hoods" can be rephrased as "three hood wearing people."
+3. "In the middle of a quiet street" implies "in a street," maintaining the same meaning.
+4. "Standing in the middle of a quiet street" can be rephrased as "stand in a street."
+5. The statement "3 young man in hoods" is structurally similar to "three hood wearing people."
+6. The description "standing in the middle of a quiet street facing the camera" conveys the same meaning as "stand in a street."
+7. The phrase "3 young man" translates structurally to "three people."
+8. "In hoods standing" is syntactically altered to "hood wearing stand."
+9. The focus on "facing the camera" is not needed for the entailment, as it’s implicit in the act of standing in a street.
+10. "In the middle of a quiet street" suggests being present in the location, similar to "in a street."

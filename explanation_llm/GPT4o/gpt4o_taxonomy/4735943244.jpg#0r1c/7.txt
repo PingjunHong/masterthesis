@@ -1,0 +1,5 @@
+- The man is wearing a green cape, not a red cape.
+- The hat has two feathers, not three feathers.
+- The description does not mention a red cape, only a green cape.
+- The hat is described with two big feathers, not three.
+- The details about the cape color and the number of feathers on the hat in the statement do not match the premise.

@@ -1,0 +1,7 @@
+1. The highlighted word **"arena crowd"** in the content directly corresponds to the highlighted word **"crowd"** in the statement, confirming the presence of spectators.
+2. The highlighted word **"dunking"** in the content implies a basketball action, which aligns with the highlighted word **"play basketball"** in the statement, indicating the activity being observed.
+3. The phrase **"the arena crowd looks on"** in the content explicitly states that the crowd is watching, supporting the statement's claim that **"a crowd is watching"**.
+4. The action **"dunking the ball in the net"** is a specific instance of playing basketball, reinforcing the generality of **"someone play basketball"** in the statement.
+5. The presence of **"basketball player"** in the content logically entails that the activity being watched is basketball, as stated.
+6. The word **"watching"** in the statement is inferred from **"looks on"** in the content, as both describe the crowd's observational role.
+7. The term **"someone"** in the statement is satisfied by the **"basketball player"** in the content, as the player is the subject being watched.

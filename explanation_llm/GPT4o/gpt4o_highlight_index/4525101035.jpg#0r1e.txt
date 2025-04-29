@@ -1,0 +1,4 @@
+- "A young man" in the content and "The man" in the statement both refer to the same person.
+- "In a heavy brown winter coat" is additional descriptive information that does not contradict the statement, which omits specific clothing details.
+- "Stands in front of a blue railing" in the content and "standing in front of a railing" in the statement both describe the same action and position, with the color detail being non-essential for the entailment.
+- "With his arms spread" in the content is synonymous with "spreads his arms" in the statement, both indicating the same action.

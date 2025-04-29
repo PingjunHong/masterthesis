@@ -1,0 +1,5 @@
+- Working on an Earthen structure does not specifically imply it is a dam.
+- Using a pickaxe does not necessarily indicate that the action is repairing.
+- The activity described could involve building or modifying rather than specifically repairing.
+- The Earthen structure in question could be any type of structure, not limited to a dam.
+- Repairing suggests fixing something broken, whereas working on could imply a broader range of activities.

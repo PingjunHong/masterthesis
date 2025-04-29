@@ -1,0 +1,7 @@
+- People refers to the group of people mentioned in the premise.
+- Dancing refers to the action being performed by the group of people in the premise.
+- The term "together" in the premise implies the presence of people, which corresponds to "People" in the statement.
+- The action described in the premise as "dancing together" involves people, satisfying the statement that people are dancing.
+- The group mentioned in the premise consists of people, confirming the statement that people are dancing.
+- The collective term "group of people" in the premise includes individuals who are referred to as "People" in the statement.
+- The premise's description of people dancing together directly supports the statement that people are dancing.

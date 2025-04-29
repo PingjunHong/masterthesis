@@ -1,0 +1,10 @@
+1. Several young people sitting outside is a structural rephrase of Several younger people sitting in front of a statue, implying a similar scene but lacking specific details about the statue.
+2. The phrase "sitting outside" rephrases "sitting in front of a statue," suggesting an outdoor location without specifying the presence of a statue.
+3. "Younger people" and "young people" are syntactically similar but may not convey the exact same age range, creating a neutral relationship.
+4. The structural rephrasing changes "in front of a statue" to "outside," which alters the specificity of the location, leading to a neutral interpretation.
+5. The use of "several" in both sentences maintains a quantitative similarity, but the different location details prevent entailment.
+6. Replacing "in front of a statue" with "outside" maintains an outdoor setting but leaves out the specific context of the statue.
+7. The syntactic change from "younger people sitting in front of a statue" to "young people sitting outside" removes the specific landmark, making the statement neutral.
+8. The alteration from "younger" to "young" is a rephrasing that might not exactly match in meaning, contributing to a neutral label.
+9. The shift from a specific location "in front of a statue" to a general one "outside" rephrases the premise without maintaining specific detail, resulting in neutrality.
+10. The rephrasing of the location from "in front of a statue" to "outside" changes the premise's specificity to a more general setting, which affects the NLI label.

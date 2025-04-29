@@ -1,0 +1,10 @@
+1. The presence of "a boy" in both the premise and the statement indicates they refer to the same individual.
+2. Riding a skateboard implies being on a skateboard, which matches the description in the premise.
+3. The phrase "on a stone wall" is consistent in both the premise and the statement, indicating the same location.
+4. The premise specifies a "boy in a green shirt," and the statement does not contradict this by specifying any other shirt color.
+5. The statement does not specify any additional individuals or objects that would conflict with the premise.
+6. Both the premise and the statement focus on a singular activity involving a skateboard, ensuring logical consistency.
+7. The statement is a generalization of the premise, focusing on the action of riding, which is a logical subset of being on the skateboard.
+8. The elements of place (stone wall) and action (on a skateboard) are structurally aligned in both the premise and the statement, leaving no room for logical conflict.
+9. There is no mention of a different time or location in the statement that would conflict with the premise.
+10. The statement does not introduce any quantifiers or additional elements that would create a logical structure conflict with the premise.

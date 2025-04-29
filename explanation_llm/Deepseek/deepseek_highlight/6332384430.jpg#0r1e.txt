@@ -1,0 +1,5 @@
+1. The content explicitly mentions "a black man wearing a red belt," which directly supports the statement "A man is wearing a red belt."
+2. The term "man" in the statement can refer to either the black man or the white man mentioned in the content, but the black man is specifically described as wearing a red belt, making the statement true.
+3. The presence of "a red belt" in the content aligns with the statement, regardless of other details (e.g., the white man’s blue belt or the woman in the background).
+4. The statement is a general claim ("a man") that is satisfied by at least one instance in the content ("a black man wearing a red belt"), fulfilling the entailment.
+5. The highlighted word "red" in the content (index 22) corresponds to the "red belt" in the statement, reinforcing the entailment.

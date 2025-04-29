@@ -1,0 +1,3 @@
+1. "Run" indicates that the dogs are active and moving, while "sleeping" suggests they are inactive and resting.
+2. Running and sleeping are mutually exclusive states; a dog cannot be running and sleeping simultaneously.
+3. "Run" involves physical motion, whereas "sleeping" involves being still and not engaged in activity.

@@ -1,0 +1,6 @@
+A boy refers to the little boy in a gray and white striped sweater and tan pants.
+The playground refers to the piece of playground equipment.
+The boy in the hypothesis is the same as the boy described in the premise.
+The playground equipment in the premise implies the location is a playground in the hypothesis.
+Boy playing on playground equipment indicates he is on a playground.
+The boy's location on playground equipment suggests he is on a playground.

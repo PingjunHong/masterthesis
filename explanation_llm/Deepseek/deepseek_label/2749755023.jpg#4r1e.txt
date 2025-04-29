@@ -1,0 +1,10 @@
+1. The woman in the black shirt is actively looking at the bicycle, which implies she sees it.
+2. "Looking at" directly indicates visual perception, synonymous with "seeing."
+3. The statement generalizes the specific action ("looking at") to the broader concept of visual awareness ("sees").
+4. The bicycle is present in the content, and the woman's attention is directed toward it, fulfilling the conditions for "seeing."
+5. No contradictory information exists between the content and the statement; both describe the woman observing the bicycle.
+6. The statement abstracts the concrete detail ("looking at") to a more general but accurate description ("sees").
+7. The woman's focus on the bicycle confirms her visual engagement with it, justifying the entailment.
+8. The content provides sufficient evidence (woman + bicycle + directed gaze) to infer the statement's truth.
+9. "Sees" is a logical consequence of "looking at" when the object is visible and unobstructed.
+10. The statement preserves the core meaning (woman perceiving bicycle) while omitting non-essential details (shirt color).

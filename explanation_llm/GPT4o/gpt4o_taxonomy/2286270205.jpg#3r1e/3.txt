@@ -1,0 +1,7 @@
+1. Animal is outdoors is a rephrase of, A dog standing near snow looking at water.
+2. The premise describes a dog, which is an animal, being outside near snow and water, indicating that the animal is outdoors.
+3. The setting described in the premise (near snow and water) implies an outdoor environment, confirming the statement that the animal is outdoors.
+4. Since the dog is positioned near natural elements like snow and water, it suggests the animal is in an outdoor setting.
+5. Being near snow typically occurs outside, thus the premise supports the statement that the animal is outdoors.
+6. The act of standing near snow and looking at water implies an outdoor scene, making the statement that the animal is outdoors consistent with the premise.
+7. Snow and water are generally found outside, so the premise supports the idea that the animal is outdoors.

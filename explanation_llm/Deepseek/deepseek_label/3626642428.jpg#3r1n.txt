@@ -1,0 +1,10 @@
+1. The statement does not contradict the content but adds the detail of swimming "across" the river, which is not specified in the content.
+2. The content describes the dogs swimming in the river, but the statement implies a direction ("across"), which is neither confirmed nor denied by the content.
+3. The statement could be true based on the content, but the content does not provide enough information to confirm the direction of the dogs' movement.
+4. The content and the statement share the core fact of six dogs swimming in a river, but the statement introduces an additional, unverified detail.
+5. The statement is consistent with the content but goes beyond it by specifying the dogs' path, which is not addressed in the content.
+6. The content does not provide evidence against the statement, but it also does not explicitly support the claim that the dogs are swimming "across" the river.
+7. The statement is plausible given the content, but the content alone does not justify the directional information in the statement.
+8. The statement and the content agree on the number of dogs and the action of swimming, but the statement's additional detail is neither confirmed nor contradicted.
+9. The content is too general to determine whether the statement's specific claim about swimming "across" is accurate.
+10. The statement could be an inference from the content, but the content itself does not explicitly state the direction of the dogs' movement.

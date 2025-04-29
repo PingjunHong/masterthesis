@@ -1,0 +1,10 @@
+1. "Dinner" implies a specific meal, whereas "cooking" could refer to any meal preparation.
+2. "For his family" introduces a purpose not mentioned in the premise.
+3. "Bunch" suggests a number but is not synonymous with "like 5".
+4. "Cooking dinner" is more specific than simply "cooking".
+5. "Fire" implies a method or source of heat not necessarily linked to "dinner".
+6. "Dinner" involves timing and social context absent in the premise.
+7. "Family" adds a relational aspect not present in the premise.
+8. "A bunch of pots" is semantically different from "like 5 pots" in specificity.
+9. "Cooking with fire" does not inherently mean cooking "dinner".
+10. "Dinner for his family" adds intentionality absent in "cooking with fire".

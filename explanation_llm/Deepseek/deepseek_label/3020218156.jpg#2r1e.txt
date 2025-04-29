@@ -1,0 +1,10 @@
+1. The statement "a guy near a building stands by two other men" aligns with the content describing "a man standing in front of a building" and "two men to the side."
+2. The term "guy" in the statement corresponds to "a man" in the content, both referring to the same individual.
+3. The phrase "near a building" in the statement matches "in front of a building" in the content, as both imply proximity.
+4. The statement's "stands by two other men" is consistent with the content's "two men to the side," indicating their spatial relationship.
+5. The content's description of the man "on the phone" does not contradict the statement, as the statement does not mention phone usage but focuses on positioning.
+6. The statement simplifies the content by omitting details like "pain on the side," but this does not invalidate the core spatial entailment.
+7. The word "stands" in the statement is supported by "standing" in the content, confirming the posture.
+8. The statement generalizes "two men to the side" as "two other men," which is logically equivalent in this context.
+9. The content's specificity about the building ("front") is relaxed in the statement ("near"), but the directional relationship remains compatible.
+10. No elements in the statement conflict with the content; all described relationships hold true under the broader interpretation.

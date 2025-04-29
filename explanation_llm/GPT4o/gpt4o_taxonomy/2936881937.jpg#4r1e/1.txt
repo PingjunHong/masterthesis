@@ -1,0 +1,7 @@
+The man in a black shirt refers to a man who is watching bike repairs.
+Overlooking bike maintenance refers to watching bike repairs.
+The term "maintenance" in the premise refers to "repairs" in the hypothesis.
+The phrase "a man" in both premise and hypothesis refers to the same individual.
+The activity of the man in the black shirt is watching, which is synonymous with overlooking.
+Both "bike maintenance" and "bike repairs" refer to the same activity being observed by the man.
+The premise describes the man as overlooking, which is a form of watching as stated in the hypothesis.

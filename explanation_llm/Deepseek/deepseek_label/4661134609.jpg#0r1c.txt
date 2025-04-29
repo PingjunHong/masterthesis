@@ -1,0 +1,10 @@
+1. The content describes a realistic scene involving cleaners and a parade/festival, while the statement describes an impossible supernatural event.
+2. The content involves a group activity (cleaners working), while the statement focuses on a single individual performing an extraordinary act.
+3. The content is grounded in everyday reality (cleaning streets), whereas the statement defies physical laws (walking on water).
+4. The content implies a public, communal setting (parade/festival), while the statement suggests a solitary, miraculous occurrence.
+5. The content involves a mundane task (sweeping feces), while the statement describes a fantastical, religious, or mythical act.
+6. The content centers on sanitation and maintenance, while the statement is unrelated to any practical or logistical activity.
+7. The content implies the presence of animals or their waste, while the statement involves no such elements.
+8. The content is set in an urban or public space (street), while the statement could imply a natural or supernatural setting (water).
+9. The content involves human labor and effort, while the statement suggests effortless or divine action.
+10. The content is temporally tied to an event (parade/festival), while the statement is contextually detached from any specific time or occasion.

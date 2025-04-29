@@ -1,0 +1,7 @@
+1. People run together is a structural rephrasing where running implies movement, which contradicts the premise describing people sitting still on a bench.
+2. The action of sitting at the station as described in the premise syntactically contrasts with running together as stated in the hypothesis.
+3. The premise details a stationary scene with sitting, while the hypothesis rephrases this as a dynamic action of running, creating a contradiction.
+4. Syntactic alternation between sitting and running results in a contradiction since the actions are mutually exclusive in the given context.
+5. Coordination of actions in the premise (sitting, looking, twiddling) contradicts the hypothesis's implication of coordinated running.
+6. Subordination of actions in the premise (sitting and observing) contradicts the active movement suggested by running in the hypothesis.
+7. The structural rephrasing of sitting to running is contradictory because the premise's actions are static and the hypothesis suggests activity.

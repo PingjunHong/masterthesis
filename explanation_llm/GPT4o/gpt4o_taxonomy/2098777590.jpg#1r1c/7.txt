@@ -1,0 +1,10 @@
+1. An elderly woman is not a man.
+2. Preparing food is a different activity from cleaning.
+3. A woman is not the same as a man.
+4. The person preparing food is identified as a woman.
+5. Cleaning is not the same action as preparing food.
+6. The premise describes a woman, while the hypothesis describes a man.
+7. The premise does not mention anyone cleaning the kitchen.
+8. The roles of preparing food and cleaning are attributed to different people.
+9. The subject in the premise and the subject in the hypothesis are different.
+10. The premise specifies a gender that does not match the hypothesis.

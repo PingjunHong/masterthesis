@@ -1,0 +1,9 @@
+- The premise mentions a child in a taxi cab, but there is no mention of the child being at home or resting.
+- The child's location and activity in the premise contradict the statement of being at home.
+- The premise describes the child as active and in a car, which does not support the claim of the child resting at home.
+- Being in a taxi cab implies the child is not at home, contradicting the statement.
+- The premise does not provide any evidence of the child being at home, but instead shows them in a taxi cab.
+- The scenario described in the premise does not include any information about the child being at home.
+- There is no mention in the premise of the child resting or being at home, which suggests a contradiction with the statement.
+- The premise indicates a different location and activity than the statement, leading to a contradiction.
+- The premise lacks any details supporting the child's presence at home, contradicting the statement.

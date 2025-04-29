@@ -1,0 +1,8 @@
+1. The premise suggests a location inside a house, while the hypothesis introduces a setting by a swimming pool, which is not explicitly mentioned in the premise.
+2. The premise states people are getting drunk, but it does not specify the presence of a swimming pool or its proximity.
+3. Although the premise describes a house party, it lacks any indication of activities occurring by a swimming pool.
+4. The hypothesis introduces the swimming pool as a new element, which is not logically implied by the premise.
+5. The premise mentions people getting drunk at a house party, which does not inherently include or exclude the presence of a swimming pool.
+6. The setting of the party in the premise is not explicitly tied to any outdoor features such as a swimming pool.
+7. The presence of a swimming pool is an additional detail in the hypothesis that is not supported or contradicted by the premise.
+8. The idea of some people being by the pool is not a necessary condition derived from the description of people getting drunk at a house party.

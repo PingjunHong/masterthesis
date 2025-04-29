@@ -1,0 +1,10 @@
+- A boy, a road, and two cows are present in the scenario.
+- The scene includes a boy, a road, and two cows.
+- The premise mentions a boy, a road, and two cows, which matches the hypothesis.
+- There is factual presence of a boy, a road, and two cows in the situation.
+- The elements stated in the hypothesis are directly described in the premise.
+- The premise confirms the existence of a boy, a road, and two cows.
+- The premise provides a factual basis for the hypothesis.
+- The description of the scenario includes all the entities mentioned in the hypothesis.
+- The premise factually includes all components mentioned in the hypothesis.
+- All elements in the hypothesis are explicitly stated in the premise.

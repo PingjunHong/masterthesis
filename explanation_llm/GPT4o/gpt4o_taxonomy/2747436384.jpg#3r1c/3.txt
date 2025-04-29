@@ -1,0 +1,10 @@
+1. The premise describes boys with their backs against an incoming wave, while the statement mentions a group of people sitting on the beach, which does not specify any structural rephrasing of the premise.
+2. The premise focuses on boys and their interaction with a wave, whereas the statement generalizes to a group of people sitting on the beach, showing no direct syntactic alternation.
+3. The premise involves an action of being against an incoming wave, while the statement describes a static scene of sitting, indicating different structural emphasis.
+4. The premise does not mention sitting or being at rest, unlike the statement, which introduces a different action without rephrasing the premise.
+5. The statement introduces a new element, "sit on the beach," which is not a structural rephrasing of "backs against an incoming wave" from the premise.
+6. The composition of "boys" in the premise versus "a group of people" in the statement shows a lack of syntactic equivalence.
+7. The premise and statement do not share structural rephrasing, as the premise highlights interaction with a wave, while the statement indicates a passive activity on the beach.
+8. The premise's focus on "incoming wave" does not have a syntactic counterpart in the statement's description of the beach setting.
+9. The structural roles of the subjects differ, with "boys" actively positioned against a wave, while the statement's "people" are passively sitting, preventing rephrasing.
+10. The statement's setting of "on the beach" does not syntactically rephrase "against an incoming wave" in the premise.

@@ -1,0 +1,8 @@
+The young man carrying a skateboard in the premise is the same as the guy with a skateboard in the hypothesis.
+The outdoor skateboard park in the premise is the same as the park to skateboard in the hypothesis.
+The young man in the premise is referred to as the guy in the hypothesis.
+The skateboard park mentioned in the premise is referred to as the park to skateboard in the hypothesis.
+The reference to carrying a skateboard in the premise correlates with having a skateboard in the hypothesis.
+The looking at an outdoor skateboard park in the premise is equivalent to looking at a park to skateboard in the hypothesis.
+The young man in the premise is the person referred to as a guy in the hypothesis.
+The skateboard park in the premise is the same location referred to as the park to skateboard in the hypothesis.

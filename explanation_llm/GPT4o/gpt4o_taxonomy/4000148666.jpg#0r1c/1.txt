@@ -1,0 +1,8 @@
+- Young boys refers to the same individuals in both the premise and the statement, but they are engaged in different activities.
+- The soccer ball in the premise is not the same object as the baseball mentioned in the statement.
+- The activity of kicking in the premise refers to the same individuals as the activity of throwing in the statement, but the activities are different.
+- The premise mentions soccer games taking place in the background, which conflicts with the statement referring to a baseball field.
+- The reference to jerseys in the premise implies a soccer setting, which is inconsistent with the baseball context in the statement.
+- The term "soccer ball" in the premise does not corefer with "baseball" in the statement, indicating different objects being used.
+- Green and blue jerseys in the premise do not corefer or imply any connection to activities described in the statement as taking place at a baseball field.
+- The boys in the premise are engaged in soccer-related activities, whereas the statement refers to baseball-related activities, implying a contradiction in the setting and actions.

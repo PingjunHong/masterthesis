@@ -1,0 +1,5 @@
+1. The action described in the content explicitly states that the man is "riding" a bike, which matches the action mentioned in the statement.
+2. The content specifies that the object being ridden is a "bike," which directly corresponds to the bike referenced in the statement.
+3. Though additional details are provided in the content (e.g., the man is touching his nose and wearing a tunic), these do not contradict the fact that the man is riding a bike.
+4. The location and context (e.g., in front of a sandstone wall) are irrelevant to the core entailment of the man riding a bike.
+5. The use of "man" in both the content and the statement ensures that the subject performing the action is the same.

@@ -1,0 +1,7 @@
+1. The premise mentions a "young man," while the statement mentions "a girl," indicating a contradiction in gender.
+2. The premise describes the person as "carrying a skateboard," whereas the statement describes someone "riding a bike," representing a contradiction in activity.
+3. The premise does not mention a bike, while the statement specifically involves "riding a bike," suggesting a contradiction in transportation.
+4. The premise refers to "an outdoor skateboard park," whereas the statement just mentions "a park," implying a setting difference.
+5. The premise describes the person as "wearing black," but the statement does not mention color, indicating a mismatch in attire descriptions.
+6. The premise lacks any mention of a "ponytail," which is specifically included in the statement, contributing to a contradiction in appearance.
+7. The statement includes "riding a bike," which contradicts the premise's focus on a person "carrying a skateboard," indicating different equipment.

@@ -1,0 +1,10 @@
+1. The statement specifies "guitar," which is a general term that includes "electric guitar."
+2. The content provides a specific instance (electric guitar) that falls under the general category mentioned in the statement (guitar).
+3. The statement does not contradict or exclude the possibility of the guitar being electric.
+4. The core action ("playing") and setting ("on stage") are identical in both the content and the statement.
+5. The subject ("a man") remains unchanged between the content and the statement.
+6. The statement is a broader, less specific version of the content, making the entailment valid.
+7. Removing the detail "electric" from the content does not alter the truth of the statement.
+8. The statement captures the essential information of the content without requiring additional specificity.
+9. The content satisfies all conditions implied by the statement.
+10. The relationship between "electric guitar" and "guitar" is hierarchical, ensuring entailment.

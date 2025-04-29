@@ -1,0 +1,5 @@
+1. The term **black man** entails a **man**, as "black" specifies additional detail but does not negate the fact that the person is a man.
+2. The **down jacket** is a specific type of **jacket**, so the more general term "jacket" is entailed by the more specific term "down jacket."
+3. The act of **holding a pink comb** entails **holding a comb**, as the color "pink" is an additional detail but does not contradict the general action of holding a comb.
+4. The description of "arms spread" is not mentioned in the statement, but its omission does not contradict the entailment, as it is not essential to the described action.
+5. The statement simplifies the original content without introducing any conflicting information, which preserves entailment.

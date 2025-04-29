@@ -1,0 +1,10 @@
+1. The premise mentions a woman standing with a child, but it does not specify the relationship between them, so the child may not be her own.
+2. The hypothesis assumes that the child is hers, but the premise only indicates that they are standing together, not their relationship.
+3. There is no information in the premise to confirm that the woman is the mother of the child.
+4. The statement introduces a familial relationship not mentioned or confirmed in the premise.
+5. The premise does not provide evidence that the woman and the child are related, leaving the possibility open but unconfirmed.
+6. The hypothesis suggests ownership or guardianship that the premise does not address or imply.
+7. The relationship between the woman and the child is not specified in the premise, so the hypothesis extends beyond the given information.
+8. The premise describes the scene without indicating any familial ties between the woman and the child.
+9. The child could be anyone's, as the premise lacks any detail on who the child belongs to.
+10. The assumption that the child is her own is not supported by the premise, which merely states their physical proximity.

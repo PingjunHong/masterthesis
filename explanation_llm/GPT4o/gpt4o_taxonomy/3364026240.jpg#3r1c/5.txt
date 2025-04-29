@@ -1,0 +1,10 @@
+1. The premise mentions a snowboarder, but does not mention a snowmobile, so the hypothesis introduces new information not present in the premise.
+2. The premise describes a wide plain of snow, but does not indicate any specific weather conditions such as a blizzard, which is introduced in the hypothesis.
+3. The presence of a snowboarder does not imply the presence of a snowmobile, as the two are distinct entities and the premise does not mention the latter.
+4. The hypothesis suggests snowy weather conditions like a blizzard, yet the premise only describes a wide plain of snow without specifying any adverse weather.
+5. There is no mention of a snowmobile in the premise, thus the hypothesis includes elements not supported by the given information.
+6. The premise lacks any mention of a blizzard, so the hypothesis adds a detail that is not supported by the premise.
+7. The premise focuses on an individual snowboarder, whereas the hypothesis shifts focus to a snowmobile, which is not mentioned or implied in the premise.
+8. Although both statements involve snow, the premise does not provide evidence to support the occurrence of a blizzard as stated in the hypothesis.
+9. The hypothesis introduces the concept of a snowmobile, which is not entailed by the premise's description of a snowboarder.
+10. The wide plain of snow in the premise does not inherently suggest a blizzard, which is an additional detail not mentioned or implied.

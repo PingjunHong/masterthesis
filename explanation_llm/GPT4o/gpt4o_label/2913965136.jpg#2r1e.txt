@@ -1,0 +1,5 @@
+1. The statement "the boy gets ready" is a subset of the content "The little boy gets ready to kick the soccer ball," focusing on the action of getting ready.
+2. The content explicitly mentions the boy preparing for an action, which directly supports the statement that he "gets ready."
+3. The statement can be inferred as true because it captures the essential activity described in the content, omitting specific details like "little" and "kick the soccer ball."
+4. The action of getting ready is a necessary component of the more detailed activity described in the content, meaning the statement is entailed by the content.
+5. The statement is a generalization of the content, and since the content provides a specific instance of the boy getting ready, the generalization is true.

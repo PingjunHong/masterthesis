@@ -1,0 +1,10 @@
+1. Jumping over an obstacle requires the dog to be airborne at some point during the action.
+2. Gravity and the act of jumping inherently involve the dog being lifted off the ground temporarily.
+3. The physical act of jumping necessitates that the dog is not touching the ground for a moment.
+4. In the process of jumping, the dog propels itself into the air to clear the obstacle.
+5. The trajectory of a jump includes a phase where the dog is elevated above the ground level.
+6. Jumping involves acceleration that lifts the dog into the air, consistent with the laws of motion.
+7. The definition of jumping includes being in the air as part of clearing an obstacle.
+8. The natural sequence of jumping involves the dog being airborne as it surpasses the obstacle.
+9. A successful jump over an obstacle means the dog is elevated, aligning with the description of being in the air.
+10. The mechanics of jumping, involving lift and propulsion, inherently place the dog in the air.

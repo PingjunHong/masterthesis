@@ -1,0 +1,5 @@
+1. The word "**Two**" in the content matches the word "**two**" in the statement, indicating the same quantity of individuals.
+2. The phrase "**strong**" in the content matches "**strong**" in the statement, referring to the physical strength of the men.
+3. The word "**men**" in the content matches "**men**" in the statement, confirming the gender and plurality of the individuals.
+4. The verb "**work**" in the content aligns with "**working**" in the statement, with "work" and "working" being different forms of the same action.
+5. Both the content and the statement describe the same individuals performing an action (sawing a log), ensuring semantic consistency.

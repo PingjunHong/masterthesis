@@ -1,0 +1,8 @@
+- A person above a metro entrance is near a metro station.
+- Metro entrances are part of metro stations.
+- Standing and resting can occur in the same location, indicating proximity.
+- Metro stations have entrances, so being above an entrance implies nearness to the station.
+- Orange clothing does not affect the location relative to the metro station.
+- Being above an entrance is spatially close to the station itself.
+- Metro entrances are typically located at or near metro stations.
+- Resting above a metro entrance suggests proximity to the metro station without specifying the exact posture.

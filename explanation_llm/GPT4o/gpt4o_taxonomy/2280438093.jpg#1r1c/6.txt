@@ -1,0 +1,12 @@
+1. Singers are not necessarily bagpipe players.
+2. Singing and playing bagpipes are different activities.
+3. The premise specifies singers, not instrumentalists.
+4. Bagpipe performance is not mentioned in the context of singers.
+5. The roles of singers and bagpipe players do not overlap unless specified.
+6. The premise does not indicate the presence of bagpipes.
+7. Singers are typically associated with vocal performance, not playing instruments.
+8. The statement introduces a new element (bagpipes) not present in the premise.
+9. The logical structure of singers implies vocal performance, conflicting with instrumental performance.
+10. The premise's focus on vocal performers excludes the hypothesis's focus on instrumental performance.
+11. No mention of instruments in the premise suggests only singing occurs.
+12. The premise's description of vocal performers does not include instrumental actions.

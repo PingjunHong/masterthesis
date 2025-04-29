@@ -1,0 +1,9 @@
+1. The premise describes people using a rope to jump over a mountain crevasse, while the statement suggests they are using a slide, which is not mentioned in the premise.
+2. The statement introduces the concept of a slide, which is not supported by the premise that only mentions jumping with a rope.
+3. There is no evidence in the premise of a slide being used to cross the crevasse, making the statement unsupported.
+4. The premise does not include any mention or implication of a slide being present or used, contradicting the statement.
+5. The method of crossing the crevasse in the statement (using a slide) is different from what is described in the premise (using a rope), and there is no mention of a slide in the premise.
+6. The premise only supports the idea of using a rope, leaving the statement about sliding unsubstantiated by the given information.
+7. The presence of a slide is not entailed or suggested in the premise, which focuses solely on the use of a rope for jumping over the crevasse.
+8. The statement assumes additional equipment (a slide) that is not addressed or implied in the premise, leading to a lack of supporting evidence.
+9. The action described in the statement (sliding) is not mentioned or aligned with the action in the premise (jumping), resulting in a contradiction.

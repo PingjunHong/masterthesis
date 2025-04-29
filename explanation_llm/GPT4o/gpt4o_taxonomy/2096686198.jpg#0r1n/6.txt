@@ -1,0 +1,10 @@
+1. The premise does not mention any recording equipment or activity suggesting a tutorial.
+2. The premise includes two men, but there is no indication they are involved in a cooking tutorial.
+3. The statement implies a specific activity (recording) not evidenced in the premise.
+4. The presence of a camera in the premise does not necessarily imply a tutorial is being recorded.
+5. The premise describes the young man looking at the camera, not necessarily indicating recording.
+6. The roles of the individuals (e.g., instructor or assistant) in a cooking tutorial are not specified in the premise.
+7. The premise does not mention the intent or purpose behind the men's actions, such as making a tutorial.
+8. The description of the men's actions does not match the structured activity typically involved in a cooking tutorial.
+9. The setting described in the premise does not confirm a filming or tutorial environment.
+10. The presence of two men in the premise does not confirm they are participating in a specific activity like a tutorial.

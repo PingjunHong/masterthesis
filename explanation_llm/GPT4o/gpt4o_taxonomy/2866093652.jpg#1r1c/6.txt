@@ -1,0 +1,10 @@
+1. The number of men mentioned in the statement does not match the number of women in the premise.
+2. The premise specifies women, whereas the statement specifies men, creating a gender conflict.
+3. The premise refers to women, while the statement refers to men, indicating a contradiction in gender.
+4. The structural exclusivity between 'women' in the premise and 'men' in the statement leads to a contradiction.
+5. The premise implies female participants, while the statement implies male participants, resulting in a gender mismatch.
+6. The statement's quantifier "four men" conflicts with the premise's quantifier "four women."
+7. The logical structure of the premise excludes men, whereas the statement includes men.
+8. The premise and the statement disagree on the gender of the rollerskaters, leading to a contradiction.
+9. The premise describes a scenario involving women, but the statement incorrectly describes men.
+10. The premise and statement present mutually exclusive gender participants, causing a contradiction.

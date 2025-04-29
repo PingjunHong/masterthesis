@@ -1,0 +1,5 @@
+1. Standing is not walking.
+2. On a lift is not at home.
+3. Workers cannot stand on a lift and walk home simultaneously.
+4. Being on a lift and walking home are mutually exclusive activities.
+5. Workers cannot be in two places at once: on a lift and walking home.

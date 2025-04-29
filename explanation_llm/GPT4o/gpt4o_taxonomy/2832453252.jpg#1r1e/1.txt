@@ -1,0 +1,8 @@
+- The children in the statement refers to the four children in the premise.
+- The children mentioned as being wet are the same four children playing in some water.
+- Wetness of the children is inferred from the children playing in water.
+- The children in the hypothesis are the same as the four children referenced in the premise.
+- The children are wet because they are the ones playing in the water.
+- The children who are wet are the four children referenced as playing in the water.
+- The reference to the children in both the premise and hypothesis resolves to the same group of four children.
+- The statement about the children being wet pertains to the four children playing in the water from the premise.

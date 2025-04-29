@@ -1,0 +1,10 @@
+1. The approaching wave refers to the wave that is about to hit the boys.
+2. The boys in the statement refers to the four boys mentioned in the premise.
+3. The wave in the hypothesis is the same wave referenced as approaching in the premise.
+4. The phrase "about to be hit" indicates an imminent event involving the wave and the boys, contradicting the wave missing them.
+5. The term "wave" in both the premise and hypothesis refers to the same object, creating a contradiction with the action described.
+6. The reference to "the boys" in both statements indicates they are the same group involved with the wave.
+7. "Approaching wave" implies an unavoidable impact, contradicting the claim that the wave missed.
+8. The coreference of "wave" in the premise and statement establishes that it is the same wave, leading to a contradiction.
+9. The use of "missed" contradicts the imminent impact implied by "about to be hit," resolving the coreference between the wave and the boys.
+10. The reference of "four boys" aligns with "the boys" in the hypothesis, confirming the same individuals are involved in the contradiction.

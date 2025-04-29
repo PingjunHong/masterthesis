@@ -1,0 +1,10 @@
+1. "A man" in the premise does not necessarily refer to "a father" in the statement.
+2. "A child" in the premise does not necessarily refer to "his daughter" in the statement.
+3. The relationship between "a man" and "a child" in the premise is not specified as a father-daughter relationship.
+4. The premise does not specify the familial relationship between the individuals involved.
+5. The reference to "a man" in the premise might not be the same as "a father" in the statement.
+6. The premise mentions "a child," but it does not specify the gender or relationship to "a man."
+7. The possessive pronoun "his" in the statement does not have a clear antecedent in the premise.
+8. The premise does not indicate that the child is related to the man as a daughter.
+9. The premise and statement use different terms that do not necessarily co-refer, such as "a man" and "a father."
+10. The premise lacks information to confirm "the child" is "his daughter" as mentioned in the statement.

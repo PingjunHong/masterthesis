@@ -1,0 +1,9 @@
+1. The "three firefighters" in the statement refers to the same "three firefighters" in the premise, but their actions are different.
+2. The "subway station" in the statement is the same location as the "subway station" in the premise, but their contexts differ.
+3. The "firefighters" in the statement are the same individuals as the "firefighters" in the premise, yet their activities are not specified as related.
+4. The statement's "putting out a fire" action is not mentioned in the premise, which only describes the firefighters' location.
+5. The premise describes the firefighters' movement, while the statement describes an action not mentioned in the premise, thus not resolving to the same event.
+6. The two references to "subway station" resolve to the same place, but the events occurring inside and outside are not established as connected.
+7. The coreference of "three firefighters" is resolved, but their purposes as described in the premise and statement are different.
+8. The reference to "inside of a subway station" does not have a corresponding action in the premise, leading to a lack of entailment.
+9. Both references to the "subway station" relate to the same location, but neither confirms the same situation is occurring.

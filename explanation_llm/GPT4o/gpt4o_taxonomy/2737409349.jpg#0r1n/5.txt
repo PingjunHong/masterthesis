@@ -1,0 +1,10 @@
+1. The premise does not mention anything about the noise level of the construction, so we cannot determine if the man can hear it or not.
+2. There is no information in the premise about the soundproofing of the building, which could affect whether the man hears the construction.
+3. The premise doesn't specify if the man is inside or outside, which would influence his ability to hear the construction.
+4. The presence of the construction site is mentioned, but there's no detail about its proximity or the activity level, both of which are necessary to infer if the man can hear it.
+5. The premise does not provide any details about the man's hearing ability, so it is unclear if he can hear the construction noise.
+6. There is no indication in the premise of whether the man is using noise-canceling headphones or any other devices that might prevent him from hearing the construction.
+7. The premise does not mention whether the windows are open or closed, which could affect the man's ability to hear outside noise.
+8. The volume of the man's phone call or the sound from the laptop is not mentioned, which could potentially drown out construction noise.
+9. The time of day is not mentioned, and construction may not be active during certain hours, which affects the likelihood of the man hearing it.
+10. The premise does not specify if the construction is ongoing or if it's just a site, so the man might not hear any noise if no work is being done.

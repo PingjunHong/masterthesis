@@ -1,0 +1,7 @@
+- The dogs in the hypothesis refer to the three dogs in the premise, and running contradicts eating.
+- Three dogs refer to the same dogs mentioned in the hypothesis, and their action of running is incompatible with eating.
+- The reference to dogs in both the premise and hypothesis matches, but the actions described are contradictory.
+- The term "dogs" in the statement refers back to the "three dogs" in the premise, but the activity of running does not align with eating.
+- References to the dogs are consistent across both sentences, yet running through a field does not support the action of eating.
+- The coreference of "dogs" links the premise and statement, but the running action conflicts with the eating action.
+- The dogs mentioned in the hypothesis are the same as the three dogs in the premise, and running contradicts eating.

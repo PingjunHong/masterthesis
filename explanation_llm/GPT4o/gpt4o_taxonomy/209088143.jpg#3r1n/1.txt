@@ -1,0 +1,10 @@
+- "People" in the statement does not specify the same group of people depicted in the premise.
+- "A house party" in the premise does not resolve to "a Christmas themed party" in the statement.
+- "Getting drunk" in the premise does not imply "celebrating" as described in the statement.
+- "Here is a picture" does not provide details about the theme of the party, such as whether it was Christmas-themed.
+- "People" does not identify whether they were celebrating or simply present at the party in the premise.
+- "House party" does not necessarily mean it was themed around Christmas as suggested in the statement.
+- The premise lacks any indication of Christmas decorations or activities that would suggest the theme mentioned in the statement.
+- The premise's depiction of people "getting drunk" does not specify any festive occasion like Christmas.
+- "People getting drunk" might occur in various settings, not limited to a celebration context like Christmas-themed parties.
+- Specific references to "Christmas" are absent in the premise, making the statement's theme unverifiable.

@@ -1,0 +1,10 @@
+1. The premise mentions an older man, while the hypothesis introduces a young man, whose presence is not supported or mentioned in the premise.
+2. There is no evidence in the premise indicating that anyone is jogging, as it only describes a man leaning against a pedestal.
+3. The activity of jogging is not mentioned in the premise, which only describes a man standing still.
+4. The age of the man in the premise contradicts the age of the man in the hypothesis, with no supporting evidence for the presence of a young man.
+5. The premise does not provide any information about a young man, making the statement about a young man jogging unsupported.
+6. The premise describes an older man, which directly contradicts the hypothesis mentioning a young man, without any indication of a second person.
+7. The action of leaning in the premise contradicts the action of jogging in the hypothesis, with no mention of movement in the original content.
+8. The premise lacks any reference to a young man or the activity of jogging, making the hypothesis unsupported by the provided information.
+9. The hypothesis introduces a different individual and action that are not mentioned or implied in the premise.
+10. The description of the man in the premise does not align with the description in the hypothesis, as the premise focuses on an older man and the hypothesis on a young man.

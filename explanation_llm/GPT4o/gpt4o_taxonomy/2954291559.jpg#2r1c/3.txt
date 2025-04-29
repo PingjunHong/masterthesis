@@ -1,0 +1,5 @@
+1. The unemployed person is near a building implies that the person is not working, while a worker peers out from atop a building under construction implies the presence of a person engaged in work, creating a contradiction.
+2. A worker peers out from atop a building under construction involves a person actively engaged in construction work, whereas the unemployed person is near a building suggests that the person has no job, leading to a contradiction.
+3. The unemployed person is near a building suggests inactivity and lack of employment, while a worker peers out from atop a building under construction indicates active employment, resulting in a contradiction.
+4. The statement the unemployed person is near a building structurally suggests non-employment, conflicting with the premise where someone is actively working atop a building under construction.
+5. The unemployed person is near a building syntactically implies unemployment and proximity without engagement, contradicting the premise where a worker is actively involved in construction work.

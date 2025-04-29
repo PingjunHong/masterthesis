@@ -1,0 +1,5 @@
+1. "The" in the content sentence specifies a particular baby, which is the same baby referred to in the statement.
+2. "An" in the content sentence introduces the singular item of clothing, which aligns with "wearing" in the statement, indicating the baby is wearing the described dress.
+3. "Brown" in the content sentence is an additional detail about the dress, but does not contradict the statement that the baby is wearing orange.
+4. "Wearing" in the statement is consistent with "wears" in the content, both indicating the baby is clothed in the described dress.
+5. "Orange" in the statement directly matches part of the color description "orange and brown" from the content, confirming the entailment regarding the dress's color.

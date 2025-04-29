@@ -1,0 +1,8 @@
+1. The premise does not mention any construction occurring, which means the semantic content of "as construction occurs" in the statement is not entailed by the premise.
+2. The word "occurs" suggests an ongoing action, which is not supported by any information in the premise.
+3. The premise describes the boy's action without specifying any surrounding activities, such as construction.
+4. The semantic addition of "construction" adds an element that is not referenced or implied in the premise.
+5. The term "construction" introduces a new scenario that is absent from the premise, making it not directly inferable.
+6. The situation described in the statement could happen without any construction activity, which is not contradicted but also not confirmed by the premise.
+7. The premise focuses solely on the physical action of holding onto the wall, without any context or details about construction.
+8. The absence of any mention of construction in the premise means that the additional detail in the statement is neither confirmed nor denied.

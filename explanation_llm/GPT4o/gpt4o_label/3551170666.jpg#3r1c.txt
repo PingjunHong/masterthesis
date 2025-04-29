@@ -1,0 +1,3 @@
+- A golden retriever is a dog, not a cat.
+- The statement specifies a cat, whereas the content specifies a golden retriever.
+- Cats and golden retrievers are different species.

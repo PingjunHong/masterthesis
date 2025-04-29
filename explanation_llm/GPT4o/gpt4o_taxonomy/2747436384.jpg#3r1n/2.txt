@@ -1,0 +1,10 @@
+1. The premise mentions "boys with their backs against an incoming wave," which does not specify any activity such as playing.
+2. The phrase "boys with their backs against an incoming wave" does not imply that they are engaged in play.
+3. The premise describes a static position ("backs against an incoming wave") rather than an action like playing.
+4. The term "incoming wave" suggests a natural event but does not indicate any playful interaction with the ocean.
+5. "Boys" are mentioned specifically, while the hypothesis refers to a "group of people," which may include individuals other than boys.
+6. The premise focuses on location and positioning against a wave, whereas the hypothesis implies active engagement in the ocean.
+7. The word "against" in the premise suggests a stance or position rather than the playful action implied by "play" in the hypothesis.
+8. The hypothesis involves being "in the ocean," but the premise only indicates proximity to an incoming wave, which does not necessarily mean being in the ocean.
+9. The premise does not include any verbs that suggest action or play, unlike the hypothesis.
+10. The word "wave" in the premise describes a physical feature but doesn't convey any action related to playing.

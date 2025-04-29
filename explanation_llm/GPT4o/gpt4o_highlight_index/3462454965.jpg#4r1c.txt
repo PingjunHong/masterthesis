@@ -1,0 +1,4 @@
+- Running through a field implies active movement, while eating implies being stationary.
+- Dogs that are running would not typically be eating simultaneously.
+- The act of running requires exertion and focus, which is incompatible with the process of eating.
+- Running suggests a state of motion, whereas eating suggests a state of rest or pause.

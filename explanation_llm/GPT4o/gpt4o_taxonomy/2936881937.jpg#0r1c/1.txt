@@ -1,0 +1,8 @@
+1. "A man" refers to the same individual in both the premise and hypothesis, but their locations contradict each other.
+2. The premise describes the man inside the garage, while the hypothesis describes him outside, indicating a contradiction in location.
+3. "A man" in the premise is engaged in an activity inside the garage, whereas the hypothesis suggests he is outside, conflicting with his described position.
+4. The reference to "a garage" in both statements involves different spatial relations; inside in the premise and outside in the hypothesis, leading to contradiction.
+5. The same man is referenced in both statements, but the premise shows him inside the garage, conflicting with the hypothesis stating he is outside.
+6. "A man" is identified in both the premise and hypothesis, with the premise placing him inside the garage, contradicting the hypothesis that places him outside.
+7. The man is inside a maintenance garage according to the premise, while the hypothesis incorrectly states he is outside, contradicting the spatial aspect.
+8. The coreference of "a man" in both the premise and hypothesis results in a contradiction due to differing spatial descriptions.

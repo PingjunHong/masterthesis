@@ -1,0 +1,7 @@
+1. **Metro entrance** contradicts **baseball game** because they refer to entirely different locations.
+2. **Resting above** contradicts **sitting at** because the actions imply different body positions and spatial contexts.
+3. **Orange clothing** contradicts the lack of mention of clothing in the statement, which could imply a different visual scene.
+4. **Metro entrance** contradicts **baseball game** because a metro entrance is unrelated to the context of a sports event.
+5. **Above** contradicts **at** because they describe different spatial relationships to the location.
+6. **Metro entrance** contrasts with **baseball game** as the metro is typically associated with transportation, not sports events.
+7. **Resting** contradicts **sitting** because resting implies a more passive state, whereas sitting could imply active engagement, such as watching a game.

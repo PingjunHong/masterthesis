@@ -1,0 +1,6 @@
+1. Not all library steps are located inside the library.
+2. Library steps can be outside the building.
+3. Libraries often have steps leading up to the entrance, which can be outside.
+4. Steps are not exclusively found inside buildings; they can be exterior features.
+5. The architectural design of libraries can include both interior and exterior steps.
+6. A library can have steps at the entrance that are outside, not inside.

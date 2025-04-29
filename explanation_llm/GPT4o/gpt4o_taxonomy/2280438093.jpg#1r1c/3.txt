@@ -1,0 +1,8 @@
+1. The performers are playing bagpipes implies they are musicians, contradicting the premise that specifies they are singers.
+2. Playing bagpipes involves musical performance, which contradicts the premise that they are singers.
+3. The performers are playing an instrument, which contradicts the premise where they are described as singers.
+4. Performing with bagpipes involves instrumental music, which contrasts with the premise's description of the performers as singers.
+5. The premise specifies performance by singers, while the statement suggests they are instrumentalists.
+6. Singing does not involve playing instruments like bagpipes, which contradicts the statement.
+7. The statement describes instrumental performance, which contradicts the description of singers in the premise.
+8. The premise identifies the individuals as singers, whereas the statement identifies them as bagpipe players.

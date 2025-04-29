@@ -1,0 +1,4 @@
+1. The highlighted word "**man**" in the content directly matches the subject "**man**" in the statement.
+2. The adjective "**black**" in the content describing the shirt matches the color "**black**" in the statement.
+3. The noun "**shirt**" in the content matches the same clothing item "**shirt**" mentioned in the statement.
+4. The description "a man in a black shirt" in the content implies the existence of a man wearing a black shirt, which is explicitly stated in the statement.

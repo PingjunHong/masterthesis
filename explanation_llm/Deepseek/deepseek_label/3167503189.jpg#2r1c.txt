@@ -1,0 +1,10 @@
+1. The content specifies a boy, not a girl.
+2. The boy is holding onto the wall, not leaning against it.
+3. The wall is part of an old brick house's raised foundation, not a general wall.
+4. The action described in the content is "holding onto," not "leaning against."
+5. The subject's gender in the content contradicts the statement.
+6. The posture in the content (holding) differs from the statement (leaning).
+7. The context (raised foundation of an old brick house) is not mentioned in the statement.
+8. The statement does not match the specific details of the content.
+9. The agent and action in the content and statement are mismatched.
+10. The statement introduces a different scenario not supported by the content.

@@ -1,0 +1,10 @@
+1. A person outside pushing a stroller is a rephrase of, A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.
+2. The phrase "pushing a baby stroller down the street" can be rephrased as "pushing a stroller outside."
+3. The premise indicates a person is outside, which can be rephrased in the hypothesis as "a person outside."
+4. The structural rephrasing from "pushing a baby stroller down the street" to "pushing a stroller" maintains the meaning.
+5. "A person dressed in a dress with flowers and a stuffed bee attached to it" implies the person is outside, aligning with "A person outside" in the hypothesis.
+6. The activity described in the premise, "pushing a baby stroller," is structurally simplified in the hypothesis to "pushing a stroller."
+7. The premise's location "down the street" implies the person is outside, which is captured in the hypothesis as "outside."
+8. Rephrasing "a baby stroller" to "a stroller" maintains the meaning while simplifying the structure in the hypothesis.
+9. Coordination of actions in the premise, "pushing a baby stroller," is syntactically simplified to "pushing a stroller" in the hypothesis.
+10. The structural alternation from "down the street" in the premise to "outside" in the hypothesis conveys the same meaning.

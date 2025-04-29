@@ -1,0 +1,5 @@
+1. The crowd of people in the statement refers to the crowd of people mentioned in the premise.
+2. Shopping in the statement refers to the shopping activity of the crowd in the premise.
+3. The people mentioned in the statement are the same people referred to as the crowd in the premise.
+4. The street market mentioned in the premise is the context where the shopping in the statement is taking place.
+5. The urban area with buildings and a statue in the background provides the setting for the shopping mentioned in the statement.

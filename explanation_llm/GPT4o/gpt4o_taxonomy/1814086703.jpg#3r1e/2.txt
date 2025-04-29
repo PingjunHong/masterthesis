@@ -1,0 +1,10 @@
+1. Running together implies that the dogs are indeed running.
+2. The action of running near leaves confirms the dogs are in motion.
+3. The verb "run" in the premise is synonymous with "are running" in the hypothesis.
+4. "Together" does not change the fact that both dogs are engaged in running.
+5. The premise indicates an ongoing action, which aligns with the continuous form "are running" in the hypothesis.
+6. The inclusion of "near the leaves" provides context but does not alter the action of running.
+7. "Two dogs run" directly translates to "Two dogs are running" due to synonymous verb usage.
+8. The presence of "leaves" does not affect the interpretation of the dogs' action as running.
+9. The word "run" in the premise equates to "are running" in the hypothesis, both indicating movement.
+10. The premise confirms the action "run," which semantically matches "are running" in the hypothesis.

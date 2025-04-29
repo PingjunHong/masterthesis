@@ -1,0 +1,4 @@
+1. "Duck" is a type of "animal."
+2. The presence of a single "duck" implies there is "one" animal.
+3. The description does not mention any other animals, supporting the idea of "one" animal.
+4. The "wings" and "water" context align with the behavior of a "duck," reinforcing it as the sole animal in the scene.

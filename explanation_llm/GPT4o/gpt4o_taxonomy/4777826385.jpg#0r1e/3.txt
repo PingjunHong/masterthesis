@@ -1,0 +1,5 @@
+1. An older man leans outside a building is a rephrase of An older man leans against a pedestal outside of an ornate building.
+2. The phrase outside an ornate building can be structurally simplified to outside a building.
+3. The structure of the premise includes the detail of the pedestal and ornate aspect of the building, which can be omitted while retaining the core meaning that the man is outside a building.
+4. An older man leans outside a building is a syntactic alternation of the more detailed original premise.
+5. The hypothesis maintains the same core subject and action as the premise, with a simplified description of the building.

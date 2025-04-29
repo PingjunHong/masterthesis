@@ -1,0 +1,8 @@
+1. A sedan is a type of car, but not all cars are sedans, so it is unclear if the Ford car is a sedan.
+2. The statement refers to a "corner," whereas the premise mentions a "right turn," which may not imply the same location.
+3. The term "walkers" is used in the statement without specifying gender, conflicting with the premise's mention of "3 males."
+4. The temporal aspect of "as walkers were crossing" does not specify the same timing as "walking across the street behind the car," leading to potential ambiguity.
+5. "A Ford car" in the premise does not exclusively mean it must be a sedan, leading to possible logical exclusivity issues.
+6. The number of walkers is not specified in the statement, conflicting with the mention of "3 males" in the premise.
+7. The statement lacks specific details about the direction of the turn, which could lead to a structural logical conflict with the premise's "right turn."
+8. The premise specifies "behind the car," whereas the statement does not specify the relative position of the walkers to the car.

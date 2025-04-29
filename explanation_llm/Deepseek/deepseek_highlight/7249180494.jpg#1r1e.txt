@@ -1,0 +1,7 @@
+1. "The man" in the content refers to "a person" in the statement, establishing a direct correspondence.
+2. "in the black wetsuit" is a descriptive detail that does not contradict or alter the core action of "a person walking out of water."
+3. "is walking out of the water" in the content matches the action "is walking out of water" in the statement, confirming the same event.
+4. The highlighted words in the content ("The man in the black wetsuit is walking") collectively support the highlighted word in the statement ("person"), as they describe an instance of a person performing the action.
+5. The absence of conflicting information between the content and the statement ensures the entailment holds.
+6. The statement generalizes the specific details of the content (e.g., "man" to "person," omitting "black wetsuit"), but the core meaning remains consistent.
+7. The action and direction ("walking out of water") are identical in both sentences, reinforcing the entailment.

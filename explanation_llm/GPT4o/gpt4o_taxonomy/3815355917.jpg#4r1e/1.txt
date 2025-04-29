@@ -1,0 +1,8 @@
+The car refers to the car loaded with items on the top.
+Items on the top refers to stuff on top of the car.
+The car having stuff on top is equivalent to the car being loaded with items on the top.
+Stuff on top refers to items that are loaded on the car.
+The car is the same car referenced as being loaded with items.
+Stuff on top of the car refers to the items described as being loaded on the top of the car.
+Items on the top of the car are the same as the stuff mentioned as being on top.
+The car mentioned in the hypothesis is the same car that is loaded with items on the top.

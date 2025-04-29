@@ -1,0 +1,6 @@
+1. "Dog" is a specific type of "animal," so the subject "dog" entails "animal."
+2. "Jumping" implies that the animal is actively playing, which aligns with "playing."
+3. "Frisbee" is commonly made of "plastic," so "Frisbee" entails "plastic toy."
+4. "Snow" implies "outside" since snow is typically found outdoors.
+5. "Snow" indicates "cold weather" because snow forms in cold conditions.
+6. "A Frisbee" aligns with "a plastic toy" as both refer to a singular object.

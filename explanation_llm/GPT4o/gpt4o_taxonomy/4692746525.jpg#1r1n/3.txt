@@ -1,0 +1,10 @@
+1. "An angry military veteran watches as people protest the war" does not structurally rephrase "A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons."
+2. "A frowning old man in a military cap and a civilian suit" and "An angry military veteran" are not syntactic rephrasings of each other.
+3. The premise describes a man standing amongst a crowd with signs and balloons, but this is not syntactically rephrased as watching a protest in the hypothesis.
+4. The structural elements of "stands amongst a crowd of people outdoors" do not rephrase to "watches as people protest the war."
+5. The phrase "carrying signs and balloons" is not syntactically equivalent to "protest the war."
+6. "A frowning old man in a military cap and a civilian suit" is not a syntactic alternation of "an angry military veteran."
+7. The structure of "a crowd of people outdoors" does not rephrase to "people protest the war."
+8. "Stands amongst a crowd" and "watches as people protest" are not subordinates or alternations of one another.
+9. The presence of "signs and balloons" does not have a syntactic rephrasing in "protest the war."
+10. "A frowning old man" does not syntactically equate to "An angry military veteran."

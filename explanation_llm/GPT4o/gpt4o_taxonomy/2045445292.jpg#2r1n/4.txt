@@ -1,0 +1,10 @@
+1. The premise mentions a log, but does not specify the type of wood, so the hypothesis about "oak log" introduces new information.
+2. The premise states that the men are sawing a log, but does not specify the type of log, leaving the hypothesis about it being an oak log unsupported directly by the premise.
+3. The content only mentions "a log," making the hypothesis specific about "oak log" not logically implied by the premise.
+4. The term "log" in the premise is nonspecific, which means the hypothesis's specification of "oak log" cannot be inferred directly from the premise's information.
+5. The semantic structure of the premise does not indicate any particular type of log, so the hypothesis's claim about an "oak log" remains neutral due to lack of explicit mention.
+6. The premise describes the action of sawing a log but does not provide details about the log's material, hence the hypothesis about it being oak is not logically deduced from the premise.
+7. The premise does not include any descriptors that identify the log as an oak log, making the hypothesis's specification not derivable from the given information.
+8. The premise's reference to "a log" is generic and does not imply the particularity of the log being oak, keeping the hypothesis neutral in its specificity.
+9. The logical implications embedded in the premise do not include information about the type of log, rendering the hypothesis's mention of an "oak log" as an addition rather than an inference.
+10. Without explicit mention of wood type in the premise, the hypothesis’s claim about the log being oak cannot be inferred directly, maintaining neutrality.

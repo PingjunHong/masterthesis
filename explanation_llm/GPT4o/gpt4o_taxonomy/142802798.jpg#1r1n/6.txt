@@ -1,0 +1,10 @@
+1. The premise does not mention the boy's hair length, creating a structural logical exclusivity.
+2. The speed of the skateboard is not specified in the premise, leading to a quantifier conflict.
+3. The action of riding is not explicitly stated in the premise, resulting in a structural logical exclusivity.
+4. The premise does not specify the pace of the skateboard, leading to a quantifier conflict.
+5. The premise does not mention if the skateboard is moving, resulting in a structural logical exclusivity.
+6. The premise does not indicate any motion or speed, which creates a temporal conflict with the hypothesis.
+7. The description of the boy's shirt color in the premise does not logically exclude any other shirt colors not mentioned in the hypothesis.
+8. The premise does not specify whether the boy is riding or standing still, resulting in a structural logical exclusivity.
+9. The premise does not indicate the condition or state of the wall, leading to a structural logical exclusivity.
+10. The hypothesis adds additional detail about the boy’s hair and speed that are not structurally exclusive to the premise.

@@ -1,0 +1,8 @@
+- A woman is weaving is a structural rephrasing of A woman wearing a bright orange blouse is weaving, focusing on the core action.
+- The statement simplifies the premise by omitting the descriptive detail about the blouse, yet retains the essential meaning.
+- Removing the detail about the blouse, A woman is weaving still accurately describes the action in the premise.
+- The premise includes additional descriptive information that does not alter the truth of the action described in the hypothesis.
+- The action of weaving is common to both the premise and the statement, with the premise adding non-essential descriptive detail.
+- The core action in both the premise and hypothesis is the same, despite the syntactic reduction in the hypothesis.
+- The premise and hypothesis both describe the same action, with the premise providing extra descriptive context.
+- The semantic content regarding the action of weaving is preserved in both the premise and the hypothesis, despite syntactic differences.

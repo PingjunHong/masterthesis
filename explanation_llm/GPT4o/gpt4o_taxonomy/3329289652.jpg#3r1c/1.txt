@@ -1,0 +1,8 @@
+1. "Boys" in the hypothesis refers to "the boys" in the premise, but their activities are different.
+2. "The boys" are playing with Legos in the premise, which contradicts "playing chess" in the hypothesis.
+3. "The boys" in the premise conflicts with "boys" playing chess in the hypothesis due to the different activities.
+4. The term "boys" is resolved as "the boys" from the premise, leading to a contradiction in activities.
+5. The reference "boys" matches "the boys" in the premise, creating a contradiction with the activity described.
+6. The premise involves "playing with Legos," contradicting the hypothesis where "boys" refers to playing chess.
+7. Resolving "boys" to "the boys" shows a contradiction between playing Legos and playing chess.
+8. "The boys" playing with Legos in the premise contradicts "boys" playing chess in the hypothesis due to differing references.

@@ -1,0 +1,5 @@
+1. "A man is wearing a red shirt" is a structural rephrase with a color contradiction of "A man in a black shirt is looking at a bike in a workshop."
+2. The description of the man's shirt as "red" contradicts the premise, which specifies the shirt is "black."
+3. The color "red" mentioned in the statement contrasts with the color "black" stated in the premise, indicating a contradiction.
+4. Rephrasing the color detail in the premise contradicts the statement's claim about the shirt's color.
+5. The structural rephrasing of the shirt's color from "black" to "red" results in a contradiction between the premise and the statement.

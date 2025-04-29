@@ -1,0 +1,6 @@
+1. If a dog is running on the grass, then it is not sleeping.
+2. If a dog is outdoors, then it is not in a basement.
+3. A dog cannot be in two places at the same time; therefore, if it is in front of a sidewalk, it cannot be in a basement.
+4. Running and sleeping are mutually exclusive activities; if a dog is running, then it cannot be sleeping.
+5. Being outdoors contradicts being inside a basement, as they are mutually exclusive locations.
+6. The action of running requires the dog to be awake, thus contradicting the state of being asleep.

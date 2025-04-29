@@ -1,0 +1,5 @@
+1. A young boy with close-cropped hair is rephrased as a small boy.
+2. Wearing a red robe is omitted in the hypothesis, which changes the specific visual details, leading to neutral.
+3. Holding a black kettle is rephrased as holds a kettle, which keeps the meaning but lacks the color detail, making it neutral.
+4. Someone is about to pour something in it is rephrased as the kettle will soon be filled with salsa, changing the unspecified substance to a specific one, thus making it neutral.
+5. The structural change from is holding a black kettle as someone is about to pour something in it to holds a kettle that will soon be filled with salsa alters the meaning by specifying salsa, resulting in a neutral label.

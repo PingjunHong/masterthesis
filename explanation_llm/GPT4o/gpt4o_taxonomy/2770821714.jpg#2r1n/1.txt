@@ -1,0 +1,9 @@
+The man, woman, and child refer to the family.
+The picture taken refers to posing.
+The mountains imply a vacation setting.
+The act of getting their picture taken refers to posing for a picture.
+The family refers to the group consisting of the man, woman, and child.
+The term "on vacation" links to the setting in front of the mountains.
+The act of posing is described by getting their picture taken.
+The individuals in the premise are collectively referred to as a family in the hypothesis.
+The setting in front of the mountains suggests a vacation, which is referenced in the hypothesis.

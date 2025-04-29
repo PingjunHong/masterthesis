@@ -1,0 +1,8 @@
+- "Several" implies at least some, so if several men are watching a sports game, then some men are watching.
+- Watching a sports game on television implies watching TV, since a sports game is being broadcast on TV.
+- The setting "at a bar" is consistent in both the premise and the hypothesis, confirming the location.
+- "Several men" includes "some men," as "several" is a quantifier that covers the meaning of "some."
+- A sports game is a type of content shown on TV, so watching a sports game on television involves watching TV.
+- The presence of "at a bar" in both the premise and hypothesis ensures the activity occurs in the same location.
+- The phrase "watch a sports game on the television" implies using the TV, which matches with "watching TV."
+- "Some men" is a subset of "several men," meaning if several men are performing an action, some of them definitely are.

@@ -1,0 +1,10 @@
+1. The premise does not specify the gender of the child, creating a gender conflict with the statement.
+2. The premise does not indicate the relationship of the adults to the child, so it is not clear if the child's mom is present.
+3. The statement specifies "her son," but the premise does not confirm the child's gender, resulting in a gender conflict.
+4. The premise does not state that the child's mother is among the adults, so there is no confirmation of her presence.
+5. The premise does not mention the presence of "friends," leading to a discrepancy in the statement.
+6. The statement implies the mother and friends are watching, but the premise does not specify any particular adult's focus or attention.
+7. The premise does not specify the number of adults, so it is unclear if the group includes the mother and her friends as described in the statement.
+8. The statement specifies the child is a "son," which may conflict with the premise, as the premise does not specify the child's gender.
+9. The statement indicates a specific relationship ("mom and her friends"), which is not confirmed in the premise.
+10. The premise does not provide any information about the adults' relationships, creating a logical structure conflict with the statement's familial and social roles.

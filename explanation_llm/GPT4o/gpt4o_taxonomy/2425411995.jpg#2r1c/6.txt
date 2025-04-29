@@ -1,0 +1,8 @@
+1. A woman cannot be Pete Sampras as Pete Sampras is a male.
+2. The person playing tennis in the content is a woman, while Pete Sampras is a man.
+3. The gender of the person in the content is female, but Pete Sampras is known to be male.
+4. The content involves a female tennis player, whereas Pete Sampras is a male tennis player.
+5. The premise involves a woman, while Pete Sampras's gender is male, creating a gender conflict.
+6. The content describes a woman playing tennis, which contradicts the statement that Pete Sampras, a male, is playing.
+7. The player's gender in the content is explicitly female, conflicting with the statement identifying the player as Pete Sampras, who is male.
+8. The gender in the premise (female) and the gender in the hypothesis (male, Pete Sampras) are mutually exclusive.

@@ -1,0 +1,9 @@
+1. The premise mentions an old woman in a jean jacket, but the hypothesis states she has no jacket, which is contradictory to the information provided in the premise.
+2. The premise clearly mentions that the old woman is wearing a jean jacket, so the absence of a jacket in the hypothesis is not supported by the premise.
+3. The hypothesis introduces the idea that the old woman is not wearing a jacket, which is not mentioned or supported in the premise, making it contradictory.
+4. The statement conflicts with the premise as the latter explicitly describes the old woman as wearing a jean jacket, which contradicts the hypothesis of her not having a jacket.
+5. The premise describes the attire of the old woman, specifically mentioning a jean jacket, thus the claim that she has no jacket lacks supporting evidence from the premise.
+6. The premise provides a visual description involving a jean jacket, directly opposing the hypothesis claim about the absence of a jacket.
+7. The information in the premise contradicts the hypothesis because the old woman's jean jacket is an essential part of the premise, which is ignored in the hypothesis.
+8. The hypothesis suggests an absence of a jacket, yet the premise includes specific details about the old woman's jean jacket, leading to a contradiction.
+9. The premise does not support the hypothesis since the old woman's attire, specifically the jean jacket, is explicitly mentioned, contradicting the statement.

@@ -1,0 +1,8 @@
+1. The children are at camp does not structurally rephrase many children play in the water.
+2. There is no syntactic alternation or structural rephrasing between many children play in the water and the children are at camp.
+3. The statement does not use coordination, subordination, or any syntactic transformation of the premise.
+4. The premise and the statement do not share equivalent structural elements that would make them syntactic rephrasings of each other.
+5. No syntactic pattern in the statement matches or alters the structure of the premise while retaining the same meaning.
+6. There is no syntactic structure in the statement that corresponds directly to the structure of the premise.
+7. The children are at camp introduces new elements not implied by a syntactic rearrangement of the premise.
+8. Neither the premise nor the statement rephrases or restructures the other syntactically while preserving identical content.

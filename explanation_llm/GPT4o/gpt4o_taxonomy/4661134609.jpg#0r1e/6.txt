@@ -1,0 +1,10 @@
+1. After a parade implies the parade has already occurred, matching the temporal context of the cleaners sweeping.
+2. The act of sweeping up animal feces suggests a post-event cleanup, aligning with the notion of "after a parade."
+3. "A group of cleaners" in both the premise and hypothesis indicates the same subject, creating no conflict.
+4. The presence of animal feces on the street suggests the aftermath of an event like a parade.
+5. "During a parade or festival" logically includes "after a parade" as the parade must finish at some point.
+6. The setting described in the premise inherently involves a time when the parade has concluded, consistent with "after a parade."
+7. The premise implies a logical sequence: a parade happens, and then the cleanup occurs, matching the statement's timeframe.
+8. The hypothesis's location context is consistent with the premise, as cleaning takes place on the street after the parade.
+9. The temporal sequence of events, from parade to cleaning, is entailed in both the premise and the statement.
+10. The hypothesis focuses on the time relative to the parade, which is logically covered by the premise's description.

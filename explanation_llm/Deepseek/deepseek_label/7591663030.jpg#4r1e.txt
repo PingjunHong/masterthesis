@@ -1,0 +1,10 @@
+1. "A guy" is synonymous with "a man," making the subjects equivalent.
+2. "Riding a motorcycle" in the content matches "riding a motorcycle" in the statement exactly.
+3. The location ("near junk cars") in the content is irrelevant to the truth of the statement, which only requires the action of riding.
+4. The statement is a simplified version of the content, omitting non-essential details without contradiction.
+5. The action described in the statement is fully supported by the action described in the content.
+6. No information in the content contradicts the statement.
+7. The statement captures the core event (a man riding a motorcycle) from the content without adding unsupported claims.
+8. The content provides sufficient evidence to conclude the statement is true.
+9. The statement is a direct extraction of key elements (subject + action) from the content.
+10. The generality of the statement (not specifying location or additional context) ensures it is entailed by the more specific content.

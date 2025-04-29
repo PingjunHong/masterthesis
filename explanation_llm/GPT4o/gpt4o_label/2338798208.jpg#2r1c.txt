@@ -1,0 +1,4 @@
+- The activities described are different; making cupcakes and going to the spa are distinct actions.
+- The locations implied by the activities are different; making cupcakes likely occurs in a kitchen or similar environment, while going to the spa implies a spa setting.
+- The temporal implication of the activities conflicts; both activities cannot logically occur at the same time.
+- The focus of the activities differ, with one centered on cooking and the other on relaxation or self-care.

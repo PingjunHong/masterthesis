@@ -1,0 +1,10 @@
+- The premise describes a man wearing a green cape, but the hypothesis introduces a red cape, which is not mentioned in the premise and thus contradicts the details provided.
+- The premise states the man wears a hat with two big feathers, whereas the hypothesis mentions a hat with three feathers, which is not supported by the premise and contradicts its description.
+- The hypothesis introduces a red cape as part of the attire, which is absent from the premise, leading to a contradiction due to the lack of supporting evidence.
+- The premise specifies two big feathers on the hat, but the hypothesis mentions three feathers, which contradicts the information provided in the premise due to the absence of mention.
+- The premise includes a green cape, while the hypothesis mentions a red cape, creating a contradiction because the color change is unsupported by the premise.
+- The premise clearly states two feathers on the hat, whereas the hypothesis adds an extra feather, which contradicts the premise's description.
+- The hypothesis alters the color of the cape from green to red, which is not mentioned in the premise, resulting in a contradiction due to the absence of supporting evidence.
+- The mention of three feathers in the hypothesis is not present in the premise, leading to a contradiction as the premise specifies only two feathers.
+- The premise does not include any mention of a red cape, which the hypothesis states, leading to a contradiction due to the absence of mention.
+- The hypothesis contradicts the premise by stating three feathers when the premise only supports two, due to the lack of supporting evidence.

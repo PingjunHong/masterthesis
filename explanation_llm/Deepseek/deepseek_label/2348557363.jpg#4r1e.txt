@@ -1,0 +1,10 @@
+1. The statement specifies "the child," which directly refers to "this child" in the content.
+2. "On the library steps" in the content is a subset of "on the steps" in the statement, as "library steps" are a specific type of steps.
+3. The location ("on the steps") in the statement is a general description that includes the more specific location ("on the library steps") in the content.
+4. The statement does not introduce any contradictory or additional information that conflicts with the content.
+5. The action ("is on") is identical in both the content and the statement.
+6. The subject ("child") remains unchanged between the content and the statement.
+7. The statement is a less detailed but logically consistent version of the content.
+8. No negation or uncertainty is introduced in the statement that would invalidate the entailment.
+9. The statement preserves the core meaning of the content while omitting only non-essential details (the type of steps).
+10. The relationship between the content and the statement satisfies the definition of entailment, where the truth of the content guarantees the truth of the statement.

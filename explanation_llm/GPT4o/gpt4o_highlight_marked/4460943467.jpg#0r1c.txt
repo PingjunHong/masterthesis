@@ -1,0 +1,4 @@
+1. The content describes the street as **quiet**, while the statement describes it as **busy**, which are contradictory attributes.
+2. The content specifies that the individuals are **standing**, whereas the statement claims they are **sitting**.
+3. The content mentions the individuals are wearing **hoods**, but the statement says they are **bareheaded**.
+4. The content refers to the location as the **middle of a street**, but the statement does not indicate that they are in the middle of the street.

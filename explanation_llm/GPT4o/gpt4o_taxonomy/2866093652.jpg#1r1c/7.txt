@@ -1,0 +1,10 @@
+1. Women are not men.
+2. The statement mentions men, but the premise involves women.
+3. Men and women are distinct genders.
+4. The premise specifies women, contradicting the statement's reference to men.
+5. Four women cannot be simultaneously four men.
+6. The gender of the skaters in the premise is exclusively female.
+7. The term 'women' excludes 'men' by definition.
+8. The presence of women in the premise means there cannot be men in the same context as described.
+9. The statement claims something about men, which is factually incorrect given the premise's description of women.
+10. The genders mentioned in the premise and the statement do not match.

@@ -1,0 +1,9 @@
+1. The premise describes the women walking on an icy road, while the statement highlights the potential danger of walking on the same icy road, involving different focuses.
+2. The premise focuses on the action of walking, while the statement emphasizes the condition and danger of the road, not directly rephrasing the same meaning.
+3. The premise mentions the road being icy, while the statement adds a subjective assessment of danger, introducing new information.
+4. The statement's focus on danger implies a risk assessment that is not explicitly stated in the premise, which only describes the setting.
+5. The premise describes an action taking place, whereas the statement provides a reasoned conclusion about the action without directly restating it.
+6. The statement interprets the icy condition as dangerous, which is an inference not explicitly drawn in the premise.
+7. The premise and statement have different emphases: one on the action of walking, the other on the potential risk, rather than rephrasing.
+8. The statement adds an evaluative layer (dangerous) not present in the purely descriptive premise, rather than being a direct syntactic alternation.
+9. The premise is a straightforward description, while the statement introduces an evaluative judgment about the conditions, not a structural rephrasing.

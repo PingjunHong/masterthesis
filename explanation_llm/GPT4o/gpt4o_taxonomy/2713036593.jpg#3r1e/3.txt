@@ -1,0 +1,10 @@
+1. A man is sleeping on the floor is a rephrase of A man is sitting on the floor, sleeping.
+2. The phrase sleeping on the floor structurally rephrases sitting on the floor, sleeping.
+3. The hypothesis reorders the elements of the premise without changing the meaning.
+4. The premise and hypothesis describe the same situation using different syntactic structures.
+5. Sleeping on the floor maintains the core meaning of sitting on the floor, sleeping by altering word order.
+6. The statement uses a syntactic alternation to convey the same information as the premise.
+7. The premise's description of the man's state and location is preserved in the hypothesis.
+8. The hypothesis rephrases the premise by changing the order of actions while preserving meaning.
+9. The action of sleeping is central in both the premise and hypothesis, just expressed differently.
+10. The premise and statement use syntactic variation to describe the man’s sleeping position.

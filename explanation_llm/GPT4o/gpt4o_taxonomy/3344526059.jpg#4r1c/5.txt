@@ -1,0 +1,10 @@
+1. The premise mentions a single hockey player, whereas the hypothesis refers to multiple players, which is not supported by the premise.
+2. The premise only describes a hockey player wearing a helmet, and there is no mention of any players taking rest.
+3. The hypothesis assumes multiple players are together, but the premise only mentions one player, leaving the presence of others unsupported.
+4. The proposition that the players are resting is not addressed in the premise, which only describes the presence of a hockey player in a helmet.
+5. The premise does not provide any information about the activity or state of the player, such as resting, making the hypothesis unsupported.
+6. The premise lacks any indication of time or action that would suggest players are resting, creating a contradiction with the hypothesis.
+7. The hypothesis introduces the concept of resting players, which is not mentioned in the premise containing a single hockey player.
+8. The premise focuses on a hockey player in a helmet without suggesting any context or setting related to player rest.
+9. The hypothesis implies a scenario with multiple players and a rest period, which the premise does not address or confirm.
+10. The available information in the premise does not entail or imply the resting state of players mentioned in the hypothesis.

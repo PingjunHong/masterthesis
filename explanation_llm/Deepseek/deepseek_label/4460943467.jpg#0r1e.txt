@@ -1,0 +1,8 @@
+1. "3 young man in hoods" matches "Three hood wearing people" in number and description.
+2. "standing in the middle of a quiet street" aligns with "stand in a street" in action and location.
+3. "facing the camera" is irrelevant to the statement, so its absence doesn’t affect entailment.
+4. "hoods" and "hood wearing" are semantically equivalent.
+5. "young man" is a subset of "people," so the statement generalizes without contradiction.
+6. "quiet street" implies a "street," satisfying the location condition.
+7. No details in the statement contradict the content.
+8. The core elements (quantity, attire, action, location) are preserved.

@@ -1,0 +1,10 @@
+1. The statement "People are dancing" directly matches the action described in the content "a group of people dancing together."
+2. The content specifies a collective activity ("a group of people"), which inherently includes "people" as mentioned in the statement.
+3. The action "dancing together" in the content implies that "dancing" is occurring, aligning with the statement.
+4. The statement is a generalized version of the content, removing the detail of "together" but retaining the core action and subject.
+5. The content does not contradict the statement in any way, as both involve people engaged in dancing.
+6. The statement captures the essential information from the content without requiring additional context or qualifications.
+7. The content’s description of "dancing together" logically ensures that "dancing" is happening, satisfying the statement.
+8. The statement is entailed because the content provides sufficient evidence to confirm its truth without ambiguity.
+9. The subject ("people") and the predicate ("are dancing") in the statement are fully supported by the content.
+10. The content’s scenario cannot be true without the statement also being true, as dancing together necessitates that people are dancing.

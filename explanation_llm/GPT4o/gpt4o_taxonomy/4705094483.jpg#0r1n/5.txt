@@ -1,0 +1,10 @@
+1. The premise does not specify whether the meat is old or fresh, so the hypothesis introduces information not mentioned in the premise.
+2. There is no evidence in the premise to suggest the age or condition of the meat.
+3. The premise only states that the man is holding up meat, without any indication of its age.
+4. The hypothesis adds the detail of the meat being old, which is not supported by any information in the premise.
+5. The premise lacks any mention of the meat's age, leaving the hypothesis unconfirmed.
+6. There is no mention of the meat being old in the premise, so the hypothesis introduces unsupported information.
+7. The condition of the meat is unspecified in the premise, making the hypothesis neutral regarding its age.
+8. No evidence in the premise can be used to infer that the meat is old as suggested by the hypothesis.
+9. The hypothesis assumes the meat is old without any confirmation from the premise.
+10. The detail about the meat being old is absent from the premise, which makes the hypothesis not entailed.

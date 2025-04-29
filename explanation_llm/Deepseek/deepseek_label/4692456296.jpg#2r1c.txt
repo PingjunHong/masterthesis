@@ -1,0 +1,8 @@
+1. The content describes walking along a bridge, not being in a kitchen.
+2. The content mentions walking, not eating.
+3. The content does not mention spaghetti or any food.
+4. The setting in the content is outdoors (bridge), while the statement is indoors (kitchen).
+5. The activities (walking vs. eating) are incompatible.
+6. The locations (bridge vs. kitchen) are mutually exclusive in this context.
+7. No evidence in the content supports the presence of food or a kitchen.
+8. The statement introduces actions and settings not referenced in the content.

@@ -1,0 +1,10 @@
+1. The word "plain" and "field" both refer to flat, open areas, but they are not direct synonyms; thus, the exact meaning may vary slightly.
+2. "Gliding" implies smooth movement, which is not explicitly mentioned in the premise, making the action more specific in the hypothesis.
+3. "Wide" and "field" both convey a sense of expansiveness, but they are not exact synonyms and could imply different sizes or characteristics.
+4. The term "on" indicates a static position, while "gliding over" suggests movement, leading to different interpretations of the snowboarder's activity.
+5. The premise does not specify movement, whereas "gliding" in the hypothesis indicates a particular type of motion.
+6. "Plain" typically refers to an open, flat area, while "field" can suggest a cultivated or more specific type of land.
+7. The premise describes the location as "wide," while the hypothesis does not specify the width of the "field," which affects the interpretation.
+8. There is no mention of "gliding" in the premise, which adds a dynamic element to the hypothesis that is not explicitly present in the premise.
+9. The description of the snow as a "plain" in the premise does not necessarily equate to a "field," leading to a neutral interpretation.
+10. The premise does not mention any specific action performed by the snowboarder, whereas the hypothesis describes the action as "gliding."

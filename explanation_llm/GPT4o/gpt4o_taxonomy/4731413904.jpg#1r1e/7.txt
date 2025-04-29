@@ -1,0 +1,8 @@
+1. The term "several" implies that "some" men are watching TV.
+2. Watching a sports game on TV fits within the context of watching TV.
+3. The setting described as "a bar" in the premise matches the location in the hypothesis.
+4. Men are included in the general category of people who can watch TV.
+5. The activity of watching a sports game on television inherently involves watching TV.
+6. "Several men" includes at least two or more, which satisfies the condition of "some."
+7. A bar is a common place where sports games are watched on TV.
+8. The definition of "several" encompasses the meaning of "some."

@@ -1,0 +1,10 @@
+1. The premise does not mention anything about the man's marital status or intentions, so there is no information confirming that he has a wife or intends to surprise someone.
+2. The action of cooking meat in the kitchen does not inherently imply surprising someone, as cooking can be a routine activity.
+3. There is no mention of a wife in the premise, so inferring her involvement is speculative.
+4. The word "about" in "about to cook" suggests an intention to start cooking but does not clarify the purpose, such as surprising someone.
+5. The premise describes an action (cooking), while the hypothesis implies a specific motive (surprising a wife), which is not directly supported by the premise.
+6. "Dark-haired man" and "a man" may refer to the same individual, but the specific action of cooking does not imply the additional context of surprising someone.
+7. The neutral label arises because the premise lacks sufficient details about the man's relationship status or his intentions with the cooking.
+8. The premise provides details about physical actions and objects (watch, oven mitt) without indicating any emotional or social context, such as a surprise.
+9. The hypothesis introduces additional context (wife, surprise) not explicitly found in the premise, making it an assumption rather than a semantic inference.
+10. The premise is focused on the immediate physical situation, while the hypothesis adds an inferred narrative that is not semantically guaranteed by the premise.

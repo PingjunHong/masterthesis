@@ -1,0 +1,10 @@
+1. The premise does not mention anything about a highway, so the location described in the hypothesis is not supported.
+2. The premise specifies an icy road, which contradicts the hypothesis mentioning a dry highway.
+3. There is no mention of a highway in the premise; therefore, the hypothesis introduces an unsupported detail.
+4. The premise describes an icy road, while the hypothesis suggests a dry location, indicating a contradiction.
+5. The premise focuses on an icy road, with no evidence supporting the hypothesis's mention of a highway.
+6. The hypothesis proposes a different setting (a highway) that is not mentioned or implied in the premise.
+7. The condition of the road being icy in the premise contradicts the dry condition mentioned in the hypothesis.
+8. The premise does not provide any details about being near a highway, which the hypothesis incorrectly assumes.
+9. The icy road setting in the premise does not match the dry highway scenario described in the hypothesis.
+10. The premise lacks any reference to a highway, making the hypothesis's location detail unsupported.

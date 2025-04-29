@@ -1,0 +1,5 @@
+- The phrase "a bunch of dogs" in the premise refers to animals.
+- "A bunch of dogs take a nap" indicates that some animals are asleep.
+- The term "dogs" in the premise is a specific example of animals in the hypothesis.
+- "Dogs" as animals resolves the reference to "some animals" in the hypothesis.
+- The phrase "take a nap" in the premise resolves to "are asleep" in the hypothesis.

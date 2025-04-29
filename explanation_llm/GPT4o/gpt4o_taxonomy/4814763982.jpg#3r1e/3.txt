@@ -1,0 +1,7 @@
+1. A man is doing things with a baton is a rephrase of A man with no shirt on is performing with a baton.
+2. Performing with a baton implies doing things with a baton, as performing is an action involving the baton.
+3. The phrase with no shirt on is additional information that does not affect the core action of doing things with a baton.
+4. Performing is an activity that can be described as doing things, maintaining the same meaning.
+5. The structure of the sentence changes from specifying no shirt to generalizing the activity to doing things, while retaining the action with the baton.
+6. The man performing with a baton inherently means he is doing something with it, aligning with the statement that he is doing things with a baton.
+7. The premise describes an activity with a baton, which entails the hypothesis that the man is engaged in some unspecified action with the baton.

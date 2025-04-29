@@ -1,0 +1,9 @@
+- "Leaning over" implies the action of "leaning," which matches the statement.
+- The premise mentions "running," which aligns directly with "runs" in the statement.
+- "One tan girl" in the premise aligns with "a tan girl" in the statement.
+- "Leans over" is a less specific form of "leaning over," which appears in both the premise and the statement.
+- The action of "running" entails the verb "runs."
+- The phrase "an object" in the premise corresponds to "an object" in the statement.
+- "Tan" in the premise is synonymous with "tan" in the statement referring to the girl's complexion.
+- The presence of a wool hat does not change the core actions described, focusing the entailment on running and leaning.
+- "Over an object" is a more detailed description of the position than simply "an object," preserving the entailment.

@@ -1,0 +1,3 @@
+- The content describes a "smiling" individual, while the statement describes a "frowning" individual.
+- The content mentions a "girl," whereas the statement refers to a "boy."
+- The activity in the content is "slides down a purple slide," which contradicts the activity "playing soccer" in the statement.

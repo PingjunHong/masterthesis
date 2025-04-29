@@ -1,0 +1,10 @@
+1. A dog cannot be both running outdoors and sleeping in the basement at the same time.
+2. Running on grass outdoors contradicts being asleep indoors in a basement.
+3. An animal cannot be in two different locations simultaneously: outdoors on grass and in a basement.
+4. The action of running contradicts the state of sleeping.
+5. The specified location, outdoors, conflicts with the described location, in a basement.
+6. Grass outdoors is a different environment than a basement indoors.
+7. The temporal aspect of running does not align with the temporal state of sleeping.
+8. The presence of a sidewalk outdoors indicates a location conflict with a basement.
+9. Running implies activity, which is contradictory to the inactivity of sleeping.
+10. The description of outdoors conflicts with the confined space of a basement.

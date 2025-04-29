@@ -1,0 +1,6 @@
+1. "Three girls" implies that there are indeed some people involved in the action.
+2. The act of blowing out candles by "three girls" confirms that candles are being blown out.
+3. The word "some" accurately represents the group of "three girls" without specifying the exact number.
+4. "Blowing out" in the premise is directly related to the action described in the hypothesis.
+5. "Candles" in the premise refers to the same objects that are mentioned in the hypothesis.
+6. "Three" is a subset of "some," meaning that "some people" is true when "three girls" are doing the action.

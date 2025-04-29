@@ -1,0 +1,10 @@
+1. The hypothesis repeats the information in the premise without introducing any new details or claims, thus the premise fully supports the hypothesis.
+2. The premise explicitly states that a man in a black shirt is holding up meat he took out of a bag in a commercial kitchen, which is exactly what the hypothesis claims, leaving no room for unsupported information.
+3. The hypothesis does not introduce any additional elements or variations from the premise, such as changing the setting, the action, or the details about the man, ensuring full entailment.
+4. There is a direct correspondence between the premise and the hypothesis, with no absence of mention of any details provided in the latter.
+5. The information in the hypothesis is entirely contained within the premise, with no gaps or missing elements.
+6. Since the hypothesis is a restatement of the premise, both share the exact context, ensuring that all details are mentioned and matched.
+7. No new or unsupported claims are made in the hypothesis that would require additional evidence beyond what the premise provides.
+8. The hypothesis does not assume any information beyond what's explicitly stated in the premise, making it fully supported.
+9. The details about the man, his shirt, the location, and the action are all explicitly covered in the premise, confirming the hypothesis without needing further evidence.
+10. The hypothesis mirrors the premise in its entirety, indicating there is no introduction of unmentioned information.

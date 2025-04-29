@@ -1,0 +1,8 @@
+1. The premise describes a building painted white and blue with specific words, while the hypothesis refers to it as a school, which is not directly indicated by the premise.
+2. The hypothesis introduces the concept of a school, which is not explicitly mentioned or inferred from the building described in the premise.
+3. The structural rephrasing involves the term "school," which is not interchangeable with "a building painted white and blue with the words ING and PEOPLE."
+4. The premise provides specific details about the building that do not confirm it is a school, making the hypothesis a possible but unverified interpretation.
+5. The hypothesis uses a more general term "school" in place of the specific description given in the premise, which does not directly support this categorization.
+6. The syntactic structure of the premise focuses on the physical description of the building, while the hypothesis shifts to a presumed function or identity (school) not directly supported by the premise.
+7. The hypothesis assumes a particular use of the building (as a school) without the premise providing evidence for such a function.
+8. The premise uses descriptive language related to appearance, and the hypothesis makes an assumption about the building's purpose, which is not a direct rephrasing.

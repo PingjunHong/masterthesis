@@ -1,0 +1,10 @@
+1. "People" in the statement refers to the same "people" in the content, but their mode of transport is different.
+2. "Escalator" in the content is the object being used, whereas "elevator" in the statement is a different object.
+3. Both "escalator" and "elevator" involve vertical transport, but they are distinct entities, causing a contradiction.
+4. The statement's use of "elevator" conflicts with the content's reference to an "escalator," which are separate mechanisms for movement.
+5. The action of "waiting to get to their destination" on an "escalator" in the content does not align with "taking the elevator" in the statement.
+6. "Looking outside of the glass that makes up the wall" suggests visibility typically associated with escalators, not elevators, which contradicts the statement.
+7. The method of transport, "escalator," indicated in the content cannot be reconciled with the "elevator" mentioned in the statement.
+8. The movement described in the content involves "escalator," a continuous moving stairway, while the statement incorrectly identifies it as an "elevator," a compartmentalized lift.
+9. The reference to the means of transportation in the content ("escalator") is resolved differently in the statement ("elevator"), leading to a contradiction.
+10. The premise's description of "looking outside of the glass" on an "escalator" does not fit the typical experience associated with an "elevator" as stated.

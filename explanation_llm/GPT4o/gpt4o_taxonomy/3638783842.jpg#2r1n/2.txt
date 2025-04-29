@@ -1,0 +1,8 @@
+1. The premise mentions "formally dressed," while the statement does not specify any attire.
+2. The premise specifies "older women," whereas the statement does not mention age.
+3. The word "glasses" is included in the statement but not mentioned in the premise.
+4. "Formally dressed" and having "glasses" are not synonymous or antonymous, introducing a difference in detail.
+5. The premise mentions "formally dressed," which is unrelated to the presence or absence of glasses.
+6. The premise specifies "older," which does not imply the presence of glasses.
+7. "Older women" in the premise might imply age-related characteristics, but the statement does not specify age-related traits such as wearing glasses.
+8. The premise refers to "formally dressed" women, which does not automatically include or exclude the wearing of glasses.

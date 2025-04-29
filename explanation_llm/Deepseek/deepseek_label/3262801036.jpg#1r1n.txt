@@ -1,0 +1,10 @@
+1. The "six rescuers" in the content correspond to "six people" in the statement.
+2. The action "cooperate to place an injured man on a transport device" implies they are acting to save him, aligning with "act to save a seventh."
+3. The "injured man" in the content is the "seventh who is injured" in the statement.
+4. The snowy, mountainous terrain provides context for the rescue scenario, reinforcing the saving intent.
+5. "Place an injured man on a transport device" is a specific action that falls under the broader category of "act to save."
+6. The number of individuals (six rescuers and one injured) matches the numerical description in the statement.
+7. The cooperative effort described in the content implies a collective action to aid the injured, consistent with the statement.
+8. The term "rescuers" inherently suggests they are acting to save someone, supporting the entailment.
+9. The injured man being placed on a transport device implies he is being moved to safety, fulfilling the "save" condition.
+10. No contradictory information exists between the content and the statement to negate the entailment.

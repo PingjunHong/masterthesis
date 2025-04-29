@@ -1,0 +1,7 @@
+1. "Two people are playing American Football" (highlighted words: playing, American, Football) directly implies that a game of football is occurring, which aligns with "A game of football is being played" (highlighted words: game, football, played).
+2. The action "playing American Football" (highlighted words) inherently involves participating in a game, which matches the statement's assertion that "a game ... is being played" (highlighted words).
+3. The term "Football" (highlighted in Content) is explicitly referenced in the statement as "football" (highlighted), confirming the same sport is being discussed.
+4. The verb "playing" (highlighted in Content) corresponds to the passive form "is being played" (highlighted in Statement), both describing an ongoing activity in the sport.
+5. The phrase "American Football" (highlighted) is a specific type of "football" (highlighted in Statement), making the statement a generalizable entailment of the content.
+6. The dynamic interaction described in the Content ("trying to stop the other from throwing the ball") reinforces the idea of a competitive game, supporting the statement's claim of "a game ... being played" (highlighted words).
+7. The agents ("Two people") in the Content are engaged in the sport, which satisfies the condition of "a game ... being played" (highlighted words) in the Statement, as games require participants.

@@ -1,0 +1,9 @@
+- A man in a shirt refers to a man in a black shirt.
+- The shirt in the hypothesis refers to the black shirt in the premise.
+- The man in the hypothesis is the same man in the premise.
+- The setting in both the premise and hypothesis refers to a commercial kitchen.
+- The meat he took out of a bag in the hypothesis refers to the meat he took out of a bag in the premise.
+- The action of holding up meat is the same in both the premise and the hypothesis.
+- The bag mentioned in the hypothesis is the same bag referred to in the premise.
+- The shirt mentioned in the hypothesis is the shirt in the premise.
+- Both the premise and hypothesis refer to the same individual performing the same action.

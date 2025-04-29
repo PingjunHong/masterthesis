@@ -1,0 +1,10 @@
+1. The content explicitly states that a child performs a jumping kick.
+2. The ninja outfit is an additional detail not required to establish the truth of the statement.
+3. The statement is a simplified version of the content, omitting irrelevant details.
+4. The action described in the statement (a jumping kick) is directly mentioned in the content.
+5. The subject of the statement (a child) is the same as in the content.
+6. The core event (child doing a jumping kick) remains unchanged despite the extra information in the content.
+7. The statement does not contradict any part of the content.
+8. The content provides sufficient evidence to support the truth of the statement.
+9. The additional detail (ninja outfit) does not affect the validity of the statement.
+10. The statement is a logical subset of the information provided in the content.

@@ -1,0 +1,10 @@
+- If a dog jumps over an obstacle, it must be in the air at some point during the jump.
+- Jumping involves being in the air, so if a dog is jumping, it is in the air.
+- A jump requires a phase where the subject is airborne; thus, the dog, while jumping, is necessarily in the air.
+- The action of jumping implies that the dog leaves the ground, meaning it is airborne during the jump.
+- The physics of jumping dictate that the dog has to be in the air to clear the obstacle.
+- By jumping over an obstacle, the dog must achieve a position above the ground, indicating it is in the air.
+- The act of jumping signifies that the dog is temporarily lifted into the air.
+- For a jump to occur, the dog must break contact with the ground and be in the air momentarily.
+- The trajectory of a jump involves an aerial phase, so the dog is in the air while executing the jump.
+- The mechanics of jumping over something require the dog to be airborne for the duration of the jump.

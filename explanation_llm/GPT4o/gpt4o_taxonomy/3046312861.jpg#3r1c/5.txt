@@ -1,0 +1,10 @@
+1. The premise does not mention the location or destination of the gymnast, only that she is being coached on bar skills.
+2. There is no indication in the premise that the gymnast is moving or traveling anywhere, including to the gym.
+3. The premise focuses on the activity of coaching, not on the gymnast's movement or travel plans.
+4. The statement introduces the idea of the gymnast's destination, which is not supported by the information given in the premise.
+5. The premise does not provide any context about the gymnast's current location or future intentions.
+6. The activity of being coached on bar skills does not imply that the gymnast is traveling to the gym.
+7. The premise lacks any mention of the gymnast's travel or journey, making the statement not entailed.
+8. The current setting or location of the gymnast is not specified, leaving the statement unsupported by the premise.
+9. The premise only describes the coaching scenario and does not include details about the gymnast's travel plans.
+10. The statement assumes information about the gymnast's movement that is not present in the premise.

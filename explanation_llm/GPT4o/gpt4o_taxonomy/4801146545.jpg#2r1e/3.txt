@@ -1,0 +1,8 @@
+1. A large number of people walking on a street is a simplification of, A large number of people wearing only white and red are walking on a street.
+2. The structural element "wearing only white and red" is optional and does not alter the meaning of, A large number of people walking on a street.
+3. Removing the phrase "wearing only white and red" still retains the core meaning of, A large number of people walking on a street.
+4. A large number of people walking on a street focuses on the action and setting, similar to the premise, A large number of people wearing only white and red are walking on a street.
+5. The syntactic alternation omits the detail "wearing only white and red," but the essence of people walking on a street remains unchanged.
+6. Coordination of phrases in the premise allows the extraction of, A large number of people walking on a street, maintaining the main action and location.
+7. Subordination of the descriptive clause "wearing only white and red" still conveys the primary activity described as, A large number of people walking on a street.
+8. A large number of people walking on a street is a syntactic reduction of, A large number of people wearing only white and red are walking on a street, retaining the integral concept.

@@ -1,0 +1,10 @@
+1. If dogs are standing, they cannot be sitting at the same time.
+2. Being in the yard implies not being on the porch simultaneously.
+3. Standing and sitting are mutually exclusive states for the dogs.
+4. The yard and the porch are distinct locations, so the dogs cannot be in both at once.
+5. The act of standing contradicts the act of sitting because both cannot occur simultaneously.
+6. The location described as the yard contradicts the location described as the porch.
+7. The physical posture described as standing directly opposes the posture described as sitting.
+8. The spatial context of ‘side by side in the yard’ contradicts ‘on the porch’.
+9. Two mutually exclusive actions: standing negates sitting.
+10. Two different settings: yard versus porch cannot coexist for the same subjects.

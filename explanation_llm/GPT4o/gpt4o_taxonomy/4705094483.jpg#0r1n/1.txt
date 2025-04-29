@@ -1,0 +1,8 @@
+1. "Old meat" in the statement does not have a clear reference in the content, which mentions "meat" without specifying its age.
+2. The statement includes "old meat," which cannot be resolved with the "meat" in the content, as there is no indication of its age in the premise.
+3. "Old" modifies "meat" in the statement without any corresponding descriptor in the content, making the reference unclear.
+4. The reference to "old meat" in the statement cannot be matched with any specific detail in the content, which simply refers to "meat."
+5. The descriptor "old" in "old meat" does not have a counterpart in the content, which only mentions "meat," creating ambiguity in reference.
+6. The content does not specify the age of the meat, whereas the statement refers to "old meat," leading to an unresolved reference.
+7. The term "old" in "old meat" lacks a direct reference in the content, which only describes "meat" in general terms.
+8. The statement's reference to "old meat" introduces new information not found in the content, leading to a lack of clear coreference.

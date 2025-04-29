@@ -1,0 +1,6 @@
+1. "People" in the statement refers to "people" in the content without specifying their location relative to the swimming pool.
+2. "Some people" in the statement is a subset of "people" in the content, but doesn't specify their exact activity or location.
+3. "People getting drunk" in the content does not specify whether they are by the swimming pool, making the location in the statement unreferenced.
+4. "House party" in the content does not explicitly include a swimming pool, so the reference in the statement is unresolved.
+5. "Picture" in the content does not visually confirm the setting described in the statement, leaving the swimming pool reference unresolved.
+6. "Party" in the statement could refer to any part of the house party described in the content, not specifically by the swimming pool.

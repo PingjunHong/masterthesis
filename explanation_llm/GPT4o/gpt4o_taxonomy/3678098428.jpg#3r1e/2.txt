@@ -1,0 +1,10 @@
+- "Hat" is a hypernym of "red plaid hat."
+- The term "red plaid hat" includes the word "hat," indicating that it is a type of hat.
+- Wearing a "red plaid hat" implies wearing a "hat" due to the broader category of hats.
+- The concept of "hat" encompasses various types, including "red plaid hat."
+- The meaning of "red plaid hat" entails a subset relationship with "hat."
+- Synonymy between "hat" and any specific type of hat, such as "red plaid hat," supports entailment.
+- The phrase "red plaid hat" semantically includes the concept of "hat."
+- Semantically, "red plaid hat" indicates wearing a "hat" by definition.
+- The broader category of "hat" includes specific instances like "red plaid hat."
+- By word meaning, "red plaid hat" confirms the presence of a "hat."

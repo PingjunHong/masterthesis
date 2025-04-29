@@ -1,0 +1,10 @@
+1. The premise does not mention any girl with a ponytail, so there is no evidence supporting her presence at the park.
+2. The premise describes a young man and a skateboard, but the hypothesis introduces a girl with a ponytail and a bike, which is not mentioned in the premise.
+3. The statement about a girl riding a bike is not supported by any details in the premise, which focuses only on a young man.
+4. The premise does not include any information about a girl or a bike, so the hypothesis is not entailed.
+5. There is no mention of anyone riding a bike in the premise; hence, the hypothesis introduces unsupported information.
+6. The premise discusses a skateboard park and a young man carrying a skateboard, but it does not mention a girl or a bike.
+7. The hypothesis introduces a completely different scene involving a girl and a bike that is absent from the premise.
+8. The premise lacks any mention of a girl with a ponytail, making the hypothesis unsupported.
+9. The premise only describes a young man looking at a skateboard park, and does not mention a girl riding a bike, leading to a contradiction.
+10. The premise provides no details about a girl, a ponytail, or a bike, which are central to the hypothesis but absent from the premise.

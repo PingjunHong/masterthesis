@@ -1,0 +1,4 @@
+- Villagers are a type of people.
+- A fish boat is a type of boat.
+- Pulling in implies pulling.
+- The act of pulling in involves pulling.

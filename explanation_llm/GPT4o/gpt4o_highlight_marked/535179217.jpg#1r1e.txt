@@ -1,0 +1,5 @@
+1. The term "**people**" in the content matches the term "**people**" in the statement, confirming the same subject is being referred to.
+2. The verb "**are**" in the content matches the verb "**are**" in the statement, indicating the same present tense state of being.
+3. The phrase "**standing**" in the content matches the phrase "**standing**" in the statement, establishing the identical action being performed.
+4. The additional details in the content, such as "near water with a boat heading their direction," do not contradict the simpler claim in the statement, making the entailment valid.
+5. The statement is a partial description of the content, focusing only on the highlighted subject ("**people**") and their action ("**standing**"), which does not negate the broader context provided in the content.

@@ -1,0 +1,4 @@
+1. The first sentence specifies "**men**," while the second sentence specifies "**women**," and men and women are distinct categories of gender.
+2. The highlighted term "**men**" in the content directly conflicts with the highlighted term "**women**" in the statement, as they refer to different genders.
+3. The content describes "**men**" as the agents performing the action, whereas the statement describes "**women**" as the agents, making the two descriptions incompatible.
+4. The gender of the individuals climbing the scaffold is described differently in the two sentences, creating a contradiction.

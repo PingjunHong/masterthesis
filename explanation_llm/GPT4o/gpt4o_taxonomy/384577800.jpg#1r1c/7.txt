@@ -1,0 +1,7 @@
+1. Snowy hillsides are not grassy.
+2. The presence of snow implies the ground is not grassy.
+3. A snowy hillside and a grassy side are mutually exclusive terrains.
+4. Snow typically covers grass, making the area not grassy.
+5. A brown dog carrying an object on a snowy hillside cannot simultaneously be on a grassy side.
+6. The descriptor "snowy" contradicts the descriptor "grassy" for the ground.
+7. Snow-covered areas do not appear grassy.

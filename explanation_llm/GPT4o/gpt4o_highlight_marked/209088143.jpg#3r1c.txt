@@ -1,0 +1,10 @@
+1. The content mentions a "house party," but there is no mention of a "swimming pool," so the existence of a pool cannot be confirmed or denied.
+2. The statement specifies people are "by the side of a swimming pool," but the content does not provide enough details to verify this location.
+3. The content indicates people are "getting drunk at a house party," but it does not specify whether a swimming pool is involved.
+4. The content does not mention the presence of a swimming pool, leaving the possibility neutral.
+5. The statement describes a specific subset of people partying by a pool, which is not contradicted or confirmed by the general description of a house party in the content.
+6. The content does not specify the exact location of the people at the house party, so the statement about a swimming pool cannot be ruled out.
+7. The highlighted parts "swimming" and "pool" introduce details not addressed in the content, making their inclusion plausible but unverifiable.
+8. The presence of a swimming pool is an additional detail that is neither supported nor refuted by the content.
+9. The content describes an activity (getting drunk) but does not provide physical context for where it occurs, leaving the possibility of a pool ambiguous.
+10. The statement adds a specific environmental detail (swimming pool) that is not discussed in the content, making it neither contradicted nor entailed.

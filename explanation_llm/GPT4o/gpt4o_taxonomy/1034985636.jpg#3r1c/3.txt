@@ -1,0 +1,7 @@
+1. "A man playing an electric guitar on stage" is structurally rephrased as "A man playing banjo on the floor" with changes in the instrument and location, resulting in a contradiction.
+2. The premise involves a man playing an electric guitar, whereas the hypothesis rephrases it to a man playing a banjo, altering the meaning by switching instruments.
+3. The statement "on stage" in the premise is rephrased as "on the floor" in the hypothesis, which changes the location and contradicts the premise.
+4. The premise and hypothesis structurally alter the noun "electric guitar" to "banjo," leading to a contradiction in the type of instrument being played.
+5. The syntactic structure of "playing an electric guitar on stage" differs from "playing banjo on the floor," contradicting both the instrument and the location.
+6. "A man playing an electric guitar" is rephrased to "A man playing banjo," which contradicts the musical instrument being referenced.
+7. The change from "on stage" to "on the floor" in the hypothesis is a syntactic-level inference that contradicts the premise's implication about where the performance is taking place.

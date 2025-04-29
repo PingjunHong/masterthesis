@@ -1,0 +1,8 @@
+- "Three people" in the hypothesis refers to "3 young man" in the premise, but they are standing, not sitting.
+- "A busy street" in the hypothesis contrasts with "a quiet street" in the premise.
+- "Bareheaded" in the hypothesis contradicts "in hoods" from the premise.
+- The reference to "facing the camera" in the premise suggests the subjects are standing, not sitting as described in the hypothesis.
+- The subjects in the premise are wearing hoods, which opposes the bareheaded description in the hypothesis.
+- The premise describes the street as quiet, which is inconsistent with the busy street in the hypothesis.
+- The action of "standing" in the premise conflicts with "sit" in the hypothesis.
+- The reference to "young man" in the premise does not include the action of sitting as stated in the hypothesis.

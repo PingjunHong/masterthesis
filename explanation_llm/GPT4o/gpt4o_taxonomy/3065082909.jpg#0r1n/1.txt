@@ -1,0 +1,7 @@
+- The sign the woman is holding refers to the sign mentioned in the premise.
+- The woman holding a sign refers to the same woman in both the premise and the hypothesis.
+- The sign referenced in the hypothesis is the same sign described in the premise, but its content is not mentioned in the premise.
+- The woman holding a sign in the premise is the same woman referred to in the hypothesis, but the message on the sign is not specified in the premise.
+- The sign mentioned in both the premise and hypothesis is the same object, but the premise does not specify its message.
+- The woman in both the premise and hypothesis is holding the same sign, but the content of the sign is not indicated in the premise.
+- The reference to 'the sign the woman is holding' in the hypothesis is the same sign held by the woman leading the group in the premise, without stating its message.

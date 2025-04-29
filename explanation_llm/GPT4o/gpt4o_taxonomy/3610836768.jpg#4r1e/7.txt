@@ -1,0 +1,7 @@
+1. Villagers are people.
+2. Pulling in a fish boat involves pulling a boat.
+3. A fish boat is a type of boat.
+4. Villagers are capable of pulling a boat.
+5. Pulling in implies the action of pulling.
+6. The act of villagers pulling in something implies there are people involved.
+7. A boat used for fishing is still a boat.

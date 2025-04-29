@@ -1,0 +1,10 @@
+1. Three people are on a boat is a rephrase of Three workers, with life vests and hard hats, on a boat hanging from cables over water.
+2. The phrase Three workers on a boat implies that three people are on a boat, since workers are people.
+3. The statement Three people are on a boat captures the essential meaning of Three workers, with life vests and hard hats, on a boat.
+4. Describing three workers on a boat directly supports the claim that three people are on a boat because workers are a subset of people.
+5. The structural rephrasing from workers to people does not change the meaning, as workers are people, confirming the entailment.
+6. The premise specifies the presence of three workers, which inherently means there are three people, aligning with the hypothesis.
+7. The core information that three individuals are on a boat is preserved in both the premise and the hypothesis, despite syntactic differences.
+8. By indicating that three workers are present, it follows logically that three people are present, as workers are indeed people.
+9. The description of three individuals in the form of workers supports the idea that three people are present on the boat.
+10. The hypothesis is a simplified structural variation of the premise, as both convey the presence of three individuals on a boat.

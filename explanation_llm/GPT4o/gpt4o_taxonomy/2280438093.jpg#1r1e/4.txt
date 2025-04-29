@@ -1,0 +1,4 @@
+- The premise states there are three women and two men on the stage, and since three is greater than two, there are more females than males.
+- The number of women (three) is greater than the number of men (two), so the statement that there are more females than males is true.
+- The premise provides a count of singers by gender, which shows a higher number for women (three) compared to men (two), leading to the conclusion that there are more females than males.
+- The logical comparison of the quantities described in the premise (three women and two men) directly supports the conclusion that there are more females than males.

@@ -1,0 +1,10 @@
+- The premise states the man is wearing a long sleeves white collared shirt and a tie, which contradicts the hypothesis that he is wearing a t-shirt.
+- The premise describes the man as walking, which contradicts the hypothesis that he is jogging.
+- The premise indicates the man is wearing a long sleeves shirt, which is incompatible with the hypothesis stating he is wearing shorts.
+- The attire described in the premise as being appropriate for work contradicts the casual wear mentioned in the hypothesis.
+- The premise specifies the man is walking to work, while the hypothesis suggests he is jogging, a different activity.
+- The premise describes the man’s clothing as formal (shirt and tie), which contradicts the casual attire (shorts and t-shirt) described in the hypothesis.
+- Walking to work implies a purposeful, non-exercise activity, contradicting the hypothesis suggesting he is jogging casually.
+- The premise specifies a long sleeves shirt, which semantically contradicts the short sleeves implied by a t-shirt in the hypothesis.
+- The formal attire mentioned in the premise (shirt and tie) logically excludes the possibility of wearing a t-shirt as stated in the hypothesis.
+- The premise indicates the man is in a big city, walking to work, which does not align with the activity and attire of jogging in shorts and a t-shirt described in the hypothesis.

@@ -1,0 +1,8 @@
+1. "Two men" implies at least two individuals, which satisfies "some people" (typically meaning at least one).
+2. "Standing in a boat" directly indicates presence "in a boat," matching the statement.
+3. The term "men" is a subset of "people," so the content's subjects are included in the statement's broader category.
+4. The count "two" meets the minimum requirement for "some," which does not specify a lower bound.
+5. The action ("standing") confirms the men are actively present in the boat, aligning with "are in."
+6. No contradictory information exists in the content to negate the statement.
+7. The statement generalizes the content (from specific individuals to "people") without introducing falsehoods.
+8. Logical consistency holds: if two men are in a boat, it is true that some people are in it.

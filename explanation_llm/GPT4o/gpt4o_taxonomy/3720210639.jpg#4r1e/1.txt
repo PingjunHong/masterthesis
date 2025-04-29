@@ -1,0 +1,6 @@
+- The boy referred to in "Boy in midair on bicycle" is the same as the boy mentioned in "A boy is airborne on a bicycle."
+- "Midair" in the premise refers to the same condition as "airborne" in the hypothesis.
+- The bicycle mentioned in "Boy in midair on bicycle" is the same bicycle referred to in "A boy is airborne on a bicycle."
+- The word "boy" in both the premise and the hypothesis refers to the same individual.
+- The state of being "midair" for the boy in the premise is resolved as being "airborne" in the hypothesis, referring to the same scenario.
+- The phrase "on a bicycle" in the premise and hypothesis refers to the same situation involving the boy and a bicycle.

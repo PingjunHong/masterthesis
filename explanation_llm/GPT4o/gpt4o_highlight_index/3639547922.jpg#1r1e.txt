@@ -1,0 +1,4 @@
+1. "Smiling girl" in the content implies "girl" in the statement since the presence of a smile does not affect the fact that she is a girl.
+2. "Slides down" in the content entails "goes down" in the statement because sliding is a specific way of going down.
+3. The detail "purple slide" in the content provides additional information but does not contradict the generic "slide" in the statement.
+4. The phrase "feet first" in the content is a specific manner of going down, which is encompassed by the general action of going down a slide in the statement.

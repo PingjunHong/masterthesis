@@ -1,0 +1,5 @@
+1. "A skateboarder" in the premise refers to the skateboarder at the top of a jump, whereas "A skateboarder" in the hypothesis refers to one jogging down the street, indicating two different activities.
+2. "With a black and white hat" in the premise specifies the skateboarder at the jump, while the hypothesis describes a skateboarder without mentioning any hat, suggesting they are not the same individual.
+3. "At the top of a jump on a snowy day" in the premise contrasts with "jogging down the street" in the hypothesis, indicating a contradiction in location and activity for the same skateboarder.
+4. "A skateboarder" in the premise is engaged in a jump, whereas "A skateboarder" in the hypothesis is involved in jogging, implying different contexts for the same subject.
+5. The premise implies a snowy setting for the skateboarder's action, while the hypothesis suggests a street setting, contradicting the environmental context for the same skateboarder.

@@ -1,0 +1,10 @@
+1. The premise mentions a tattooed basketball player but does not specify the content of the tattoo.
+2. The word "tattooed" indicates the presence of tattoos but does not provide details on what the tattoos depict.
+3. The hypothesis introduces new information about the tattoo's content that is not present in the premise.
+4. There is no mention of any specific tattoos or their messages in the premise.
+5. The premise focuses on the action of the basketball player, not the content of any tattoos.
+6. The phrase "tattooed basketball player" only implies the presence of tattoos, not their specific design or text.
+7. The premise lacks any description of individual tattoos, making the content of the tattoos indeterminate.
+8. The hypothesis assumes specific details not covered by the broader term "tattooed" in the premise.
+9. "Tattooed" refers to the existence of tattoos but does not imply any specific wording or designs.
+10. The hypothesis adds additional semantic details not included in the premise's description of the player.

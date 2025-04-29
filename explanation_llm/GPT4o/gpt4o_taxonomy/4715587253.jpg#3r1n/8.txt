@@ -1,0 +1,11 @@
+1. The description "goofy looking" does not specify the woman's hair color, so it is unknown if she is blonde.
+2. The premise mentions only singing, not dancing, so the statement adds information not confirmed by the premise.
+3. The premise does not provide details about the woman's hair color, leaving the possibility open that she may not be blonde.
+4. The premise indicates the woman is singing, but does not mention dancing, making the addition of dancing speculative.
+5. The appearance of being "goofy looking" does not provide any information about hair color or dance activity.
+6. The statement assumes the woman is both singing and dancing, whereas the premise only confirms singing.
+7. The premise lacks details about the woman's hair color, so assuming she is blonde involves unstated information.
+8. The premise focuses on her singing ability and does not address her ability to dance.
+9. The statement assumes additional actions (dancing) that are not causally or probabilistically linked to the premise.
+10. The premise does not mention any specific hair color, making the assumption of the woman being blonde unsupported by available information.
+11. "Goofy looking" relates to appearance and behavior but does not inherently relate to hair color or dancing.

@@ -1,0 +1,5 @@
+- People refers to the large group of people.
+- Walking a city refers to walking in a busy city.
+- The city refers to the busy city.
+- A large group of people refers to the people.
+- In a busy city refers to a city.

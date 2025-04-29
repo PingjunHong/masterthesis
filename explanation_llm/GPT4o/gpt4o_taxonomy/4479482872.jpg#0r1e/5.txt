@@ -1,0 +1,7 @@
+The premise explicitly mentions a boy swimming, which supports the statement.
+The hypothesis directly repeats information that is stated in the premise.
+The action of swimming performed by the boy is clearly described in the premise.
+There is no additional information in the statement that is not present in the premise.
+The statement does not introduce any new elements that require additional evidence beyond what the premise provides.
+No unsupported assumptions are made in the statement that would require further evidence.
+The statement is a straightforward assertion of an event directly described in the premise.

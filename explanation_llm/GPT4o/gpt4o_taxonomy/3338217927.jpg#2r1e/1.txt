@@ -1,0 +1,5 @@
+The dog in the premise refers to the animal in the hypothesis.
+The Frisbee in the premise refers to the plastic toy in the hypothesis.
+The snow in the premise implies cold weather in the hypothesis.
+Jumping for a Frisbee in the premise implies playing in the hypothesis.
+Outside in the premise refers to being in the snow in the hypothesis.

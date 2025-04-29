@@ -1,0 +1,10 @@
+1. The content describes the woman as singing, not reciting poetry.
+2. Singing and reciting poetry are distinct activities.
+3. The statement incorrectly replaces the action (singing) with a different one (reciting poetry).
+4. The content does not mention poetry at all.
+5. The statement introduces an activity (poetry recitation) not supported by the content.
+6. The woman's action is explicitly musical (singing), not verbal/poetic.
+7. The statement contradicts the content by changing the performance type.
+8. There is no overlap between singing and poetry recitation in the given context.
+9. The content specifies an auditory performance (singing), while the statement describes a different auditory performance (poetry).
+10. The statement misrepresents the woman's artistic expression.

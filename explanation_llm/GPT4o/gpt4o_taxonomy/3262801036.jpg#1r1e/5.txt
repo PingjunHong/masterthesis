@@ -1,0 +1,6 @@
+- The premise specifies "six rescuers," while the hypothesis mentions "six people." Although rescuers are typically people, the hypothesis does not mention their role as rescuers.
+- The premise describes "snowy, mountainous terrain," whereas the hypothesis only states "snowy terrain," leaving out the mountainous aspect.
+- Although the premise mentions a "transport device," the hypothesis simplifies this to "transport," without specifying that it is a device.
+- The premise uses the term "cooperate," while the hypothesis states "act together." Although similar, the hypothesis does not explicitly mention cooperation.
+- The premise specifies "an injured man," while the hypothesis refers to "another, injured man," implying a potential difference that is not mentioned in the premise.
+- "Transport device" in the premise suggests a specific object utilized for transportation, which is generalized to "transport" in the hypothesis without clarification.

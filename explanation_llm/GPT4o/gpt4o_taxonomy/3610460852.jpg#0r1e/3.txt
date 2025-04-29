@@ -1,0 +1,6 @@
+- The woman is standing is a structural rephrasing of A blond woman in a black shirt is standing behind a counter.
+- A blond woman in a black shirt is standing behind a counter implies that the woman is standing.
+- Standing behind a counter entails that the woman is standing.
+- The premise structurally includes the assertion that the woman is standing.
+- The action described in the premise involves standing, which is rephrased as The woman is standing.
+- The statement focuses on the action of standing, which is syntactically present in the premise.

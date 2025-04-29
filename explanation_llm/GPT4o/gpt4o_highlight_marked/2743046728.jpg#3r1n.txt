@@ -1,0 +1,1 @@
+Error: Error code: 404 - {'error': {'message': 'Invalid URL (GET /v1/chat/completions)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}

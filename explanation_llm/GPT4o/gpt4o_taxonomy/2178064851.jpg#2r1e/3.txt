@@ -1,0 +1,8 @@
+1. A child is in the ocean is a rephrase of A wet child stands in chest deep ocean water.
+2. The statement A child is in the ocean is structurally similar to A wet child stands in chest deep ocean water, emphasizing the location of the child.
+3. The syntactic alternation from A wet child stands in chest deep ocean water to A child is in the ocean preserves the meaning while simplifying the structure.
+4. The premise A wet child stands in chest deep ocean water can be paraphrased as A child is in the ocean, focusing on the child's presence in the ocean.
+5. The hypothesis A child is in the ocean is a syntactic rephrasing of the premise A wet child stands in chest deep ocean water, maintaining the core meaning.
+6. By simplifying the structure from A wet child stands in chest deep ocean water to A child is in the ocean, the meaning remains unchanged.
+7. A child is in the ocean is a coordinated rephrase of A wet child stands in chest deep ocean water, focusing on the location rather than the specific details.
+8. The hypothesis condenses the premise A wet child stands in chest deep ocean water through syntactic alteration to A child is in the ocean.

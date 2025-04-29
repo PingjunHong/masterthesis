@@ -1,0 +1,8 @@
+1. The statement "a group of people wait" is a syntactic rephrasing of "a group of people stand," focusing only on the act of waiting without additional context, making it neutral.
+2. The premise describes people standing near a specific location, while the statement simplifies this to people waiting, omitting the details about the location and the black square.
+3. The structural rephrasing from "stand near and on a large black square" to "wait" changes the meaning by not specifying the action's location or context, resulting in a neutral relationship.
+4. The statement abstracts the specific image of people standing on a black square and generalizes it to the act of waiting, which does not necessarily imply the same scenario.
+5. The hypothesis uses "wait," which can be interpreted differently from "stand near and on," as it doesn't provide the same situational context, making the inference neutral.
+6. While the premise describes a specific scene with visual details, the statement uses a general term "wait," which lacks the structural details needed for entailment, thus neutral.
+7. The hypothesis simplifies the action to "wait," which introduces ambiguity about the scenario that is not present in the detailed description of the premise.
+8. The focus on "a group of people wait" omits the specific actions and settings described in the premise, resulting in a neutral inference due to the syntactic alteration.

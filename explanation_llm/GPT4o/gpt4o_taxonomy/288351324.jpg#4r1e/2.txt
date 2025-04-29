@@ -1,0 +1,6 @@
+- The term "group of people" includes "people," thus "people" is a subset of "group of people."
+- "Dancing together" entails "dancing," as the act of dancing together requires dancing.
+- "Dancing" is a synonym for "moving rhythmically," which is implied by "dancing together."
+- "Together" in the context of "dancing together" does not negate the action of "dancing."
+- The word "dancing" in the premise directly corresponds to "dancing" in the hypothesis without any change in meaning.
+- The action "dancing" is inherently included in "dancing together," making it a broader term.

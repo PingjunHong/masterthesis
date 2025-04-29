@@ -1,0 +1,6 @@
+- The premise mentions library steps, but does not mention school steps, so there is no evidence the child is at a school.
+- The location of the library steps does not imply or suggest that they are part of a school, thus contradicting the idea that the child is on the school steps.
+- The premise does not provide information indicating that the library is within a school, therefore, the claim about school steps is unsupported.
+- There is no mention in the premise that the library is associated with a school, thus the hypothesis introduces unsupported information.
+- The premise specifies a library as the location, and there is no mention of a school, leading to the conclusion that the steps are not part of a school.
+- The hypothesis assumes a different location than the one explicitly stated in the premise, which lacks evidence for the presence of school steps.

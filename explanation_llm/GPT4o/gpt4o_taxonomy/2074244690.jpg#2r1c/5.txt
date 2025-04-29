@@ -1,0 +1,8 @@
+- The premise mentions a group of people watching an event, but does not mention their relationship as friends, nor their state of being asleep.
+- The premise indicates that the group is actively watching something, suggesting they are awake, contradicting the hypothesis that they are asleep.
+- There is no mention of the group being asleep in the premise, which contradicts the hypothesis claiming they are asleep.
+- The premise provides no information about the group being friends, introducing unsupported details in the hypothesis.
+- Watching an event implies active engagement, which is inconsistent with the hypothesis stating the group is asleep.
+- The premise lacks any mention of sleep or rest, contradicting the hypothesis that suggests the group is asleep.
+- The premise describes a nighttime event being watched, which suggests activity rather than sleep, contradicting the hypothesis.
+- The hypothesis assumes the group is asleep, which is not supported by the premise that describes them watching an event.

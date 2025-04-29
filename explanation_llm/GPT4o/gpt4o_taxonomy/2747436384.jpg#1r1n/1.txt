@@ -1,0 +1,6 @@
+- The phrase "an approaching wave" in the premise refers to "a giant wave" in the hypothesis.
+- "Four boys" in the premise refers to "some boys" in the hypothesis.
+- The approaching wave mentioned in the premise is the same as the giant wave in the hypothesis.
+- The boys referred to in the hypothesis are the same as the boys mentioned in the premise.
+- "About to be hit by an approaching wave" in the premise is equivalent to "about to crash on" in the hypothesis, establishing the same event involving the wave and the boys.
+- The demonstrative "the wave" in both premise and hypothesis refers to the same event involving the boys and the wave.

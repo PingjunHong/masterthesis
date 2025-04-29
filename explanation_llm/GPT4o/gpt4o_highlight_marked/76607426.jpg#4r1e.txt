@@ -1,0 +1,6 @@
+1. The subject "man" in both sentences is identical, ensuring alignment in the entity being discussed.
+2. The action "playing" in both sentences is the same, confirming that the activity described is consistent.
+3. The object "billiards" in both sentences refers to the same activity, ensuring semantic agreement.
+4. The additional detail "at a bar" in the content sentence does not contradict the statement and is irrelevant for entailment.
+5. Omitting "at a bar" in the statement does not change the meaning of the main action or subject.
+6. Both sentences describe a man engaged in the same activity without introducing conflicting information.

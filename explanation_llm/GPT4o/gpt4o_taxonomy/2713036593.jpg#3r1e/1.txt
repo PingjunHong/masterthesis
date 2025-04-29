@@ -1,0 +1,6 @@
+- A man is sleeping on the floor refers to the man sitting on the floor, sleeping.
+- The phrase "a man" in both the premise and hypothesis refers to the same individual.
+- "Sitting on the floor" in the premise describes the location where the man is sleeping, which is also mentioned as "on the floor" in the hypothesis.
+- The man mentioned in the hypothesis is the same man referred to as "a man" in the premise.
+- The action "sleeping" is attributed to the same man in both the premise and hypothesis.
+- The location "on the floor" is consistent between the premise and the hypothesis, referring to the same place where the man is located.

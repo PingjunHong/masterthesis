@@ -1,0 +1,10 @@
+1. Older women cannot be described as young women.
+2. Bald women cannot have long hair.
+3. Formally dressed women cannot be described as casually dressed.
+4. The premise specifies baldness, contradicting the hypothesis of long hair.
+5. The premise specifies older women, contradicting the hypothesis of young women.
+6. Baldness contradicts having any hair, including long hair.
+7. Age descriptors of 'older' and 'young' are mutually exclusive.
+8. Bald individuals do not have hair.
+9. Older age typically implies not being young.
+10. Formal attire typically implies not casual or unspecified attire.

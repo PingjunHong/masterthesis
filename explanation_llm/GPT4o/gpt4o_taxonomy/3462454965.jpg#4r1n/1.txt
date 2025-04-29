@@ -1,0 +1,7 @@
+1. The phrase "three dogs" in the statement refers to the same "three dogs" mentioned in the content.
+2. The reference to "running" in the statement is resolved with the "running" action in the content.
+3. The word "daytime" in the statement is not specified or referred to in the content, leading to a neutral label.
+4. The field mentioned in the content doesn't specify the time of day, making the statement about "daytime" unresolved.
+5. The action of "running" is shared, but the time context ("daytime") in the statement is not addressed in the content.
+6. Both "three dogs" in the content and statement refer to the same entities, but the time of day remains ambiguous.
+7. The coreference of "three dogs" is clear, but there's no coreference for "daytime" between the content and statement.

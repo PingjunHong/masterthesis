@@ -1,0 +1,10 @@
+1. Tending to a garden does not involve cooking activities.
+2. Cooking dinner typically takes place in a kitchen, not a garden.
+3. Gardening and cooking are distinct activities that do not occur simultaneously.
+4. The setting described in the premise (a garden) is not suitable for cooking.
+5. The tools and materials used in gardening are not the same as those used for cooking.
+6. An older woman tending to a garden is not indicative of her cooking dinner.
+7. The act of cooking requires specific appliances and ingredients not mentioned in the premise.
+8. Being in a garden suggests outdoor activity, whereas cooking dinner usually takes place indoors.
+9. The premise does not mention any items related to cooking, like food or cookware.
+10. The statement suggests an activity (cooking) that is unrelated to the activity described in the premise (gardening).

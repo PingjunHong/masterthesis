@@ -1,0 +1,10 @@
+1. The content describes people seated at long tables, which directly matches the statement about a group of people sitting at tables.
+2. The phrase "People seated at long tables" in the content confirms the presence of individuals sitting at tables, aligning with the statement.
+3. The statement generalizes the specific scenario in the content (people at long tables) to a broader but accurate description (people at tables).
+4. The content implies a collective setting ("People seated"), which satisfies the "group of people" in the statement.
+5. The actions of the people (writing, watching) are irrelevant to the statement's focus on their seated position at tables, so the core claim holds.
+6. The direction the people are facing (all the same) does not contradict the statement, leaving the entailment intact.
+7. The statement does not specify the type or number of tables, so the "long tables" in the content do not conflict with it.
+8. The absence of additional details in the statement (e.g., activities, table length) means the content's specifics do not violate the entailment.
+9. The statement is a subset of the information in the content, as "sitting at tables" is a subset of "seated at long tables... writing and watching."
+10. The content does not contain any information that contradicts the statement, ensuring the entailment holds.

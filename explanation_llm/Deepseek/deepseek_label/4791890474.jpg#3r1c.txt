@@ -1,0 +1,8 @@
+1. The content describes an old man posing, not walking.
+2. The man in the content is holding a package, which is not mentioned in the statement.
+3. The statement omits the detail about the man being old.
+4. The content specifies the man is in front of an advertisement, not merely walking by it.
+5. The action in the content is posing, which contradicts the walking action in the statement.
+6. The statement generalizes the scenario, missing the specific details of the content.
+7. The content implies a deliberate pose, while the statement suggests casual movement.
+8. The statement does not account for the interaction (posing) between the man and the ad.

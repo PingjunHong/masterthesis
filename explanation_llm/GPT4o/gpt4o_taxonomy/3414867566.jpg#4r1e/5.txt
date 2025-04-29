@@ -1,0 +1,11 @@
+1. The premise specifies "female gymnasts," while the hypothesis refers to "gymnasts" in general, lacking the gender specification.
+2. The premise mentions "warm up," but the hypothesis uses the broader term "get ready," which could encompass other activities not detailed in the premise.
+3. The premise does not explicitly mention the entire process of preparation, which the hypothesis implies with "get ready."
+4. Warming up is just one part of getting ready, but the hypothesis does not detail the exact activities included in getting ready.
+5. The premise involves a specific action of warming up, while the hypothesis suggests a general state of readiness.
+6. The hypothesis could include mental preparation or other types of physical preparation not mentioned in the premise.
+7. The premise specifies "before a competition," while the hypothesis does not specify the timing of getting ready.
+8. The hypothesis implies readiness without specifying the means, which could involve aspects not mentioned in the premise.
+9. The premise does not mention any other actions or preparations gymnasts might undertake beyond warming up.
+10. The hypothesis implies a broader preparation process that the premise does not explicitly cover.
+11. The hypothesis could suggest that gymnasts are ready in various ways, such as mentally or emotionally, which are not mentioned in the premise.

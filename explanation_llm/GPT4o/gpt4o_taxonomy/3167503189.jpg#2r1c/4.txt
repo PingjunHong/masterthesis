@@ -1,0 +1,5 @@
+- The premise specifies a boy, while the hypothesis mentions a girl, indicating a gender mismatch.
+- The premise describes someone holding onto the wall, which does not imply leaning against it as stated in the hypothesis.
+- The premise does not mention a girl at all, contradicting the hypothesis's claim about a girl.
+- The action of holding onto the wall is fundamentally different from leaning against it, creating a contradiction in activities.
+- The premise specifies a single individual, a boy, whereas the hypothesis introduces a different individual, a girl, without evidence of her presence.

@@ -1,0 +1,5 @@
+1. Holding up the old meat he took out of a bag introduces the element of "old" to the meat, which is not specified in the premise.
+2. The premise mentions a man holding up meat, but the statement specifies the meat as "old," adding information not present in the original description.
+3. The premise and statement share the same syntactic structure, but the addition of "old" in the statement implies a change in the condition of the meat that is not confirmed by the premise.
+4. Both sentences describe a man in a commercial kitchen holding meat, yet the term "old" in the statement introduces an attribute not confirmed by the premise, making it neutral.
+5. The structural rephrasing in the statement includes an extra detail ("old") about the meat, which is not present in the premise, affecting the inference.

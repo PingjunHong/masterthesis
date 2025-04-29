@@ -1,0 +1,4 @@
+- A boy in the statement refers to the boy riding down the road.
+- The road in the statement refers to the road between two cows.
+- Two cows in the statement refer to the two cows between which the boy is riding.
+- The phrase "a boy, a road, and two cows" in the statement refers to the boy, the road, and the two cows mentioned in the premise.

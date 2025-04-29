@@ -1,0 +1,7 @@
+1. An electric guitar is a specific type of guitar.
+2. Playing an electric guitar is a more specific instance of playing a guitar.
+3. The term "electric guitar" falls under the broader category of "guitar."
+4. The action of playing an electric guitar inherently includes playing a guitar.
+5. An electric guitar is a subset within the broader category of guitars.
+6. The concept of "electric guitar" implies the presence of a "guitar."
+7. Describing a guitar as "electric" specifies its type but does not negate its identity as a guitar.

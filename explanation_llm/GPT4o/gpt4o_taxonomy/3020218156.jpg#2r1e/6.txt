@@ -1,0 +1,10 @@
+1. A man and two men confirm a total of three men.
+2. "A man" and "two other men" implies the presence of three men, consistent with the content.
+3. "Standing in front of a building" and "near a building" both indicate proximity to a building.
+4. The phrase "on the phone" does not contradict being "near a building."
+5. "Standing by two men" aligns with "as two men to the side."
+6. The presence of "a man" and "two other men" is a logical match, as the premise contains these elements.
+7. Both statements confirm the presence of three men in total, adhering to the numerical consistency.
+8. No logical conflict exists in the number of men described in both the content and the statement.
+9. The spatial relationship of "near" and "in front of" does not present a logical exclusion or conflict.
+10. The descriptions of the individuals' actions and positions do not conflict with each other across the premise and hypothesis.

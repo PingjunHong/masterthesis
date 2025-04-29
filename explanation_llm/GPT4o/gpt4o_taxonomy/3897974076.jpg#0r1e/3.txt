@@ -1,0 +1,7 @@
+1. A woman and two children climb up the stairs is a rephrase of, Two children and a woman climb up the stairs on a metal electric pole-like structure.
+2. The order of subjects in the hypothesis (A woman and two children) is a syntactic alternation of the order in the premise (Two children and a woman), maintaining the same meaning.
+3. The hypothesis omits the phrase "on a metal electric pole-like structure" from the premise, which doesn't alter the core meaning that they are climbing stairs.
+4. The premise uses the phrase "Two children and a woman," while the hypothesis uses "A woman and two children," showcasing a simple coordination change without affecting meaning.
+5. Both the premise and the hypothesis describe the same action (climbing up the stairs), with only minor syntactic differences in subject order and detail inclusion.
+6. The premise includes additional detail ("on a metal electric pole-like structure") that is supplementary and does not change the core activity described, aligning the hypothesis with the main action of climbing stairs.
+7. The hypothesis preserves the main verb "climb" and its subject, reflecting a structural rephrasing of the premise without altering the primary meaning.

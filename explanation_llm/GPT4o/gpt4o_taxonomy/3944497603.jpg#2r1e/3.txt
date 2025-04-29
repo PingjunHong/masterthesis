@@ -1,0 +1,6 @@
+1. Someone is standing near a metro station is a rephrase of A person in orange clothing rests above a metro entrance.
+2. The premise describes a person above a metro entrance, which can be structurally rephrased as someone near a metro station.
+3. Resting above a metro entrance implies proximity to a metro station, making the hypothesis a rephrased version of the premise.
+4. Being above suggests closeness to the metro entrance, aligning with standing near a metro station in the hypothesis.
+5. Orange clothing is a detail that doesn't alter the structural meaning of being near a metro entrance, which is rephrased as standing near a metro station.
+6. Structural alternation from resting above to standing near maintains the meaning related to the metro station.

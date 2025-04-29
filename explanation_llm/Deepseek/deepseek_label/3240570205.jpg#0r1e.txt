@@ -1,0 +1,10 @@
+1. The content explicitly mentions "one operating a video camera," which is an adult.
+2. The statement "An adult using a video camera" is directly supported by the description of "five adults in front of him, one operating a video camera."
+3. The presence of an adult operating a video camera in the content confirms the statement.
+4. The statement is a subset of the information provided in the content, focusing on one specific detail.
+5. The content describes a scene where at least one adult is engaged in using a video camera, fulfilling the statement's claim.
+6. The statement is entailed because the content contains the exact action (using a video camera) performed by an adult.
+7. The description of the scene includes an adult performing the action specified in the statement, making the entailment valid.
+8. The content provides sufficient evidence (an adult operating a video camera) to conclude the statement is true.
+9. The statement is entailed because the content does not contradict it and instead supports it with explicit details.
+10. The action "operating a video camera" in the content aligns with the statement "using a video camera," and the agent is confirmed to be an adult.

@@ -1,0 +1,8 @@
+- A man playing guitar on stage is a rephrase of A man playing an electric guitar on stage.
+- The statement A man playing guitar on stage is a syntactic alternation of the premise A man playing an electric guitar on stage.
+- The phrase "electric guitar" can be omitted without changing the meaning in the context of a man playing guitar on stage.
+- The omission of the word "electric" does not alter the core meaning of the statement.
+- The structural simplification from "an electric guitar" to "guitar" retains the essential meaning of the sentence.
+- The hypothesis uses a simpler form that conveys the same scenario described in the premise.
+- The premise specifies the type of guitar, which is an electric guitar, but the hypothesis still accurately describes the scene by using the general term "guitar."
+- The meaning remains unchanged when the descriptor "electric" is left out, as the context of playing on stage implies the use of an electric guitar.

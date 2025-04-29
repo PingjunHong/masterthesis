@@ -1,0 +1,9 @@
+1. "Two boys" refers to "two small boys in blue soccer uniforms."
+2. "Washing their hands" refers to "use a wooden set of steps to wash their hands."
+3. "Their hands" refers to the hands of "two small boys in blue soccer uniforms."
+4. "Two boys" is a subset of "two small boys," both referring to the same individuals.
+5. "Washing" refers to the action described by "wash their hands."
+6. "Their" in "their hands" refers to the boys mentioned in the premise.
+7. "Two boys" resolves to "two small boys" in context, implying the same entity.
+8. The action of "washing" in the statement is the same as "use a wooden set of steps to wash" in the premise.
+9. "Adult-sized bathroom" contextually includes "washing their hands," which matches the action described.

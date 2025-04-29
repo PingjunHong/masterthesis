@@ -1,0 +1,10 @@
+- Women are not men.
+- The premise mentions only women, not men.
+- The presence of women in the premise excludes men in the hypothesis.
+- "Several women" does not imply the presence of men.
+- The gender mentioned in the premise conflicts with the gender in the hypothesis.
+- The statement contradicts the exclusively female description in the premise.
+- The premise specifies women, creating a gender conflict with men in the hypothesis.
+- The logical structure of the premise excludes men by only mentioning women.
+- The use of "women" in the premise logically conflicts with "men" in the hypothesis.
+- The premise's reference to women wearing dresses excludes the possibility of men dancing.

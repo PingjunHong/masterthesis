@@ -1,0 +1,8 @@
+1. The term "female gymnasts" in the premise does not refer to "football players" in the hypothesis.
+2. The activity "warm up before a competition" related to "female gymnasts" does not resolve to "practice" for "football players."
+3. The premise discusses "female gymnasts," whereas the hypothesis concerns "football players," indicating different subjects.
+4. The "competition" mentioned for gymnasts does not correspond to any context for "football players" in the hypothesis.
+5. The pronoun or reference implied for "female gymnasts" does not apply to "football players."
+6. The premise context related to "female gymnasts" does not resolve to the hypothesis context involving "football players."
+7. The references in the premise to "female gymnasts" warming up do not match the references to "football players" practicing.
+8. The subject of "female gymnasts" in the premise cannot be coreferenced to "football players" in the hypothesis.

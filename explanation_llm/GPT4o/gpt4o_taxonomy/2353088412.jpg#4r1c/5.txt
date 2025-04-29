@@ -1,0 +1,8 @@
+- The premise mentions dogs chasing each other, but does not mention a cat, making the involvement of a cat unsupported.
+- The hypothesis introduces a cat, but the premise only talks about dogs, creating a contradiction due to the absence of any mention of a cat.
+- The statement specifies a cat chasing a dog, which is not mentioned or suggested in the premise that only involves dogs.
+- The premise describes a scenario involving two dogs, but does not provide any information about a cat, contradicting the hypothesis.
+- The hypothesis assumes the presence of a cat, which is not supported by the premise that focuses solely on dogs.
+- The premise provides no evidence of a cat being involved in the chasing, contradicting the hypothesis that includes a cat.
+- The mention of a cat in the hypothesis is unsupported, as the premise only describes dogs, leading to a contradiction.
+- The premise lacks any reference to a cat, contradicting the hypothesis which involves a cat chasing a dog.

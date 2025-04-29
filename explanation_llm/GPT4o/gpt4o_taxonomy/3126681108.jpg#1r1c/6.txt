@@ -1,0 +1,10 @@
+1. Walking in snow does not occur in a restaurant.
+2. Wearing a brown jacket while walking does not match eating pasta in a restaurant.
+3. The girl is described as walking, not eating pasta.
+4. The location described is outdoors in snow, not indoors in a restaurant.
+5. The action of walking contradicts the action of sitting and eating.
+6. The premise specifies a girl, while the hypothesis refers to a woman, creating a gender/age conflict.
+7. Temporal conflict: Walking in snow and eating pasta in a restaurant cannot occur simultaneously.
+8. Structural exclusivity: The premise describes an outdoor activity, while the hypothesis describes an indoor activity.
+9. Quantifier conflict: The premise specifies a singular girl, while the hypothesis generalizes to a woman without specific identifiers.
+10. A brown jacket is typically associated with cold weather, whereas eating pasta in a restaurant suggests a warmer indoor environment.

@@ -1,0 +1,7 @@
+1. A person is near a pile of coconuts is a rephrase of, A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.
+2. The presence of a pile of coconuts on the ground in the premise indicates that the person is near the coconuts in the hypothesis, maintaining the same meaning.
+3. The hypothesis simplifies the structure of the premise by focusing on the person's proximity to the coconuts, which is implied by the premise.
+4. The main action and objects in the premise, including the pile of coconuts, are retained in the hypothesis, indicating the same situation.
+5. The hypothesis consolidates the spatial relationship described in the premise, asserting the person's location relative to the coconuts.
+6. The premise provides detailed context, while the hypothesis highlights the essential aspect of the person’s proximity to the coconuts, preserving meaning.
+7. The phrase "a pile of coconuts on the ground" in the premise inherently suggests the person's nearness, as rephrased in the hypothesis.

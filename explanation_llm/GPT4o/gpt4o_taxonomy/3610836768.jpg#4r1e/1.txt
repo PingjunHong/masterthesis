@@ -1,0 +1,8 @@
+1. The people in the statement refers to the villagers mentioned in the premise.
+2. The boat in the statement refers to the fish boat mentioned in the premise.
+3. Pulling in the statement refers to pulling in the premise.
+4. The action of pulling a boat in the statement is the same as the villagers pulling in the fish boat in the premise.
+5. The noun phrase "people pulling a boat" in the statement is resolved by the villagers pulling in the fish boat from the premise.
+6. The term "boat" in the statement is coreferential with "fish boat" in the premise.
+7. "There are people" in the statement is equivalent to "Villagers" in the premise, indicating the same group of individuals.
+8. The activity described as "pulling a boat" in the statement is clarified by "pulling in the fish boat" in the premise.

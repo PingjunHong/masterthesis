@@ -1,0 +1,10 @@
+1. The content mentions dogs swimming, not sitting on a couch.
+2. The location in the content is a river, not a couch.
+3. The activity in the content is swimming, not sitting.
+4. The number of dogs in the content is six, but the statement does not specify a number.
+5. The content describes an active scenario (swimming), while the statement describes a passive one (sitting).
+6. The word "puppies" implies young dogs, while the content does not specify age.
+7. The statement implies an indoor setting (couch), while the content is outdoors (river).
+8. The content involves movement (swimming), while the statement implies stillness (sitting).
+9. The statement contradicts the described activity in the content.
+10. The statement contradicts the described location in the content.

@@ -1,0 +1,6 @@
+1. "**Two**" in the content matches "**Two**" in the statement, indicating the same number of individuals.
+2. "**boys**" in the content matches "**boys**" in the statement, confirming they are the same individuals.
+3. The action "**wash**" in the content is semantically equivalent to "**washing**" in the statement, both referring to the act of cleaning hands.
+4. "**their hands**" in the content corresponds to "**their hands**" in the statement, explicitly stating the same body part being washed.
+5. The context of "**boys**" and "**washing hands**" in both sentences aligns, preserving the meaning without contradiction.
+6. The details about blue soccer uniforms and the bathroom in the content are supplementary and do not contradict or alter the core meaning of the statement.

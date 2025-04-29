@@ -1,0 +1,10 @@
+1. The statement about the boys winning their soccer game introduces new information not present in the premise.
+2. The premise describes the boys washing their hands, while the statement addresses their performance in a soccer game, which is not structurally inferred from the premise.
+3. No syntactic rephrasing of the premise can produce the statement about winning the soccer game because it involves different events.
+4. The structural elements of the premise focus on the action of washing hands, which does not encompass winning a game.
+5. The premise does not contain any information about the outcome of a soccer game, so the statement cannot be a syntactic rephrase of it.
+6. The statement regarding the soccer game result is not a reformulation of any aspect of the premise, which centers on the boys' activity in the bathroom.
+7. There is no structural overlap between washing hands in a bathroom and winning a soccer game that would allow for syntactic alternation.
+8. The premise and the statement involve different topics and activities, preventing any syntactic-level inference that would connect washing hands to winning a game.
+9. The premise’s structural description of the boys’ actions does not imply any outcome related to a soccer match.
+10. A rephrasing of the premise about washing hands cannot logically infer or transform into a statement about winning a game due to lack of related content.

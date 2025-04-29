@@ -1,0 +1,10 @@
+1. A long sleeves white collared shirt and a tie are typical components of work attire, so wearing them implies wearing work attire.
+2. Walking to work suggests that the destination is his job, which aligns with the statement that he is walking to his job.
+3. The phrase "walking to work" logically implies the purpose of the walk is to reach his job.
+4. The description of wearing a long sleeves white collared shirt and a tie is commonly associated with professional or work-related clothing, hence implying work attire.
+5. The premise includes the man walking in a big city, which contextually supports the inference that he is commuting to his job, a common activity in urban areas.
+6. The structure of the sentence, "walking to work," intrinsically suggests the activity (walking) is directed towards reaching a job location.
+7. The attire described—a long sleeves white collared shirt and a tie—semantically fits the definition of work attire, supporting the entailment.
+8. The action of "walking to work" inherently implies the man is on his way to a job, which matches the hypothesis.
+9. Wearing a tie is often associated with professional environments, logically indicating the man is in work attire.
+10. The phrase "walking to work" semantically implies a connection to employment, thus supporting the hypothesis that he is walking to his job.

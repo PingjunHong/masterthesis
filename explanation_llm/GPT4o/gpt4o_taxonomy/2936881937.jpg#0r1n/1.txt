@@ -1,0 +1,10 @@
+- A person refers to the man looking over a bicycle's rear wheel.
+- The garage refers to the maintenance garage mentioned in the premise.
+- Person and man are coreferential, indicating they refer to the same individual in the context.
+- The location described in the statement, the garage, is the same as the maintenance garage in the premise.
+- In the hypothesis, person is equivalent to the man in the premise.
+- The man in the premise is the person mentioned in the hypothesis, establishing coreference.
+- The garage in the statement is the same space as the maintenance garage described in the premise.
+- Reference to a person in the hypothesis is resolved by identifying him as the man in the premise.
+- The premise's man is the same entity as the person in the hypothesis.
+- The hypothesis uses the term garage, which refers back to the maintenance garage in the premise.

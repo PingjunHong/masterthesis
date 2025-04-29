@@ -1,0 +1,5 @@
+- A woman cannot be weaving if her hands are empty.
+- Weaving requires tools, so her hands cannot be empty.
+- A comb in hand means her hands are not empty.
+- Holding a comb indicates her hands are occupied.
+- If she is weaving, she must be holding something.

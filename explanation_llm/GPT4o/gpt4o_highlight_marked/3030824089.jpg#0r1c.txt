@@ -1,0 +1,2 @@
+- "runs" contradicts "sleeping" because an animal cannot be both running and sleeping simultaneously.
+- "outdoors" contradicts "basement" because an animal cannot be both outside in the open air and inside a basement at the same time.

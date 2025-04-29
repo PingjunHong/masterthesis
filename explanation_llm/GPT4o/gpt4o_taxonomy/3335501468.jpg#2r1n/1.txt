@@ -1,0 +1,7 @@
+- "The duck" in the hypothesis does not refer to "a bird" in the premise, as these are different entities.
+- The reference to "the lake" in the hypothesis does not resolve to "the water" in the premise, suggesting these are different locations or contexts.
+- "Its wings" in the premise refers to the bird, whereas "the duck" in the hypothesis introduces a separate entity not mentioned in the premise.
+- There is no mention of "swimming" in the premise, so the activity described in the hypothesis does not resolve to any action in the premise.
+- The premise specifies "a bird" without any additional identifiers, while the hypothesis specifies "a duck," which does not match the reference to the bird.
+- The term "flapping" in the premise does not resolve to "swimming" in the hypothesis, indicating different actions by potentially different subjects.
+- "On the water" in the premise does not resolve to "in the lake" in the hypothesis; these could be different bodies of water.

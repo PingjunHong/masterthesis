@@ -1,0 +1,12 @@
+1. Not all men are busy.
+2. Not all men have bodyguards.
+3. Being on the phone does not imply being busy.
+4. The presence of two men does not imply they are bodyguards.
+5. Not all men standing in front of a building are busy.
+6. Not all men standing with others are accompanied by bodyguards.
+7. Painting on the side doesn't imply they are guarding someone.
+8. Simply standing near a building does not imply a person is busy.
+9. Bodyguards are not typically involved in painting.
+10. The presence of more than one man does not imply the presence of bodyguards.
+11. Not everyone standing with others has bodyguards.
+12. Standing in front of a building does not inherently relate to having bodyguards.

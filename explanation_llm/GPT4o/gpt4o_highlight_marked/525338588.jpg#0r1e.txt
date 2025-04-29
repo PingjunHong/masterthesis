@@ -1,0 +1,5 @@
+1. The **people** in the content and the **people** in the statement refer to the same group.
+2. The **standing outside** in the content implies that the group is not **inside** of the building.
+3. The **building** mentioned in the content is the same building referred to in the statement.
+4. The content describes the group **outside** of the building, which directly entails that they are not **inside** of it.
+5. The context of the group **talking to each other outside** supports the idea that they are not located **inside** the building.

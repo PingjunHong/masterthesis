@@ -1,0 +1,3 @@
+- The content specifies that a boy is hitting the tennis ball, while the statement claims it is a girl, leading to a contradiction in the subject performing the action.
+- The pronoun "a" in the statement suggests a singular, specific individual, conflicting with the content's specification of a boy.
+- The verb tense "is hitting" in the statement implies a current action by a girl, contradicting the content's assertion that the action is performed by a boy.

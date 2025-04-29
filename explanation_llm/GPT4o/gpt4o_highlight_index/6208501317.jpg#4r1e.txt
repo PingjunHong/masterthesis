@@ -1,0 +1,4 @@
+1. The term "A kid" in the content directly corresponds to "The child" in the statement, as "kid" and "child" are synonyms.
+2. The phrase "playing a game called The Derby" in the content implies the action of "playing" in the statement, as both involve participation in an activity.
+3. The use of "playing" in both the content and the statement indicates the same action, reinforcing the entailment.
+4. "A kid playing" in the content entails "The child is playing" since both describe a child engaged in play.

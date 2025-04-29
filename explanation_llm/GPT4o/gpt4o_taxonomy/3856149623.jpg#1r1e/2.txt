@@ -1,0 +1,10 @@
+1. Looking through manuals involves looking at books, as manuals are a type of book.
+2. The act of looking through something implies the act of looking at it.
+3. A medical manual is a specific type of book.
+4. The term "doctor" in the premise matches the term "doctor" in the hypothesis.
+5. "Looking through" semantically includes "looking at," implying engagement with the content.
+6. The word "manuals" refers to a collection of books, thus encompassing the term "book."
+7. The use of "doctor" in both the premise and hypothesis ensures the subject is consistent.
+8. The presence of "medical manuals" implies the act of reading or examining books.
+9. The verb "looking" in the hypothesis is directly aligned with "looking through" in the premise.
+10. The concept of "new medical manuals" indicates books, as manuals are categorized under books.

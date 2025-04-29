@@ -1,0 +1,10 @@
+1. A man is a type of human.
+2. Jumping involves movement and is a form of action performed by humans.
+3. The phrase "jumps in the snow" indicates the action of jumping.
+4. "Bearded man" refers to a human with a beard, reinforcing the human aspect.
+5. The presence of a man in the premise guarantees the human aspect in the hypothesis.
+6. The word "man" implies a human in action.
+7. Humans are capable of jumping, and the premise describes such an activity.
+8. "Ocean in the background" and "orange, recumbent bike" are additional details that don't affect the human jumping action.
+9. "A human jumping" is a generalized version of "a bearded man jumps."
+10. "Jumps" is synonymous with the action a human performs, as indicated in the premise.

@@ -1,0 +1,12 @@
+1. "John Deere motor" is not explicitly stated or implied by "green riding mower."
+2. The action "moving grass" does not necessarily equate to "mowing the grass."
+3. The term "red shirt" does not definitively indicate "red" as the sole color worn by the person.
+4. The specific brand "John Deere" introduces a potential exclusivity not confirmed by the premise.
+5. The premise does not specify the type of motor, leading to a structural logical conflict with "motor."
+6. The description of the mower's color as "green" does not inherently imply it is a John Deere brand.
+7. "Mowing" suggests cutting grass, while "moving" does not necessarily involve cutting.
+8. The phrase "green riding mower" does not explicitly align with "motor," creating a structural conflict.
+9. The premise mentions "mowing," but the hypothesis uses "moving," indicating a potential action ambiguity.
+10. The premise specifies a "riding mower," whereas the hypothesis refers to a "motor," suggesting a vehicle type conflict.
+11. The term "riding mower" implies a specific type of machine not definitively matched by "John Deere motor."
+12. The premise does not mention any brand, introducing a structural exclusivity with the hypothesis's mention of "John Deere."

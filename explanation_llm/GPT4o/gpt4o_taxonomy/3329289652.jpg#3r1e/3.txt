@@ -1,0 +1,10 @@
+1. Boys are playing is a rephrase of The boys are playing with Legos.
+2. Removing the detail "with Legos" still leaves the core meaning that the boys are engaged in playing.
+3. The phrase The boys are playing with Legos can be structurally rephrased to Boys are playing by omitting specific details.
+4. The essential activity described, "playing," is shared in both the premise and the hypothesis.
+5. The premise specifies the toy involved, but the hypothesis retains the same core activity by omitting that detail.
+6. The syntactic structure changes by dropping the object "with Legos," but the main action and subject remain unchanged.
+7. The hypothesis is a simplified version of the premise, focusing solely on the boys' action.
+8. The premise implies the general action of playing, which aligns with the hypothesis.
+9. The boys are playing with Legos inherently means that boys are playing, with "Legos" specifying but not altering the action.
+10. The main verb "are playing" and subject "boys" are consistent between the premise and hypothesis, indicating entailment through structural reduction.

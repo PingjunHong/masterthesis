@@ -1,0 +1,10 @@
+1. The content does not specify the type of bird, so it may not be a duck.
+2. The content mentions flapping wings on the water, not swimming.
+3. The content does not mention a lake, only water.
+4. The statement assumes the bird is a duck, which is not confirmed.
+5. The statement describes swimming, while the content describes wing-flapping.
+6. The location (lake) is inferred but not stated in the content.
+7. The actions (swimming vs. flapping wings) are not equivalent.
+8. The content lacks details to confirm or contradict the statement.
+9. The statement introduces new information (duck, lake, swimming) not present in the content.
+10. The content is too vague to support or refute the statement definitively.

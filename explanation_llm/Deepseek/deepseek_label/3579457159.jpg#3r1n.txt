@@ -1,0 +1,10 @@
+1. The content does not provide any information about the age of the women.
+2. The statement introduces new information (age) not mentioned or implied in the content.
+3. There is no evidence in the content to confirm or contradict the statement.
+4. The content focuses on the action (dancing) and attire (dresses), not age.
+5. The statement is independent of the content, making it neither supported nor contradicted.
+6. Age is irrelevant to the described scenario in the content.
+7. The content's neutrality arises because the statement is unverifiable from the given information.
+8. The statement could be true or false, but the content does not address it.
+9. The women's age does not affect the described event (dancing in the forest).
+10. The content and statement belong to unrelated semantic domains (action vs. demographic attribute).

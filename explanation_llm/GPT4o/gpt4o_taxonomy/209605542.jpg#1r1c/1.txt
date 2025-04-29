@@ -1,0 +1,8 @@
+- The man in the statement refers to the man climbing a rock cliff in the premise, and climbing is inconsistent with swimming.
+- The ocean in the statement is unrelated to the rock cliff described in the premise, which indicates a contradiction.
+- The greenery mentioned in the premise contradicts the presence of an ocean in the statement.
+- The red headband identifies the man as rock climbing, not swimming, creating a contradiction.
+- The activity of climbing in the premise contradicts the activity of swimming in the statement.
+- The rock cliff over greenery in the premise contrasts with the ocean setting in the statement.
+- The man described in the premise is engaged with a rock cliff, which contradicts being in the ocean as stated.
+- The premise situates the man among greenery, a setting that conflicts with the ocean environment in the statement.

@@ -1,0 +1,5 @@
+1. "A climber" implies gender neutrality, but "A woman climber" specifies gender as female, contradicting the premise's lack of gender specification.
+2. "Wearing a red headband" suggests a specific accessory, while "attempts to pull herself up" does not mention the headband, contradicting the premise's accessory detail.
+3. "Pulling himself up" indicates male gender, while "pull herself up" indicates female gender, creating a contradiction based on gender pronoun usage.
+4. "High above some green foliage" specifies the location, whereas the hypothesis does not mention this detail, leading to a location-based contradiction.
+5. The premise describes the climber actively pulling himself up, whereas the hypothesis suggests an attempt, contrasting action completion with action attempt.

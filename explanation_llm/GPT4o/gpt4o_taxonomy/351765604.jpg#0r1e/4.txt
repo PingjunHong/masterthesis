@@ -1,0 +1,4 @@
+The woman is wearing a ball cap, which is a type of hat, so she is wearing a hat.
+The woman is squatting down, which is equivalent to squatting.
+Touching the cracked earth is equivalent to touching the ground, as cracked earth is a type of ground.
+The actions "squats down" and "touch" imply a sequence of actions where the person who squats is also the one touching the ground.

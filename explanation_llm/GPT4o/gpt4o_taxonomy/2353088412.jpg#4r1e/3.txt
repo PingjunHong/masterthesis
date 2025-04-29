@@ -1,0 +1,10 @@
+1. Dog is running and being chased by another dog is a rephrase of Dog running with pet toy being chased by another dog.
+2. The premise describes a dog running while being chased by another dog, which is structurally rephrased in the hypothesis as dog is running and being chased by another dog.
+3. The sentence structure in dog is running and being chased by another dog is an alternation of the premise Dog running with pet toy being chased by another dog.
+4. The core meaning of the premise, Dog running with pet toy being chased by another dog, is preserved in the syntactic rephrasing dog is running and being chased by another dog.
+5. Coordination is used to express the same idea in dog is running and being chased by another dog as in the premise Dog running with pet toy being chased by another dog.
+6. The hypothesis dog is running and being chased by another dog uses subordination to convey the same meaning as the premise Dog running with pet toy being chased by another dog.
+7. The structural elements in Dog running with pet toy being chased by another dog are rearranged to form the hypothesis dog is running and being chased by another dog with the same meaning.
+8. Dog running with pet toy being chased by another dog is syntactically altered in dog is running and being chased by another dog, retaining the original meaning.
+9. The premise and hypothesis express the same situation using different syntactic forms: Dog running with pet toy being chased by another dog and dog is running and being chased by another dog.
+10. The premise Dog running with pet toy being chased by another dog is restructured into the hypothesis dog is running and being chased by another dog with an equivalent meaning.

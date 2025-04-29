@@ -1,0 +1,8 @@
+1. The term "Ford car" in the content could refer to a sedan, but this is not definitively stated.
+2. The phrase "making a right turn" in the content does not specify that the car is a sedan, leaving the type of car ambiguous.
+3. The "3 males" mentioned in the content are not explicitly referred to as "walkers" in the statement.
+4. The statement "A sedan was turning a corner" uses the term "sedan," which is not directly mentioned or confirmed in the content.
+5. The content describes "3 males walking across the street," while the statement generalizes them as "walkers," which lacks specific coreference.
+6. The content specifies the direction of the turn as "right," whereas the statement simply mentions "turning a corner," without specifying direction, leaving potential ambiguity.
+7. The content's reference to "a Ford car" does not explicitly match the statement's use of "a sedan," suggesting a difference in coreference.
+8. "Behind the car" in the content does not explicitly correspond to "crossing" in the statement, leaving the spatial relationship open to interpretation.

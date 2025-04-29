@@ -1,0 +1,12 @@
+- A person is preparing some food is a rephrase of a man cooking over high flames.
+- Preparing food is implied by cooking, hence the statement rephrases the premise.
+- The premise describes cooking, which is an activity of preparing food, matching the statement.
+- The phrase "a man cooking" is structurally similar to "a person preparing food."
+- "Cooking over high flames" is a specific method of food preparation, rephrased in the statement.
+- The premise's action of "cooking" aligns with the statement's "preparing food."
+- "A man" and "a person" are structurally interchangeable, both indicating someone engaging in the activity.
+- The premise specifies "high flames," focusing on the cooking process, which implies food preparation in the statement.
+- "Cooking" in the premise is a syntactic alternation for "preparing food" in the statement.
+- The statement simplifies the premise by generalizing "cooking" to "preparing food."
+- The structural rephrasing from "man cooking" to "person preparing" maintains the same meaning.
+- Both premise and statement describe an act of food preparation, structurally rephrased.

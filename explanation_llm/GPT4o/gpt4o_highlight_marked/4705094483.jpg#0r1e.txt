@@ -1,0 +1,7 @@
+1. The color "black" in the content is a specific detail, but the statement generalizes it to "shirt," which does not contradict the content.
+2. Omitting "black" in the statement does not negate the existence of a shirt, so the statement remains consistent with the content.
+3. The highlighted "shirt" in the statement is consistent with the "black shirt" in the content, as the shirt's presence is acknowledged in both.
+4. The removal of the adjective "black" in the statement does not alter the fundamental meaning that the man is wearing a shirt.
+5. The description of the man wearing a shirt in both the content and statement preserves the entailment relationship.
+6. The shirt remains a shared attribute between the content and the statement even if its color is not specified.
+7. The statement simplifies the description by omitting "black," but the information about the shirt is still conveyed.

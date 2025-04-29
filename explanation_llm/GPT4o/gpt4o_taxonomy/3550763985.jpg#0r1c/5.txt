@@ -1,0 +1,10 @@
+1. The premise describes a skateboarder in the context of a jump on a snowy day, while the hypothesis introduces jogging down the street, which is not mentioned in the premise.
+2. The premise involves a skateboarder performing a jump, but does not provide any information about jogging, making the hypothesis unsupported.
+3. The premise does not contain any mention of streets or jogging, suggesting the hypothesis introduces details not found in the premise.
+4. The premise describes an action related to skateboarding, but the hypothesis involves jogging, a different activity not indicated in the premise.
+5. The setting in the premise is snowy, whereas the hypothesis mentions a street, an environment absent from the premise.
+6. The premise focuses on a skateboarder's jump, while the hypothesis shifts to jogging, which is not mentioned, leading to a lack of supporting evidence.
+7. The premise does not specify any movement like jogging, so the hypothesis introduces new information not entailed by the premise.
+8. The premise is centered around a skateboarding jump, and no details are provided about jogging or street scenarios, resulting in a contradiction.
+9. The hypothesis suggests a different physical activity (jogging) without evidence or mention in the premise, making it unsupported.
+10. The premise describes a skateboarder in a snowy setting, but does not mention streets or jogging, contradicting the hypothesis.

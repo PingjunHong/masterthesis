@@ -1,0 +1,4 @@
+- The highlighted part "stand" in the statement is present in the content without any additional context that would imply agreement or contradiction.
+- The content provides more detail about the setting and the object (a large black square with yellow writing) which is not mentioned in the statement, making the statement neither clearly supported nor contradicted.
+- The statement focuses on the action of the group of people, which is mirrored in the content but lacks specific details to form a definitive entailment or contradiction.
+- Without further context on the significance of the black square or the yellow writing, the statement remains neutral as it does not specify any particular activity or purpose of the group's standing.

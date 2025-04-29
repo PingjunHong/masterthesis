@@ -1,0 +1,10 @@
+- The premise mentions a construction site next to the man's building but does not specify whether the noise is audible from where the man is sitting.
+- The statement about hearing the construction is not directly supported or contradicted by the premise, as it lacks explicit information about noise levels or the man's ability to hear.
+- The premise describes the man's activities and location but does not include any details about auditory experiences or factors affecting sound transmission.
+- While it is plausible that construction noise might be audible, the premise does not provide information about the man's auditory perception or ambient noise level.
+- The premise does not mention the presence of noise or whether the man is distracted or focused on his phone conversation, which could affect his ability to hear the construction.
+- The premise includes the man's location and activities but omits any description of environmental sounds or the acoustic conditions of the setting.
+- The statement about hearing construction involves an assumption about the man's environment that is not directly addressed by the text's semantic content.
+- There is no explicit mention of sound or auditory details in the premise, leaving the statement about hearing construction unsupported by the given information.
+- The premise does not provide details about the proximity of the construction site in terms of auditory impact or soundproofing of the building, which are necessary to infer hearing.
+- The statement about hearing construction involves a pragmatic inference that is not logically compelled by the factual elements provided in the premise.

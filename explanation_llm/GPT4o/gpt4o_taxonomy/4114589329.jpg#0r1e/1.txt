@@ -1,0 +1,5 @@
+1. A car making a right turn refers to the Ford car making a right turn.
+2. Three pedestrians cross behind it refers to 3 males walking across the street behind the car.
+3. It refers to the Ford car mentioned in the premise.
+4. Three pedestrians refers to the 3 males mentioned in the premise.
+5. Behind it refers to the position behind the Ford car.

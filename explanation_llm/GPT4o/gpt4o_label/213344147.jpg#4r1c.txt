@@ -1,0 +1,4 @@
+- The statement describes an activity (shopping) that is different from the activity in the content (talking).
+- The statement specifies a location (mall) that is different from the location in the content (dock).
+- The statement refers to "women," while the content mentions "two people," without specifying their gender.
+- The statement implies a scenario that involves multiple women, whereas the content involves only two individuals.

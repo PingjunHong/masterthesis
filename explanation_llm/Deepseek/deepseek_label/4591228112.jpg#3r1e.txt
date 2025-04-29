@@ -1,0 +1,10 @@
+1. The content explicitly describes the man as "old."
+2. The phrase "an old man" directly indicates the man's age.
+3. The statement is a direct repetition of the attribute given in the content.
+4. There is no contradictory information in the content to dispute the statement.
+5. The content provides no alternative description of the man's age.
+6. The statement is a subset of the information provided in the content.
+7. The content's description of the man is sufficient to infer the statement.
+8. The statement does not introduce any new information not already present in the content.
+9. The content and the statement share identical semantic meaning regarding the man's age.
+10. The entailment holds because the statement is a trivial extraction from the content.

@@ -1,0 +1,8 @@
+1. The premise mentions "a group of people," but it does not specify their gender, so we cannot assume the group consists of both men and women.
+2. The premise simply refers to "fresh lettuce," without specifying the type, such as romaine, so the type of lettuce in the hypothesis is not confirmed.
+3. The premise does not mention any specific details about the people, such as their gender composition, so the hypothesis introducing "men and women" is additional information not supported by the premise.
+4. The premise does not mention any specific type of lettuce, so the introduction of "romaine lettuce" in the hypothesis is not supported by the premise.
+5. The premise only states "a group of people" without any further identification or characterization, so the hypothesis cannot specify "men and women."
+6. The premise doesn't provide evidence about the type of lettuce being examined, thus the hypothesis's mention of "romaine lettuce" is an unsupported detail.
+7. The hypothesis assumes a specific gender composition of the group that is not mentioned in the premise, which only states "a group of people."
+8. The premise describes people looking at lettuce but does not specify "romaine lettuce," so the hypothesis includes detail that is not found in the premise.

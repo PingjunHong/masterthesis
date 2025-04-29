@@ -1,0 +1,11 @@
+1. "Two guys" implies a maximum of two males, which contradicts "three men."
+2. "Crossing an overpass" suggests movement, while "sit and talk" implies being stationary.
+3. "Five girls and two guys" does not include "three men."
+4. "Two guys" specifies two males, directly opposing the possibility of having "three men."
+5. "Crossing a overpass" and "sit and talk" describe mutually exclusive activities.
+6. The use of "two" in the premise and "three" in the statement are numerically contradictory.
+7. The premise's "two guys" contradicts the statement's claim of "three men" due to differing quantities.
+8. "Crossing" involves moving, incompatible with the stationary action "sit."
+9. The premise does not mention men, contradicting the statement's mention of "three men."
+10. "Two" in the premise directly opposes "three" in the statement based on numerical values.
+11. "Crossing" as an action contradicts "sit and talk," which refers to resting activities.

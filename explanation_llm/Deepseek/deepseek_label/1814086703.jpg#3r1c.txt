@@ -1,0 +1,10 @@
+1. The content states the dogs are running, not sleeping.
+2. The content mentions the dogs are near the leaves, not on them.
+3. The content describes active movement ("run together"), contradicting the static state of sleeping.
+4. The statement incorrectly places the dogs on the pile of leaves, while the content specifies proximity ("near").
+5. The content implies the dogs are awake and moving, opposing the statement's claim of them sleeping.
+6. The statement misrepresents the dogs' activity (sleeping vs. running).
+7. The statement inaccurately describes the spatial relationship between the dogs and the leaves (on vs. near).
+8. The content provides no evidence of the dogs being stationary or asleep.
+9. The statement contradicts the dynamic scene described in the content.
+10. The content's focus is on the dogs' motion, which is incompatible with the inactivity suggested by the statement.

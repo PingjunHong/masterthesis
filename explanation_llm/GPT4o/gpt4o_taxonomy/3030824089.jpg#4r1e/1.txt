@@ -1,0 +1,8 @@
+- The dog in "The dog runs" refers to the dog in "A dog runs."
+- The subject "The dog" in the hypothesis is the same as the subject "A dog" in the premise.
+- "The dog" specifies the same dog mentioned as "A dog" in the premise.
+- Coreference is established between "A dog" in the premise and "The dog" in the hypothesis.
+- Both "A dog" and "The dog" refer to the same entity, thus supporting entailment.
+- The definite article "The" in "The dog runs" denotes the same dog as mentioned in "A dog runs."
+- The reference to "The dog" resolves to the same dog as "A dog," indicating coreference resolution.
+- The use of "The dog" implies the same dog mentioned as "A dog," confirming the entailment relationship.

@@ -1,0 +1,10 @@
+1. Two men are using a saw is a rephrase of Two men in neon yellow shirts busily sawing a log in half.
+2. Using a saw is implied by sawing a log in half, as it describes the same action.
+3. The premise describes the action of sawing, which directly involves using a saw, as stated in the hypothesis.
+4. Sawing a log in half necessitates the use of a saw, confirming the hypothesis.
+5. The structural rephrasing of busily sawing a log in half includes using a saw as part of the action.
+6. The act of sawing a log in half inherently involves two men using a saw, matching the hypothesis.
+7. The premise's mention of sawing a log in half structurally implies that the men are using a saw, aligning with the hypothesis.
+8. The activity described in the premise requires a saw, making the hypothesis a syntactic rephrase.
+9. Busily sawing a log signifies that the men are using a saw, as rephrased in the hypothesis.
+10. The structure of the premise includes the action of using a saw, as suggested by the hypothesis.

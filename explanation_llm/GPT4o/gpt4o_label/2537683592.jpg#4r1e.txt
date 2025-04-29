@@ -1,0 +1,5 @@
+1. "Men" and "guys" are synonymous, both referring to adult male individuals.
+2. "Work along a wall" and "working near a wall" imply proximity to the wall, making the locations effectively equivalent.
+3. "Hard hats" are not mentioned in the statement but do not affect the truth of men/guys working, so they are an irrelevant detail in the context of the entailment.
+4. The verb "work" in the content matches "working" in the statement, indicating the same action is taking place.
+5. Both the content and the statement describe a scenario involving people performing work-related activities, ensuring consistency in the overall situation described.

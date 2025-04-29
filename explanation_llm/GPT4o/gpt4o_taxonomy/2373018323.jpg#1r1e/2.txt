@@ -1,0 +1,7 @@
+1. A half-wall is a specific type of wall.
+2. A blue hoodie is a detail that does not alter the fact that the person is a man.
+3. "Doing a flip" is a synonym for "does a flip."
+4. Graffiti on the wall is an additional detail that does not affect the action of flipping off the wall.
+5. A young man refers to a man, as "young" is an age descriptor that does not change the gender.
+6. The action described in the premise aligns with the action described in the hypothesis since both involve flipping off a structure.
+7. The presence of a hoodie does not affect the identification of the person as a man.

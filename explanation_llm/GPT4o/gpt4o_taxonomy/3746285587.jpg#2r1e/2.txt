@@ -1,0 +1,5 @@
+- Kneeling involves being on the ground.
+- The street is a location outside.
+- A brown shirt is a type of clothing, but the color does not affect being on the ground.
+- Being in the street implies being outside.
+- A woman kneeling implies she is on the ground.

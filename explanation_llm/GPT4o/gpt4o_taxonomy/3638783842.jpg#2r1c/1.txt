@@ -1,0 +1,10 @@
+1. The term "women" in both the premise and hypothesis refers to the same individuals.
+2. "Bald older women" in the premise cannot be the same as "long-haired young women" in the hypothesis.
+3. The descriptor "older" in the premise contradicts "young" in the hypothesis when referring to the same women.
+4. The adjective "bald" in the premise contradicts "long-haired" in the hypothesis for the same women.
+5. "Formally dressed women" in the premise cannot be described as "long-haired young women" in the hypothesis, assuming they refer to the same individuals.
+6. The premise's "bald older women" refers to the same individuals as the hypothesis's "young women," creating a contradiction.
+7. The reference to "women" assumes the same group is described in both the premise and hypothesis, leading to contradictions between the descriptors "bald" and "long-haired."
+8. The coreference of "women" between the premise and hypothesis highlights contradictions in age and hair descriptors.
+9. The use of "older" in the premise and "young" in the hypothesis for the same women contradicts each other.
+10. The shared reference to "women" in both statements reveals conflicting physical attributes and age descriptors.

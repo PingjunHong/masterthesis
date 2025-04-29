@@ -1,0 +1,8 @@
+1. Their fish in the statement refers to the fish being prepared by the two men in the premise.
+2. Two men in the statement refers to the two men mentioned in the premise.
+3. The activity of cleaning in the statement refers to the preparation of the fish mentioned in the premise.
+4. The dock in the premise is the location where the men are cleaning their fish in the statement.
+5. The reference to fish in both the premise and the statement refers to the same fish being handled by the two men.
+6. The action prepare in the premise implies cleaning in the statement, as both involve handling the fish.
+7. The possessive pronoun their in the statement refers back to the two men in the premise.
+8. The context of preparing at a dock involves cleaning, supporting the entailment between the premise and statement.

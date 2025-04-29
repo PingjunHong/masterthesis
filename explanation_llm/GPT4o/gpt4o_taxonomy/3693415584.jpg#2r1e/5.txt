@@ -1,0 +1,10 @@
+1. The premise explicitly mentions a woman weaving, which directly supports the hypothesis.
+2. The hypothesis does not introduce any additional information not present in the premise.
+3. Both the premise and the hypothesis describe a woman engaging in the activity of weaving.
+4. There is no information in the hypothesis that is not already confirmed by the premise.
+5. The activity of weaving by a woman is explicitly stated in both the premise and the hypothesis.
+6. The premise fully supports the hypothesis by stating the presence of a woman who is weaving.
+7. No additional or contradictory details are present in the hypothesis beyond what the premise provides.
+8. The hypothesis is a restatement of the core information in the premise, without any unsupported details.
+9. The premise and hypothesis both specify that the subject, a woman, is engaged in weaving.
+10. The hypothesis does not extend beyond the information given in the premise.

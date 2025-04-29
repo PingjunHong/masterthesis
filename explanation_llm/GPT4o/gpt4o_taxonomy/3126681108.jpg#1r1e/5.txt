@@ -1,0 +1,8 @@
+1. The premise mentions the girl walking in snow, which typically occurs outside, but the premise does not explicitly state that she is outside.
+2. Snow can be found both inside and outside under certain circumstances, such as in a snow-themed indoor park, so the location is not definitively outside based solely on the mention of snow.
+3. The premise describes the girl walking in snow, but it does not confirm that she is outside, only implying it through context.
+4. There is no explicit mention in the premise that the setting is outdoors, leaving the possibility, however unlikely, that the snow is indoors.
+5. Walking in snow generally indicates being outside, but without direct evidence in the premise, the statement about being outside is not directly supported.
+6. The presence of snow suggests an outdoor environment, but since it's not explicitly stated, the hypothesis adds an inference not directly confirmed by the premise.
+7. The premise does not specify the environment as outside despite the implication, providing no concrete evidence for the hypothesis.
+8. Without an explicit mention of an outdoor setting, the hypothesis assumes information that is not directly stated in the premise.

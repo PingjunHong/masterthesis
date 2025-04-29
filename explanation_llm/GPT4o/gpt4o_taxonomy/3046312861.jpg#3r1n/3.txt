@@ -1,0 +1,10 @@
+1. Training for the Olympics is not mentioned in the premise, which only describes a coaching session on bar skills.
+2. Being coached on bar skills does not necessarily imply that the gymnast is training for the Olympics.
+3. The premise focuses on a specific skill session, while the hypothesis makes a broader claim about Olympic training.
+4. The premise does not specify any competitive level or event, such as the Olympics.
+5. The statement about Olympic training introduces new information not found in the premise.
+6. The hypothesis assumes a purpose (Olympic training) that is not addressed in the premise.
+7. The structural focus of the premise is on the activity of coaching, not the goal of Olympic participation.
+8. Coaching on bar skills could be for various competitions or personal improvement, not exclusively for the Olympics.
+9. The premise is centered on the present activity, whereas the hypothesis suggests a future goal or intention.
+10. The description of the gymnast's attire and coaching does not infer a connection to Olympic-level training.

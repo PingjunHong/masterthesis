@@ -1,0 +1,12 @@
+1. An older man is not a young man.
+2. Leaning against a pedestal is not the same as jogging.
+3. Being outside of an ornate building does not imply jogging.
+4. An older man cannot simultaneously be a young man.
+5. The actions of leaning and jogging are mutually exclusive.
+6. The descriptor "older" conflicts with "young."
+7. Standing still against a pedestal contradicts the action of moving while jogging.
+8. The premise involves one person, while the hypothesis implies a different person by age and action.
+9. "Older man" and "young man" indicate different age groups.
+10. The location "outside of an ornate building" implies a setting, which does not necessitate the activity of jogging.
+11. The presence of a pedestal implies a stationary position, conflicting with the motion of jogging.
+12. The temporal setting of leaning does not align with the activity of jogging.

@@ -1,0 +1,8 @@
+- The premise mentions the ladies running, not riding bikes, so there is no evidence to support the hypothesis that they are riding bikes.
+- Riding bikes is an activity that is not mentioned in the premise, which only describes the action of running.
+- The premise does not include any details about bicycles or biking, contradicting the hypothesis that suggests they are riding bikes.
+- There is no indication in the premise that the ladies are engaged in any activity other than running.
+- The premise lacks any mention or implication of bicycles, making the hypothesis a contradiction.
+- The premise specifically describes a running activity, which contradicts the hypothesis that suggests a biking activity.
+- The hypothesis introduces the scenario of biking, which is absent from the premise that solely focuses on running.
+- The premise does not provide any evidence to support the idea that the ladies are riding bikes, as it only mentions running.

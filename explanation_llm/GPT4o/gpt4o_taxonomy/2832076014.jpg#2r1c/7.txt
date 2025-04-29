@@ -1,0 +1,5 @@
+- A land rover is not a sedan.
+- Sedans are not typically equipped to drive across rivers.
+- Sedans are less likely to be driven in rivers compared to land rovers.
+- Land rovers are designed for off-road and challenging terrains, unlike sedans.
+- A vehicle being driven cannot simultaneously be stuck.

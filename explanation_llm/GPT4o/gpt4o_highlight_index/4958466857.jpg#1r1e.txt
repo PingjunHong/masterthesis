@@ -1,0 +1,4 @@
+1. The word "Two" in the content indicates the presence of "people" in the statement, as these people are part of the group referenced by "Two street people."
+2. "Street people" in the content implies "people" in the statement, as "street people" are a specific subgroup of "people."
+3. The presence of "a dog" in both the content and the statement suggests that the dog mentioned is the same, supporting the idea that the statement is entailed by the content.
+4. The action of "sitting" in the content contextually supports the implication that the people and the dog are together, reinforcing the connection between the "people" and "dog" mentioned in the statement.

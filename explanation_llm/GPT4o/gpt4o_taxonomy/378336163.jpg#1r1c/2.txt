@@ -1,0 +1,7 @@
+- "Nobody" implies the absence of any person jumping, while the premise describes a bearded man actively jumping.
+- The word "nobody" is an antonym of "a bearded man" as it suggests there is no one present performing the action described.
+- The action "jumps" in the premise contradicts "nobody is jumping" in the hypothesis, as "jumps" indicates an occurrence of the action.
+- The premise explicitly states an action ("jumps"), which semantically contradicts the word "nobody," implying no action is taking place.
+- The presence of a "bearded man" indicates a specific person, which directly contradicts "nobody," meaning no person is involved.
+- "Nobody is jumping" uses negation to indicate the absence of jumping, conflicting with the premise's affirmative description of the man's action.
+- The term "nobody" conveys a lack of activity, opposing the active verb "jumps" which indicates ongoing activity.

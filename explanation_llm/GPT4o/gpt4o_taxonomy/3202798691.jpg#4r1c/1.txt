@@ -1,0 +1,8 @@
+1. "The man" in the statement refers to the same individual as "a man" in the premise, but the activities described (riding a bike vs. riding a horse) are different, creating a contradiction.
+2. Both the premise and the statement refer to the same man, but his mode of transportation (bike vs. horse) is inconsistent.
+3. The use of "the man" in both the premise and the statement implies coreference; however, the differing objects being ridden (bike vs. horse) results in a contradiction.
+4. The pronoun "the man" refers to the same person, yet the described actions (riding a bike vs. riding a horse) do not align, leading to a contradiction.
+5. The individual described as "the man" is the same in both, but the vehicle (bike vs. horse) he is said to be using differs, causing a contradiction.
+6. The references to "the man" in both sentences point to the same person, but the contradiction arises from the differing activities described (riding a bike vs. riding a horse).
+7. Resolving "the man" in both premise and statement to the same person, the contradiction is evident in the mismatch between riding a bike and riding a horse.
+8. Both statements refer to "the man" as the same entity, yet the actions he is engaged in (riding a bike vs. riding a horse) are contradictory.

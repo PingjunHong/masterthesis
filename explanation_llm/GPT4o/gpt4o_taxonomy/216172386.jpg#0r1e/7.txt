@@ -1,0 +1,8 @@
+A man is a person.
+Standing is a position someone can be in.
+A motorbike is a vehicle that a person can stand on.
+Wearing a red uniform and helmet does not affect the ability to stand.
+Standing is a basic action that does not require additional conditions to be met.
+A person can stand on various objects, including a motorbike.
+Uniform and helmet are accessories and do not change the state of standing.
+Standing is a common human posture.

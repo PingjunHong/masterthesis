@@ -1,0 +1,5 @@
+1. A man walks by an ad implies movement past an advertisement, while an old man with a package poses in front of an advertisement implies being stationary.
+2. A man walks by an ad suggests a transient action, whereas an old man with a package poses in front of an advertisement suggests a static action.
+3. An old man with a package poses indicates standing still, while a man walks by indicates moving past.
+4. An old man with a package poses in front of an advertisement suggests remaining in one place, while a man walks by an ad suggests moving in a different direction.
+5. Posing refers to striking a pose or position, which contrasts with walking by, which implies movement.

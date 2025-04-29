@@ -1,0 +1,10 @@
+The phrase "a group of people dancing together" logically implies that "people are dancing" since dancing is an activity performed by people.
+The term "group" inherently includes multiple individuals, confirming the presence of people.
+The action "dancing" is directly stated in the premise, which matches the action described in the hypothesis.
+"Dancing together" entails that individuals, or people, are engaged in the act of dancing.
+The premise specifies an activity involving people, and dancing is an activity only performed by people, thus confirming the hypothesis.
+The structure of the premise inherently includes individuals (people) participating in dancing, satisfying the hypothesis.
+The use of "group" in the premise indicates a plurality of people, which aligns with "people" in the hypothesis.
+The semantics of "dancing together" encapsulates the activity of people, directly leading to the statement that "people are dancing."
+The inclusion of "people" in the premise is implicit in the description of "a group," thus confirming their presence in the activity described.
+The semantic relationship between "dancing together" and "people are dancing" is direct, with no additional context needed.

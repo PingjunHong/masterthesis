@@ -1,0 +1,4 @@
+- "A group of men in suits" suggests they are well-dressed, aligning with the description of "well dressed people."
+- "Walk in formation down the street" implies walking down a block, as a block is part of the street.
+- "Led by a woman holding a sign" corresponds to "one of them holding a sign," where "one of them" can refer to anyone in the group, including the woman.
+- The presence of a "crowd watching" does not contradict the statement and does not affect the entailment.

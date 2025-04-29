@@ -1,0 +1,8 @@
+1. A land rover is a type of vehicle, so if a land rover is being driven, a vehicle is being driven.
+2. Being driven across a river implies that the vehicle is crossing the river.
+3. The act of driving across inherently means the vehicle is crossing the river.
+4. "Across a river" describes the action of crossing, thus the vehicle is involved in crossing.
+5. The term "a land rover" satisfies the broader category of "a vehicle," fulfilling the vehicle requirement in the hypothesis.
+6. The phrase "being driven" indicates the motion necessary for crossing, implying the river is being crossed.
+7. The premise specifies a river as the location, aligning with the hypothesis's mention of a river crossing.
+8. The semantics of "driven across" logically imply a crossing event is taking place.

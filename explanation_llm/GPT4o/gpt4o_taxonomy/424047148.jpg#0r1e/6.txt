@@ -1,0 +1,5 @@
+1. Face paint is something that can be on a person's face.
+2. If a face is partially covered, there is something on it.
+3. Silver face paint qualifies as something on the face.
+4. The presence of face paint indicates there is something on the face.
+5. Having a face partially covered with paint implies there is something on it.

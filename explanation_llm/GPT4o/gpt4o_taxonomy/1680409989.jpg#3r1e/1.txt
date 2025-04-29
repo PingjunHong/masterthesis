@@ -1,0 +1,6 @@
+- The woman painting refers to the woman who is painting a mural of a woman's face.
+- The woman mentioned in the statement is the same woman referenced in the premise.
+- The act of painting in the statement refers to the activity of the woman painting a mural in the premise.
+- The woman painting in the statement is the one described as painting a mural in the premise.
+- The woman in the statement is the same woman who is painting a mural of a woman's face in the premise.
+- The activity of painting in the statement is what the woman is doing in the premise.

@@ -1,0 +1,10 @@
+1. The premise mentions people and a baby crossing the street, but it does not mention any mode of transportation like a bus.
+2. There is no information in the premise indicating that the people and the baby are on a bus.
+3. The act of crossing the street does not imply that the people and the baby are riding a bus.
+4. The premise lacks any reference to a bus, thus the statement introduces unsupported information.
+5. Crossing the street at a crosswalk does not provide any evidence that they are using public transport.
+6. There is no evidence in the premise to suggest a transition from walking to riding a bus.
+7. The premise does not mention any vehicles, including a bus, related to the people and the baby.
+8. The scenario described does not include any elements that suggest the presence or use of a bus.
+9. The statement introduces new information that is not addressed or implied by the premise.
+10. The premise only supports the idea of walking, not riding a bus, as it describes crossing a street.

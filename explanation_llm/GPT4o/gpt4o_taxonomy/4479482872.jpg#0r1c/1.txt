@@ -1,0 +1,5 @@
+1. "His" in "his peanut butter sandwich" refers to the boy, but there is no mention of a sandwich belonging to the boy in the premise.
+2. "Nude" refers to the boy's state of dress, but the premise specifies he is wearing a black and red bathing suit.
+3. The reference to "a seagull" sitting on the sand in the premise contradicts "a seagull eats" in the hypothesis.
+4. The boy mentioned as swimming shirtless in the premise implies partial clothing, contradicting the "nude" reference in the hypothesis.
+5. "A seagull" in both the premise and hypothesis refers to the same bird, but their actions differ, leading to a contradiction.

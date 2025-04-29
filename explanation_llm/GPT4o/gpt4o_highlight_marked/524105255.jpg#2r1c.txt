@@ -1,0 +1,5 @@
+1. "**Woman**" in the content contradicts "**man**" in the statement.
+2. "**Space Needle**" in the content contradicts "**golden gate bridge**" in the statement.
+3. "**Seattle**" in the content contradicts the implied "**San Francisco**" location of the statement.
+4. The absence of "**golden**" elements in the content contradicts the presence of "**golden**" in the statement.
+5. The activity of "**overlooking**" in the content contradicts the activity of "**enjoying**" in the statement.

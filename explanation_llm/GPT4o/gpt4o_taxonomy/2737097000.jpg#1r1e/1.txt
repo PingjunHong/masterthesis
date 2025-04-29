@@ -1,0 +1,8 @@
+1. The adults in the statement refer to the young adults in the premise.
+2. "Young adults" in the premise confirms that "the adults" mentioned in the hypothesis are young.
+3. The phrase "the adults" in the hypothesis is a reference to "young adults" in the premise.
+4. The term "young adults" in the premise resolves the reference to "the adults" in the hypothesis as young.
+5. "These are young adults" in the premise indicates that "the adults" in the statement are young.
+6. The description of "young adults" in the premise resolves the reference in the hypothesis to these adults being young.
+7. "The adults" in the statement is a coreferential term for "young adults" in the premise, confirming their youth.
+8. The phrase "young adults" in the premise clarifies that "the adults" in the hypothesis are young.

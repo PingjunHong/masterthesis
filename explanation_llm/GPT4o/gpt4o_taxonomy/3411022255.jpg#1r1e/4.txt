@@ -1,0 +1,5 @@
+1. If four people and a baby are crossing the street, then people are crossing the street.
+2. The presence of a crosswalk implies that crossing is occurring.
+3. If a baby is included among those crossing, then a baby is crossing the street.
+4. The act of crossing the street encompasses both the people and the baby mentioned.
+5. The premise specifies crossing the street, which logically includes the people and the baby in the act of crossing.

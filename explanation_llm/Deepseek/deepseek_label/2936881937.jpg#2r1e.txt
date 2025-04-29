@@ -1,0 +1,10 @@
+1. The content explicitly states "A man in a black shirt," which directly matches the statement "A man is in a black shirt."
+2. The phrase "A man in a black shirt" implies that the man is wearing a black shirt, confirming the statement.
+3. The subject of the content is a man, and his attire (black shirt) is specified, making the statement true.
+4. The statement is a simplified version of the content's description, retaining the key detail about the man's shirt color.
+5. The content provides sufficient evidence (the man's clothing) to support the claim in the statement.
+6. The statement is a factual extraction from the content, with no contradictory information.
+7. The description "in a black shirt" in the content logically entails that the man is wearing a black shirt.
+8. The statement is a subset of the information provided in the content, focusing only on the man's attire.
+9. The content's subject and attribute (man, black shirt) are identical to the statement's claim.
+10. The statement is a rephrasing of part of the content, preserving the original meaning.

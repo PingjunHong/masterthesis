@@ -1,0 +1,4 @@
+1. The term "men" in the content is a specific type of "people" in the statement, making the statement a generalized version of the content.
+2. Both the content and the statement describe the same number of individuals, with "two" being explicitly mentioned in both, ensuring numerical consistency.
+3. The actions described ("climbing on a wooden scaffold") are identical in both content and statement, maintaining semantic consistency between them.
+4. The use of "men" in the content implies that "people" in the statement is inclusive of men, which aligns with the entailment logic where a more precise term (men) supports a broader term (people).

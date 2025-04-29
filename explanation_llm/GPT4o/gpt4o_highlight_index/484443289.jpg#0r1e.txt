@@ -1,0 +1,4 @@
+1. The highlighted words "old woman" in both the content and the statement refer to the same individual, establishing a clear connection between the two.
+2. The phrase "in a jean jacket" in the content directly matches the phrase "has a jean jacket" in the statement, indicating that the woman is wearing or possessing this item.
+3. The structure of both sentences suggests that the woman described in the content is characterized by wearing or having a jean jacket, which is explicitly stated in the statement.
+4. The context provided by the content, where the old woman is described as being in a jean jacket, aligns with the assertion in the statement that she possesses or is wearing such an item, supporting the entailment.

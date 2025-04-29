@@ -1,0 +1,10 @@
+1. "Two males" refers to "a man in a black shirt and brown pants" and "a man in a red shirt and black hat."
+2. "Martial arts" is implied by "performing a karate kick."
+3. "A man in a black shirt and brown pants" and "a man in a red shirt and black hat" are both involved in the action, indicating that "two males" are participating.
+4. "Karate kick" is a specific form of martial arts, confirming the involvement in martial arts.
+5. "Two males" can be inferred from the description of "a man in a black shirt" and "a man in a red shirt" interacting.
+6. "Performing a karate kick" suggests martial arts activity, aligning with the statement that "two males are involved in martial arts."
+7. The use of "jumping in the air" in the premise implies active participation typical of martial arts, supporting the hypothesis.
+8. The reference to "brown pants" and "black hat" identifies the individuals as "two males," consolidating their involvement in martial arts.
+9. "Karate" is a type of martial arts, making the statement an entailment due to the activity described involving "two males."
+10. The description of clothing and action in the premise clearly identifies "two males" engaged in martial arts, resolving any ambiguity in reference.

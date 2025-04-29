@@ -1,0 +1,5 @@
+1. "standing" in the content corresponds to "stand" in the statement, indicating the same action.
+2. "in the middle of a quiet street" in the content simplifies to "in a street" in the statement, maintaining the spatial location.
+3. "3 young man" in the content aligns with "three people" in the statement, and "hoods" matches "hood wearing," describing the individuals similarly.
+4. "quiet street" in the content doesn't contradict "street" in the statement, as quietness is an additional detail that doesn't change the entailment.
+5. "facing the camera" in the content is omitted in the statement, but its absence does not affect the core meaning of standing in a street.

@@ -1,0 +1,6 @@
+1. The presence of "a large group" implies multiple individuals, confirming the plural "people" in the statement.
+2. The premise specifies "walking," which matches the activity described in the statement.
+3. The premise indicates a location, "in a busy city," which aligns with the statement's mention of "a city."
+4. The premise describes an action occurring "at night," but does not conflict with the temporal aspect of the statement, which is not time-specific.
+5. The term "group" ensures the existence of "people," satisfying the quantifier requirement of the statement.
+6. The statement's broad "a city" location accommodates the premise's specificity of "a busy city," avoiding any location conflict.

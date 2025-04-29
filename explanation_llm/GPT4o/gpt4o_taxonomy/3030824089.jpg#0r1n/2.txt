@@ -1,0 +1,10 @@
+1. "Brown and black dog" does not imply "big dog" as size is not specified by color.
+2. "Runs on the grass outdoors" does not equate to "playing with a toy" as running does not inherently involve toys.
+3. "In front of a sidewalk" does not suggest the presence of a toy since location does not imply activity.
+4. "Dog" in premise does not specify size, whereas "big dog" in hypothesis suggests a size not confirmed.
+5. "Grass" and "sidewalk" in the premise do not relate to toys, which are mentioned in the hypothesis.
+6. "Outdoors" describes location but does not indicate play or the presence of a toy.
+7. "Running" implies movement but not play, which involves interaction with objects like toys.
+8. "The big dog" suggests a specific characteristic (size) that is not mentioned in the premise.
+9. "Playing" suggests a specific type of activity not described by "runs."
+10. "With a toy" specifies an object that is not mentioned or implied by the premise.

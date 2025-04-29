@@ -1,0 +1,6 @@
+- "A city" is a general term that includes any busy city.
+- "Walking" in the premise implies "are walking" in the statement as it describes the same action.
+- "A large group of people" includes "people" as a subset.
+- "Busy city" is a specific type of "city."
+- "At night" provides additional context but does not negate the presence of people walking in the city.
+- "In a busy city" implies "in a city" because a busy city is still a city.

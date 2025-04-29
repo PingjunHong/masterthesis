@@ -1,0 +1,5 @@
+1. A worker is not an unemployed person.
+2. The premise specifies the person is atop a building, while the hypothesis states "near," indicating a location conflict.
+3. Being "atop a building" implies being on it, which is not the same as being "near" it.
+4. The premise explicitly states the person is employed as a worker, contradicting the hypothesis of unemployment.
+5. The logical structure of being employed directly contradicts being unemployed.

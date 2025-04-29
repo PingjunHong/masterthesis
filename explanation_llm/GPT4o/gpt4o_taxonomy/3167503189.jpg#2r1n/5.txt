@@ -1,0 +1,8 @@
+1. The premise does not mention any construction occurring at the location, so the hypothesis introduces information not supported by the premise.
+2. There is no mention of construction in the premise, thus the hypothesis adds details that are not present or implied in the original statement.
+3. The premise describes a boy holding onto a wall but says nothing about any construction activity, making the construction detail in the hypothesis unsupported.
+4. The hypothesis includes the occurrence of construction, which is not mentioned or entailed by the premise.
+5. The premise focuses on the boy and the wall of the old brick house, without indicating any construction, which makes the construction detail in the hypothesis neutral.
+6. The detail about construction is an additional element in the hypothesis that is not found in the premise, leading to a lack of supporting evidence for this claim.
+7. The scenario of construction is introduced in the hypothesis but is absent from the premise, preventing the statement from being entailed by the premise.
+8. The premise provides no context or evidence for construction taking place, thus the hypothesis remains a neutral statement due to the absence of mention.

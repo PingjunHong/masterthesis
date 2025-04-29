@@ -1,0 +1,10 @@
+1. The statement is a paraphrase of the content, maintaining the same meaning with minor syntactic changes.
+2. Both the content and the statement describe the same action (walking) performed by the same subject (girls) in the same location (down the street).
+3. The plural form "girls" in the statement aligns with "the girls" in the content, referring to the same group.
+4. The omission of the definite article "the" in the statement does not change the core meaning or reference.
+5. The verb "walk" and the prepositional phrase "down the street" are identical in both, confirming the same event.
+6. No contradictory or additional information is introduced in the statement that would alter the entailment.
+7. The statement preserves all critical elements (subject, action, location) from the content without ambiguity.
+8. The generalization from "the girls" to "girls" does not introduce new information that would negate the entailment.
+9. Both sentences are declarative and affirm the same factual scenario.
+10. The logical relationship between the content and the statement satisfies the definition of entailment, where the truth of the content guarantees the truth of the statement.

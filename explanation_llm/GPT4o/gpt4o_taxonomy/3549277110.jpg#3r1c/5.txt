@@ -1,0 +1,10 @@
+- The premise mentions boys reading books, not watching a show, so there is no evidence to support that they are watching a show.
+- The premise does not include any information about a show, thus the hypothesis introduces unsupported information.
+- The activity described in the premise is reading, whereas the hypothesis suggests watching, which is not mentioned.
+- There's no indication in the premise that a superhero show is involved, only superhero books.
+- While the premise focuses on books, the hypothesis shifts the context to a show, lacking any premise support.
+- The premise does not mention any visual media, only reading, leaving the hypothesis about watching unsupported.
+- The premise refers to reading, which does not entail watching, hence the hypothesis introduces an unmentioned activity.
+- The content of the premise is strictly about reading, without any mention of watching or shows.
+- The hypothesis adds the concept of a show, which is not present in the premise focused on reading books.
+- The premise lacks any reference to a visual entertainment format like a show, contrary to the hypothesis content.

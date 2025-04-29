@@ -1,0 +1,10 @@
+1. A man refers to an old man.
+2. An ad refers to an advertisement.
+3. The man posing refers to the same individual in both the premise and hypothesis.
+4. The advertisement mentioned is the same as the ad in the hypothesis.
+5. The old man with a package is the man posited in the hypothesis.
+6. The phrase "poses in front of an advertisement" is equivalent to "poses in front of an ad."
+7. The man described in the hypothesis is the old man indicated in the premise.
+8. The package is not relevant to resolving the reference to the man posing in front of the ad.
+9. The advertisement is the ad referenced in both the premise and hypothesis.
+10. The subject in the premise, an old man, is coreferential with the subject in the hypothesis, a man.

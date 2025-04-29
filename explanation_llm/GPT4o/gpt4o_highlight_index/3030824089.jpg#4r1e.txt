@@ -1,0 +1,4 @@
+- The word "dog" in both sentences refers to the same animal, indicating they are discussing the same subject.
+- The word "runs" is identical in both sentences, showing the same action is being described.
+- The definite article "The" in the statement specifies a particular dog, which is consistent with the general reference to "A" dog in the content, allowing for the entailment.
+- The structure of both sentences implies the same scenario of a dog performing the action of running, affirming the entailment.

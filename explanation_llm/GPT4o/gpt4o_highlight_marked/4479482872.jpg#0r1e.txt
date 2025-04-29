@@ -1,0 +1,6 @@
+1. The subject "**boy**" in both sentences matches, ensuring consistency in the entity being described.
+2. The verb "**swims**" in the statement directly corresponds to the action described in the content.
+3. The additional details in the content, such as "shirtless with a black and red bathing suit" and "while a seagull sits on the sand," are not essential for the truth of the statement.
+4. The statement represents a generalized version of the relevant portion of the content, making it logically entailed.
+5. The content explicitly states the boy is swimming, confirming the action described in the statement.
+6. The highlighted parts "**boy**" and "**swims**" in the statement are directly supported by the same highlighted elements in the content.

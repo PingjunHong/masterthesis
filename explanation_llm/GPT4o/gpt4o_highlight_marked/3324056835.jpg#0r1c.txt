@@ -1,0 +1,6 @@
+- "Some" implies more than one, while "one" specifies exactly one.
+- "Dogs" refers to multiple animals, while "dog" refers to a single animal.
+- "Some dogs are running" suggests multiple dogs engaged in activity, while "only one dog" excludes the possibility of more than one dog present.
+- "Some" and "only one" are mutually exclusive quantifiers that cannot coexist in the same scenario.
+- The plural "dogs" conflicts with the singular "dog," creating a numerical mismatch.
+- "Some dogs" implies the presence of a group, while "only one dog" denies the existence of a group.

@@ -1,0 +1,10 @@
+1. The content states that a person is sitting, which implies the existence of a place to sit.
+2. The graffiti-covered wall in the content confirms the presence of a wall.
+3. The person sitting in front of the wall indicates proximity between the sitting place and the wall.
+4. The statement generalizes the specific scenario in the content (a person sitting) to a broader condition (a place to sit).
+5. The content provides sufficient evidence to infer that the statement is true without contradiction.
+6. The existence of a sitting person and a wall in the content logically supports the statement's claim.
+7. The spatial relationship ("in front of") in the content aligns with the statement's "near."
+8. The statement does not require additional details (e.g., graffiti) to be entailed by the content.
+9. The content's description satisfies all necessary conditions for the statement to hold true.
+10. No information in the content contradicts or undermines the statement.

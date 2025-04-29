@@ -1,0 +1,10 @@
+1. The man in the brown jacket refers to the man standing with his arms spread, not sitting crosslegged on the floor.
+2. The reference to "the man" sitting crosslegged contradicts the description of "the man" standing with arms spread.
+3. The coreference of "the man" in both statements leads to a contradiction, as one implies standing and the other sitting.
+4. The man referenced in the hypothesis is not engaging in the action described in the premise, indicating a contradiction.
+5. The premise describes the man as standing, which conflicts with the hypothesis describing him as sitting.
+6. The description of "the man" in the premise as standing with arms spread is inconsistent with the hypothesis stating he is sitting crosslegged.
+7. The contradiction arises from the differing activities of "the man" in the premise (standing) and hypothesis (sitting).
+8. The man referenced in the premise is actively standing, whereas the hypothesis suggests a passive sitting position, creating a contradiction.
+9. The physical position of "the man" in the premise being upright with arms spread contradicts the hypothesis's depiction of him seated crosslegged.
+10. The premise and hypothesis refer to the same man but describe mutually exclusive postures, resulting in a contradiction.

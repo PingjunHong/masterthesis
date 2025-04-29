@@ -1,0 +1,7 @@
+1. The premise describes an action (hitting a tennis ball) but does not provide information about the boy's skill level, so the statement about him being good at tennis cannot be inferred.
+2. The action of hitting a tennis ball does not structurally imply proficiency or expertise, thus the boy's skill at tennis remains indeterminate from the premise.
+3. The premise involves an activity (playing tennis) but lacks any syntactic or structural elements that suggest the quality of performance or skill level.
+4. The statement about being good at tennis is a qualitative assessment not directly stated or rephrased from the action described in the premise.
+5. The premise gives a factual account of an event, whereas the statement introduces an evaluative judgment, not reflected in the syntactic structure of the premise.
+6. There is no syntactic transformation from the premise that equates to an assessment of the boy’s tennis skills; the premise merely states that he is hitting a tennis ball.
+7. The structural components of the premise focus on the action and location, with no syntactic indication of the boy’s proficiency, thus leaving the skill level as neutral.

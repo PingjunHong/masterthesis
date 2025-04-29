@@ -1,0 +1,5 @@
+1. The content does not specify the **size** of the boat, so the addition of "large" in the statement introduces new information that is not entailed or contradicted.
+2. The content does not mention the **color** of the boat, so the addition of "blue" in the statement adds extra detail that is neither confirmed nor denied.
+3. The content and the statement agree on the presence of people, water, and a boat heading in their direction, but the specific details (size and color) of the boat are unstated in the content, making the statement neutral.
+4. The description of the boat in the content is ambiguous, leaving room for interpretation about its size and color, which are not explicitly described, thus making the statement neutral.
+5. The highlighted parts ("large" and "blue") provide additional qualifiers that are not inherently included in the content, creating a scenario where the statement cannot be fully inferred from the content.

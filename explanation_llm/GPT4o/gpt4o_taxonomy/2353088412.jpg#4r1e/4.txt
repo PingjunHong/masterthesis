@@ -1,0 +1,10 @@
+1. If a dog is running with a pet toy, then the dog is running.
+2. If one dog is being chased by another dog, then there is a dog being chased.
+3. The presence of a chasing dog implies there is another dog involved in the action.
+4. Running with a pet toy is an action that confirms the dog is running.
+5. The structure of the sentence implies the simultaneous occurrence of running and being chased.
+6. The act of being chased indicates there is a pursuit involving two dogs.
+7. The description of a dog running confirms the action of running.
+8. Being chased by another dog logically includes the presence of a second dog.
+9. The premise describes two actions: running and being chased, which are both present in the hypothesis.
+10. The semantics of "running with a pet toy" implies the dog is in motion, confirming it is running.

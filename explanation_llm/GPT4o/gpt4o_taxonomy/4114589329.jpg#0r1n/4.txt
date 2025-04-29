@@ -1,0 +1,10 @@
+1. The premise does not specify the type of Ford car, so it could be a sedan or another type of car, leading to neutrality in terms of the car's classification.
+2. The premise mentions the car making a right turn, but the statement generalizes this as "turning a corner," which does not specify the direction, resulting in neutrality.
+3. The premise specifies "3 males," while the statement uses "walkers," which is a general term that does not specify gender, leading to neutrality.
+4. The premise describes the males walking "across the street behind the car," whereas the statement only mentions "walkers crossing," which does not specify their position relative to the car, resulting in neutrality.
+5. The statement does not specify the number of walkers, while the premise mentions "3 males," creating a lack of specificity that results in neutrality.
+6. The description "making a right turn" is more precise than "turning a corner," which introduces ambiguity about the direction and results in neutrality.
+7. The premise uses "Ford car," while the statement uses "sedan," which may or may not refer to the same type of vehicle, leading to neutrality.
+8. The premise's "3 males" being described as "walkers" in the statement does not imply the exact same scenario, contributing to neutrality.
+9. The premise's "behind the car" positioning is not explicitly mentioned in the statement, leaving ambiguity regarding the spatial relationship, which results in neutrality.
+10. The premise and statement both describe a vehicle turning and pedestrians crossing, but the differences in specificity and detail prevent a definitive entailment, maintaining neutrality.

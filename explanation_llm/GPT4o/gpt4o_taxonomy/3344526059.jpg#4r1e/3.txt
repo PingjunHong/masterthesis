@@ -1,0 +1,8 @@
+1. "A hockey player in helmet" does not explicitly indicate the action of playing hockey, while "They are playing hockey" asserts the action.
+2. The premise describes the attire of the person, whereas the hypothesis describes an activity, and these are syntactically different.
+3. The structural focus is on the equipment in the premise, whereas the hypothesis focuses on the activity.
+4. The premise's emphasis is on being equipped for hockey, while the hypothesis suggests participation in the game, which is a syntactic shift from description to action.
+5. The premise is a noun phrase focusing on the player, whereas the hypothesis is a verb phrase focusing on the action.
+6. The premise and hypothesis differ in structural elements: one is a situational description, the other describes an event.
+7. The syntactic structure of the premise centers around equipment possession, while the hypothesis centers around action performance.
+8. The premise uses a nominal description, whereas the hypothesis uses a verbal assertion, indicating a structural rephrasing without direct equivalence.

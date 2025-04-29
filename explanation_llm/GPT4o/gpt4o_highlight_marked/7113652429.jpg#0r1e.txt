@@ -1,0 +1,5 @@
+1. The number "**four**" in the content matches the number "**four**" in the statement, indicating the same quantity of individuals involved.
+2. The "**men**" in the content are the same as the "**men**" in the statement, referring to the same group of people.
+3. The action "**playing**" in the content corresponds directly to "**play**" in the statement, both referring to the act of performing music on drums.
+4. The mention of "**drums**" in the content aligns with "**drums**" in the statement, indicating the same instrument being played.
+5. Additional details in the content, such as "in very orange lighting" or "drinking something out of a bottle," do not contradict the information in the statement and are not required for the entailment.

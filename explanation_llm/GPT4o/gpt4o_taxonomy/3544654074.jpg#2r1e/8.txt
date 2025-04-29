@@ -1,0 +1,8 @@
+- A newlywed couple is defined as a couple that has just gotten married, so if they are newlyweds, it logically follows that they have just gotten married.
+- The term "newlywed" inherently implies that the couple has recently undergone a marriage ceremony.
+- Being described as a newlywed couple directly supports the conclusion that they have recently been married.
+- In common language usage, "newlywed" specifically refers to individuals who have just been married, making the statement an entailment.
+- The act of being newlywed is contingent upon having just been married, as that is the defining characteristic of the term.
+- Societal understanding of the term "newlywed" is that it applies to those who have recently participated in a marriage ceremony, hence they must have just gotten married.
+- The label "newlywed" is used exclusively for couples who have recently tied the knot, confirming the statement.
+- The implicit assumption in describing someone as a "newlywed" is their recent marriage, solidifying the entailment relationship.

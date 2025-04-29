@@ -1,0 +1,6 @@
+- The phrase "A woman wearing a bright orange blouse" in the premise refers to the same woman mentioned in the statement, but there is no mention of a green hat in the premise.
+- The woman described in the premise is wearing a bright orange blouse, which matches the description in the statement, but the premise does not provide information about her wearing a green hat.
+- The reference to "A woman wearing a bright orange blouse" is consistent across both the premise and statement, but the premise lacks details about any headwear, such as a green hat.
+- The coreference between "A woman wearing a bright orange blouse" is clear, yet the statement adds additional information about a green hat that is not present in the premise.
+- Both the premise and statement refer to the same woman based on the description of the bright orange blouse, but the premise does not confirm the presence of a green hat as stated in the hypothesis.
+- The reference to the woman in the bright orange blouse is resolved, but the addition of a green hat in the statement introduces new information not supported by the premise.

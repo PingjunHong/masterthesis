@@ -1,0 +1,5 @@
+1. The term "**guy**" and the term "**man**" are synonyms, both referring to an adult male.
+2. The action described, "crouching on a handrail," is identical in both sentences.
+3. The additional details in the content, such as "wearing jeans and a hat" and "with a concrete embankment located in front of him," do not contradict the statement and are not required for the entailment to hold.
+4. The statement simplifies the description while preserving the core meaning of the content.
+5. Both the content and the statement describe the same individual performing the same action in the same context.

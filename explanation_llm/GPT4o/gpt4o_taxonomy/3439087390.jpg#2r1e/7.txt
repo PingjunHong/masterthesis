@@ -1,0 +1,6 @@
+1. Dogs are animals.
+2. Napping means being asleep.
+3. A bunch of dogs implies that at least some of them are asleep.
+4. Couples enjoying a meal does not affect the state of the dogs being asleep.
+5. If some dogs are napping, then some animals are asleep.
+6. The term "bunch" suggests a group, and within a group, it is reasonable for some to be asleep.

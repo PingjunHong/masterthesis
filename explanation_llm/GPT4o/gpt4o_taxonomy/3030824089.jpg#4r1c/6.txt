@@ -1,0 +1,10 @@
+1. Running and walking are mutually exclusive actions.
+2. Walking implies a slower pace than running, creating a contradiction.
+3. If the dog is running, it cannot simultaneously be walking.
+4. The premise specifies the dog is running, excluding the possibility of walking.
+5. Running requires a different motion than walking, leading to a structural conflict.
+6. Only one action can occur at a time, and the premise specifies running, not walking.
+7. The premise and statement describe conflicting physical activities.
+8. The dog's action cannot be both running and walking due to logical exclusivity.
+9. Running involves a different gait than walking, causing a contradiction.
+10. The premise explicitly mentions running, contradicting the walking in the statement.

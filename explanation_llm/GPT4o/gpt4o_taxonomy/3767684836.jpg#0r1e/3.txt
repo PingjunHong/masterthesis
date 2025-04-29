@@ -1,0 +1,5 @@
+1. Two males are involved in martial arts is a rephrase of A man in a black shirt and brown pants is jumping in the air performing a karate kick towards a man in a red shirt and black hat.
+2. The phrase Two males are involved in martial arts syntactically rephrases the description of a man performing a karate kick towards another man.
+3. In the context of the sentence, the action of performing a karate kick implies involvement in martial arts by two males.
+4. The structural elements of the premise, describing a karate kick, equate to the statement about martial arts participation by two males.
+5. The premise describes a martial arts action involving two males, which is syntactically rephrased in the hypothesis.

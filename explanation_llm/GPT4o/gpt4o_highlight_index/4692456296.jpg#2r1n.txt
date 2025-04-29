@@ -1,0 +1,4 @@
+1. The mention of "home" in the statement adds information not specified in the content, which does not indicate the destination of the mother and daughter.
+2. The content describes the location as "the side of a bridge," whereas the statement implies a destination, "home," creating a context that could be true but is not necessarily inferred from the content alone.
+3. The activity of walking in both sentences is consistent, but the purpose or destination of the walk is unspecified in the content, making the statement about walking home merely a possibility.
+4. The content provides a setting but not an endpoint or purpose for the walk, leaving the statement's mention of "walking home" as an additional detail that neither contradicts nor is entailed by the content.

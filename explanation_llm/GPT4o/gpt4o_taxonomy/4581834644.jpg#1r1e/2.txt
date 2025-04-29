@@ -1,0 +1,10 @@
+1. "A couple" involves people, specifically two individuals, which satisfies the plural "people."
+2. Eating outside implies eating at a table outside, as tables are commonly used for eating.
+3. The phrase "outside at a table" aligns with "at a table outside," as both describe the same setting.
+4. The action of eating confirms the presence of people eating.
+5. "A couple" inherently indicates two people, fulfilling the term "people."
+6. "Eating" in both the premise and hypothesis confirms the same activity taking place.
+7. "Outside" and "at a table" in the premise match the spatial context of the hypothesis.
+8. The act of pointing does not negate the eating activity, supporting the entailment.
+9. "A couple is eating" indicates multiple people are involved in the activity of eating.
+10. The presence of "a table" in both the premise and hypothesis confirms the location for eating.

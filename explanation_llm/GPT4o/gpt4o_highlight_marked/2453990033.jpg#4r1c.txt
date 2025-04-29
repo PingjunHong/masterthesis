@@ -1,0 +1,6 @@
+1. "Jumping" and "sitting" describe mutually exclusive actions that cannot happen simultaneously.
+2. A person who is "jumping" cannot be "sitting" at the same time.
+3. The physical posture required for "sitting" directly contradicts the motion of "jumping."
+4. "Jumping" implies an active, upright movement, while "sitting" implies a stationary, seated position.
+5. The dynamic action of "jumping" conflicts with the static nature of "sitting."
+6. The phrase "jumping up" indicates upward motion, which is incompatible with the grounded position implied by "sitting on the grass."

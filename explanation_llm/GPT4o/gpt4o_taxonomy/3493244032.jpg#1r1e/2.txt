@@ -1,0 +1,7 @@
+1. A Barbie is a specific type of toy.
+2. Playing with a Barbie implies playing with a toy.
+3. A pink shirt is a type of shirt, and the specific color does not affect the activity being described.
+4. "Young girl" specifies the subject but does not alter the main activity of playing with a toy.
+5. The action of playing inherently involves interacting with a toy in this context.
+6. The activity of playing with a Barbie, which is a toy, satisfies the condition of playing with a toy.
+7. The term "Barbie" is synonymous with a type of doll, which is a toy.

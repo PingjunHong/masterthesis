@@ -1,0 +1,10 @@
+1. The content describes a volleyball game, which is a different sport from soccer.
+2. The presence of women playing volleyball implies the activity is not soccer.
+3. Volleyball and soccer have distinct rules, equipment, and playing styles, making them easily distinguishable.
+4. The statement contrasts the observed activity (volleyball) with soccer, confirming they are not the same.
+5. The visual cues (e.g., net, ball type, playing surface) in volleyball differ significantly from those in soccer.
+6. The absence of soccer-specific elements (e.g., goals, soccer ball) supports the statement.
+7. The statement correctly identifies the activity as not being soccer based on the provided context.
+8. The content explicitly mentions "volleyball," which directly contradicts the possibility of it being soccer.
+9. The statement aligns with the content by recognizing the sport's identity.
+10. The lack of soccer-related terminology (e.g., "goalkeeper," "penalty") in the content reinforces the entailment.

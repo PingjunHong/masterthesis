@@ -1,0 +1,8 @@
+1. The premise states that the child is blond headed, but does not provide any information about their appearance or whether they are considered pretty, making the hypothesis neutral.
+2. The description of the blond headed child in the premise does not include any evaluative language like "pretty," so the hypothesis introduces a subjective attribute not logically inferred from the premise.
+3. The premise focuses on the physical arrangement and appearance of the children, while the hypothesis adds an evaluative adjective "pretty," which is not contained in the premise.
+4. The premise provides factual information about clothing and position, whereas the hypothesis introduces an adjective "pretty" that is not logically implied by the structure or semantics of the premise.
+5. The statement about the blond headed child being "pretty" is an additional attribute not derived from any logical implication in the premise's description.
+6. The premise describes the children’s clothing and positions but does not include any qualitative judgments about beauty or attractiveness, thus making the hypothesis neutral.
+7. The hypothesis includes the term "pretty," which is a subjective assessment absent in the premise, thus the inference is not pragmatically supported by the text itself.
+8. The adjective "pretty" used in the hypothesis introduces a new element not present in the premise, which focuses solely on descriptions of clothing and position without evaluative language.

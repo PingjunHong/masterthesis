@@ -1,0 +1,2 @@
+- The color of the shirt in the content is black, while the color of the shirt in the statement is red, which are different and mutually exclusive.
+- The description of the shirt's color in the content and the statement do not match, indicating a contradiction in the observed details about the man's attire.

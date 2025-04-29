@@ -1,0 +1,6 @@
+1. "Several men" in the content implies "some men" in the statement, as "some" is a subset of "several."
+2. The "bar" mentioned in both the content and the statement refers to the same location.
+3. Watching a "sports game on the television" in the content implies watching "TV" in the statement, as a sports game is a type of TV content.
+4. The action of "watching" is consistent between the content and the statement.
+5. Both the content and the statement describe men engaging in the same activity at the same place.
+6. The term "television" in the content is synonymous with "TV" in the statement.

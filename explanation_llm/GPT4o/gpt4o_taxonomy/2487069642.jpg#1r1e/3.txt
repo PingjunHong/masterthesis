@@ -1,0 +1,10 @@
+1. The statement, "A flight attendant is standing in front of passengers," does not specify any actions related to demonstrating life vest usage.
+2. The premise involves demonstrating life vest usage, which is not explicitly mentioned in the statement.
+3. The premise includes specific details about attire and actions that are not present in the statement.
+4. The premise and statement describe different aspects of a potential scene involving a flight attendant.
+5. The statement could occur in a context unrelated to the demonstration of life vest usage.
+6. The structural focus of the premise is on the demonstration action, whereas the statement focuses on the physical position of the flight attendant.
+7. The premise contains details about both the flight attendant’s appearance and actions, but the statement only addresses the presence of the flight attendant.
+8. The premise implies an action being performed, which is not conveyed by the statement.
+9. The phrase "demonstrates life vest usage" in the premise is not structurally rephrased in the statement.
+10. The premise suggests activity and attire, while the statement only suggests location or position without activity.

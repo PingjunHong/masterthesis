@@ -1,0 +1,5 @@
+1. The highlighted word "wearing" in the content directly matches the highlighted word "wearing" in the statement, indicating that the action of wearing is common in both.
+2. The content describes a scenario where multiple men are engaged in an activity while wearing blue, thus confirming that they are wearing something, which aligns with the statement that a man is wearing something.
+3. The presence of the word "wearing" in both the content and the statement confirms that there is an article of clothing or accessory involved in the scenario described in both.
+4. The content specifies that the men are wearing blue, which implies that they must be wearing some type of clothing, therefore supporting the statement that a man is wearing something.
+5. Since at least one man is mentioned as "wearing" in the content, it guarantees that the statement about a man wearing something is true, fulfilling the entailment.

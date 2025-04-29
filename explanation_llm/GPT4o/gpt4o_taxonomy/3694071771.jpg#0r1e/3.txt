@@ -1,0 +1,8 @@
+1. A person wearing numbers is using a nonmotorized vehicle is a rephrase of A man with a red helmet and numbers on his arm and leg is riding a red racing bike.
+2. A red racing bike is a type of nonmotorized vehicle, so riding a red racing bike entails using a nonmotorized vehicle.
+3. A man is a person, which means a man with numbers is equivalent to a person wearing numbers.
+4. The action of riding a bike is synonymous with using a nonmotorized vehicle.
+5. The presence of numbers on his arm and leg implies wearing numbers, hence wearing numbers is equivalent to having numbers on one's arm and leg.
+6. The term "a man" can be rephrased as "a person," maintaining the meaning of the sentence.
+7. The phrase "is riding a red racing bike" is structurally similar to "is using a nonmotorized vehicle," both indicating the use of a bicycle.
+8. The description of a helmet and numbers does not change the fact that riding a bike is using a nonmotorized vehicle, thus the meaning remains unchanged.

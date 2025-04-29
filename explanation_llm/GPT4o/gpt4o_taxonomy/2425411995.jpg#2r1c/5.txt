@@ -1,0 +1,10 @@
+1. Pete Sampras is not mentioned in the premise, which only describes a woman playing tennis.
+2. The premise focuses on a woman playing tennis, and there is no indication that Pete Sampras is involved in this scene.
+3. The premise does not provide any information about Pete Sampras or his activities.
+4. The premise mentions a woman playing tennis, but does not specify any details about Pete Sampras.
+5. The presence of Pete Sampras is not supported by any details in the premise.
+6. Nothing in the premise suggests Pete Sampras is playing tennis or is related to the described event.
+7. The hypothesis introduces Pete Sampras, who is absent from the premise description.
+8. The premise lacks any mention or evidence of Pete Sampras participating in the tennis game.
+9. The premise solely describes a woman playing tennis, without mentioning Pete Sampras.
+10. There is no evidence in the premise that connects Pete Sampras to the tennis scene described.

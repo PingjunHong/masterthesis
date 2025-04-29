@@ -1,0 +1,10 @@
+1. The premise does not provide any information about the age of the women.
+2. The word "women" does not inherently imply age, allowing for various age possibilities.
+3. There is no indication of age-related synonyms or antonyms in the premise.
+4. The term "older" is not addressed or implied in the premise.
+5. The activity of dancing does not suggest any specific age group.
+6. Age is not described or mentioned in the visual scene of the premise.
+7. The context of being in a forest does not relate to age.
+8. The clothing description does not infer any age-related characteristics.
+9. The premise lacks any explicit or implicit reference to the age of the dancers.
+10. The word "older" in the hypothesis introduces a detail not covered by word meanings in the premise.

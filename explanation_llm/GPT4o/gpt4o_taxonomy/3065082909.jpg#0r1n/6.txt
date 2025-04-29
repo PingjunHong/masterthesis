@@ -1,0 +1,10 @@
+1. The sign's message is not specified in the premise.
+2. The premise does not provide details about the content of the sign.
+3. There is no mention of the sign's text in the premise.
+4. The premise only describes the woman holding a sign, not its message.
+5. The content of the sign is not discussed in the premise.
+6. The premise does not confirm or deny the sign's statement.
+7. The premise lacks information about what the sign says.
+8. The hypothesis introduces new information not addressed in the premise.
+9. The premise does not include details about the sign's wording.
+10. The sign's content is unknown from the premise.

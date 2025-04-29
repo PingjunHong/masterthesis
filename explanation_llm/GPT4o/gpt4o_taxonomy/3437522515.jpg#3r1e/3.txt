@@ -1,0 +1,10 @@
+1. The lady has a garden is a rephrase of An older woman tending to a garden.
+2. An older woman tending to a garden implies that the garden belongs to her, hence she has a garden.
+3. Tending to a garden suggests possession, indicating The lady has a garden.
+4. The statement The lady has a garden is syntactically restructuring the premise An older woman tending to a garden.
+5. The act of tending to a garden suggests ownership or responsibility, which is expressed in The lady has a garden.
+6. The phrase tending to a garden implies that the garden is associated with the woman, thereby supporting The lady has a garden.
+7. An older woman is engaged in activity related to a garden, which can be rephrased as The lady has a garden.
+8. The premise describes a woman actively involved with a garden, which rephrases to The lady has a garden.
+9. The premise and hypothesis convey the same situation with different syntactic structures: tending to a garden versus having a garden.
+10. An older woman tending to a garden entails that she possesses or is responsible for it, aligning with The lady has a garden.

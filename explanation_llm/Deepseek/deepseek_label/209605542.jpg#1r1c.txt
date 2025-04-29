@@ -1,0 +1,10 @@
+1. The content describes a man climbing a rock cliff, not swimming.
+2. The setting in the content is a rock cliff over greenery, not an ocean.
+3. The activity in the content is climbing, not swimming.
+4. The man in the content is wearing a red headband, with no mention of swimming attire.
+5. The content involves a terrestrial environment (rock cliff), not an aquatic one (ocean).
+6. The statement’s action (swimming) contradicts the action in the content (climbing).
+7. The statement’s location (ocean) contradicts the location in the content (rock cliff).
+8. There is no mention of water or ocean in the content.
+9. The man’s activity in the content is land-based, while the statement describes a water-based activity.
+10. The visual elements in the content (rock, greenery) do not align with the ocean setting in the statement.

@@ -1,0 +1,8 @@
+1. "House party" does not imply the presence of a swimming pool, as a house may or may not have a pool.
+2. "Getting drunk" suggests alcohol consumption but does not specify the location of the partying.
+3. "Some people" indicates a subset of attendees, which may or may not be by a pool, as not all attendees are accounted for in the hypothesis.
+4. "House party" can occur indoors or outdoors, while "by the side of a swimming pool" specifies an outdoor location.
+5. "Partying" encompasses various activities and settings, not necessarily involving a swimming pool.
+6. "Some people" implies an unspecified number, which might be separate from others at the house party.
+7. "By the side of a swimming pool" is a distinct location not inherently linked to the concept of a "house party."
+8. The word "house" refers to a dwelling, which does not inherently include or exclude a swimming pool.

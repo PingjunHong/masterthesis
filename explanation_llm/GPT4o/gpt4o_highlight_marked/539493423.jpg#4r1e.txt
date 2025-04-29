@@ -1,0 +1,3 @@
+1. The word "**man**" appears explicitly in both the content and the statement, confirming the subject is a man.
+2. The presence of "**man**" in the content implies the existence of a man, aligning with the statement.
+3. The statement "There is a **man**" is directly supported by the fact that the content describes a "**man**" holding a torch.

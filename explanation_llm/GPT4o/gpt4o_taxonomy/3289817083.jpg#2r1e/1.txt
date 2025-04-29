@@ -1,0 +1,8 @@
+- The man with a baby refers to the man holding a baby.
+- The baby is identified with the baby being held by the man.
+- The man petting a pony is the same man holding the baby.
+- The action of petting a pony applies to the man holding the baby.
+- The premise's description of a man holding a baby is the same as the hypothesis's description of a man with a baby.
+- The baby being held is the same baby mentioned in the hypothesis.
+- The man and the baby mentioned in both premise and hypothesis refer to the same individuals.
+- The pony being petted by the man refers to the same pony in both the premise and hypothesis.

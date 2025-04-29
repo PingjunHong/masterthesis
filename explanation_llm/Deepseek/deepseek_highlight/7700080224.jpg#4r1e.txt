@@ -1,0 +1,10 @@
+- "Several" and "a bunch of" both indicate an unspecified but plural quantity of women, making the meanings equivalent in this context.
+- The phrases "several women" and "a bunch of women" are semantically similar when referring to a group engaged in an activity.
+- The core meaning of the sentence remains unchanged as both expressions describe multiple women playing volleyball.
+- The substitution of "several" with "a bunch of" does not alter the truth conditions of the statement.
+- Both expressions convey a non-specific plural quantity, ensuring the entailment holds.
+- The highlighted words function as quantifiers that are interchangeable without changing the overall meaning.
+- The lexical variation between "several" and "a bunch of" does not affect the entailment relationship.
+- The rest of the sentence ("women are playing volleyball") remains identical, preserving the entailment.
+- The quantifiers are sufficiently similar in meaning to support the entailment.
+- No contradiction or semantic shift is introduced by replacing "several" with "a bunch of."

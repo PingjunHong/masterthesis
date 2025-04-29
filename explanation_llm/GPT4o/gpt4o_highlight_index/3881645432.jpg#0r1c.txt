@@ -1,0 +1,3 @@
+- "Standing at the computer" implies that the employee is on land and in a retail environment, whereas "swimming in the ocean" implies being in water, specifically the ocean.
+- The presence of a "Geek Squad sign" indicates the setting is a Best Buy store, which contradicts the notion of being in an ocean.
+- An "aisle at Best Buy" suggests an indoor, structured retail space, conflicting with the outdoor, unstructured environment of an ocean.

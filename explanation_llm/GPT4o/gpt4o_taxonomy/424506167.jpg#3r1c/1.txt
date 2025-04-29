@@ -1,0 +1,5 @@
+1. "Two dogs" in the statement refers to the same "two dogs" in the premise, but their actions are contradictory.
+2. "Stand" in the premise contradicts "sitting" in the statement, referring to the same dogs.
+3. The "yard" location in the premise contradicts the "porch" location in the statement for the same two dogs.
+4. "Two dogs" in both the premise and statement refer to the same entities, but their positions and actions differ, leading to a contradiction.
+5. The reference to "two dogs" is consistent across both premise and statement, but their physical states and locations are incompatible.

@@ -1,0 +1,10 @@
+1. The content does not mention any meeting or the woman's purpose for entering the building.
+2. There is no information about the woman's schedule or intentions in the given content.
+3. The statement introduces new information ("important meeting") not supported by the content.
+4. The content only describes the woman's movement and the building's appearance, not her activities or plans.
+5. The presence of people loitering or waiting does not imply the woman has a meeting.
+6. The statement is speculative and cannot be inferred from the observable facts in the content.
+7. The content lacks details about the woman's role, occupation, or reasons for being near the building.
+8. The building's description does not provide evidence for the woman's agenda or commitments.
+9. The statement assumes intent without any basis in the provided content.
+10. Neutrality arises because the content neither supports nor contradicts the statement.

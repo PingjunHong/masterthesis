@@ -1,0 +1,5 @@
+1. The term "**girls**" in the content refers to a subset of "**people**" in the statement.
+2. The action "**blow**" in the content aligns with "**blowing**" in the statement, as they describe the same activity.
+3. The phrase "**out** the candles" in the content matches the activity of "**blowing out candles**" in the statement.
+4. The presence of "**candles**" in the content confirms the existence of candles in the described activity in the statement.
+5. The phrase "Three **girls**" implies at least some number of "**people**," fulfilling the quantifier "**some**" in the statement.

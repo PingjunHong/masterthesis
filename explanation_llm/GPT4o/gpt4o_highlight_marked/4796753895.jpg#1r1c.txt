@@ -1,0 +1,7 @@
+1. "Long sleeves" in the content contradicts "t-shirt" in the statement because a t-shirt does not have long sleeves.
+2. "White collared shirt" in the content contradicts "t-shirt" in the statement because a t-shirt is not a collared shirt.
+3. "Walking to work" in the content contradicts "jogs" in the statement because walking and jogging are distinct activities.
+4. "Wearing shorts" in the statement contradicts the absence of "shorts" in the content, which describes long sleeves and a collared shirt.
+5. "A tie" in the content contradicts the clothing described in the statement, as a tie is not typically worn with shorts and a t-shirt.
+6. "Long sleeves" in the content contradicts the lack of mention of sleeves in "t-shirt" in the statement.
+7. "Walking to work in a big city" in the content contradicts "jogs" in the statement because the described contexts and purposes differ.

@@ -1,0 +1,8 @@
+1. The statement "Five men watch TV" does not specify any actions related to a whiteboard or a shaka sign, which are present in the premise.
+2. The premise describes specific actions and objects (holding a whiteboard, making a shaka sign) that are not included in the statement, indicating different focuses.
+3. The premise mentions "young men" and a "loft," whereas the statement refers only to "men" and does not specify a location.
+4. The statement implies an activity (watching TV) that is not explicitly mentioned in the premise, which describes a setting and actions unrelated to watching TV.
+5. The structural elements in the premise include additional context (e.g., "in a loft," "with one holding a whiteboard") that are absent in the statement.
+6. The premise's description includes specific details that are not rephrased or present in the statement, leading to a neutral interpretation.
+7. The statement simplifies the scenario described in the premise by omitting the detailed activities and setting, thus not directly rephrasing the premise.
+8. The premise involves multiple actions and objects, whereas the statement focuses solely on the act of watching TV, which is not syntactically present in the premise.

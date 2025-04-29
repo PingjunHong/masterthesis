@@ -1,0 +1,11 @@
+1. There is no mention of a dog in the premise.
+2. The premise describes a female heading towards the pillar, not a dog running.
+3. The focus in the premise is on a human activity, not an animal.
+4. The premise specifies people on the steps, not animals.
+5. The premise does not include any action by a dog.
+6. The presence of a dog running is not supported by the visual description given.
+7. The statement introduces an element (dog) entirely absent from the premise.
+8. The premise involves human actions, while the statement shifts focus to an animal.
+9. The premise's location detail does not account for a dog.
+10. The statement implies animal movement, contrasting with the human-centered premise.
+11. Temporal elements in the premise do not align with actions of a dog as per the statement.

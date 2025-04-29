@@ -1,0 +1,8 @@
+- Three people refers to the three workers mentioned in the premise.
+- The boat in the statement is the same boat described in the premise hanging from cables over water.
+- The reference to people in the hypothesis is the same as the workers in the premise.
+- The life vests and hard hats indicate the people are workers, supporting the identification of three people as the three workers.
+- The reference to on a boat in the hypothesis matches the description of the workers on a boat in the premise.
+- The mention of three people directly corresponds to the three workers identified in the premise.
+- The statement's reference to people resolves to the workers described wearing life vests and hard hats.
+- The cables and water context in the premise confirms the boat is the same as mentioned in the hypothesis, with people on it referring to the workers.

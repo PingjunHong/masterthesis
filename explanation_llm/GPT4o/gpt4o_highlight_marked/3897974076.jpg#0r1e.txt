@@ -1,0 +1,7 @@
+1. "Climb up the stairs" in the statement directly matches the action described in the content, where the subjects are climbing the stairs.
+2. The order of "a woman and two children" in the statement is equivalent to "two children and a woman" in the content, as order does not alter the meaning.
+3. The specific description "on a metal electric pole-like structure" in the content is additional detail that does not contradict the general action of climbing stairs mentioned in the statement.
+4. The highlighted "stairs" in both the content and the statement refer to the same object being climbed.
+5. The verb "climb" and the preposition "up" in the statement align with the action and direction described in the content.
+6. The phrase "metal electric pole-like structure" in the content provides context for the stairs but is not required to establish the entailment of the action "climb up the stairs."
+7. The subjects "a woman and two children" in the statement are the same as "two children and a woman" in the content, confirming semantic equivalence.

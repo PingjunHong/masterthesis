@@ -1,0 +1,10 @@
+- The woman in black in the premise refers to the same person mentioned in the hypothesis, indicating she is indeed walking to work.
+- "She walks to work" in the premise directly refers to the same woman described as "The woman in black" in the hypothesis.
+- The woman referenced in both the premise and hypothesis is the same, thus her action of walking to work contradicts the statement that she is not.
+- "A woman in black" in the premise is the same individual as "The woman in black" in the hypothesis, confirming the contradiction.
+- The pronoun "she" in the premise refers back to "a woman in black," showing she is walking to work, contrary to the hypothesis.
+- The woman in black mentioned in both the premise and hypothesis is the same person, and her action of walking to work is contradicted by the statement that she is not.
+- The woman referenced in the premise as walking to work is the same woman in black mentioned in the hypothesis, creating a contradiction.
+- The phrase "a woman in black" in the premise resolves to the same woman described in the hypothesis as not walking, contradicting her action described in the premise.
+- The reference to "she" in the premise resolves back to "the woman in black," confirming she is indeed walking to work, contradicting the hypothesis.
+- The woman in black is the same individual in both the premise and hypothesis, and her action of reviewing a message while walking to work contradicts the statement that she is not walking.

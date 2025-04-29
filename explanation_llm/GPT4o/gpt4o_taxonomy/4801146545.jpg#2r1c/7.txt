@@ -1,0 +1,6 @@
+1. White and red are different colors from black.
+2. People wearing only white and red cannot simultaneously be wearing black.
+3. If people are wearing only white and red, they are not wearing black.
+4. Wearing only white and red excludes the possibility of wearing black.
+5. The presence of black clothing contradicts the description of only white and red clothing.
+6. Clothing described as only white and red does not include black.

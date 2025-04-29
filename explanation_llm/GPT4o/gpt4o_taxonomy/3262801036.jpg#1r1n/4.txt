@@ -1,0 +1,10 @@
+1. If rescuers cooperate to place someone on a transport device, they are acting to assist or save that person.
+2. The term "six rescuers" implies six people are involved in the action.
+3. An "injured man" implies a seventh individual who is the target of the rescue.
+4. "Cooperate" implies a joint effort, which aligns with the action of saving someone.
+5. The use of "rescuers" suggests their purpose is to save or assist someone in need.
+6. The premise explicitly mentions "an injured man," indicating a person in need of rescuing.
+7. The act of placing someone on a transport device in difficult terrain suggests a rescue operation.
+8. The number "six" in the premise corresponds directly to the number "six" in the hypothesis.
+9. "Injured man" in the premise directly matches the "injured" condition of the seventh person in the hypothesis.
+10. "Snowy, mountainous terrain" implies a challenging environment, further reinforcing the concept of a rescue operation.

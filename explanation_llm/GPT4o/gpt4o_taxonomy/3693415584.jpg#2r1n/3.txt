@@ -1,0 +1,8 @@
+1. The statement introduces a green hat, which is not mentioned in the premise, creating an additional element rather than a rephrasing.
+2. The premise does not mention a green hat, while the statement does, indicating a difference in detail rather than a syntactic rephrasing.
+3. The structural rephrasing would require both the premise and statement to mention the same items, but the premise lacks the green hat.
+4. The premise focuses solely on the woman weaving and her bright orange blouse, without coordinating elements like the green hat in the statement.
+5. Syntactic alternation does not apply as the premise and statement do not maintain the same set of details; the green hat is an added element.
+6. The difference in items mentioned (bright orange blouse vs. bright orange blouse and green hat) indicates that the statement is not a syntactic rephrase of the premise.
+7. Subordination or coordination that would indicate a rephrase is absent due to the additional detail of the green hat in the statement.
+8. For a syntactic-level inference, both sentences need to share the same details, which is not the case due to the extra detail of the green hat in the statement.

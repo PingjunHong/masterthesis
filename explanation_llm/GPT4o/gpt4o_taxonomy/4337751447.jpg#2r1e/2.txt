@@ -1,0 +1,5 @@
+1. A shopping cart is a type of cart.
+2. An overfilled shopping cart is still a shopping cart.
+3. A plastic blue shopping cart is a specific type of shopping cart.
+4. A homeless man is a type of man.
+5. Possession is implied through the act of pushing the shopping cart.

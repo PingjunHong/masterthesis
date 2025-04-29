@@ -1,0 +1,10 @@
+1. The content does not specify what will be poured into the kettle, so "salsa" is neither confirmed nor contradicted.
+2. The statement introduces new information ("salsa") not present in the content, making it neither supported nor refuted.
+3. The content describes a generic pouring action, while the statement assumes a specific substance ("salsa"), leaving the claim unverifiable.
+4. The visual details (boy, kettle, pouring) align, but the specific filling ("salsa") is neither implied nor excluded.
+5. The statement's specificity ("salsa") goes beyond the content's generality, resulting in neutrality.
+6. The content lacks evidence for or against the claim about the substance being poured, making the statement neutral.
+7. The act of pouring is consistent, but the identity of the liquid is unspecified, leaving the statement neither entailed nor contradicted.
+8. The statement could be hypothetical or speculative, as the content does not address the filling's nature.
+9. The content and statement share observable actions (holding, pouring) but diverge in unstated details ("salsa"), creating neutrality.
+10. Without explicit mention of the poured substance in the content, the statement's claim is neither validated nor invalidated.

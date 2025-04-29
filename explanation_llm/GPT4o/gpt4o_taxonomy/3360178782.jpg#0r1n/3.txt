@@ -1,0 +1,10 @@
+1. The premise describes consumers walking through a market to purchase vegetables, while the statement suggests people are being filmed for an advertisement, which introduces an element not present in the premise.
+2. The premise focuses on the activity of walking through a market, whereas the statement implies a filming process, adding a purpose not mentioned in the premise.
+3. The premise depicts a scene of consumers purchasing vegetables but does not specify any filming or advertising context, which is introduced in the statement.
+4. The premise includes the setting of a public market and consumers, while the statement introduces a commercial aspect by mentioning an advertisement, which is not evident in the premise.
+5. The premise and statement both involve people and vegetables, but the statement's context of filming for an advertisement alters the scenario's intent.
+6. The premise describes a setting of consumers in a market, while the statement shifts focus to a filming activity, which is a structural addition not implied in the premise.
+7. The premise depicts a routine market scene, while the statement suggests a staged event for marketing purposes, a detail not structurally rephrased from the premise.
+8. The premise involves ordinary purchasing activity, whereas the statement adds the concept of being filmed, changing the nature of the event without a syntactic rephrasing.
+9. The premise mentions a busy store in the background, while the statement's focus on filming for an advertisement introduces an additional narrative layer not syntactically aligned with the premise.
+10. The structural difference lies in the premise's neutral description of market activity versus the statement's implication of a promotional activity.

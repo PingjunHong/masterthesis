@@ -1,0 +1,10 @@
+1. Singular "player" in premise conflicts with plural "players" in hypothesis.
+2. The presence of "taking rest" implies inactivity, but the premise suggests the player is actively engaged in hockey.
+3. "A hockey player" indicates one person, whereas "players" suggests multiple individuals.
+4. The premise does not indicate a resting situation, which directly conflicts with the resting state described in the hypothesis.
+5. The premise suggests action or readiness for action, contradicting the restful state implied by the hypothesis.
+6. The singular noun "player" does not match the plural noun "players."
+7. The phrase "in helmet" suggests preparation or play, which is inconsistent with resting.
+8. The hypothesis suggests multiple individuals are resting, whereas the premise mentions only one individual.
+9. The premise implies a sporting context, which is at odds with the resting context of the hypothesis.
+10. "Helmet" suggests active participation in sport, conflicting with the inactive state of resting.

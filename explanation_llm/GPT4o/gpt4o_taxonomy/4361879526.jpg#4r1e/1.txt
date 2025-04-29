@@ -1,0 +1,8 @@
+- The word "men" in the premise refers to "people" in the hypothesis, as both terms can be used interchangeably to refer to human beings.
+- "Two men" in the premise is equivalent to "two people" in the hypothesis because "men" is a subset of "people."
+- The reference to "two men" in the premise is resolved to "two people" in the hypothesis, indicating the same individuals.
+- The term "people" in the hypothesis encompasses "men" from the premise, resolving the reference by generalization.
+- "Men" is a specific type of "people," connecting the premise to the hypothesis through coreference.
+- The statement about "two men" is directly resolved to "two people" since "people" includes "men" as part of its reference.
+- The reference "two men" in the premise is equivalent to "two people" in the hypothesis, as both indicate the same number of individuals engaging in the activity.
+- "Men" in the premise resolves to "people" in the hypothesis by recognizing that both refer to human individuals climbing the scaffold.

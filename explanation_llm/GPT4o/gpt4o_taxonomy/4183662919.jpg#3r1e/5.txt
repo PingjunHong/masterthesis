@@ -1,0 +1,5 @@
+- The premise specifies that the child is playing with her father's boots, but the hypothesis only mentions playing, which is not directly supported by the premise.
+- The premise includes details about the boots, but the hypothesis omits these details, therefore it lacks supporting evidence for the specifics provided in the premise.
+- The hypothesis introduces the general idea of playing, but does not mention the context of playing with boots, which is mentioned in the premise.
+- The hypothesis does not mention the father's boots, which are a key detail in the premise, leaving out supporting evidence for the specific activity described.
+- Although the child is playing, the premise provides additional context about the father's boots that the hypothesis does not address, lacking the specific evidence from the premise.

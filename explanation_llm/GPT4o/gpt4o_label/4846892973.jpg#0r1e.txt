@@ -1,0 +1,5 @@
+- The statement directly describes a subset of the content, focusing only on the people and their location.
+- The statement does not introduce any new information not already present in the content.
+- The foreground details of the table and pair of glasses are irrelevant to the truth of the statement about the people on the pier.
+- The numerical detail "six or seven people" is consistent between the content and the statement.
+- The location "on a pier" is explicitly mentioned in both the content and the statement.

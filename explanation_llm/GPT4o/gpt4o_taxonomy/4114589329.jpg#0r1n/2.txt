@@ -1,0 +1,12 @@
+1. A Ford car is a type of car, but not specifically a sedan.
+2. Making a right turn is synonymous with turning a corner; however, not all cars making a right turn are sedans.
+3. "3 males" and "walkers" refer to people crossing the street, but the specific number and gender are not mentioned in the statement.
+4. "Males" is a more specific term than "walkers," which could imply any gender.
+5. The premise specifies "3 males," while the statement uses the more general term "walkers," which does not confirm the number of people.
+6. "Ford car" does not necessarily imply "sedan," as Ford manufactures various types of vehicles.
+7. "Right turn" and "turning a corner" are similar actions, but the type of vehicle (sedan vs. Ford car) is not confirmed in the hypothesis.
+8. "Behind the car" in the premise does not specify where the walkers are in relation to the sedan in the statement.
+9. The statement does not specify the brand of the car, whereas the premise specifies a "Ford."
+10. "Making a right turn" and "turning a corner" are semantically related, but the car type is unspecified in the hypothesis.
+11. The hypothesis does not negate the premise but does not affirm details about the car type or number of walkers.
+12. "Walkers" is a more general term compared to the specific "3 males" mentioned in the premise.

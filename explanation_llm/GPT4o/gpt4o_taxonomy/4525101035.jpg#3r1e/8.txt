@@ -1,0 +1,10 @@
+1. A down jacket is a type of jacket, so if a man is wearing a down jacket, it can be inferred that he is wearing a jacket.
+2. Holding a pink comb entails holding a comb because a pink comb is a specific type of comb.
+3. The description of the man as "wearing a down jacket" directly supports the statement that he was wearing a jacket, as a down jacket falls under the category of jackets.
+4. The premise specifies a man holding a pink comb, which logically includes the act of holding a comb.
+5. Real-world knowledge tells us that a down jacket is indeed a kind of jacket, confirming the statement about the man wearing a jacket.
+6. The act of holding something, in this case, a pink comb, is consistent with the broader action of holding a comb.
+7. There is no information in the premise that contradicts the idea of the man wearing a jacket or holding a comb, supporting the entailment.
+8. Based on common understanding, wearing a down jacket means the person is wearing a jacket, aligning with the hypothesis.
+9. Knowledge about clothing types allows the inference that a down jacket is included in the category of jackets.
+10. The premise includes all elements of the hypothesis: wearing a jacket and holding a comb, indicating a logical entailment.

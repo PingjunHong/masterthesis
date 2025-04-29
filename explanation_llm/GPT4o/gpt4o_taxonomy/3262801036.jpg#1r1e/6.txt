@@ -1,0 +1,10 @@
+1. "Rescuers" implies a specific group of people, while "people" is a general term, leading to interpretation conflict.
+2. The term "device" in the premise is more specific than "transport" in the hypothesis, indicating structural exclusivity.
+3. Both the premise and hypothesis mention "six" individuals, ensuring numerical consistency.
+4. "Mountainous terrain" is specified in the premise but only "snowy terrain" in the hypothesis, causing location specificity conflict.
+5. The phrase "cooperate to place" implies a coordinated effort, which aligns with "act together" in the hypothesis.
+6. The premise's "injured man" aligns with "another, injured man" in the hypothesis, confirming identity consistency.
+7. The mention of "snowy" in both the premise and hypothesis confirms temporal or seasonal consistency.
+8. The use of "terrain" in both statements ensures location consistency despite the specificity difference.
+9. The premise's "transport device" and the hypothesis's "transport" imply the same function, ensuring logical exclusivity.
+10. The premise highlights the rescuers' cooperation, which is logically exclusive of any individual effort, aligning with "act together" in the hypothesis.

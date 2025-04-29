@@ -1,0 +1,8 @@
+1. A man in the premise refers to a person in the statement.
+2. The individual in the red uniform is the person standing.
+3. The person in the statement is the man wearing a red uniform.
+4. The person standing on his motorbike is the man referred to in the premise.
+5. The term "person" in the statement refers to "man" in the premise.
+6. The man wearing a helmet in the premise is the person mentioned in the statement.
+7. The reference to "a person" in the statement is resolved by the "man" in the premise.
+8. The person standing is the same individual as the man in a red uniform.

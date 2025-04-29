@@ -1,0 +1,6 @@
+1. "No one" in the hypothesis refers to the same group of people mentioned in the premise.
+2. The "group of people" in the premise is the same group referred to as "no one" in the hypothesis.
+3. "Dancing together" in the premise directly contradicts "no one is dancing" in the hypothesis because "no one" implies the absence of dancing.
+4. The reference to "a group of people" implies multiple individuals, contradicting the singular reference "no one" in the hypothesis.
+5. "Together" in the premise suggests collective action which conflicts with the hypothesis's implication of inactivity through "no one."
+6. The premise's mention of "a group" performing an action (dancing) contradicts the hypothesis's assertion that "no one" is performing that action.

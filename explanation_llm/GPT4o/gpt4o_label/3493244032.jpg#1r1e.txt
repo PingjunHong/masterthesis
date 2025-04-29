@@ -1,0 +1,3 @@
+1. A Barbie is a type of toy, so if the girl is playing with a Barbie, she is playing with a toy.
+2. The action of playing with a Barbie inherently involves engaging with a toy.
+3. The statement generalizes the specific object (Barbie) to the broader category (toy), which is logically consistent.

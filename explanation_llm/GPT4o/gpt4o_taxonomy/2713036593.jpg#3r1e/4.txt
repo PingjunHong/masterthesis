@@ -1,0 +1,10 @@
+A man sitting on the floor implies he is located on the floor.
+Sitting on the floor provides the location context necessary to infer that actions happening while sitting, such as sleeping, also occur on the floor.
+Sleeping on the floor logically follows from sitting on the floor if the sleeping action occurs while in the sitting position.
+The action of sleeping is occurring simultaneously with being on the floor, thus confirming the location of the sleeping activity.
+The description of the man's position as sitting indicates that any activity associated with him, like sleeping, naturally takes place on the floor.
+The logical structure of "sitting on the floor" suggests that any subsequent action, such as sleeping, maintains the same spatial context.
+The semantic implication of "sitting on the floor, sleeping" reinforces the idea that the sleeping action is spatially tied to the floor.
+The man’s physical state of sitting on the floor encompasses the action of sleeping happening in the same physical space.
+Sleeping is an activity that, when mentioned in conjunction with sitting on the floor, pragmatically occurs in the same location as the sitting.
+The phrase "sitting on the floor, sleeping" structurally integrates the location (floor) with the action (sleeping), making it an entailment.

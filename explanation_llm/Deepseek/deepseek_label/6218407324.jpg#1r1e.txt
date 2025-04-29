@@ -1,0 +1,10 @@
+1. The "rafting gear" implies the use of an inflatable boat, as such gear is typically associated with rafting in inflatable vessels.
+2. White water rafting is commonly done in inflatable boats, making it likely that the group is in one.
+3. The term "raft" in "white water raft" suggests the use of an inflatable boat, as rafts are often inflatable.
+4. The presence of multiple individuals (seven) indicates a shared vessel, which in rafting is typically an inflatable boat.
+5. The activity described (rafting down a river) is strongly associated with inflatable boats, supporting the entailment.
+6. The statement does not specify the type of boat, but the context of rafting makes "inflatable boat" a reasonable inference.
+7. The description of the activity aligns with common practices where people use inflatable boats for white water rafting.
+8. The absence of any mention of alternative vessels (e.g., kayaks or canoes) strengthens the likelihood of an inflatable boat being used.
+9. The group size (seven) is more consistent with an inflatable raft than smaller, non-inflatable watercraft.
+10. The term "rafting gear" includes equipment typically used with inflatable boats, such as paddles and life jackets, further supporting the entailment.

@@ -1,0 +1,4 @@
+1. The content specifies that three **people** are **sitting**, while the statement claims that some **people** are **standing**, which directly contradicts the description.
+2. The action of **sitting** in the content is incompatible with the action of **standing** in the statement.
+3. The content explicitly describes three **people** engaged in specific activities while **sitting**, leaving no indication of **standing**.
+4. The highlighted term "**sit**" in the content is mutually exclusive with the highlighted term "**stand**" in the statement.

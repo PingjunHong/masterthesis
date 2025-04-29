@@ -1,0 +1,10 @@
+1. The statement does not contradict the content but adds information (group of friends) not present in the content.
+2. The content does not specify the relationship between the people (friends), making the statement neither entailed nor contradicted.
+3. The statement generalizes the people as a "group of friends," which is not confirmed or denied by the content.
+4. The action (biking) and detail (wearing helmets) match, but the additional context (friends) introduces unverified information.
+5. The content describes a scenario without emotional or relational context, while the statement infers a social dynamic (friends) not implied in the content.
+6. The statement’s specificity (friends) goes beyond the neutral observation in the content, but does not conflict with it.
+7. The content is purely descriptive, while the statement interprets the scenario with an assumption (friendship) that cannot be validated from the content.
+8. The core facts (biking, helmets) align, but the statement’s added detail (friends) is neither supported nor contradicted by the content.
+9. The statement introduces an interpretation (friends) that is plausible but not derivable from the content alone.
+10. Neutrality arises because the content neither confirms nor denies the social relationship implied by the statement.

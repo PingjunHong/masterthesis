@@ -1,0 +1,10 @@
+1. The premise does not mention the boy having long hair, so we cannot conclude that he is long-haired based on the provided information.
+2. The premise does not specify the speed at which the boy is skateboarding, so the hypothesis's claim that he is riding at a fast pace is not supported by the premise.
+3. The premise only states that the boy is on a skateboard and on a stone wall with graffiti; it does not provide details about the boy's hair length or speed, leaving these details unsupported.
+4. There is no mention in the premise of the boy's pace while skateboarding, making the hypothesis's suggestion of a fast pace speculative.
+5. The premise lacks any description of the boy's hair, so the hypothesis introducing the detail of him having long hair is not supported.
+6. The premise does not include information about the boy's speed, so the assertion in the hypothesis that he is moving fast is not directly supported.
+7. Details about the boy's appearance, such as having long hair, are absent in the premise, leaving the hypothesis's description unsubstantiated.
+8. The premise describes a boy in a green shirt on a stone wall with graffiti but does not confirm any specifics about his hair or speed, which the hypothesis introduces without evidence.
+9. The absence of information about the boy's hairstyle in the premise makes the hypothesis's claim about his long hair unsupported.
+10. The hypothesis adds new information about the boy's speed that is not mentioned in the premise, making it unverified.

@@ -1,0 +1,2 @@
+- The mode of transportation differs: "skateboard" in the Content versus "rollerblading" in the Statement.
+- The location is different: "stone wall with graffiti" in the Content versus "tunnel" in the Statement.

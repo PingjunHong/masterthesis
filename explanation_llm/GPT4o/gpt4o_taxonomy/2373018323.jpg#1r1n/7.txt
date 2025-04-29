@@ -1,0 +1,10 @@
+1. Not all blue hoodies are baggie clothes.
+2. The young man's clothes might not be considered baggie.
+3. A hoodie does not necessarily imply the clothes are baggie.
+4. The description does not specify the fit or style of the hoodie.
+5. The graffiti-covered wall does not provide information about the clothing style.
+6. The description of the flip does not include details about the clothing fit.
+7. Baggie clothes are not mentioned in the premise.
+8. The hypothesis includes a detail not present in the premise regarding clothing style.
+9. The premise does not mention the size or looseness of the clothing.
+10. The fit of the blue hoodie is not described as baggie in the premise.

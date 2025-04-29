@@ -1,0 +1,10 @@
+1. "Walking home" is not a structural rephrase of "walk along the side of a bridge."
+2. "Walk along the side of a bridge" does not syntactically imply "walking home."
+3. The structure of "walk along the side of a bridge" does not coordinate with "walking home."
+4. "Walking home" is a different action than "walk along the side of a bridge" in terms of syntactic alternation.
+5. The premise uses spatial location "side of a bridge," which is not syntactically equivalent to "home" in the hypothesis.
+6. "A mother and daughter walk" is structurally similar but does not confirm "walking home."
+7. Subordination of "walk along the side of a bridge" does not establish "walking home" as an identical meaning.
+8. The syntactic structure of the premise does not transform into "walking home" in the hypothesis.
+9. The premise involves walking "along the side of a bridge," which does not syntactically alternate to "home."
+10. Coordination between "walk along the side of a bridge" and "walking home" is missing in structural terms.

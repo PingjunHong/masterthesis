@@ -1,0 +1,10 @@
+1. Sitting on the floor and lying down are distinct positions; a person cannot be sitting and lying down simultaneously.
+2. Real-world understanding of posture indicates that sitting and lying down involve different body alignments.
+3. The act of sitting generally involves an upright position, whereas lying down implies a horizontal position.
+4. Probabilistic reasoning suggests that if a person is sitting, they are unlikely to be lying down at the same time.
+5. Assumed knowledge about human body positions indicates that sitting does not equate to lying down.
+6. The spatial orientation of the body when sitting differs from that when lying down, making the two mutually exclusive.
+7. The description of someone sitting implies they are not in a position consistent with lying down, based on common understanding.
+8. A man cannot occupy two contradictory positions (sitting and lying down) at the same moment.
+9. Real-world experience informs us that sitting and lying down are contradictory postures.
+10. The physical arrangement when sitting prevents simultaneous lying down, as per basic human anatomy.

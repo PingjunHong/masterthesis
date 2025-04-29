@@ -1,0 +1,10 @@
+1. Four women competitively rollerskating implies that the activity taking place is rollerskating.
+2. If the activity involves four women rollerskating, then women must be rollerskating.
+3. Competitively rollerskating involves the act of rollerskating.
+4. The word "competitively" does not negate the fact that rollerskating is occurring.
+5. The presence of four women implies the presence of women.
+6. The concept of an area being used is consistent with the act of rollerskating occurring around it.
+7. The statement "women rollerskating" is a subset of "four women competitively rollerskating."
+8. If women are competitively rollerskating, then they are indeed rollerskating.
+9. The action described requires rollerskating, which matches the statement.
+10. The premise logically encompasses the action described in the hypothesis.

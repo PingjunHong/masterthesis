@@ -1,0 +1,5 @@
+1. "Three boys in white shirts" in the premise refers to the same individuals as "three girls" in the hypothesis, creating a contradiction since boys and girls are not the same.
+2. The reference to "three boys" in the premise directly conflicts with the reference to "three girls" in the hypothesis because the gender terms are mutually exclusive.
+3. "Three boys" mentioned in the premise and "three girls" in the hypothesis both aim to refer to the same set of individuals, but contradict each other due to different gender identifications.
+4. The group described as "three boys" in the premise is incorrectly referred to as "three girls" in the hypothesis, resulting in a contradiction.
+5. The pronoun resolution of "three boys" in the premise contradicts the noun phrase "three girls" in the hypothesis as they do not refer to the same gender group.

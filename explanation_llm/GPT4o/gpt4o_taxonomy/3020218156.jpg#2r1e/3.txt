@@ -1,0 +1,9 @@
+1. A guy near a building stands by two other men is a rephrase of A man standing in front of a building on the phone as two men to the side paint on the side.
+2. The premise describes a man in front of a building while two men are nearby, which aligns with the hypothesis stating a guy near a building stands by two other men.
+3. The words "a man standing in front of a building" can be structurally altered to "a guy near a building," maintaining the same meaning.
+4. The premise's description of "two men to the side" structurally matches the hypothesis's "stands by two other men."
+5. The hypothesis summarizes the premise by stating the key elements of location and proximity: a guy near a building and two other men, which are implied in the premise.
+6. The syntactic structure “a man standing in front of a building” corresponds to “a guy near a building” due to synonymous phrasing.
+7. The presence of "two men to the side" in the premise is syntactically alternated to "two other men" in the hypothesis.
+8. "Standing in front of a building" from the premise is rephrased as "near a building" in the hypothesis while preserving the original meaning.
+9. The hypothesis implies the spatial relationship and proximity described in the premise using simpler phrasing.

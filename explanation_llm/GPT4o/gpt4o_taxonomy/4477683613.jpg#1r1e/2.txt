@@ -1,0 +1,6 @@
+- "Lots of pedestrians" and "many pedestrians" are synonymous expressions, indicating a large number of people.
+- "Crowded" implies having many people, which aligns with "many pedestrians."
+- "City street" in the premise includes the concept of a "street," directly corresponding to the street mentioned in the hypothesis.
+- "Crowded city street" suggests high pedestrian traffic, which entails "many pedestrians on the city street."
+- "Lots of" and "many" both convey the idea of a large quantity, reinforcing the presence of numerous pedestrians.
+- The term "pedestrians" is directly mentioned in both the premise and hypothesis, establishing a semantic match.

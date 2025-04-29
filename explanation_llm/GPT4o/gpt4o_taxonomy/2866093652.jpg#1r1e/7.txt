@@ -1,0 +1,10 @@
+1. Women are capable of rollerskating.
+2. Competitive rollerskating involves rollerskating.
+3. The activity of rollerskating involves moving around an area.
+4. An area is a space where activities can occur.
+5. The premise specifies women, which includes the hypothesis of women.
+6. The act of moving around is inherent in rollerskating.
+7. The premise states "four women," which implies women are present.
+8. The term "competitively" does not alter the fact that rollerskating is occurring.
+9. The word "women" in the premise matches the word "women" in the hypothesis.
+10. Rollerskating typically involves a space or area for the activity.

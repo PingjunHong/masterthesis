@@ -1,0 +1,10 @@
+1. The content does not mention the purpose of cutting the wood (building a table or otherwise).
+2. The statement introduces new information (building a table) not present in the content.
+3. The content only describes the action (sawing a log) without specifying intent.
+4. The statement assumes a specific outcome (building a table) that is not supported by the content.
+5. The content is purely observational, while the statement is inferential.
+6. The two men could be cutting wood for any reason, not necessarily for building a table.
+7. The statement’s claim (building a table) is neither confirmed nor denied by the content.
+8. The content lacks contextual details about the men’s goals or plans.
+9. The statement extrapolates beyond the observable facts in the content.
+10. Neutrality arises because the content neither supports nor contradicts the statement.

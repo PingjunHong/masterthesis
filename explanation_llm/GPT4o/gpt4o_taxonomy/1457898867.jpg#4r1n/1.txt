@@ -1,0 +1,7 @@
+1. The reference "a horse" in the statement does not have a corresponding entity in the content, which mentions "riding down the road" but not the mode of transport.
+2. Both "a boy" in the content and the statement refer to the same individual, but the statement introduces "a horse" which is not specified in the content.
+3. The cows mentioned in both the content and the statement could refer to the same cows, yet the mode of transportation ("a horse" in the statement) differs, leading to a neutral relationship.
+4. The activity described in the content, "riding down the road," does not specify "a horse," creating ambiguity in the reference of what the boy is riding.
+5. The word "rides" in the statement suggests a different action than simply "riding," as no specific mention of "a horse" is made in the content.
+6. The reference to "two cows" aligns between the content and the statement, but the discrepancy in what the boy is riding creates a neutral entailment.
+7. The boy mentioned in both the content and the statement could be the same, but the difference in the referenced riding object ("a horse" versus an unspecified object) creates a lack of entailment.

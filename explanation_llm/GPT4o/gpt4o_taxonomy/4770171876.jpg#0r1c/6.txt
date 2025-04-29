@@ -1,0 +1,10 @@
+1. A playground is not a school bus.
+2. Playing on playground equipment is not the same as sitting on a school bus.
+3. Being on playground equipment implies being outdoors, whereas being on a school bus implies being inside a vehicle.
+4. Playing and sitting are mutually exclusive activities in this context.
+5. A boy cannot be in two different locations simultaneously: on playground equipment and on a school bus.
+6. The activity of playing contradicts the activity of sitting on a bus.
+7. A boy playing implies he is stationary on playground equipment, whereas traveling on a bus implies movement.
+8. The temporal setting of playing outside does not align with the setting of being on a school bus going home.
+9. The transition from playing to traveling home has not occurred in the premise.
+10. The context of a playground is not the same as that of a school bus environment.

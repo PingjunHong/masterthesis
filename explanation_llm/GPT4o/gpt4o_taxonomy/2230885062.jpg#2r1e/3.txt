@@ -1,0 +1,5 @@
+- Two people are standing on the grass is a rephrase of Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer.
+- The structure of Two people are standing on the grass simplifies the premise Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer by omitting additional details about the women and their actions.
+- The hypothesis Two people are standing on the grass is a syntactic alternation of the premise Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer, focusing only on the presence of people on the grass.
+- The premise Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer can be rephrased to Two people are standing on the grass by removing the specifics about what they are wearing and doing.
+- The hypothesis uses coordination to simplify the information in the premise: Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer, indicating the same scenario with less detail.

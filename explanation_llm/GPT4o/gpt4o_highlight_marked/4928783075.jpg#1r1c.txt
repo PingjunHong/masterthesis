@@ -1,0 +1,5 @@
+1. **Field** indicates an outdoor location, while **indoors** refers to being inside a building.
+2. Throwing a toy plane in the air is an outdoor activity inconsistent with playing video games **indoors**.
+3. The boy is described as standing in a **field**, which contradicts the claim that he is **indoors**.
+4. Playing video games typically requires being **indoors**, whereas the described activity occurs in a **field**.
+5. The physical environment of a **field** and the context of playing video games **indoors** are mutually exclusive.

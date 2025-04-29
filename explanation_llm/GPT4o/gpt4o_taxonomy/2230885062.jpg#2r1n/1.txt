@@ -1,0 +1,4 @@
+1. The two women in dresses in the hypothesis refer to the two women wearing dresses in the premise.
+2. One of them holding a cup and saucer in the premise has no direct reference in the hypothesis.
+3. The action of standing outside on the grass in the premise is not explicitly referenced or implied in the hypothesis.
+4. The statement about getting ready for the picnic in the hypothesis does not have a corresponding reference in the premise, where the action is simply standing.

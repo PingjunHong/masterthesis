@@ -1,0 +1,4 @@
+- Both sentences describe a man and a woman who are sitting, indicating the action is the same.
+- The phrase "on the sidewalk" specifies the location but does not contradict the action of sitting, thus maintaining entailment.
+- The presence of "a man and woman" in both sentences confirms the same subjects are involved in the action.
+- The statement omits the location detail but retains the core action of sitting, which is sufficient for entailment.

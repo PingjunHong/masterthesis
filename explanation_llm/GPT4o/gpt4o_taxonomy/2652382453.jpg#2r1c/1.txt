@@ -1,0 +1,6 @@
+1. "Everyone on the street" refers to the same group of people as "The people," indicating they are involved in their own activities, not observing others.
+2. The phrase "Everyone on the street in the city" and "The people" both refer to the same individuals, who are described as busy, contradicting the idea that they are watching something.
+3. "Everyone" in the premise and "The people" in the hypothesis are coreferential, suggesting the same group; since they are busy, they cannot simultaneously be watching something.
+4. The coreference of "Everyone" and "The people" implies that if they are busy with their own tasks, they cannot be watching events unfold.
+5. Resolving "Everyone on the street" to "The people" shows that the same individuals are preoccupied, contradicting the assertion of them watching something.
+6. The reference to "Everyone on the street" aligns with "The people," suggesting a contradiction because their busyness precludes them from watching.

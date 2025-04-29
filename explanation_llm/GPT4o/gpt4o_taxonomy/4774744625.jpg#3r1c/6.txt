@@ -1,0 +1,7 @@
+1. The location conflict: "outside" and "at the kitchen table" are mutually exclusive locations.
+2. A chair with a red seat is not the same as a kitchen table chair.
+3. Being outside implies not being inside, whereas a kitchen table is typically indoors.
+4. A chair used outside may not be suitable or likely to be found at a kitchen table.
+5. The context of being outside typically lacks a kitchen setting.
+6. The premise suggests an outdoor environment, while the hypothesis implies an indoor setting typically associated with a kitchen.
+7. The structural expectation of sitting outside excludes the possibility of also sitting at a kitchen table simultaneously.

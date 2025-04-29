@@ -1,0 +1,10 @@
+1. A human jumping is a rephrase of, A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.
+2. The phrase A bearded man jumps includes the action of a human jumping.
+3. A bearded man is a type of human, so if a bearded man is jumping, then a human is jumping.
+4. The action described in the premise, A bearded man jumps, implies that a human is engaging in the act of jumping.
+5. The sentence A bearded man jumps inherently contains the meaning of the statement A human jumping.
+6. By structural rephrasing, A bearded man jumps can be simplified to A human jumping.
+7. The premise specifies a man, who is a human, performing the action of jumping, thus confirming the statement A human jumping.
+8. The expression A human jumping can be derived from the syntactic structure of A bearded man jumps.
+9. The premise, through coordination of details, confirms the basic action described as A human jumping.
+10. The subject A bearded man in the premise is included in the broader category of A human in the statement, both performing the same action, jumping.

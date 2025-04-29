@@ -1,0 +1,10 @@
+1. "Her child" in the statement does not specify the identity of the child standing with the woman in the premise.
+2. The premise describes "a small blond child" without indicating that this child belongs to the woman, leaving the relationship ambiguous.
+3. The term "her child" in the statement implies possession, which is not confirmed by the premise that only mentions a child standing with the woman.
+4. The relationship between the woman and the child in the premise is not explicitly defined, making it uncertain if the child is indeed hers.
+5. The premise provides no information about family connections, so "her child" in the statement might refer to a different child not mentioned in the premise.
+6. The premise simply describes a woman and a child standing together without clarifying any familial bond, making the statement neutral.
+7. The statement's use of "her" assumes ownership or relation that is not established in the premise.
+8. The premise lacks any possessive pronouns or adjectives indicating that the child is the woman’s, so coreference cannot be resolved to support the statement.
+9. The phrase "her child" in the statement implies a specific relationship that is not validated by the premise's description.
+10. The statement assumes a familial link that is not explicitly present in the premise, leading to neutrality due to unresolved coreference.

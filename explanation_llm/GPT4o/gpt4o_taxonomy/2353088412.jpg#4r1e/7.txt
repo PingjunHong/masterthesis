@@ -1,0 +1,10 @@
+1. Dogs are capable of running.
+2. Dogs can chase other dogs.
+3. The premise describes a scene where one dog is running.
+4. The premise describes a scene where one dog is being chased by another.
+5. The scenario involves two dogs interacting.
+6. The premise explicitly mentions a dog running.
+7. The premise explicitly mentions another dog chasing.
+8. The statement accurately describes the actions occurring in the premise.
+9. Dogs often engage in playful chasing activities.
+10. The premise and statement use similar phrasing to describe the scene.

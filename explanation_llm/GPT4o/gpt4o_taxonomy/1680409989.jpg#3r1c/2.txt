@@ -1,0 +1,7 @@
+1. "Woman" and "man" are antonyms, indicating different genders.
+2. Painting a mural and tying shoes are different activities, implying distinct actions.
+3. "A woman's face" suggests a focus on female imagery, while "a man tying his shoes" is an unrelated concept.
+4. "A woman" and "a man" cannot simultaneously describe the same individual in this context.
+5. The presence of one person in the premise contrasts with the presence of another in the hypothesis.
+6. The premise describes artistic activity, while the hypothesis describes a mundane, everyday action.
+7. "Mural painting" involves creativity and art, whereas "tying shoes" involves practicality and routine.

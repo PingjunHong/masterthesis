@@ -1,0 +1,5 @@
+1. The premise specifically mentions four women, while the hypothesis does not specify the number of women, which might imply a difference in context.
+2. The hypothesis omits the competitive aspect of the rollerskating mentioned in the premise, which could affect the interpretation of the activity.
+3. The area around which they are rollerskating is not specified in the hypothesis, potentially altering the setting or context.
+4. The premise indicates an organized or competitive event, which the hypothesis does not mention, leaving out a significant element of the situation.
+5. The hypothesis generalizes the activity without the competitive context, which could suggest a casual activity instead of a competitive one.

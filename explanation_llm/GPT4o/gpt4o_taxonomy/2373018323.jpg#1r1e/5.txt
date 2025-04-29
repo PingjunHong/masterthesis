@@ -1,0 +1,8 @@
+1. The premise specifies a half-wall, while the hypothesis states a wall, which could refer to any type of wall, but this difference does not affect the entailment.
+2. The premise describes the wall as covered in graffiti, whereas the hypothesis does not mention any graffiti, which does not negate the action described.
+3. The young man's attire is specifically mentioned in the premise, but the hypothesis does not address his clothing, which does not impact the overall action of doing a flip.
+4. The hypothesis generalizes the action by omitting the specific detail of the wall being a half-wall, an absence that does not alter the truth of the action being performed.
+5. The premise includes the detail of the young man's age ("young man"), which is not mentioned in the hypothesis, but this does not affect the action of performing a flip.
+6. The hypothesis focuses on the action of doing a flip, without mentioning the graffiti, which is additional context present in the premise but not required to establish the action.
+7. The premise includes the specific color of the hoodie (blue), while the hypothesis does not mention the color, which does not impact the entailment of the action of flipping.
+8. The premise uses the specific term "half-wall," while the hypothesis generalizes this to "wall," a difference that does not introduce new information affecting the action.

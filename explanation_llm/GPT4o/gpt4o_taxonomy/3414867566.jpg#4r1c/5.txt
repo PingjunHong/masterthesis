@@ -1,0 +1,10 @@
+1. The premise does not mention football players, so there is no information about their activities.
+2. There is no indication in the premise that addresses what football players do before their events.
+3. The premise specifically discusses gymnasts, not football players, leaving the hypothesis unsupported.
+4. No connection is provided between gymnasts and football players in the premise.
+5. The premise lacks any mention of football, so the hypothesis cannot be derived from it.
+6. The activities of football players are not addressed at all in the given premise.
+7. The premise provides information solely about gymnasts, with no reference to football players.
+8. The hypothesis introduces information unrelated to the content of the premise.
+9. Gymnasts warming up does not imply anything about other sports or athletes.
+10. Without any reference to football in the premise, the statement about football players remains unsupported.

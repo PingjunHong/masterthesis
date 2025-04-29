@@ -1,0 +1,10 @@
+1. Several women in the hypothesis refers to several women wearing dresses in the premise.
+2. The statement 'there are several women' corresponds to the women mentioned as 'several women wearing dresses' in the premise.
+3. The phrase 'several women' in the statement is directly referencing the group of women described in the premise.
+4. The statement's 'several women' and the premise's 'several women wearing dresses' are the same group.
+5. The coreference between 'several women' in the statement and 'several women wearing dresses' in the premise confirms they are identical.
+6. The women mentioned in the premise under 'wearing dresses' are the same 'several women' referenced in the statement.
+7. The hypothesis 'there are several women' is validated by the premise's description of 'several women wearing dresses.'
+8. The coreferential link between 'several women' in the hypothesis and 'several women wearing dresses' in the premise establishes entailment.
+9. The statement's reference to 'several women' aligns with the premise's depiction of 'several women wearing dresses.'
+10. 'Several women' in the statement and 'several women wearing dresses' in the premise refer to the same individuals.

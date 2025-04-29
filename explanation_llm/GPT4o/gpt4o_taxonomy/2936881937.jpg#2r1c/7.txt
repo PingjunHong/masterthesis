@@ -1,0 +1,10 @@
+1. A black shirt is not red.
+2. A person cannot wear two different colored shirts at the same time.
+3. The man is described as wearing a black shirt, not a red one.
+4. Black and red are distinct colors.
+5. The statement specifies a shirt color that does not match the one given in the content.
+6. Wearing a black shirt means the shirt is not red.
+7. The description of the man's clothing does not include a red shirt.
+8. A red shirt would be noticeable as a different color from a black shirt.
+9. The content specifically states the shirt color as black, contradicting the red shirt claim.
+10. A black shirt cannot simultaneously be a red shirt.

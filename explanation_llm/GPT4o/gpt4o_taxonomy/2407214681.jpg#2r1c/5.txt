@@ -1,0 +1,10 @@
+1. The premise describes the boys wearing athletic jerseys, which implies they are not bare-chested.
+2. The premise specifically mentions the boys are wearing jerseys, contradicting the statement that they are bare-chested.
+3. The presence of athletic jerseys in the premise indicates that the boys have some clothing on their upper bodies, contradicting the hypothesis.
+4. The statement suggests the boys are without shirts, but the premise clearly mentions they are wearing jerseys.
+5. The premise includes a detail about clothing (athletic jerseys) that directly contradicts the idea of being bare-chested.
+6. The mention of jerseys in the premise conflicts with the concept of bare-chestedness in the hypothesis.
+7. The boys are described as wearing jerseys, which cannot support the claim that they are without shirts.
+8. The detail of wearing athletic jerseys in the premise provides evidence against the boys being bare-chested.
+9. The premise explicitly states the boys are clothed with jerseys, making the statement about being bare-chested unsupported.
+10. The premise does not affirm any situation where the boys are without shirts, contradicting the hypothesis.

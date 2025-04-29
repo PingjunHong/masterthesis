@@ -1,0 +1,6 @@
+- "People" in the statement refers to the "four people" in the premise, but they are crossing the street, not riding the bus.
+- "A baby" in the statement refers to "a baby" in the premise, but the baby is crossing the street, not riding the bus.
+- The pronoun "and" in the statement connects "people" and "a baby," suggesting they are together, but in the premise, they are together crossing the street, not on a bus.
+- "Crossing the street" in the premise indicates an action that contradicts "riding the bus" in the statement.
+- The action associated with "four people and a baby" in the premise contradicts the action associated with "people and a baby" in the statement.
+- The term "crosswalk" in the premise is associated with walking across the street, not riding a bus as implied in the statement.

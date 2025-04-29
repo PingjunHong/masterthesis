@@ -1,0 +1,8 @@
+1. The premise describes a boy riding down the road, but it does not specify the presence of a road in the statement.
+2. The premise mentions cows, but it is not clear if they are the only cows or if they are the same cows referred to in the statement.
+3. The premise does not list or enumerate the entities as in the statement, so it lacks explicit mention of a list comprising a boy, a road, and two cows.
+4. The statement presents a simple enumeration of elements without context or action, which is not explicitly supported by the premise.
+5. The premise involves an action (riding) and spatial relationship (between cows) not explicitly included in the statement, thus the statement lacks this context.
+6. The statement could imply a static scene involving a boy, a road, and cows without any action, which is not directly supported by the premise.
+7. The statement includes "a road," but the premise only describes a road as part of the action and does not independently confirm its presence outside this context.
+8. The premise does not confirm that the boy, the road, and the cows are the only elements present, leaving the statement unsupported in terms of exhaustive enumeration.

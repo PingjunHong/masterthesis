@@ -1,0 +1,10 @@
+1. The content explicitly states "an old woman in a jean jacket," which directly supports the statement.
+2. The description of the old woman includes the detail about the jean jacket, confirming its presence.
+3. The statement is a direct extraction of a fact mentioned in the content.
+4. The content provides sufficient evidence that the old woman is wearing a jean jacket.
+5. The statement is a subset of the information provided in the content.
+6. The presence of the jean jacket on the old woman is not contradicted or qualified in any way in the content.
+7. The content's description of the scene includes the old woman's attire, making the statement true.
+8. The statement is a specific detail that is fully supported by the broader description in the content.
+9. The content does not provide any information that would negate or cast doubt on the statement.
+10. The statement is entailed because it is a factual assertion derived from the content without requiring additional inference beyond what is stated.

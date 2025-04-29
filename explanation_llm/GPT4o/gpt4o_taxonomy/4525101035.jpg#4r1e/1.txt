@@ -1,0 +1,8 @@
+The man refers to the man in a brown jacket.
+His refers to the man’s arms spread position.
+The man standing refers to the man being upright.
+The man is upright refers to the man standing with his arms spread.
+Standing upright refers to the man in the brown jacket.
+The man in the description matches the man in the statement.
+The reference to the man is consistent between premise and hypothesis.
+The posture described in the premise indicates the man is upright.

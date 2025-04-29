@@ -1,0 +1,6 @@
+1. The performers in the statement refers to the five singers on the stage.
+2. The term "performers" in the statement is resolved to the "five singers" mentioned in the premise.
+3. "Performers" in the hypothesis corresponds to "singers" in the premise.
+4. The mention of "performers" is clarified as "singers," who are on stage, not playing bagpipes.
+5. The reference to "performers" is resolved to the group of "five singers," which contradicts the activity of playing bagpipes.
+6. "Performers" resolves to "three women and two men singers," indicating a contradiction with playing bagpipes.

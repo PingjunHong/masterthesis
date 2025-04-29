@@ -1,0 +1,7 @@
+1. The word "salsa" in the hypothesis implies a specific type of liquid, but the premise does not specify what is being poured into the kettle.
+2. The premise mentions "someone is about to pour something," which is ambiguous and does not specify salsa, leading to neutrality due to lack of specific details.
+3. The term "kettle" in both the premise and hypothesis refers to the same object, but the hypothesis adds the detail of salsa without confirmation from the premise.
+4. The premise describes the kettle as "black," while the hypothesis does not specify color, which does not affect the semantic meaning regarding salsa.
+5. "Soon be filled" in the hypothesis suggests a future action that is not explicitly mentioned in the premise, resulting in neutrality.
+6. The hypothesis's use of "small" and the premise's use of "young" are synonyms, which maintain neutrality as they do not affect the action of filling the kettle with salsa.
+7. The premise describes the boy's hair and robe, details absent in the hypothesis, focusing instead on the kettle's contents, leading to a semantic mismatch.

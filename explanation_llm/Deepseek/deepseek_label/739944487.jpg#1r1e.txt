@@ -1,0 +1,8 @@
+1. The statement does not specify the type of boat, only calling it a "wooden object," which is less precise than "rowboat."
+2. The statement omits details about the seagulls and the ocean, making it less specific than the content.
+3. "Bunch of people" is a vaguer description than "group of people," though not contradictory.
+4. "On the water" is a broader term than "in the ocean," as it could refer to any body of water.
+5. The statement does not contradict the content but provides less detail, making it neither entailed nor contradicted.
+6. The term "wooden object" could technically apply to things other than a rowboat, though it is consistent with one.
+7. The statement lacks contextual elements (seagulls, ocean) that could make it more specific or entailed.
+8. The phrasing is imprecise but not incorrect, leaving room for interpretation without conflict.

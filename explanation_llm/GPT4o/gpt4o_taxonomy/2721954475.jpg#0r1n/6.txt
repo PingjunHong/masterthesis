@@ -1,0 +1,8 @@
+1. The premise describes people standing, but the statement involves them waiting, which may imply different activities or intentions.
+2. The premise specifies a location near and on a large black square, but the statement does not specify any location, leading to potential location conflict.
+3. The premise includes a description of the black square with yellow writing, which is not mentioned in the statement, leading to a mismatch in contextual details.
+4. The premise describes a specific action of standing, whereas the statement implies a state of waiting, which may not involve standing.
+5. The premise does not indicate any temporal aspect, while "waiting" in the statement implies a passage of time.
+6. The premise mentions "a group of people" without specifying the size, while the statement also refers to "a group of people" but provides no additional quantification, leading to potential uncertainty in group size.
+7. The premise does not specify any gender details, while the statement also lacks gender-specific information, maintaining a neutral stance on gender conflict.
+8. The premise and statement both refer to "a group of people," but without more context, there's no clear logical structure to indicate exclusivity or inclusion between the two descriptions.

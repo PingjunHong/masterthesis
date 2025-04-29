@@ -1,0 +1,10 @@
+1. "The railing" in the statement refers to "a blue railing" in the content, but there is no mention of a frozen lake in the content.
+2. The premise describes "a blue railing," which is identified as "the railing" in the statement, yet the presence of a frozen lake is not addressed in the premise.
+3. "His arms spread" in the content does not provide information about the frozen lake mentioned in the statement, leaving the relationship between the railing and the lake unresolved.
+4. The content specifies "a blue railing," which matches "the railing" in the statement, but there is no coreference linking it to a lake in the premise.
+5. "A young man" and "his arms spread" are mentioned in the content, but neither is related to the frozen lake referenced in the statement.
+6. "Heavy brown winter coat" in the content is not relevant to the coreference of "the railing" with "a frozen lake" in the statement.
+7. The premise mentions "stands in front of a blue railing," which is identified as "the railing" in the statement, but lacks evidence of a frozen lake in the premise.
+8. "A blue railing" in the premise is correctly identified as "the railing," but it does not resolve the reference to "a frozen lake" in the statement.
+9. There is no indication in the content that "the railing" mentioned in the statement is associated with "a frozen lake."
+10. The premise describes "a blue railing," but the statement's reference to "a frozen lake" is not supported by the content.

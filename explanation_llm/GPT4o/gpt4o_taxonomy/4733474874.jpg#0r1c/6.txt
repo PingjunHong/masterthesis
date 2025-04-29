@@ -1,0 +1,9 @@
+1. Only people wearing black shirts are in the vehicle, so the driver cannot be wearing a purple shirt.
+2. The driver must be wearing a black shirt, not a purple shirt.
+3. There is a logical exclusivity between wearing black shirts and wearing a purple shirt, indicating a contradiction.
+4. Quantifier conflict arises as all individuals are described with black shirts, excluding the possibility of a purple shirt.
+5. The premise specifies a uniform clothing color for all individuals, creating a conflict with the hypothesis.
+6. Structural exclusivity implies that the driver is part of the group wearing black shirts, conflicting with the statement about a purple shirt.
+7. The premise sets a condition that excludes any other shirt color, thus contradicting the hypothesis.
+8. The description of the group does not allow for any exceptions in shirt color, thereby contradicting the statement about the driver.
+9. The exclusivity of shirt color in the premise negates the possibility of the driver wearing a different color.

@@ -1,0 +1,10 @@
+1. The premise mentions a jean jacket, but it doesn't specify whether it is light or not.
+2. "Jean jacket" in the premise does not imply the color or shade, leaving it open to interpretation.
+3. The word "light" in the hypothesis adds additional information not provided in the premise.
+4. The term "light" modifies "jean jacket" in the hypothesis, introducing uncertainty about its truth.
+5. The premise does not provide enough detail about the jacket's color to confirm or deny the hypothesis.
+6. The hypothesis assumes a specific attribute (light) not mentioned in the premise.
+7. There is no mention of the jacket's color or shade in the premise.
+8. The premise describes a jean jacket, but the color or shade remains unspecified, making the hypothesis neither confirmed nor denied.
+9. The additional attribute "light" is not supported by the information given in the premise.
+10. The semantic content of "light" is not addressed in the premise, resulting in a neutral relationship.

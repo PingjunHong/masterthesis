@@ -1,0 +1,7 @@
+- The young girl in a pink shirt refers to the same girl in both the premise and the hypothesis, but the toy mentioned is different.
+- The young girl is described as playing with a Barbie, not a race car, indicating a contradiction in the object of play.
+- The reference to 'her Barbie' implies possession and interaction with a Barbie doll, not a race car.
+- The statement that the young girl is playing with a race car contradicts the premise where she is playing with a Barbie.
+- Resolving the coreference, both sentences refer to the same young girl, but the objects of play differ, resulting in a contradiction.
+- The reference to 'her Barbie' in the premise resolves to the toy being played with as a Barbie, contradicting the hypothesis that states it's a race car.
+- The girl in the hypothesis is the same girl as in the premise, but the activity involving a race car contradicts the activity involving a Barbie.

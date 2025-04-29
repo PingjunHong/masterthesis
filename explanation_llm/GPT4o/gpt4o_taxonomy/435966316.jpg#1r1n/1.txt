@@ -1,0 +1,5 @@
+1. "Three workers" in the premise does not resolve to "Three lifeguards" in the statement.
+2. "On a boat" in the premise does not establish a clear coreference with "hanging from the boat" in the statement.
+3. "Life vests and hard hats" in the premise are not synonymous with the equipment typically used by "lifeguards" in the statement.
+4. The premise does not mention a "dog," so no coreference exists between "dog" in the statement and any element in the premise.
+5. The premise's "cables over water" does not resolve to any specific action related to "trying to save the dog from drowning" in the statement.

@@ -1,0 +1,10 @@
+1. "A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror" does not structurally rephrase "The woman is a model."
+2. The premise does not contain any syntactic elements that directly rephrase or imply that the woman is a model.
+3. The structure of the premise focuses on the woman's actions and appearance, not her profession or role as a model.
+4. There is no syntactic alternation in the premise that equates to the woman being a model.
+5. The hypothesis introduces new information about the woman's possible profession, which is not a structural rephrasing of any part of the premise.
+6. The coordination and subordination structures in the premise do not suggest or equate to the woman being a model.
+7. The syntactic elements of the premise describe a scene, not the occupation or identity of the woman as a model.
+8. The structure of the sentence in the premise provides a detailed description but does not structurally rephrase or imply that she is a model.
+9. No rephrasing from the premise can be syntactically transformed to support the hypothesis of her being a model.
+10. The premise lacks any structural cues that would syntactically rephrase into the hypothesis statement about being a model.

@@ -1,0 +1,7 @@
+The women refers to the two women in the premise.
+Walking downtown refers to walking down a sidewalk in a downtown area.
+The sidewalk in a downtown area implies that the women were walking downtown.
+The busy street in a downtown area suggests that the sidewalk is part of the downtown.
+Two women in the premise corresponds to the women in the hypothesis.
+In a downtown area in the premise indicates the location downtown in the hypothesis.
+Walking down a sidewalk along a busy street implies that the women are walking downtown.

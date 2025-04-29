@@ -1,0 +1,10 @@
+1. The premise describes girls conversing near lockers, but there is no mention of a toilet.
+2. The location in the hypothesis introduces a toilet, which is not supported by the premise.
+3. The premise does not specify any details about being near a toilet; it only mentions lockers.
+4. The context of lockers does not imply the presence of a toilet.
+5. There is no evidence in the premise to support that the conversation is happening next to a toilet.
+6. The hypothesis assumes a different setting that is not mentioned in the premise.
+7. The mention of toilets introduces new information not found in the premise.
+8. The premise lacks any mention or implication of toilets being nearby.
+9. The girls' location is specified as next to lockers, with no connection to a toilet.
+10. The inclusion of a toilet in the hypothesis adds unsupported context.

@@ -1,0 +1,10 @@
+1. The statement about wearing lifejackets is not a structural rephrase of the group of kids splashing in water nearby a rock formation.
+2. The premise focuses on the activity and location, whereas the statement introduces a new element about attire.
+3. The presence of lifejackets is not implied by the description of the kids splashing in water.
+4. Wearing lifejackets is an additional detail that is not covered by syntactic alternation of the premise.
+5. The structural rephrasing does not occur as the statement adds new information about the kids' clothing.
+6. The premise does not syntactically suggest anything about lifejackets; it focuses on the activity and location.
+7. The hypothesis discusses attire, which is not a syntactic variant of the premise's description of activities and location.
+8. The premise describes an action and setting, while the statement introduces a new, unrelated detail about lifejackets.
+9. The statement regarding lifejackets is not a syntactic rephrasing of any elements in the premise.
+10. There is no change in sentence structure from the premise that would imply or include the detail about wearing lifejackets.

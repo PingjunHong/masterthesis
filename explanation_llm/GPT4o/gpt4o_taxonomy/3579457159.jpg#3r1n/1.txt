@@ -1,0 +1,8 @@
+1. The reference to "the women" in the statement does not specify their age, while the premise only describes them as "wearing dresses" and "dancing in the forest."
+2. The statement "The women are older" introduces information about age not mentioned or implied in the premise.
+3. The premise does not provide any age-related details about "the women," making the age reference in the statement unresolved.
+4. The coreference of "the women" in both sentences does not entail any age distinction, leaving "older" unsubstantiated.
+5. There is no information in the premise to determine the age of "the women," so the age reference is neutral.
+6. Both the premise and the statement refer to "the women," but the premise lacks any context that supports or contradicts them being "older."
+7. The premise describes "women" in terms of activity and attire, not age, leaving the "older" aspect in the statement without resolution.
+8. The coreference is clear, but the premise does not provide age information to support the age assertion in the statement.

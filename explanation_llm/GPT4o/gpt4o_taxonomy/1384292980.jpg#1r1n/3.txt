@@ -1,0 +1,9 @@
+1. "The girls walk down the street" and "Girls were going to the park" do not share the same syntactic structure or meaning.
+2. Walking down the street does not necessarily imply going to the park; the destination is unspecified in the premise.
+3. "Going to the park" introduces a specific destination not mentioned in "walk down the street."
+4. The premise describes an action, while the hypothesis suggests a purpose or destination, which is not structurally rephrased.
+5. The premise uses a straightforward action, whereas the hypothesis implies a goal-oriented movement.
+6. "The girls walk down the street" does not inherently involve going to the park, displaying a lack of structural rephrasing.
+7. The hypothesis adds additional information (destination) that is absent in the premise, making it structurally distinct.
+8. "Walk down the street" is a general activity, while "going to the park" specifies a location, showing no syntactic alternation.
+9. The premise and hypothesis differ in coordination between action and destination, thus lacking structural equivalence.

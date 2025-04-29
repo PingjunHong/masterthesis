@@ -1,0 +1,10 @@
+1. The statement "A man does a flip off a wall" is a simplified version of the content, retaining the core action (flip) and subject (man).
+2. The "half-wall" in the content is a type of wall, so the statement generalizes it to "wall" without contradiction.
+3. The action "doing a flip" in the content directly matches "does a flip" in the statement.
+4. The "young man" in the content is a subset of "man," making the statement broader but not incorrect.
+5. The details about the hoodie (blue) and graffiti are irrelevant to the action described in the statement, so their omission doesn’t affect entailment.
+6. The statement captures the primary event (flipping off a wall) without requiring secondary details (apparel, wall decoration).
+7. The content does not contradict the statement; all elements in the statement are supported by the content.
+8. The statement abstracts away specific descriptors (e.g., "young," "half-") while preserving the logical relationship (man flipping off a wall).
+9. The core semantics of the statement (agent, action, object) are fully contained in the content.
+10. The content provides sufficient evidence to infer the truth of the statement without ambiguity.

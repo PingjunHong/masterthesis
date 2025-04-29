@@ -1,0 +1,8 @@
+1. The premise specifies a young boy in green shorts, whereas the statement refers to a clever person, which is not directly inferable from the premise.
+2. The premise describes a specific action of balancing on a pipe above a river, while the statement generalizes this to simply balancing, lacking the specific context of the pipe and the river.
+3. The premise identifies the individual as a young boy, but the statement does not specify age or gender, focusing instead on the characteristic of being clever.
+4. The premise does not provide any information about the boy's cleverness, only his action, so cleverness cannot be inferred.
+5. The action of balancing described in the premise is performed by a young boy, and although balancing might imply skill, it does not logically entail cleverness without additional context.
+6. The statement's use of the word "person" is broader and more general than the premise's "young boy," which does not logically lead from one to the other.
+7. The premise includes specific details about attire and location (green shorts, above a river), which are not addressed in the statement, leading to a lack of direct inference.
+8. The premise does not contain any semantic indications of the boy's intelligence or cleverness, which is the focus of the statement.

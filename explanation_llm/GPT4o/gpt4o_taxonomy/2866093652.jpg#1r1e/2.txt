@@ -1,0 +1,10 @@
+- Competitively implies an activity, which is included in the general description of rollerskating.
+- Four indicates the presence of multiple women, but the term women does not specify a number, which encompasses four.
+- An area is a general term that includes any specific location they might be skating around.
+- The word women includes the four mentioned in the premise, as it is a non-specific plural term.
+- Rollerskating is the activity being described, which matches the action in both the premise and hypothesis.
+- The concept of an area is not contradicted by the premise, which specifies the women are moving around a place.
+- The premise specifies four women, and the hypothesis refers to women, which includes four as a subset.
+- The competitive nature of the rollerskating does not negate the activity of rollerskating itself.
+- The phrase rollerskating around an area in the hypothesis describes a subset of the activity mentioned in the premise.
+- The term women in the hypothesis is consistent with the gender mentioned in the premise, which is four women.

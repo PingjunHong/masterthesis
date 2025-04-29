@@ -1,0 +1,10 @@
+1. "Taking a walk down an icy road" is structurally rephrased as "walking near the dry highway," but the descriptions of the road conditions contradict each other.
+2. "Icy road" in the premise is rephrased as "dry highway" in the statement, which presents opposite conditions.
+3. The premise's "icy road" and the statement's "dry highway" offer syntactic alternation with conflicting attributes.
+4. "Taking a walk" and "walking" are syntactic variants, but the differing descriptions of the environment—icy versus dry—create a contradiction.
+5. The phrase "down an icy road" is structurally rephrased to "near the dry highway," which are incompatible scenarios.
+6. "Taking a walk" in the premise and "walking" in the statement are similar actions, but the environmental descriptions—icy road versus dry highway—are contradictory.
+7. "Icy road" versus "dry highway" represent opposite conditions despite the structural similarity in describing where the women are walking.
+8. "Taking a walk" and "walking" are syntactic alternations with the same meaning, but "icy road" and "dry highway" are contradictory in nature.
+9. The phrase "down an icy road" is a structural rephrase of "near the dry highway" with opposing environmental conditions.
+10. "Icy road" in the premise and "dry highway" in the statement are structural rephrasings with conflicting meanings.

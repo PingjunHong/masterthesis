@@ -1,0 +1,4 @@
+- The content describes a "black man wearing a down jacket," which entails that "a man was wearing a jacket."
+- The content specifies that the man is "holding a pink comb," which entails that "a man was holding a comb."
+- The statement generalizes the content by not specifying the color of the jacket or the comb, which does not contradict the information in the content.
+- The content provides additional details (such as the man's race, the type of jacket, and the color of the comb) that are not necessary for the statement to be true, making the statement a more general description that still aligns with the content.

@@ -1,0 +1,10 @@
+1. The content does not specify the genders of the people.
+2. The statement introduces new information (gender) not present in the content.
+3. The content only describes an action (kite surfing) and does not imply any gender.
+4. The statement is an assumption not supported by the content.
+5. The content is about the activity, not the identities of the individuals.
+6. The statement could be true or false, but the content does not provide evidence either way.
+7. The content's focus is on the action (crossing by each other while kite surfing), not on personal characteristics.
+8. The statement is irrelevant to the main information provided in the content.
+9. The content does not contradict the statement, but also does not confirm it.
+10. The statement is a detail outside the scope of the content's description.

@@ -1,0 +1,6 @@
+1. Five children playing soccer chase after a ball is rephrased as only five children are playing.
+2. Five children playing soccer suggests that only five children are involved, contradicting the statement that there are ten children.
+3. There are ten total children playing implies more children than the five mentioned in the premise.
+4. The premise indicates five children, which does not align with the statement claiming ten children are playing.
+5. The total number of children playing is five, contradicting the assertion of ten children.
+6. The statement that there are ten children playing does not match the premise of just five children.

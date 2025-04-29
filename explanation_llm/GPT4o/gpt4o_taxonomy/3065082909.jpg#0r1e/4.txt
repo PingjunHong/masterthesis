@@ -1,0 +1,9 @@
+- If men are in suits, they are well dressed, and if they are walking in formation down the street, then they are walking down a block.
+- A woman holding a sign indicates that there is at least one person in the group holding a sign.
+- A group of men in suits constitutes a group of well dressed people.
+- Walking in formation implies walking down a block, as streets are composed of blocks.
+- The presence of a woman leading the group with a sign confirms that someone in the group is holding a sign.
+- The crowd watching implies the activity is occurring in a public space, such as a block.
+- "A group of men" is a subset of "a group of well dressed people" if they are in suits.
+- The phrase "walk in formation down the street" semantically entails "walk down a block" as streets are made up of blocks.
+- Being led by a woman holding a sign ensures that the group includes someone holding a sign.

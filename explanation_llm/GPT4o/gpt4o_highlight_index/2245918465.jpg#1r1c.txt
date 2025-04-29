@@ -1,0 +1,3 @@
+- The highlighted word "man" in the content indicates a male, while the highlighted word "women" in the statement indicates females, creating a contradiction in gender.
+- The activity described in the content involves a religious ritual, whereas the statement describes a location (the park), creating a contradiction in context and action.
+- The content mentions a specific act occurring, while the statement implies a different scenario involving different participants and setting, resulting in a contradiction in both participants and setting.

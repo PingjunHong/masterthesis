@@ -1,0 +1,5 @@
+- The statement "Boys are playing" is a more general description of the activity described in the content.
+- The word "boys" in the statement is a direct subject match with "The boys" in the content.
+- The verb "playing" in the statement is a direct match with "playing" in the content, indicating the same activity is occurring.
+- The content specifies the activity (playing with Legos), which falls under the broader category of "playing" mentioned in the statement.
+- The statement omits specific details (Legos) but maintains the core action and subject, allowing for entailment.

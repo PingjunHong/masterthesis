@@ -1,0 +1,10 @@
+1. The premise explicitly mentions a tan girl running and leaning over an object, which matches the hypothesis.
+2. The description of the tan girl running in the premise directly supports the statement in the hypothesis.
+3. The premise includes the detail of a tan girl leaning over an object, which is exactly what the hypothesis states.
+4. The action of running and leaning over an object is described for the tan girl in the premise, confirming the hypothesis.
+5. The premise provides specific information about the tan girl's actions, affirming the hypothesis.
+6. The premise describes a scene involving a tan girl engaging in the actions mentioned in the hypothesis.
+7. The premise contains factual details about the tan girl's activity that align with the hypothesis.
+8. The premise unambiguously depicts the tan girl performing the actions stated in the hypothesis.
+9. The premise's description of the tan girl's actions is identical to those mentioned in the hypothesis.
+10. The factual depiction of the tan girl’s actions in the premise supports the hypothesis without requiring additional inference.

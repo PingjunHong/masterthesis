@@ -1,0 +1,10 @@
+1. The statement does not specify the color of the ninja outfit in the content.
+2. The content mentions a "jumping kick," while the statement only says "kick," omitting the "jumping" detail.
+3. The statement does not contradict or fully confirm the content, leaving room for ambiguity.
+4. The content and statement describe similar actions without explicit alignment or conflict.
+5. The statement could be a simplified or generalized version of the content.
+6. The color "black" in the statement is not confirmed or denied by the content.
+7. The statement lacks additional context from the content, such as the dynamic nature of the kick.
+8. The content’s details are not fully captured or contradicted by the statement.
+9. The statement neither adds nor removes critical information to alter the content’s meaning.
+10. The relationship between the statement and content is neither entailing nor contradictory.

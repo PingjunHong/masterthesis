@@ -1,0 +1,8 @@
+1. The snowboarder on a wide plain of snow refers to the same snowboarder gliding over a field of snow, but "plain" and "field" are not necessarily equivalent.
+2. The reference to "a wide plain of snow" and "a field of snow" involves different descriptions that do not confirm the action of gliding.
+3. "A snowboarder" in both the premise and the hypothesis refers to the same individual, yet the actions described differ, as being on snow doesn't imply gliding.
+4. The phrase "on a wide plain of snow" relates to "gliding over a field of snow" through the snowboarder, but "on" and "gliding over" suggest potentially different activities.
+5. The snowboarder mentioned in both sentences is the same, but the description of location and the implied action do not confirm each other.
+6. The use of "a snowboarder" establishes the same participant in both, yet the activities implied by "on" versus "gliding over" are not necessarily synonymous.
+7. The snowboarder in each statement is coreferential, but the lack of explicit action in the premise makes the hypothesis neutral.
+8. Although "a snowboarder" is the same in both the premise and hypothesis, the terms "wide plain" and "field" are not directly equivalent, leading to neutrality.

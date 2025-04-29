@@ -1,0 +1,7 @@
+1. The man in the statement refers to the man in the black ball cap, black jacket, and pants described in the content.
+2. Sitting in the content conflicts with standing in the statement when referring to the man's position relative to the building.
+3. The man in front of a building in the statement is the same man described as sitting in front of a building in the content.
+4. The man's action of sitting in the content contradicts the standing action in the statement, despite both referring to the same individual.
+5. The reference to the man in the statement is resolved as the man who is sitting, not standing, in the content.
+6. In both the content and the statement, the man is identified by his attire, but his posture is sitting in the content and standing in the statement, which is contradictory.
+7. The pronoun the man in the statement is coreferential with the detailed description of the man in the content, where his action is sitting, not standing.

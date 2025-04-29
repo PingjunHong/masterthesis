@@ -1,0 +1,8 @@
+1. The premise only mentions the child being on the library steps, without specifying if those steps are inside or outside the library, leaving the location ambiguous.
+2. The premise does not provide information about the steps being inside, so the hypothesis introduces additional details not evident in the premise.
+3. There is no mention in the premise of the steps being located within the library building, so the hypothesis goes beyond the given information.
+4. The premise lacks specific information about the location of the steps in relation to the library's interior, making the hypothesis possible but unsupported.
+5. The premise simply states the child is on the library steps, without indicating whether these steps are external or internal, leaving room for both possibilities.
+6. The location of the steps as being inside is not mentioned in the premise, meaning the hypothesis introduces an unsupported assumption.
+7. The premise does not specify the steps' position relative to the library's interior, so the hypothesis cannot be confirmed or denied based on the given information.
+8. The premise does not clarify whether the steps are a part of the library's internal structure, rendering the hypothesis neutral due to lack of evidence.

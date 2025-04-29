@@ -1,0 +1,10 @@
+1. The flight attendant is demonstrating life vest usage, not preparing drinks.
+2. Demonstrating life vest usage and preparing drinks are mutually exclusive actions.
+3. The premise suggests a safety demonstration, not beverage preparation.
+4. The flight attendant is dressed in yellow, which is not mentioned in the hypothesis.
+5. The premise involves a flight attendant, whereas the hypothesis involves a woman without specifying her role.
+6. The premise focuses on life vest usage, which does not relate to drink preparation.
+7. The location of the actions differ: a demonstration versus service activities.
+8. The premise indicates a specific activity (demonstration), excluding other activities like drink preparation.
+9. The temporal aspect of performing safety demonstrations conflicts with preparing drinks simultaneously.
+10. The structural role of a flight attendant in a demonstration conflicts with the assumed role of a drink preparer.

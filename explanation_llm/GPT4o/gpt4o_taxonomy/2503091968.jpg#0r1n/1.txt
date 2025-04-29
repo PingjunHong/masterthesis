@@ -1,0 +1,9 @@
+- "Her taxi cab" in the statement refers to the taxi cab in the content, but the content does not specify any interaction with other entities.
+- Both the content and the statement mention a child, but the content does not indicate the child is screaming at anyone specific.
+- The pronoun "her" in both the content and the statement refers to the same child, but the content does not imply the presence of another person who almost hit the taxi cab.
+- The content and the statement both involve a child and a taxi cab, yet the content lacks details about another individual involved in the scenario.
+- The content describes the child sticking her head out and screaming, yet does not provide information about any external stimulus or person causing the child to scream.
+- While "her taxi cab" in the statement aligns with "the 0095 taxi cab" in the content, the content does not mention any incident or near-miss involving the taxi cab.
+- The reference to "a child" is consistent between the content and statement, but the content does not include the context of an almost accident indicated in the statement.
+- The coreference of "her" connects the child in the statement to the child in the content, but the content lacks mention of a person who almost hit the taxi cab.
+- The statement implies an external event involving a person almost hitting the taxi cab, which is not reflected or described in the content.

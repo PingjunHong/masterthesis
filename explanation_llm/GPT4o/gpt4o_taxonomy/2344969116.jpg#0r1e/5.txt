@@ -1,0 +1,5 @@
+1. The premise does not specify that the kettle will be filled; it only mentions that someone is about to pour something into it.
+2. The hypothesis assumes that the kettle will be filled, but the premise does not provide information on the amount or completeness of the pouring.
+3. The premise does not confirm what is being poured or whether the kettle will actually be filled.
+4. The premise lacks details about the contents being poured, so the claim that the kettle will be filled is unsupported.
+5. The hypothesis introduces the idea of the kettle being filled, which is not explicitly stated in the premise.

@@ -1,0 +1,5 @@
+1. Resting is not equivalent to standing.
+2. Above a metro entrance is not near a metro station.
+3. The person is in orange clothing, but the statement does not specify clothing color.
+4. Resting implies a lack of standing.
+5. The location 'above' suggests a different spatial orientation than 'near.'

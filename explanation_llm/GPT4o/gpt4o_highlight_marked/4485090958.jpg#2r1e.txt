@@ -1,0 +1,6 @@
+- "Woman" in the content corresponds to "person" in the statement, which is a more general term.
+- "Watching" in the content corresponds to "watches" in the statement, maintaining the same action.
+- "Talking" in the content corresponds to "talking" in the statement, describing the same activity.
+- "Little boy" in the content corresponds to "child" in the statement, which is a broader category.
+- "Another person" in the statement refers to the "woman" who is watching in the content.
+- "Little boy sitting on concrete steps" in the content aligns with "child" in the statement, focusing on the subject rather than location.

@@ -1,0 +1,10 @@
+1. The premise mentions that the women are older and formally dressed, but it does not mention whether they are wearing glasses.
+2. The hypothesis includes the detail that the women have glasses, which is not supported or contradicted by the premise.
+3. The premise describes the women as bald and older, but there is no information about whether they are wearing glasses.
+4. The addition of glasses in the hypothesis introduces a detail not present in the given premise.
+5. The premise does not specify any accessories like glasses, so their presence is neither confirmed nor denied.
+6. The hypothesis introduces new information about glasses that is not mentioned in the premise.
+7. While the premise describes the women's attire and age, it lacks any mention of glasses, leaving that detail unsupported.
+8. The detail about glasses in the hypothesis could be true but is not addressed in the premise.
+9. The premise provides no information on eyewear, making the mention of glasses in the hypothesis an unsupported addition.
+10. Glasses are not mentioned in the premise, so their presence in the hypothesis is neutral without further evidence.

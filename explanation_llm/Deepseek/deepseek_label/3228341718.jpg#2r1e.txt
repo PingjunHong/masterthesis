@@ -1,0 +1,10 @@
+1. The content explicitly mentions "ladies" and "running," which directly supports the statement.
+2. The presence of "3 ladies" in the content confirms that there are indeed ladies involved.
+3. The action "running" is clearly stated in the content, matching the statement.
+4. The additional details (numbers on shirts) do not contradict the statement, making it irrelevant to the entailment.
+5. The statement is a generalized version of the content, omitting specifics but retaining the core elements (ladies + running).
+6. The content provides sufficient evidence to infer the truth of the statement without ambiguity.
+7. The statement does not introduce any new information not present in the content.
+8. The semantic meaning of the content fully aligns with the statement.
+9. The statement is a valid logical conclusion derived from the content.
+10. No part of the content negates or conflicts with the statement.

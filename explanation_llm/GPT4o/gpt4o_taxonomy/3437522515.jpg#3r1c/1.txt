@@ -1,0 +1,5 @@
+- "The lady" in the hypothesis refers to "an older woman" in the premise, but their actions are inconsistent—gardening versus cooking.
+- The term "older woman" in the premise is meant to be the same person as "the lady" in the hypothesis, yet their activities do not match.
+- "The lady" in the hypothesis is presumed to be "the older woman" from the premise, but tending a garden contradicts cooking dinner.
+- The hypothesis implies that "the lady" is involved in cooking, whereas the premise indicates she is involved in gardening, causing a contradiction in her activities.
+- "An older woman" and "the lady" are coreferential, yet the premise describes her gardening while the hypothesis describes her cooking, which are contradictory actions.

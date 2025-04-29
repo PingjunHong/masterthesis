@@ -1,0 +1,10 @@
+1. People on the edge of the roof are not climbing down the ladder.
+2. Being on the edge of the roof is inconsistent with climbing down the ladder.
+3. The presence of a crowd looking up suggests the three people are still on the roof.
+4. The act of climbing down implies a change in position from the roof, which contradicts the current position described.
+5. The statement assumes movement away from the roof, while the content describes a stationary position.
+6. The hypothesis suggests descent, while the premise suggests remaining at the roof's edge.
+7. The logical structure of being at the edge of the roof excludes simultaneous climbing down.
+8. The physical position at the roof's edge does not allow for climbing down at the same moment.
+9. The action of climbing down is not compatible with standing on the edge.
+10. Climbing down a ladder requires a different spatial orientation than being at the edge.

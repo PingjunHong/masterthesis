@@ -1,0 +1,8 @@
+- The person behind the counter refers to the man described in the premise.
+- The man in the Alaska sweatshirt is the person referred to as being behind the counter.
+- The term "a man" in the premise is the same individual as "the person" in the hypothesis.
+- The description of the man in the Alaska sweatshirt matches the reference to the person behind the counter.
+- "The person behind the counter" is a coreferential term for "a man" in the premise.
+- Both the premise and hypothesis refer to the same individual standing behind the counter.
+- The use of "a man" in the premise resolves to "the person" in the hypothesis based on the context provided.
+- The hypothesis's reference to "the person" is the same entity as "the man" mentioned in the premise.

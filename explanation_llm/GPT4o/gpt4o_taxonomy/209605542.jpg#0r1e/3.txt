@@ -1,0 +1,8 @@
+- A climber pulls himself up some rocks is a rephrase of, a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.
+- The action described in the hypothesis is structurally similar to the action described in the premise: pulling himself up some rocks.
+- The phrase "pulls himself up some rocks" is syntactically similar to "is pulling himself up some gray rocks."
+- The core activity of the climber, pulling himself up some rocks, is present in both the premise and hypothesis.
+- The hypothesis simplifies the premise by omitting details, yet retains the same meaning regarding the climber's action.
+- The premise provides additional modifiers that do not change the fundamental action described in the hypothesis.
+- The climber's action, pulling up rocks, remains consistent between both statements, making the hypothesis a syntactic alternation of the premise.
+- Removing the descriptors "wearing a red headband," "gray rocks," and "high above some green foliage" from the premise results in the structurally similar statement in the hypothesis.

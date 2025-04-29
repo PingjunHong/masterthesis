@@ -1,0 +1,10 @@
+1. The premise describes a girl running and leaning over an object and another person sitting, which does not syntactically rephrase the statement about a man watching his daughter leap.
+2. The structure of the premise involves a girl and another person, while the statement involves a man and his daughter, indicating different subjects and actions.
+3. The premise uses the action "running and leaning," whereas the statement uses "watches" and "leap," which are not syntactic rephrasings of each other.
+4. The relationship in the premise is between a girl and another person, whereas the statement describes a relationship between a man and his daughter, which are structurally different.
+5. The main actions described in the premise are "running" and "leaning," which do not syntactically match the action "watches" or "leap" in the statement.
+6. The subject of the premise is a "tan girl with a wool hat," while the statement refers to a "man" and his "daughter," representing different syntactic subjects.
+7. The premise's depiction of two people with wool hats does not syntactically align with the statement's focus on a man and his daughter, indicating a difference in syntactic structure.
+8. The premise does not contain a syntactic equivalent to a "man," which is present in the statement, showing structural divergence.
+9. The premise features actions performed by the girl and another person, while the statement focuses on a man's perspective, highlighting a difference in syntactic focus.
+10. The actions and subjects in the premise are not structurally rephrased as those in the statement, as they involve different characters and activities.

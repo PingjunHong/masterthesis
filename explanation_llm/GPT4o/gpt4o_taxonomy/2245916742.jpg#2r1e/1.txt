@@ -1,0 +1,6 @@
+- A man on Easter Island refers to the man standing by the face structures on Easter Island.
+- The man mentioned in the statement is the same man standing by the two face structures in the premise.
+- The reference to a man on Easter Island in the statement is resolved by the man in the premise standing by face structures on Easter Island.
+- The man in both the premise and the statement is the same individual located on Easter Island.
+- The phrase "a man" in the statement is coreferential with "a man" who is standing by face structures on Easter Island in the premise.
+- The statement's mention of a man on Easter Island is resolved by identifying him as the man in the premise.

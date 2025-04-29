@@ -1,0 +1,3 @@
+- Sitting and lying down are mutually exclusive positions.
+- A person cannot be both sitting and lying down at the same time.
+- The physical posture described in the content does not match the posture described in the statement.

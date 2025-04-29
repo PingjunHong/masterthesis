@@ -1,0 +1,8 @@
+1. Sitting on a bus does not require wearing a blue uniform; the presence of uniforms is irrelevant to the fact that men are sitting on the bus.
+2. The premise states that men are sitting on a bus, which directly supports the hypothesis that men sit on the bus.
+3. The action of sitting on a bus is consistent in both the premise and the hypothesis, confirming that the statement is entailed.
+4. The premise explicitly mentions men, satisfying the hypothesis that men are sitting.
+5. Sitting is a state that aligns with the premise description, ensuring the hypothesis follows logically.
+6. The presence of men sitting is stated in the premise, which directly affirms the hypothesis.
+7. Uniform color does not impact the fact that men are sitting, making the hypothesis true based on the premise.
+8. The premise includes all elements of the hypothesis, confirming its truth without additional information needed.

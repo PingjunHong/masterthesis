@@ -1,0 +1,7 @@
+- "Two men" in the statement refers to the same "two men" in the content.
+- "Cutting wood" in the statement does not specify the purpose of the action, while the content does not mention any purpose related to building a table.
+- "Wood" in the statement is coreferential to the "log" in the content, but the specific intention of cutting it for a table is not addressed.
+- The "neon yellow shirts" mentioned in the content are not referenced in the statement, leaving out key details that could influence the context.
+- The content describes "sawing a log in half," while the statement mentions "cutting wood," which could imply a different purpose or context not specifically covered in the content.
+- The statement's implied purpose of "building a table" is not coreferential to any specific intention expressed in the content.
+- Both the statement and the content involve two men performing an action on wood, but the coreference does not provide enough information to confirm the specific motivation or end goal described in the statement.

@@ -1,0 +1,7 @@
+- The person outside pushing a stroller refers to the person dressed in a dress with flowers and a stuffed bee attached to it.
+- The stroller in the statement refers to the baby stroller in the premise.
+- The activity of pushing a stroller in the statement is performed by the person in a dress with flowers and a stuffed bee attached to it in the premise.
+- The person in the statement is the same individual as the one described in the premise.
+- The action of pushing in both the premise and statement refers to the same activity done by the same person.
+- The stroller mentioned in the statement is the same stroller as the baby stroller mentioned in the premise.
+- The person pushing a stroller in the statement is the individual in the dress with flowers and a stuffed bee attached to it in the premise.

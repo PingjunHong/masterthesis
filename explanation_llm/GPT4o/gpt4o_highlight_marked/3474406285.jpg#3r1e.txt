@@ -1,0 +1,5 @@
+1. Jumping involves being momentarily in the air, so the dog is in the air while jumping.
+2. The action of jumping requires the dog to leave the ground, putting the dog in the air.
+3. For the dog to successfully jump over an obstacle, it must be in the air at some point during the jump.
+4. The physical act of a jump inherently includes the state of being in the air.
+5. The description of the dog jumping implies a transition where the dog is airborne to clear the obstacle.

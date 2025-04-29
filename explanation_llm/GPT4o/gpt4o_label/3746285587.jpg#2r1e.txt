@@ -1,0 +1,3 @@
+- Kneeling involves being on the ground, so if the woman is kneeling, she is indeed on the ground.
+- The street is an outdoor location, which means the woman is outside.
+- The act of kneeling in the street implies that the woman is both on the ground and outside, satisfying both conditions of the statement.

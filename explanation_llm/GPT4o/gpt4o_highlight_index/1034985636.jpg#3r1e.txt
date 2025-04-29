@@ -1,0 +1,4 @@
+1. The term "electric guitar" is a specific type of "guitar," making the general statement about playing a guitar on stage true when someone is playing an electric guitar.
+2. The action of "playing guitar on stage" encompasses playing any type of guitar, including an electric guitar, thus the statement is entailed.
+3. The context of performing on stage with a guitar does not change whether the guitar is acoustic or electric, so both statements describe the same scenario.
+4. The presence of an "electric" guitar still fulfills the condition of playing a "guitar," which is the focus of the statement.

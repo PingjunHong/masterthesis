@@ -1,0 +1,4 @@
+1. **Walking** and **sitting** are mutually exclusive actions; the man cannot be doing both simultaneously.
+2. **Past** and **on** indicate different spatial relationships; the man cannot be moving past something while being stationary on an object.
+3. **Fence** and **sofa** are entirely different objects; the man cannot interact with both in the same context as described.
+4. The **red vest** mentioned in the content does not align with the implied setting of the **sofa** in the statement.

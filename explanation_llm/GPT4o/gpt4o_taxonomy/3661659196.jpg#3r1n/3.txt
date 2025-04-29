@@ -1,0 +1,8 @@
+1. Conversing is a general term that can include talking about problems, but it does not specify the nature of the conversation.
+2. Talking about problems is a specific type of conversation, but conversing does not imply that the topic is about problems.
+3. The premise mentions teenage girls conversing, but does not detail what they are talking about, making the hypothesis about problems neutral.
+4. Conversing next to lockers does not inherently mean discussing problems; therefore, the hypothesis introduces new information.
+5. The premise provides a setting and an action, while the hypothesis adds a specific topic not mentioned in the premise.
+6. The structural focus in the premise is on the action (conversing), while the hypothesis shifts focus to the content (problems), which is not detailed in the premise.
+7. The concept of conversing is broad and encompasses various topics, while the hypothesis narrows it down, which is additional information.
+8. The premise describes an action (conversing), but the hypothesis suggests a specific type of conversation (talking about problems), which is not implied by the structure of the premise.

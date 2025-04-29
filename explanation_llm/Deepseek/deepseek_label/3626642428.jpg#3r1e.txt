@@ -1,0 +1,10 @@
+1. Swimming in a river implies an outdoor activity, as rivers are located outside.
+2. Dogs cannot swim in a river indoors, so the activity must be occurring outdoors.
+3. The presence of a river indicates an outdoor environment.
+4. The statement specifies "six dogs," and the content confirms this number, aligning with the outdoor context.
+5. Dogs swimming inherently suggests an outdoor setting, as indoor swimming for dogs is uncommon without artificial pools.
+6. The absence of any indoor indicators in the content supports the conclusion that the dogs are outdoors.
+7. Natural bodies of water like rivers are typically found outdoors, reinforcing the entailment.
+8. The activity described (swimming in a river) is incompatible with an indoor setting.
+9. The content does not provide any contradictory information that would place the dogs indoors.
+10. The statement logically follows from the content because outdoor locations are the default assumption for natural water bodies.

@@ -1,0 +1,6 @@
+1. The word **People** in the statement refers to the **four people** mentioned in the content, which includes the baby as part of the group.
+2. The action **crossing** in the statement matches the action described in the content, ensuring semantic alignment.
+3. The **street** in the statement is the same **street** mentioned in the content, preserving the location context.
+4. The content specifies **at a crosswalk**, which implies **crossing the street**, making the statement a valid simplification.
+5. The baby mentioned in both the content and the statement is included in the group of **people**, ensuring consistency.
+6. The statement omits the exact number **four**, but the plural form **people** still correctly encompasses the individuals described in the content.

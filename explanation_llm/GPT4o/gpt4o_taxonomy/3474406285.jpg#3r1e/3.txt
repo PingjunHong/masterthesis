@@ -1,0 +1,9 @@
+1. The dog is in the air is a rephrase of, A brown dog jumps over an obstacle.
+2. Jumping implies that the dog is momentarily in the air, which is rephrased as the dog is in the air.
+3. When a dog jumps, it must be in the air, which structurally rephrases as the dog is in the air.
+4. A brown dog jumps over an obstacle implies the dog must be airborne, rephrased as the dog is in the air.
+5. To jump over an obstacle, the dog must be in the air, which is structurally rephrased as the dog is in the air.
+6. Being in the air is a necessary part of jumping over an obstacle, rephrased as the dog is in the air.
+7. The state of the dog while jumping over an obstacle is being in the air, rephrased as the dog is in the air.
+8. The act of jumping involves being airborne, rephrased as the dog is in the air.
+9. A dog that jumps over something is momentarily in the air, rephrased as the dog is in the air.

@@ -1,0 +1,7 @@
+1. The phrase "a man" in the hypothesis refers to the same "man in a black shirt" in the premise.
+2. "A man" in both the premise and hypothesis is the same individual.
+3. The "man" mentioned is consistently identified as the "man in a black shirt" in both statements.
+4. "A man" is coreferential in both the premise and the hypothesis, referring to the same individual.
+5. The reference "man" in both the premise and hypothesis is resolved to the same person, the one in the black shirt.
+6. Both "a man" in the statements refer to the one involved in bike-related activities, implying a contradiction as the activities differ.
+7. The "man" in the hypothesis is the same "man" in the premise, indicating his actions are contradictory.

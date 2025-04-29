@@ -1,0 +1,10 @@
+1. The premise mentions girls playing in the water, which could involve various activities besides swimming, such as splashing or wading.
+2. The statement assumes the girls are swimming, but the premise does not specifically describe swimming.
+3. The premise lacks details on what the activity in the water entails, leaving open possibilities besides swimming.
+4. Playing in the water is a broader term that doesn't necessarily mean swimming, so the statement is not directly supported.
+5. The premise does not provide any details on the specific actions of the girls in the water, leaving the hypothesis unsupported.
+6. The premise does not specify the depth or conditions of the water, which might affect whether swimming is occurring.
+7. The premise does not mention any swimming strokes or movements typical of swimming, so the hypothesis introduces unsupported information.
+8. The statement assumes a specific activity (swimming) that is not detailed in the premise, which only mentions playing in the water.
+9. The premise does not include any indication of swimming gear or equipment, which might suggest swimming, leaving the hypothesis unsubstantiated.
+10. Playing in water could involve floating, splashing, or wading, activities that do not necessarily involve swimming, making the statement neutral.

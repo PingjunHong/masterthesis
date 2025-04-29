@@ -1,0 +1,8 @@
+The premise describes three young men wearing hoods, which implies they are hood-wearing.
+The premise specifies three young men, which matches the statement of three people.
+The premise mentions the individuals standing, which aligns with the statement.
+The premise indicates they are in a street, which is consistent with the statement.
+The phrase "in the middle of a quiet street" logically implies they are standing in a street, consistent with the statement.
+The premise uses "young man" to imply people, which aligns with the statement mentioning people.
+The premise suggests the men are facing the camera, which does not contradict any part of the statement, ensuring consistency.
+The use of "hoods" in the premise directly supports "hood wearing" in the statement through semantic equivalence.

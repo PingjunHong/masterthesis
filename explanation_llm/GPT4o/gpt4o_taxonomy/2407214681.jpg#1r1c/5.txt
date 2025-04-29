@@ -1,0 +1,8 @@
+The premise mentions soccer uniforms, not band uniforms, indicating a lack of supporting evidence for the hypothesis.
+The premise does not mention band uniforms, so the hypothesis introduces information that is not supported by the premise.
+The premise describes soccer uniforms, while the hypothesis states band uniforms, which is not mentioned or entailed by the premise.
+The premise specifies blue soccer uniforms, but there is no mention of band uniforms, making the hypothesis unsupported.
+The premise does not provide any evidence that the boys are wearing band uniforms, contradicting the hypothesis.
+The hypothesis introduces the idea of band uniforms, which is absent from the premise, leading to a contradiction.
+The premise describes the boys in soccer uniforms, and the absence of mention of band uniforms contradicts the hypothesis.
+The lack of mention of band uniforms in the premise means the hypothesis introduces unsupported information.

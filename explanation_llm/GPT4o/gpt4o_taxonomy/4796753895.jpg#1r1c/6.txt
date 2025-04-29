@@ -1,0 +1,11 @@
+1. Long sleeves and a collared shirt contradict shorts and a t-shirt.
+2. Walking to work contradicts jogging.
+3. Wearing a tie contradicts wearing a t-shirt.
+4. Wearing a long-sleeved shirt contradicts wearing a t-shirt.
+5. A collared shirt contradicts a t-shirt.
+6. The attire for walking to work in a big city contradicts the attire for jogging.
+7. Wearing work attire contradicts wearing casual jogging attire.
+8. The formal clothing described contradicts the informal clothing described.
+9. A white shirt contradicts a t-shirt.
+10. Long sleeves contradict short sleeves.
+11. Business attire contradicts athletic attire.

@@ -1,0 +1,8 @@
+1. The content states that the people are "standing outside of a place," which directly implies they are not inside the building.
+2. The phrase "in front of a building" further confirms their location is exterior, not interior.
+3. The description focuses on their activity ("talking to each other") occurring outside, with no mention of movement or presence inside.
+4. The sign 'HI-POINTE' is visible from the outside, suggesting the observer's perspective is external, aligning with the people being outside.
+5. No contradictory information in the content suggests the people are inside the building.
+6. The word "outside" explicitly negates the possibility of them being inside.
+7. The absence of any indicators (e.g., entering, exiting, or being described within the building) supports the entailment.
+8. The statement's negation ("aren't inside") is consistent with the content's spatial description.

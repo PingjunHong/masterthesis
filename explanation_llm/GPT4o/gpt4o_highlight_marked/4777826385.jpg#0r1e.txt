@@ -1,0 +1,5 @@
+1. The action of "leans" is identical in both the content and the statement, ensuring semantic overlap.
+2. "Outside" in the statement aligns with "outside of an ornate building" in the content, indicating the same spatial location.
+3. The term "a building" in the statement generalizes "an ornate building" in the content, which is acceptable for entailment.
+4. The pedestal mentioned in the content is not essential to the meaning of the statement, allowing its omission without altering the entailment.
+5. The older man described in both the content and statement remains the central subject, preserving consistency.

@@ -1,0 +1,5 @@
+- A person refers to the biker.
+- Riding a bike refers to the action of racing.
+- The bike in the statement refers to the context of a biker racing.
+- The person in the statement is the same as the biker in the premise.
+- The action of riding implies the action described by racing.

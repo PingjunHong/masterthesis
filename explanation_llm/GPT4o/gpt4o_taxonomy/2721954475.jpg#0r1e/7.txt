@@ -1,0 +1,10 @@
+1. Not all groups of people are standing.
+2. The presence of a black square with yellow writing does not imply that the people must be standing.
+3. People in a group can be sitting, lying down, or in various positions, not just standing.
+4. The description of the environment does not guarantee the posture of the people.
+5. A group of people can include individuals who are not standing, such as those sitting or crouching.
+6. The term "stand" does not universally apply to every scenario involving people in a group.
+7. There is no information about the posture of each individual in the group.
+8. Groups can be dynamic, and members may be moving or resting, not exclusively standing.
+9. Background knowledge suggests that people can be in different positions even when near a large object.
+10. Context does not specify that all members of the group are standing simultaneously.

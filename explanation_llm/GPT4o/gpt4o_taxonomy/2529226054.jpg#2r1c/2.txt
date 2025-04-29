@@ -1,0 +1,6 @@
+- Walking and sitting are actions with opposite meanings; one cannot be walking and sitting simultaneously.
+- A fence and a sofa are different objects and cannot be the same location; a fence is outdoors while a sofa is typically indoors.
+- The action of walking contradicts the action of sitting, as they are mutually exclusive.
+- The context of walking past a fence does not match the context of sitting on a sofa, indicating a contradiction in location.
+- The spatial setting implied by a fence contradicts the spatial setting implied by a sofa, as they are typically found in different environments.
+- The physical activity described as walking cannot occur simultaneously with sitting, which is a state of rest.

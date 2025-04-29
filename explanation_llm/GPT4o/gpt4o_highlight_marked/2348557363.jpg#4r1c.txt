@@ -1,0 +1,5 @@
+1. **Library** and **school** are different locations and cannot refer to the same place.
+2. Being on **library** steps contradicts being on **school** steps since they are distinct sets of steps.
+3. **Library** steps and **school** steps imply two separate institutions, making the statements mutually exclusive.
+4. The context specifies the child is on **library** steps, which rules out the possibility of being on **school** steps simultaneously.
+5. **Library** and **school** steps represent different physical structures, creating a contradiction in the described location.

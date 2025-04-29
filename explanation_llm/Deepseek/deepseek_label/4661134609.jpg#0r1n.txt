@@ -1,0 +1,10 @@
+1. The statement does not specify the type of workers (cleaners) or the exact event (St Patrick's Day parade/festival).
+2. The content mentions a parade or festival, but the statement only generalizes it as "St Patrick's Day," which could include various events.
+3. The statement does not confirm whether the animal feces are directly related to St Patrick's Day activities.
+4. The content describes a general cleanup scenario, while the statement assumes a specific context (St Patrick's Day) without explicit evidence.
+5. The statement could refer to any cleanup activity after St Patrick's Day, not necessarily the one described in the content.
+6. The content does not provide enough detail to confirm the exact event or location, making the statement neither entailed nor contradicted.
+7. The workers in the statement could be performing a different cleanup task unrelated to the one in the content.
+8. The statement lacks specificity about the nature of the cleanup (e.g., animal feces vs. general litter).
+9. The content does not explicitly mention St Patrick's Day, leaving the statement unverifiable.
+10. The statement is a plausible but unconfirmed inference from the content, as other festivals/parades could also involve cleanup.

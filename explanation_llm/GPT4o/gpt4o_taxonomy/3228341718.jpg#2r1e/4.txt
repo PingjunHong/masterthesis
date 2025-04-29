@@ -1,0 +1,10 @@
+1. The presence of "3 ladies with numbers on their shirts running" implies that the subjects involved are ladies, and they are engaged in the action of running.
+2. The phrase "3 ladies" in the premise confirms the existence of ladies, satisfying the hypothesis that "there are ladies."
+3. The action "running" in the premise directly supports the hypothesis that "ladies are running."
+4. The term "ladies" in both the premise and hypothesis ensures consistency in the subject being referred to.
+5. The activity described in the premise, "running," is directly aligned with the activity mentioned in the hypothesis, "running."
+6. The use of "3 ladies" in the premise inherently includes the statement "there are ladies," as three is more than zero.
+7. The structure of the premise inherently conveys that the action being performed, "running," is applicable to the "ladies" mentioned.
+8. The premise contains sufficient information ("3 ladies...running") to logically deduce that ladies are indeed running, which aligns with the hypothesis.
+9. The grammatical structure of the premise naturally leads to the inference that the ladies' activity, "running," is occurring.
+10. The inclusion of "running" as an activity in the premise inherently supports the statement that such an activity involves the ladies mentioned.

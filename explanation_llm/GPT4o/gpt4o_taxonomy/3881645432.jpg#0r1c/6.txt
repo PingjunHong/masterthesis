@@ -1,0 +1,10 @@
+1. An aisle at Best Buy is not an ocean.
+2. Standing at a computer is not the same as swimming.
+3. An employee cannot be both in an aisle and in the ocean simultaneously.
+4. The presence of a Geek Squad sign indicates a store environment, not an ocean setting.
+5. Best Buy is a retail environment, not a body of water.
+6. Swimming requires water, which is absent in an aisle.
+7. Being at a computer suggests indoor activity, whereas swimming implies outdoor activity.
+8. An employee cannot be in two distinct locations (Best Buy and ocean) at the same time.
+9. The physical constraints of an aisle do not allow for swimming activities.
+10. The context of being in a store conflicts with the context of being in an ocean.

@@ -1,0 +1,10 @@
+1. Peeps are a type of candy, not a garden feature.
+2. Candles are typically placed on cakes, not in gardens.
+3. Peeps are associated with cakes in the premise, not gardens.
+4. The premise does not mention any garden, contradicting the presence of Peeps in a garden.
+5. Blowing out candles is an activity related to cakes, not gardens.
+6. The context of the premise is indoors with a cake, not outdoors in a garden.
+7. The premise involves a celebration with a cake, not gardening.
+8. Peeps are edible items, not plants found in a garden.
+9. The activity described involves a cake, indicating an indoor setting, not a garden.
+10. No garden-related activities or locations are mentioned in the premise.

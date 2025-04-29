@@ -1,0 +1,7 @@
+1. "A group of people" in the statement refers to the same "group of people" mentioned in the content, but no further information is provided about their actions or surroundings.
+2. The statement's reference to "a group of people" does not specify their location or activity, which leaves it neutral with respect to the detailed scene described in the content.
+3. The coreference "a group of people" is resolved to the same group in the content, but the statement lacks details about the black square or the yellow writing, making it neutral.
+4. The statement's "a group of people" corresponds to the group in the content, yet it does not include any details about the setting or context provided in the content.
+5. The reference to "a group of people" is the same in both the content and statement; however, the statement does not encompass the setting (black square with yellow writing), rendering it neutral.
+6. The phrase "a group of people stand" in the statement resolves to the group mentioned in the content, but omits any specific contextual elements, resulting in neutrality.
+7. The reference in the statement to "a group of people" matches the content's group, but without additional information about their specific location and actions on the square, the statement remains neutral.

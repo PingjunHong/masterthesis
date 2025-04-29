@@ -1,0 +1,6 @@
+1. The content does not provide any information about the **outcome** of the race, so it is unclear whether the biker **loses** or wins.
+2. The content only mentions that the biker races, which does not imply or contradict the statement that the biker **loses**.
+3. The highlighted word **loses** introduces a specific result that is not addressed in the content.
+4. The content focuses on the act of racing, while the statement adds an additional detail about the **loss** that is not present in the content.
+5. The content does not confirm or deny any specific result, such as **losing**, leaving the statement neither entailed nor contradicted.
+6. Racing itself does not necessarily imply success or failure, so the statement about **losing** cannot be inferred from the content.

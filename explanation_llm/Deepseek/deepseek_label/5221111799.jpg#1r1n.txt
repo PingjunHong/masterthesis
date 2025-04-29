@@ -1,0 +1,10 @@
+1. The content does not specify if the carpenter is a man or a woman, so the statement assumes gender.
+2. The content does not mention the stage of work (e.g., "final shingle"), making the statement more specific than the content.
+3. The content does not confirm the tool being used (e.g., "hammering"), only that the carpenter is working.
+4. The statement could be true but is not verifiable from the given content.
+5. The content describes a general work scenario, while the statement adds details not present in the content.
+6. The statement introduces an action ("hammering") that may or may not align with the carpenter's actual task.
+7. The statement assumes the carpenter is performing a specific task (shingle installation) without explicit confirmation in the content.
+8. The content does not provide enough information to confirm or contradict the statement.
+9. The statement could be a plausible inference but is not directly supported by the content.
+10. The statement adds precision (e.g., "final shingle") that the content does not justify.

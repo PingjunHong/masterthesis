@@ -1,0 +1,10 @@
+1. Flight attendants are not limited to serving drinks; they also perform safety demonstrations.
+2. Demonstrating life vest usage is not related to preparing drinks.
+3. The premise does not mention any activities related to serving drinks.
+4. The role of a flight attendant includes demonstrating safety procedures, not exclusively preparing drinks.
+5. The attire description in the premise is unrelated to the activity of preparing drinks.
+6. The premise involves demonstrating safety equipment, which is not the same as preparing drinks.
+7. The task of demonstrating life vest usage does not involve drink preparation.
+8. There is no mention of a woman in the premise, only a flight attendant.
+9. The premise occurs during a safety demonstration, not during drink service.
+10. Life vest demonstrations are part of safety protocols, unrelated to drink preparation tasks.

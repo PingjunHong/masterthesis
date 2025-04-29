@@ -1,0 +1,10 @@
+1. "They" refers to the group of kids mentioned in the premise, but the premise does not specify if they are wearing lifejackets.
+2. The premise mentions kids splashing in deep water, but does not give information about their attire, including lifejackets.
+3. "They" is resolved as the group of kids, but there is no information in the premise about lifejackets.
+4. The premise involves a group of kids near a rock formation, but does not address whether they are wearing lifejackets, leaving the statement neutral.
+5. Reference to "they" is understood as the kids, but the premise lacks details on their clothing or safety gear, such as lifejackets.
+6. Resolution of "they" identifies the kids, yet the premise provides no evidence about lifejackets to support or contradict the statement.
+7. "They" in the statement refers back to the kids, but the premise does not include any mention of lifejackets, making no direct connection.
+8. While "they" points to the kids, the premise omits any description of lifejackets, thus not confirming nor denying the statement.
+9. The group of kids in the premise is linked by "they," but there is no reference to lifejackets in the premise content.
+10. Coreference of "they" resolves to the group of kids, but the premise fails to mention lifejackets, leaving the statement neutral.

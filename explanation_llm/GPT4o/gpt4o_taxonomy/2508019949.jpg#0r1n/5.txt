@@ -1,0 +1,6 @@
+The premise does not specify the age of the person pushing the stroller, so they could be young or old.
+The premise mentions a person, but does not specify their gender or age, so assuming they are an old lady is not supported.
+The description of the street as busy is not mentioned in the premise, so we cannot assume the street is busy.
+The premise describes the person’s attire, but does not confirm their identity as an old lady.
+The premise lacks information about the street conditions, so we cannot confirm it is a busy street.
+The premise does not mention the age or gender of the person, so the hypothesis introduces unsupported information by identifying them as an old lady.

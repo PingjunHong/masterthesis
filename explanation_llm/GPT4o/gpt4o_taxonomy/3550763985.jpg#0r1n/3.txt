@@ -1,0 +1,10 @@
+1. The premise describes a specific moment, while the statement implies a broader context outside the given scenario.
+2. The premise focuses on the skateboarder's current action during a jump, while the statement suggests preparation, which is not explicitly stated or implied in the premise.
+3. The premise highlights the skateboarder's activity and environment, whereas the statement introduces an unrelated timeline concerning seasonal preparation.
+4. The premise provides details about the skateboarder's action and attire, but the statement shifts focus to a different aspect of the skateboarder's life.
+5. The premise is centered on a specific event taking place, while the statement generalizes about future intentions not covered in the premise.
+6. The premise describes an observable scene, while the statement suggests an intention or plan that is not directly related to the premise's description.
+7. The premise is tied to the present moment captured in the activity, whereas the statement suggests ongoing or future preparation that is absent from the premise.
+8. The premise contains visual and situational details, while the statement conveys a broader narrative not derived or inferred from the premise.
+9. The premise is a snapshot of action, while the statement implies a process that cannot be concluded from the premise alone.
+10. The premise and the statement do not share a common temporal or situational context, preventing a direct rephrasing that would lead to entailment.

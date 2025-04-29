@@ -1,0 +1,9 @@
+1. Three firefighters coming up from a subway station is a rephrase of, Three firefighter come out of subway station.
+2. "Coming up from" is a syntactic alternation of "come out of," both indicating exiting a place.
+3. Both sentences describe firefighters emerging from a subway station, using different syntactic structures.
+4. The premise uses "come out of," and the hypothesis uses "coming up from," which is a structural rephrasing with the same meaning.
+5. The premise and hypothesis both convey the same event of firefighters exiting a subway station, despite the syntactic change.
+6. The statement "coming up from" is a coordination of the structural phrase "come out of."
+7. Both the premise and the hypothesis describe the action of leaving a subway station by the firefighters, with a slight variation in wording.
+8. The structural difference between "come out of" and "coming up from" does not alter the meaning, making the statement a rephrase.
+9. "Three firefighter come out of subway station" can be syntactically rephrased as "Three firefighters coming up from a subway station" without changing its meaning.

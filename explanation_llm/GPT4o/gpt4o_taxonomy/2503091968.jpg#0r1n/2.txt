@@ -1,0 +1,9 @@
+1. The premise mentions a child sticking her head out of a taxi cab and screaming, but does not specify who or what she is screaming at, while the hypothesis assumes she is screaming at a person.
+2. The term "screaming" in both the premise and hypothesis is consistent, but the target or cause of the screaming is not included in the premise.
+3. The premise describes a child in a taxi cab, but it does not include any information about an interaction with another person, which is assumed in the hypothesis.
+4. The word "screaming" in the premise is not linked to a specific cause or direction, unlike in the hypothesis, which specifies a person.
+5. The premise does not mention any incident of the taxi cab being almost hit, which is a key part of the hypothesis.
+6. The premise talks about a child and a taxi cab, whereas the hypothesis introduces the element of someone almost hitting the cab, which is not mentioned in the premise.
+7. The premise and hypothesis both include the action of screaming, but the hypothesis adds additional context (directed at a person) not supported by the premise.
+8. There is no indication in the premise that there was an event involving another person that prompted the child to scream, as implied by the hypothesis.
+9. The premise lacks any mention of an external threat or near-accident involving the taxi cab, which the hypothesis implies.

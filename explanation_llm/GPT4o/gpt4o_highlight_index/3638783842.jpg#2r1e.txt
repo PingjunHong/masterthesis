@@ -1,0 +1,6 @@
+1. The adjective "bald" in both sentences describes the hair condition of the women, establishing a direct match.
+2. The word "women" in the statement encompasses "older women" from the content, as "older" is a subset of "women."
+3. The number "two" is consistent in both sentences, indicating the same quantity of individuals.
+4. The term "bald" in the statement is explicitly mentioned in the content, ensuring they refer to the same characteristic.
+5. The statement is a more general description that includes the specific details provided in the content, such as "formally dressed" and "older," which are not necessary for entailment.
+6. The statement simplifies the content by omitting specific attributes that do not affect the truth of the number and condition of the subjects.

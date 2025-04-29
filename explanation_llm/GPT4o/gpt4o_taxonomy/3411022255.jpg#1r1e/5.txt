@@ -1,0 +1,10 @@
+1. The premise specifies "four people," but the hypothesis does not mention the number of people, which could imply a different number of people crossing the street.
+2. The premise includes the detail "at a crosswalk," which is absent in the hypothesis, potentially suggesting they are crossing elsewhere.
+3. The premise mentions "four people and a baby," but the hypothesis could be interpreted as not specifying the relationship between the people and the baby, such as a family or strangers.
+4. The premise states "crossing the street," while the hypothesis lacks specifics about the location or method of crossing, such as whether they are using a crosswalk or jaywalking.
+5. The premise describes the action as "crossing," while the hypothesis does not specify whether they are actively crossing, have already crossed, or are about to cross.
+6. The premise includes "four people and a baby," potentially suggesting six individuals, whereas the hypothesis could imply fewer or more individuals if interpreted differently.
+7. The hypothesis does not mention any details about the appearance, behavior, or interaction of the people and the baby, which are unspecified in the premise and could affect interpretation.
+8. The premise specifies "a baby," while the hypothesis could imply multiple babies or not specify the presence of a baby at all.
+9. The absence of detail in the hypothesis regarding the context or environment, such as traffic conditions or weather, which are unspecified in the premise, could lead to different interpretations.
+10. The hypothesis does not mention whether the crossing is happening in a specific city or country, which could differ from what is implied in the premise.

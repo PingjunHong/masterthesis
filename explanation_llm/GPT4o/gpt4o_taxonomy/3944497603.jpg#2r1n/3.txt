@@ -1,0 +1,8 @@
+1. The statement "A person is waiting for a train" does not structurally rephrase "A person in orange clothing rests above a metro entrance" since resting above a metro entrance does not imply waiting for a train.
+2. "A person is waiting for a train" cannot be inferred as a syntactic alternation of "A person in orange clothing rests above a metro entrance" because resting does not necessarily mean waiting.
+3. The concept of resting above a metro entrance in the premise does not syntactically translate to waiting for a train in the hypothesis.
+4. There is no syntactic subordination or coordination that links "resting above a metro entrance" to "waiting for a train."
+5. The structure of "A person in orange clothing rests above a metro entrance" lacks a direct syntactic equivalence to "A person is waiting for a train," indicating neutrality.
+6. The hypothesis "A person is waiting for a train" is not a syntactic rephrasing of "A person in orange clothing rests above a metro entrance," as the actions described differ.
+7. The premise does not provide a syntactic structure that directly rephrases to "A person is waiting for a train," maintaining the neutral label.
+8. There is no syntactic alternation in the hypothesis that directly equates to "A person in orange clothing rests above a metro entrance."

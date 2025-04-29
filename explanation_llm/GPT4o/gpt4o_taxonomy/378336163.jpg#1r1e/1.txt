@@ -1,0 +1,10 @@
+- "A human" refers to "a bearded man."
+- The human jumping is the bearded man jumping in the snow.
+- "A human" is coreferential with "a bearded man."
+- The bearded man jumping corresponds to the human jumping.
+- The term "human" encompasses the bearded man depicted in the premise.
+- The human in the hypothesis is the same individual as the bearded man in the premise.
+- "Human" is a generalized reference to the bearded man described in the premise.
+- The bearded man is the human that is jumping.
+- The reference to "a human" is resolved by the specific "bearded man" mentioned in the premise.
+- "A bearded man" jumping in the premise is the same as "a human" jumping in the hypothesis.

@@ -1,0 +1,8 @@
+- The worker referred to in the premise cannot be the unemployed person mentioned in the statement.
+- The unemployed person in the statement is not the worker mentioned in the premise.
+- The person atop the building in the premise is not the unemployed person near a building in the statement.
+- The worker peering out from the building under construction in the premise is not the unemployed person near a building in the statement.
+- The reference to a worker in the premise contradicts the reference to an unemployed person in the statement.
+- The term "worker" in the premise conflicts with the term "unemployed person" in the statement.
+- The individual described as a worker in the premise does not match the description of an unemployed person in the statement.
+- The worker atop the building in the premise cannot be the unemployed person near the building in the statement.

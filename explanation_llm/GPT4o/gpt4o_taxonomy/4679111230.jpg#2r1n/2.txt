@@ -1,0 +1,10 @@
+1. "Come out of" does not imply "putting out a fire," as one involves exiting a location and the other involves extinguishing a fire.
+2. "Subway station" in both statements does not necessarily imply an ongoing fire; it is merely a location mentioned in both.
+3. "Putting out a fire" suggests an action that is not mentioned in the premise, which only describes the firefighters' movement.
+4. The premise does not include the concept of a "fire," which is a key component of the hypothesis.
+5. The premise's action of "coming out" does not equate to the hypothesis's action of actively "putting out a fire," showcasing different activities.
+6. The presence of "firefighters" in both the premise and hypothesis does not imply they are engaged in firefighting activities without explicit mention in the premise.
+7. "Inside of" implies a location context in the hypothesis that is not specified in the premise, which only mentions "coming out."
+8. The premise does not specify any ongoing emergency or firefighting activity, while the hypothesis suggests such a scenario.
+9. "Firefighter" does not inherently mean "putting out a fire," as firefighters can be involved in various activities not related to firefighting.
+10. The word "out" in the premise refers to directionality, while "putting out" in the hypothesis refers to extinguishing, indicating different meanings.

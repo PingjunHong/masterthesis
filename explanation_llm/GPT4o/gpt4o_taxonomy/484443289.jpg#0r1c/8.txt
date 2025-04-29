@@ -1,0 +1,10 @@
+1. An old woman wearing a jean jacket contradicts the statement that she has no jacket.
+2. Real-world knowledge tells us that if someone is wearing a jean jacket, then they are not without a jacket.
+3. The premise explicitly mentions the old woman is wearing a jean jacket, which contradicts the claim that she has no jacket.
+4. Observationally, someone cannot simultaneously be wearing a jacket and not wearing a jacket at the same time.
+5. The description of the old woman in the premise as having a jean jacket directly contradicts the statement that she has no jacket.
+6. Causally, if the premise states the woman is wearing a jacket, it’s logically impossible for her to not be wearing one at the same time.
+7. Probabilistically, if the woman is described as wearing a jacket, it is almost certain she is not without a jacket.
+8. The implicit assumption that clothing mentioned in the premise exists on the person contradicts the hypothesis that claims otherwise.
+9. The real-world understanding that clothing worn is visible contradicts the claim of absence when a jacket is mentioned.
+10. Based on assumed information, if the woman is wearing a specific type of clothing, it cannot be accurate to say she lacks any jacket.

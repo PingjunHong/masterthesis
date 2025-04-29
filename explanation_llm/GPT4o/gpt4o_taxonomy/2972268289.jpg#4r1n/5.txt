@@ -1,0 +1,10 @@
+The premise does not specify whether the cowboy is a first-time roper, so the hypothesis introduces new information.
+The premise does not mention anyone falling off a horse; the hypothesis adds this detail without support.
+The premise does not provide information about the cowboy's experience level, leaving the hypothesis unsupported.
+The premise lacks any mention of someone falling off a horse, making the hypothesis speculative.
+The premise does not detail any accidents or falls, so the hypothesis includes additional events not mentioned.
+The premise does not address any mishaps; the hypothesis assumes an incident that isn't described.
+The premise does not indicate the cowboy fell off the horse, which is a new detail introduced by the hypothesis.
+The premise does not include any information about a fall, which the hypothesis suggests without evidence.
+The premise does not discuss the roper's skill level or accidents, so the hypothesis adds unsupported information.
+The premise does not contain any mention of someone being a first-time roper, which is an assumption made by the hypothesis.

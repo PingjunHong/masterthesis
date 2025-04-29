@@ -1,0 +1,10 @@
+1. Demonstrating safety procedures does not exclusively occur before takeoff; it can happen at other times.
+2. The premise specifies the flight attendant is dressed in yellow, but the hypothesis does not mention attire, leading to a structural mismatch.
+3. The hypothesis implies a general safety demonstration, while the premise specifies demonstrating life vest usage, indicating a potential quantifier conflict.
+4. The timing of the demonstration is not specified in the premise, creating a temporal conflict with the hypothesis.
+5. There is no mention of the flight being before takeoff in the premise, which conflicts with the temporal aspect of the hypothesis.
+6. The premise does not specify the number of flight attendants, while the hypothesis uses a singular form, creating a quantifier conflict.
+7. The premise describes a specific safety procedure (life vest usage), whereas the hypothesis refers to safety procedures in general, leading to a specificity conflict.
+8. The premise does not mention the location of the demonstration, while the hypothesis implies it occurs before takeoff, suggesting a location conflict.
+9. The hypothesis uses a definite article ("the flight attendant"), which implies exclusivity, whereas the premise does not specify exclusivity, creating a structural conflict.
+10. The premise focuses on a specific action (demonstrating life vest usage), whereas the hypothesis suggests a broader range of actions under safety procedures, indicating a logical exclusivity conflict.

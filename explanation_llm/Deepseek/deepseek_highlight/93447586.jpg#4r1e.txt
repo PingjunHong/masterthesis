@@ -1,0 +1,6 @@
+1. The highlighted words "balance beam" in the Content are a specific example of "gymnastics equipment" in the Statement, establishing a direct entailment relationship.
+2. The phrase "using the balance beam" in the Content implies the broader category "using gymnastics equipment" in the Statement, as a balance beam is a type of gymnastics equipment.
+3. The action "doing gymnastics" in the Content supports the claim that the woman is interacting with "gymnastics equipment" in the Statement, since gymnastics inherently involves such equipment.
+4. The word "using" appears in both the Content and Statement, linking the specific equipment ("balance beam") to the general category ("gymnastics equipment").
+5. The term "woman" in both sentences ensures the subject is consistent, and the highlighted terms further confirm the entailment due to the hierarchical relationship between the specific and general terms.
+6. The Statement generalizes the specific detail ("balance beam") from the Content to the category it belongs to ("gymnastics equipment"), which is logically valid.

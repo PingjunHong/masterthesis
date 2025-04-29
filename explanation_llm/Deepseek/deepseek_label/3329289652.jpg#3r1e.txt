@@ -1,0 +1,10 @@
+1. The content explicitly states that "the boys are playing with Legos," which directly confirms the statement "Boys are playing."
+2. "Playing with Legos" is a specific instance of "playing," so the general activity in the statement is entailed by the more detailed activity in the content.
+3. The subject "the boys" in the content aligns with "Boys" in the statement, ensuring the same group is referenced.
+4. The verb "are playing" in the statement is a subset of the action described in the content ("are playing with Legos"), making the entailment logically valid.
+5. No contradictory information exists between the content and the statement; the content only provides additional details without negating the core claim.
+6. The temporal aspect ("are") in both the content and the statement indicates the same ongoing action, reinforcing the entailment.
+7. The statement abstracts away the specific toy (Legos) mentioned in the content, but the core activity ("playing") remains unchanged.
+8. The content’s specificity does not introduce any conditions or exceptions that would invalidate the broader claim in the statement.
+9. The semantic overlap between "playing with Legos" and "playing" is sufficient to satisfy the definition of entailment.
+10. The statement is a simplification of the content, retaining only the essential elements (subject and action) needed for entailment.

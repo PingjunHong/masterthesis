@@ -1,0 +1,7 @@
+- The premise mentions a woman in a black shirt, while the hypothesis introduces a woman in green, which is not supported by the premise.
+- There is no mention of sleeping or a couch in the premise, making the hypothesis unsupported.
+- The premise involves looking at a bicycle, which does not relate to the actions described in the hypothesis.
+- The hypothesis introduces a change in clothing color from black to green, which is not mentioned in the premise.
+- The action of sleeping is not suggested or implied by the premise, which only discusses looking at a bicycle.
+- The setting of a couch in the hypothesis is not mentioned or inferred from the premise.
+- There is no evidence in the premise to suggest that the woman changes location or activity to sleeping on a couch.

@@ -1,0 +1,8 @@
+1. The kids in the statement refer to the group of kids in the premise.
+2. Deep water in the statement refers to deep water nearby a rock formation in the premise.
+3. The kids are splashing in the premise, indicating they are in deep water, as stated in the hypothesis.
+4. The phrase "in deep water" in the statement corresponds to "splashing in deep water" in the premise.
+5. The reference to "the kids" in the hypothesis is resolved by "a group of kids" in the premise.
+6. The location described as "nearby a rock formation" in the premise helps confirm that the kids are in deep water as mentioned in the hypothesis.
+7. The activity of splashing implies being in water, supporting the statement that the kids are in deep water.
+8. "The kids" as mentioned in the hypothesis directly correlates to the "group of kids" in the premise, confirming their presence in deep water.

@@ -1,0 +1,10 @@
+1. "Two men" in the statement refers to "one man" and "another man" in the content.
+2. "Fighting" in the statement refers to the action of "kicking" mentioned in the content.
+3. The location "outside a bar" in the statement does not have a corresponding referent in the content.
+4. "The man wearing a blue jacket" and "the man wearing a red jacket" in the content are the two men referred to in the statement.
+5. The action described as "kicking" in the content does not necessarily imply a mutual fight as suggested by the statement.
+6. The setting "outside a bar" in the statement is not specified in the content, leading to ambiguity in the location reference.
+7. The content specifies the jackets' colors, which are not mentioned or referenced in the statement.
+8. The statement implies a general fight, whereas the content specifies the action of one man kicking another, without reciprocal action.
+9. "Another man" in the content is the implied second participant in the "two men" statement.
+10. The premise does not include any reference to a bar, which is specified in the statement.

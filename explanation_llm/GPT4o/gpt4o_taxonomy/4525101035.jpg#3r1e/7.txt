@@ -1,0 +1,7 @@
+1. A down jacket is a type of jacket.
+2. The man is holding a pink comb, which means he is holding a comb.
+3. The term "man" in both the premise and hypothesis refers to the same individual.
+4. Wearing a jacket implies that the individual is dressed in a jacket.
+5. The presence of a comb indicates that the individual is indeed holding it.
+6. The premise mentions "a black man," which confirms the presence of a man.
+7. The phrase "with his arms spread" does not contradict or negate the fact that he is holding a comb.

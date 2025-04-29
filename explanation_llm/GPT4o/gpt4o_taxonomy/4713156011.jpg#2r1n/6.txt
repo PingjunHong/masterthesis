@@ -1,0 +1,10 @@
+1. The location mentioned in the hypothesis is a circus, which is not specified in the premise.
+2. The premise describes an event with people and canopies, which could occur in various locations, not exclusively a circus.
+3. There is no mention of a circus setting in the premise, making the hypothesis location-specific and neutral.
+4. The premise does not confirm the context of a circus, creating a location conflict with the hypothesis.
+5. The activity described in the premise (flinging over a pole) could occur in various contexts, not necessarily a circus trick.
+6. The hypothesis suggests a specific setting of a circus, which is not logically exclusive to the premise.
+7. The premise lacks details on the precise activity being a ‘trick’, causing a structural logical conflict with the hypothesis.
+8. The description of the event in the premise is too vague to definitively support the hypothesis of a circus trick.
+9. The premise does not specify the identity or role of the person, leading to a potential conflict with the specific performance context suggested in the hypothesis.
+10. The premise includes people and canopies, which can be found in many settings, not exclusively a circus, leading to a location conflict.

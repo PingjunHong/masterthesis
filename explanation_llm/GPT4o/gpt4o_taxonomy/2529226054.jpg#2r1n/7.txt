@@ -1,0 +1,9 @@
+1. Not all fences are located on streets.
+2. A person can walk past a fence without being on a street.
+3. The presence of a fence does not imply the presence of a street.
+4. Walking past a fence does not necessarily mean walking down a street.
+5. Fences can be found in various locations, not just near streets.
+6. Walking does not specify the exact location or path, such as a street.
+7. The description of a red vest does not determine the location as a street.
+8. Streets are not the only places where fences are present.
+9. A man walking past something does not confirm he is on a street.

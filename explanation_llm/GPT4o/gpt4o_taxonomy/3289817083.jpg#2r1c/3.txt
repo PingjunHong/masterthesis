@@ -1,0 +1,8 @@
+1. The premise describes a man holding a baby who is petting a pony, while the statement describes a man who kidnapped a baby petting a pony; the syntactic difference involving "holding" vs. "kidnapping" changes the meaning.
+2. The premise uses "holding" to indicate the man's action with the baby, whereas the statement uses "kidnap," which alters the intent and context, thus not simply a structural rephrasing.
+3. The premise involves a neutral activity, "holding a baby," while the statement introduces a criminal action, "kidnap," which changes the meaning rather than rephrasing it.
+4. The structural change from "holding" to "kidnap" introduces a negative connotation that is not present in the premise, thus shifting the meaning significantly.
+5. The phrase "holding a baby" in the premise is altered to "kidnap a baby" in the statement, leading to a semantic shift rather than a syntactic rephrasing.
+6. The premise's structure involving "a man holding a baby" contrasts with the statement's structure "a man who kidnap a baby," indicating a substantial change in meaning.
+7. The syntactic role of "holding" in the premise is replaced with "kidnap" in the statement, which is not a simple structural rephrasing but a change in the underlying action described.
+8. The act described in the premise is benign, while the statement's action implies a crime, showing that the structural alteration changes the scenario depicted rather than maintaining the same meaning.

@@ -1,0 +1,8 @@
+- One guy kicks another is a simplified rephrase of One man, wearing a blue jacket, is kicking another man, wearing a red jacket, focusing on the core action.
+- The premise's description of kicking is structurally rephrased in the hypothesis, emphasizing the main action without additional details.
+- The hypothesis condenses the premise by removing details about clothing, maintaining the same meaning of the core action.
+- The statement one guy kicks another is a syntactic alternation of the premise, highlighting the main action without specifying attire.
+- The hypothesis uses coordination to express the same action as the premise, emphasizing the kicking without clothing descriptions.
+- The statement subordinates the descriptive details from the premise, focusing solely on the action of kicking.
+- The hypothesis omits the color of jackets but retains the action described in the premise, structurally rephrased.
+- Structural rephrasing in the hypothesis captures the essence of the action without additional context from the premise.

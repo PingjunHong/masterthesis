@@ -1,0 +1,8 @@
+1. The old woman in the jeans jacket refers to the old woman in a jean jacket.
+2. The old woman has a light jean jacket refers to the old woman in a jean jacket.
+3. The old woman in a jean jacket is the same old woman mentioned in the light jean jacket statement.
+4. The old woman covered mostly in shadow refers to the old woman in a jean jacket.
+5. The jean jacket mentioned in the statement is the same as the jean jacket in the premise.
+6. The old woman in a jean jacket and the old woman with a light jean jacket refer to the same person.
+7. The reference to an old woman in the statement corresponds to the old woman in a jean jacket in the premise.
+8. The light jean jacket refers to the jean jacket worn by the old woman mentioned in the premise.

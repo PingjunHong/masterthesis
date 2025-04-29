@@ -1,0 +1,12 @@
+1. A child cannot be both in a taxi cab and at home simultaneously.
+2. The act of sticking her head out of a taxi cab contradicts the notion of resting at home.
+3. The location of a taxi cab is not the same as the location of home.
+4. Being in a taxi cab implies being outside, whereas being at home implies being inside.
+5. The description of screaming suggests activity, which conflicts with the concept of resting.
+6. Temporal conflict exists if the child is currently in a taxi cab but is stated to be resting at home.
+7. The presence in a moving taxi cab negates being stationary at home.
+8. The environment of a taxi cab differs significantly from that of a home.
+9. Screaming indicates a level of excitement or distress, which is incompatible with the calmness suggested by resting.
+10. The child being in a taxi cab involves transit, whereas being at home implies no movement.
+11. The premise describes action and interaction with the outside world, while the hypothesis describes passivity and withdrawal.
+12. The use of "resting" suggests inactivity, which conflicts with the active nature of "sticking her head out" and "screaming".

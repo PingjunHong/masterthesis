@@ -1,0 +1,10 @@
+1. A dog is going to get wet is a rephrase of, A black dog with a blue collar is jumping into the water.
+2. Jumping into the water implies that the dog will get wet, structurally linking the premise to the hypothesis.
+3. The premise describes the action of jumping into the water, which syntactically coordinates with the hypothesis that the dog will get wet.
+4. The premise's structure, involving the action of jumping, logically subordinates to the outcome described in the hypothesis, the dog getting wet.
+5. The premise and hypothesis both imply an inevitable outcome of wetness through structural rephrasing.
+6. The syntactic alternation from jumping into the water to going to get wet maintains the same meaning.
+7. Jumping into the water is a syntactic alternation that implies the dog will be wet, matching the hypothesis structurally.
+8. A black dog with a blue collar jumping into the water involves an action that syntactically leads to the dog getting wet, thus rephrasing the premise into the hypothesis.
+9. The premise's description of a dog jumping into the water is structurally equivalent to the hypothesis stating that the dog is going to get wet.
+10. The structural rephrasing from jumping into the water directly correlates to the outcome stated in the hypothesis, the dog getting wet.

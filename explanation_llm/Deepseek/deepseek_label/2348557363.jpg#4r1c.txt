@@ -1,0 +1,10 @@
+1. The location specified in the content (library steps) differs from the location in the statement (school steps).
+2. Libraries and schools are distinct places, making the steps of one incompatible with the steps of the other.
+3. The child cannot simultaneously be on the library steps and the school steps if these are separate locations.
+4. The statement misidentifies the building (school instead of library).
+5. The content explicitly places the child at the library, contradicting the claim of being at the school.
+6. "Library steps" and "school steps" refer to different physical structures, creating a direct contradiction.
+7. The child's presence on the library steps negates the possibility of being on the school steps at the same time.
+8. The statement inaccurately relocates the child from the library to the school.
+9. The content and statement describe mutually exclusive locations for the child.
+10. The assertion that the child is on the school steps is false based on the content's confirmation of the library steps.

@@ -1,0 +1,10 @@
+1. People who are asleep cannot actively watch an event.
+2. Watching an event requires being awake and attentive.
+3. A group of people cannot be both gathered and asleep simultaneously.
+4. Night events are typically watched by people who are awake.
+5. Being asleep implies a lack of consciousness, which contradicts the activity of watching.
+6. Friends gathered for an event are usually awake to engage in the activity.
+7. Participating in or observing an event requires being awake.
+8. A sleeping person cannot be an active participant in a group activity.
+9. Observing an event at night implies a conscious state, which is contrary to being asleep.
+10. Events are typically attended by people who are awake to experience them.

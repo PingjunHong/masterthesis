@@ -1,0 +1,10 @@
+1. A person balancing is a rephrase of a young boy in green shorts balances on a pipe above a river.
+2. The act of balancing by a person is expressed in both the premise and the hypothesis.
+3. The hypothesis summarizes the action described in the premise as a balancing act by a person.
+4. The premise provides a detailed setting and action that includes balancing, which is captured succinctly as a person balancing in the hypothesis.
+5. The structural core of balancing by a person is present in both the premise and the hypothesis.
+6. The premise describes a specific instance of balancing, which the hypothesis generalizes as a person balancing.
+7. The action of balancing remains semantically consistent between the premise and the hypothesis.
+8. The hypothesis simplifies the premise by focusing on the essential action of a person balancing.
+9. The central action of balancing in the premise is syntactically simplified in the hypothesis as a person balancing.
+10. The premise's detailed action involving a young boy balancing is structurally rephrased in the hypothesis.

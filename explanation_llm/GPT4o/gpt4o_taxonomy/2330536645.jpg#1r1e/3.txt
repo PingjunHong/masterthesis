@@ -1,0 +1,6 @@
+1. The kids are in deep water is a rephrase of A group of kids is splashing in deep water nearby a rock formation.
+2. The statement The kids are in deep water syntactically alternates the premise by focusing on the location of the kids, which is explicitly mentioned as being in deep water.
+3. The phrase The kids are in deep water is a structural simplification of A group of kids is splashing in deep water nearby a rock formation, emphasizing the location aspect.
+4. The premise's mention of kids splashing in deep water directly relates to the hypothesis The kids are in deep water, through structural coordination of the details.
+5. The transformation from A group of kids is splashing in deep water nearby a rock formation to The kids are in deep water involves syntactic subordination, removing additional details while maintaining core meaning.
+6. The statement The kids are in deep water restructures the premise by omitting the activity (splashing) and location details (nearby a rock formation) while retaining the key structural element of being in deep water.

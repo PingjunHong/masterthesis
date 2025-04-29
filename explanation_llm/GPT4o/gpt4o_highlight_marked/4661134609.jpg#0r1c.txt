@@ -1,0 +1,3 @@
+1. The **group** mentioned in the content contradicts the **man** mentioned in the statement, as "group" refers to multiple people, while "man" refers to a single individual.
+2. The activity **sweeping** in the content contradicts the activity **walking** in the statement, as these are distinct actions.
+3. The location **street** in the content contradicts the location **water** in the statement, as "street" and "water" are fundamentally different environments.

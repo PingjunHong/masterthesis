@@ -1,0 +1,11 @@
+1. A down jacket is a type of jacket.
+2. A pink comb is a specific type of comb.
+3. "Wearing" implies the presence of clothing, such as a jacket.
+4. "Holding" indicates possession of an object, such as a comb.
+5. "Spread arms" does not contradict the action of holding a comb.
+6. The term "black man" specifies the man, but does not alter the actions described.
+7. "Black man" and "man" are synonymous in the context of this entailment.
+8. The color of the comb ("pink") does not affect the action of holding it.
+9. The description of the jacket ("down") is a more specific term for jacket.
+10. "A man was wearing a jacket" is a broader statement encompassing "A black man wearing a down jacket."
+11. "A man holding a comb" is a generalization of "holding a pink comb."

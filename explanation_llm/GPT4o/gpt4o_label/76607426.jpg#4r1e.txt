@@ -1,0 +1,4 @@
+- The statement "A man is playing billiards" is a generalization of the content "A man playing billiards at a bar," as it omits the specific location but retains the core action.
+- The action described in both the content and the statement is the same, with "playing billiards" being the central activity.
+- The presence of the man, as described in both the content and the statement, ensures that the main subject is consistent.
+- The statement is a subset of the content, where the additional detail of "at a bar" is not necessary for the core meaning of playing billiards to hold true.

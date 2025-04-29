@@ -1,0 +1,4 @@
+- The statement "People are walking a city" is a generalized version of the more specific content "A large group of people walking in a busy city at night."
+- The presence of "a large group of people walking" in the content directly supports the claim that "people are walking."
+- The mention of "a busy city at night" in the content encompasses the broader idea of "a city" where people are walking, aligning with the statement.
+- The details of the time of day and the size of the group in the content do not contradict the statement and are not required for entailment, allowing for the statement to be true given the content.

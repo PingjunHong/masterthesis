@@ -1,0 +1,10 @@
+1. A woman plays tennis is a rephrase of A woman in tennis clothes running to hit a ball with her tennis racket.
+2. Playing tennis involves hitting a ball with a tennis racket, which matches the description of the woman running to hit a ball.
+3. The action of running to hit a ball with a tennis racket is part of playing tennis.
+4. Wearing tennis clothes and using a tennis racket suggest that the woman is playing tennis.
+5. Running towards a ball with a tennis racket is an activity that can be referred to as playing tennis.
+6. The premise describes an activity typical of playing tennis, which is rephrased in the hypothesis.
+7. The structural rephrasing from running to hit a ball with a tennis racket to playing tennis reflects the same meaning.
+8. The description of the woman in tennis clothes performing an action with a racket corresponds directly to playing tennis.
+9. The coordination of actions like hitting a ball with a racket in the premise is syntactically aligned with the idea of playing tennis.
+10. Subordination of the premise action (running to hit a ball) under the broader activity of playing tennis maintains the entailment.

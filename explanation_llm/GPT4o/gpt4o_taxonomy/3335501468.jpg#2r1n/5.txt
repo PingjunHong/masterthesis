@@ -1,0 +1,10 @@
+1. The premise mentions a bird but does not specify it being a duck, so the hypothesis introduces the idea of a duck without supporting evidence from the premise.
+2. The premise indicates a bird is interacting with water, but it does not mention swimming or specify the location as a lake, leaving these details in the hypothesis unsupported.
+3. The premise does not mention the type of bird, so the hypothesis's mention of a duck is not confirmed or entailed by the premise.
+4. The premise describes a bird flapping its wings, which does not directly imply that the bird is swimming, as stated in the hypothesis.
+5. The premise refers to water but does not specify it as a lake, which the hypothesis assumes without evidence.
+6. The premise does not provide details regarding the bird's actions beyond flapping wings, thus the swimming activity mentioned in the hypothesis is not supported.
+7. The premise lacks any mention of a specific type of bird, such as a duck, suggesting the hypothesis introduces information not found in the premise.
+8. The premise does not describe the setting in detail, while the hypothesis assumes the setting is a lake, which is not mentioned.
+9. The premise does not indicate the presence of any duck-like behavior or characteristics, so the hypothesis's claim about a duck cannot be confirmed.
+10. The hypothesis adds the concept of swimming, which is not mentioned or implied by the premise's description of a bird flapping its wings.

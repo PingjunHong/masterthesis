@@ -1,0 +1,10 @@
+1. A large group of people walking in a busy city at night is structurally rephrased to indicate activity occurring outdoors, while People are eating lunch in a restaurant suggests an indoor setting, creating a contradiction.
+2. Walking in a busy city at night implies nighttime activity, whereas eating lunch in a restaurant implies a daytime setting, contradicting the temporal context.
+3. Walking signifies movement and outdoor presence, whereas eating lunch in a restaurant denotes sitting indoors, opposing the physical activity and location.
+4. The premise describes a nighttime scenario, structurally rephrased as an outdoor city environment, while the hypothesis suggests a daytime meal inside a restaurant, contradicting both time and place.
+5. A large group walking implies collective movement outdoors, rephrased structurally as an outdoor activity, contradicting the hypothesis of individuals seated and eating indoors.
+6. Walking in a city at night, rephrased as an outdoor activity, contrasts with eating lunch, which is rephrased as an indoor dining experience.
+7. Nighttime walking outside contradicts lunchtime eating inside, which can be structurally rephrased to reflect opposing time frames and settings.
+8. A large group of people walking implies an outdoor activity, whereas eating lunch in a restaurant implies an indoor dining activity, creating a contradiction through structural rephrasing.
+9. Nighttime city walking suggests a different temporal and spatial context compared to lunchtime restaurant dining, creating structural opposition.
+10. Walking at night in a busy city, rephrased as outdoor evening activity, contradicts the daytime indoor setting implied by eating lunch.

@@ -1,0 +1,7 @@
+1. "Female gymnasts" in the premise refers to a specific group, while "gymnasts" in the hypothesis refers to gymnasts in general.
+2. "Warm up" in the premise refers to a specific activity before a competition, whereas "get ready" in the hypothesis is a more general preparation for a competition.
+3. "Before a competition" in the premise refers to any competition, while "the biggest competition of their life" in the hypothesis refers to a specific, significant competition.
+4. The premise specifies "female gymnasts," whereas the hypothesis refers to gymnasts without specifying gender, which could include all genders.
+5. The hypothesis implies a singular significant event, "the biggest competition of their life," whereas the premise could refer to any competition routine.
+6. The reference to "their life" in the hypothesis implies a personal, subjective experience not specified or implied in the premise.
+7. The premise's action of "warming up" is a specific preparation activity, whereas the hypothesis suggests overall readiness, which may include various activities beyond warming up.

@@ -1,0 +1,14 @@
+1. "The man" in the statement refers to "a man" who is sitting in the green chair in the premise.
+2. "The construction going on" in the statement refers to "construction site next to his building" in the premise.
+3. "His building" in the premise is the location where "the man" is sitting, which implies proximity but does not confirm audibility.
+4. The reference to "the man" in both the premise and the statement establishes that they are the same individual, but the premise does not explicitly mention anything about the man's ability to hear construction.
+5. The premise's description of a construction site implies possible noise, but does not confirm whether it is audible to "the man."
+6. The spatial reference "next to his building" suggests proximity to "the man," but does not specify the construction's noise level or the man's awareness of it.
+7. "His building" in the premise is associated with "the man sitting in the green chair," but the premise lacks evidence of sound transmission from the construction site.
+8. The premise identifies "a man" and "construction," but lacks an explicit connection indicating the man's perception of construction noise.
+9. The construction site’s proximity is mentioned in the premise, but does not inherently imply the audibility of construction for "the man."
+10. The premise situates "the man" near "a construction site," but does not establish the man's sensory experience related to construction activities.
+11. The reference to "construction site next to his building" implies potential noise, but the premise does not confirm that "the man" hears it, hence the neutral label.
+12. While "the man" and "construction site" are mentioned, the premise provides no direct evidence of the man's ability to hear the construction noise.
+13. The premise and statement both refer to "the man," but do not explicitly connect "the man" with the experience of hearing construction noise.
+14. The proximity implied by "construction site next to his building" could suggest audibility, but the premise doesn't provide explicit confirmation of this for "the man."

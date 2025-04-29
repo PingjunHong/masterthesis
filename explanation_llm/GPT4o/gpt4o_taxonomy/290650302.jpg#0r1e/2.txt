@@ -1,0 +1,10 @@
+1. "In red and white" specifies the woman's clothing but does not change the meaning that she is a woman.
+2. "Wearing glasses" provides additional detail about the woman but does not affect the truth of her sitting in a room.
+3. The phrase "with other people" is present in both the premise and hypothesis, ensuring consistency in the scene described.
+4. "Sits in a room" is synonymous with "is sitting in a room," indicating the same action.
+5. The presence of "a woman" in both the premise and hypothesis confirms the same subject is being referenced.
+6. The premise describes more details, but the core action of sitting remains unchanged, supporting entailment.
+7. The colors "red and white" are descriptive and do not alter the fundamental assertion of the woman's presence in the room.
+8. The use of "a woman" versus "the woman" does not change the interpretation of the subject being discussed.
+9. "Other people" in both statements ensures that the context of the social setting is maintained.
+10. "Sits" as a verb form captures the same ongoing action as "is sitting," ensuring semantic equivalence.

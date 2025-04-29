@@ -1,0 +1,5 @@
+1. A **bar** is an indoor environment, whereas a **mountain** is an outdoor environment, making the two settings mutually exclusive.
+2. Reading a paper in a **bar** is a sedentary activity, whereas climbing a **mountain** is a physically active task, creating a logical conflict.
+3. The presence of green lighting in a **bar** suggests a specific ambiance or setting inconsistent with the natural environment of a **mountain**.
+4. The act of reading a paper requires stillness and focus, which is incompatible with the physical exertion and movement required to climb a **mountain**.
+5. The statement mentions the man being in a **bar**, but climbing a **mountain** implies he is not in the **bar**, making the locations contradictory.

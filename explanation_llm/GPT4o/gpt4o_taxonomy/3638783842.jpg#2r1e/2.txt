@@ -1,0 +1,10 @@
+1. "Older women" is a more specific description of "women."
+2. "Formally dressed" provides additional detail about the appearance but does not negate the fact that they are "women."
+3. "Two" in both the premise and hypothesis indicates the same number of women.
+4. "Bald older women" includes the characteristic "bald," which matches the descriptor "bald women."
+5. "Bald" is an attribute that does not affect the truth of the women being counted as "women."
+6. "Formally dressed" does not alter the fundamental identification of the subjects as "women."
+7. "Older" specifies an age-related characteristic but still refers to "women."
+8. "Older women" implies women who are "older" but still retains the base noun "women."
+9. "Bald" is a trait that describes the women but does not exclude them from being classified as "women."
+10. "Formally dressed" does not change the assertion that the subjects are "women."

@@ -1,0 +1,5 @@
+- The highlighted word "operating" in the content corresponds to the highlighted word "using" in the statement; both imply the action of handling or working with the video camera.
+- The highlighted word "video" in the content aligns with the highlighted word "video" in the statement, indicating that the camera being used is specifically for video recording.
+- The highlighted word "camera" in the content matches the highlighted word "camera" in the statement, confirming that the object being used is a camera.
+- The highlighted word "adult" in the statement is supported by the presence of "five adults" in front of the boy, with one of them operating the video camera, thus there is at least one adult using the video camera.
+- The statement is a more general description focusing on one specific action depicted in the content, which is an adult operating the video camera.

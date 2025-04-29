@@ -1,0 +1,8 @@
+1. The premise mentions people seated at long tables, some writing and some watching, but does not specify a family reunion or relatives, which the hypothesis introduces as additional context.
+2. The premise describes people seated at long tables facing the same direction, focusing on the action of writing and watching, whereas the hypothesis adds the specific scenario of a family reunion, which is not structurally necessary from the premise.
+3. The structural arrangement in the premise involves descriptions of people and their actions, while the hypothesis adds a relational context (family reunion), which is a rephrased narrative not directly inferred from the premise.
+4. Both statements discuss people seated at tables, but the hypothesis introduces a specific event (family reunion) that is not syntactically implied by the premise's description of activities (writing, watching).
+5. The premise lists activities like writing and watching without implying familial relationships, whereas the hypothesis rephrases this setup to include an event context of a family reunion.
+6. The hypothesis suggests a specific social context (family reunion) by rephrasing the broader scene in the premise, which only details seating and actions without such specific relational inferences.
+7. The premise's structure describes a general scene of people writing and watching, while the hypothesis rephrases it into a more specific familial gathering, which is neutral because the premise does not structurally suggest that context.
+8. The hypothesis rephrases the scene by adding the concept of a family reunion and relatives, which is not a syntactic alternation of the premise's description of people writing and watching.

@@ -1,0 +1,3 @@
+- **"boy"** contradicts **"girl"**, as they refer to different genders.
+- **"hits"** contradicts **"hitting"**, as the verb tense is different (past vs. present).
+- **"the ball"** contradicts **"a ball"**, as "the" implies a specific ball, while "a" implies any ball.

@@ -1,0 +1,6 @@
+1. The term "**boy**" is present in both the content and the statement, establishing a match in subject reference.
+2. The "**road**" mentioned in the content corresponds to "**a road**" in the statement, indicating the same setting or location.
+3. The phrase "**two cows**" in the content aligns with "**two cows**" in the statement, confirming the same count and type of animal.
+4. The statement simplifies the content by listing the key entities "**boy**," "**road**," and "**two cows**" without altering their essential meaning.
+5. The article "**a**" before "road" in the statement generalizes the specific "road" mentioned in the content, but does not contradict its existence.
+6. The statement omits details like "riding down" and "between," but retains all referenced entities, making it a valid entailment.

@@ -1,0 +1,10 @@
+1. The premise describes a man preparing to cook, while the hypothesis assumes additional motivation of surprising his wife, which is not structurally implied.
+2. The premise focuses on the man cooking, but the hypothesis introduces the concept of a surprise, which is not a structural rephrase.
+3. The hypothesis adds the notion of intent (surprising his wife) which is not present in the structural elements of the premise.
+4. The premise mentions cooking, whereas the hypothesis adds a relational context (surprising his wife) that is not a syntactic rephrase.
+5. The action of cooking in the premise is structurally rephrased as a surprise for his wife in the hypothesis, but this rephrasing introduces new elements not present in the original structure.
+6. The structural focus on cooking in the premise does not inherently imply the surprise element introduced in the hypothesis.
+7. The premise's description of the man cooking lacks the structural context of a surprise found in the hypothesis, indicating a shift beyond mere syntactic alternation.
+8. The premise and hypothesis diverge structurally because the premise does not contain the relational aspect of a surprise present in the hypothesis.
+9. The premise structurally focuses on the act of cooking, while the hypothesis adds an inferential layer of intent not present in the original syntactic structure.
+10. The structural rephrasing is incomplete as the surprise element in the hypothesis is not directly derived from the premise's syntax.

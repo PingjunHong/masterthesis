@@ -1,0 +1,5 @@
+1. A **torch** is not the same as **a bag**.
+2. A person cannot simultaneously hold a **torch** and **a bag** in the same hand unless explicitly stated.
+3. The object being held is described as a **torch** in the content but as **a bag** in the statement, which is contradictory.
+4. The content specifies a **torch of fire**, which directly contradicts the statement claiming the object is **a bag**.
+5. A **torch** is a flaming object, unlike **a bag**, which is typically used to carry items.

@@ -1,0 +1,9 @@
+1. Running and sleeping are mutually exclusive activities.
+2. Running implies action and movement, whereas sleeping implies rest and stillness.
+3. Being together near the leaves and being on the pile of leaves are two different locations.
+4. Temporal conflict: they cannot be running and sleeping simultaneously.
+5. The position "near the leaves" contradicts the position "on the pile of leaves."
+6. If the dogs are running, they cannot be simultaneously sleeping.
+7. The state of sleeping contradicts the state of running.
+8. The dogs' activity of running does not allow for the simultaneous activity of sleeping.
+9. The dogs' location near the leaves conflicts with the location described as on the pile of leaves.

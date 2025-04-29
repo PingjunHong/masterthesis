@@ -1,0 +1,5 @@
+- The premise mentions a worker, which implies employment, contradicting the hypothesis that describes the person as unemployed.
+- The hypothesis introduces the concept of unemployment, which is not supported by the premise that identifies the individual as a worker.
+- The premise specifies a worker, indicating someone who is employed, while the hypothesis refers to an unemployed person, creating a contradiction.
+- The premise involves an individual actively engaged in work, while the hypothesis suggests the person is not employed, which lacks supporting evidence from the premise.
+- The premise does not mention anything about unemployment, yet the hypothesis claims the person is unemployed, which is not substantiated by the given information.

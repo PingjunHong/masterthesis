@@ -1,0 +1,7 @@
+1. The boy is upset is a structural rephrasing of the opposite sentiment conveyed by a boy in a red hooded top is smiling whilst looking away from his reflection.
+2. Smiling whilst looking away from his reflection suggests happiness, which contradicts the statement The boy is upset.
+3. The premise describes a boy smiling, which syntactically implies he is not upset, contradicting the statement.
+4. The action of smiling syntactically implies a positive emotional state, which directly opposes the statement that the boy is upset.
+5. The phrase smiling whilst looking away implies contentment, which contradicts the statement that suggests the boy is upset.
+6. The boy in the premise is described as smiling, which is a structural rephrasing of being happy, contradicting the statement The boy is upset.
+7. Smiling is a syntactic indicator of being happy, which structurally opposes the claim that the boy is upset.

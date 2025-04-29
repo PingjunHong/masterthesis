@@ -1,0 +1,8 @@
+1. The premise mentions an old woman in a jean jacket, which directly supports the statement that an old woman has a jean jacket.
+2. There is an old woman described as wearing a jean jacket in the premise, which confirms the information in the hypothesis.
+3. The detail about the old woman wearing a jean jacket is explicitly stated in the premise, thus supporting the hypothesis.
+4. The statement about an old woman having a jean jacket is directly aligned with the information provided in the premise.
+5. The premise provides direct evidence that an old woman is wearing a jean jacket, which entails the hypothesis.
+6. The presence of the old woman in a jean jacket in the premise confirms the truth of the hypothesis.
+7. The hypothesis is supported by the evidence in the premise that mentions an old woman in a jean jacket.
+8. The premise explicitly states that an old woman is wearing a jean jacket, validating the hypothesis.

@@ -1,0 +1,10 @@
+1. The baby's dress is described as orange and brown, which includes the color orange.
+2. The statement specifies "wearing orange," and the dress is partially orange.
+3. The baby's attire (the dress) contains orange, fulfilling the statement's condition.
+4. The presence of orange in the baby's clothing directly supports the claim.
+5. The statement is a subset of the description, as "orange" is explicitly mentioned in the content.
+6. The baby's dress is multi-colored, with orange being one of the colors, making the statement true.
+7. The content confirms the baby is dressed in orange, at least partially.
+8. The statement does not require exclusivity (e.g., "only orange"), so the presence of orange in the dress suffices.
+9. The baby's outfit includes orange, aligning with the statement's assertion.
+10. The description of the baby's attire matches the statement's claim about wearing orange.

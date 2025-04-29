@@ -1,0 +1,5 @@
+1. Library and school are distinct locations, so being on the library steps implies not being on the school steps.
+2. The structure of the statement specifies library steps, which logically excludes the possibility of school steps.
+3. Being on the library steps directly contradicts being on the school steps due to the specific mention of different places.
+4. The mention of library steps semantically excludes the possibility of school steps, as they are not the same.
+5. The text structure implies that the child cannot simultaneously be on both library and school steps.

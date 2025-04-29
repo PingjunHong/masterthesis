@@ -1,0 +1,10 @@
+1. "5000 feet" is not specified in the premise.
+2. The premise does not mention a forest, only green foliage.
+3. The height is unspecified in the premise.
+4. The premise does not quantify the distance above the foliage.
+5. "Green foliage" does not necessarily mean a forest.
+6. The premise does not specify the exact altitude of the climber.
+7. There is no temporal reference to the climb occurring at 5000 feet.
+8. The location "forest" is not mentioned in the premise.
+9. The premise describes "gray rocks" but not the height of the climb.
+10. The statement refers to a specific height, which is absent in the premise.

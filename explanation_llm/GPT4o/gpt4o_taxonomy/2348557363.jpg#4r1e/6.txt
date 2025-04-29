@@ -1,0 +1,10 @@
+1. "Library steps" implies the presence of steps, confirming the location.
+2. The term "steps" in the content matches with "steps" in the statement.
+3. Given "library steps" in the premise, the child must be on steps.
+4. Being "on the library steps" logically entails being "on the steps."
+5. The phrase "library steps" structurally includes "steps."
+6. The specificity of "library steps" confirms the generality of "steps."
+7. Presence of steps is required for "library steps," satisfying the condition for "steps."
+8. Structural location "library steps" inherently contains "steps."
+9. The premise specifies the steps at a library, which includes steps.
+10. "Library steps" denote a subset of steps, fulfilling the condition for "steps."

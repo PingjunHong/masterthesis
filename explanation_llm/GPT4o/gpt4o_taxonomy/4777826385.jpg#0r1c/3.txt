@@ -1,0 +1,7 @@
+1. The premise describes an older man leaning, while the hypothesis mentions a young man jogging, which are structurally different actions and subjects.
+2. The premise involves an older man in a stationary position, contrasting with the hypothesis, which involves a young man in motion, indicating a contradiction.
+3. The hypothesis introduces a young man and the action of jogging, neither of which are present in the premise's description of an older man leaning.
+4. The premise's focus on an older man contrasts with the hypothesis's focus on a young man, showing a contradiction in terms of age and activity.
+5. The premise describes a static scene involving an older man, whereas the hypothesis describes a dynamic scene with a young man, demonstrating a syntactic-level contradiction.
+6. The structural setup of the premise involving a pedestal and an ornate building does not align with the hypothesis, which centers on jogging and a young man.
+7. The contradiction arises as the premise describes the older man's action of leaning, syntactically opposing the hypothesis's depiction of a young man jogging.

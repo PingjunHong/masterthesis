@@ -1,0 +1,6 @@
+1. A Ford car making a right turn can be structurally rephrased as a sedan turning a corner, but the specific type of car (Ford) and direction (right) are distinct from the more general description of a sedan turning a corner, leading to neutrality.
+2. Three males walking across the street behind the car can be structurally rephrased as walkers crossing, but the number of individuals and their position relative to the car are not specified in the statement, resulting in a neutral label.
+3. The specific action of making a right turn by a Ford car can be rephrased to a sedan turning a corner, but the lack of specific direction in the statement results in neutrality.
+4. The structural rephrasing from 3 males to walkers maintains the same general meaning but loses specific details, resulting in a neutral inference.
+5. The combination of specific details about the type of car and the number of people in the premise is rephrased to more general terms in the statement, causing the meaning to be similar but not identical, leading to neutrality.
+6. Coordination of the actions in the premise (making a right turn and walking across the street) is rephrased as turning a corner and crossing in the statement, but without the specific context of direction and number, which results in a neutral label.

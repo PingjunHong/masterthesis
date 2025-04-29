@@ -1,0 +1,7 @@
+1. The sign the woman is holding states that 'Freedom is free' is structurally different from the premise, which mentions the woman holding a sign but does not specify its content.
+2. The content of the sign, 'Freedom is free,' introduces new information not present in the structural details of the premise.
+3. The statement focuses on the specific content of the sign, while the premise provides a broader context of the scene without detailing what the sign says.
+4. The premise describes the scene structurally without specifying the sign's message, making the statement neutral due to the introduction of details not covered in the premise.
+5. The structural rephrasing in the statement emphasizes the sign's content, which is absent from the syntactic construction of the premise.
+6. The hypothesis introduces a detail through syntactic specificity that is not structurally rephrased from the premise's description.
+7. The inclusion of the sign's message in the statement creates a neutral inference because it is not a syntactic alternation of any part of the premise.

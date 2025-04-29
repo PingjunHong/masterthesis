@@ -1,0 +1,10 @@
+- The phrase "The man" in the hypothesis refers to "The man in the black t-shirt" in the premise.
+- "Black shirt" in the hypothesis resolves to "black t-shirt" mentioned in the premise.
+- The entity "The man" in both the premise and hypothesis is the same individual.
+- "Black t-shirt" in the premise is equivalent to "black shirt" in the hypothesis.
+- The subject "The man" is identical in both the premise and the hypothesis, referring to the same person.
+- The term "black shirt" in the hypothesis is a reference to "black t-shirt" in the premise.
+- Both the premise and hypothesis discuss the same individual wearing a black upper garment.
+- The pronoun "The man" consistently refers to the same person across both statements.
+- The description "black shirt" in the hypothesis resolves to the "black t-shirt" in the premise.
+- The reference to "The man" matches the description given in the premise of "the man in the black t-shirt."

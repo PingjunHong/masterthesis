@@ -1,0 +1,10 @@
+1. The content explicitly mentions "a woman in red blouse is standing with small blond child," which directly matches the statement "a woman stands with a child."
+2. The statement is a simplified version of the content, omitting details like the woman's red blouse, the child's blond hair, and the folding chalkboard, but retains the core information.
+3. The presence of "a woman" and "a child" in the content confirms the entities mentioned in the statement.
+4. The action "standing" in the content aligns with "stands" in the statement, confirming the described scenario.
+5. The relationship "with" in the content (woman with child) is preserved in the statement, ensuring the same meaning.
+6. No contradictory information exists between the content and the statement; all elements in the statement are supported by the content.
+7. The statement generalizes specific details from the content (e.g., "small blond child" becomes "a child"), but this does not affect the truth of the entailment.
+8. The core proposition—that a woman and a child are standing together—is identical in both the content and the statement.
+9. The content provides sufficient evidence to infer the statement without requiring additional assumptions.
+10. The statement captures the main event (woman standing with child) from the content, disregarding incidental details.

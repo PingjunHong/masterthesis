@@ -1,0 +1,6 @@
+- The term "young" in the content directly matches the term "young" in the statement.
+- The term "adults" in the content directly matches the term "adults" in the statement.
+- The description in the content explicitly refers to "young adults," which inherently entails that the adults are young.
+- Both "young" and "adults" describe the same group of individuals in the content and statement.
+- No additional information contradicts the claim that the adults are young.
+- The phrase "young adults" semantically combines the attributes "young" and "adults," ensuring the entailment of the statement.

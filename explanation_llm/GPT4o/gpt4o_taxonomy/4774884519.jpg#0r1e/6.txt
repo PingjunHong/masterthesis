@@ -1,0 +1,10 @@
+1. The act of waiting implies being stationary on the escalator, which inherently includes riding it.
+2. Being on an escalator involves the action of riding it to move between floors.
+3. To be on an escalator, one must ride it, fulfilling the necessary condition for being transported.
+4. The presence on an escalator is structurally exclusive to the act of riding, as being on it involves riding.
+5. The spatial constraint of the escalator limits actions to riding, as one cannot be on it without riding.
+6. The temporal progression from waiting to destination implies continuous riding on the escalator.
+7. The function of an escalator exclusively involves riding, aligning with the premise of people being on it.
+8. The location conflict is resolved as being on an escalator necessitates riding within that space.
+9. The quantifier "people" in both statements matches, affirming the entailment of riding.
+10. The structural exclusivity of the escalator’s design means individuals must ride it, confirming the premise.

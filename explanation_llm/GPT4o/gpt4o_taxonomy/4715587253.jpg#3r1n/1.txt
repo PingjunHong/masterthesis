@@ -1,0 +1,6 @@
+1. The description "a goofy looking woman" in the premise does not specify the woman's hair color, whereas the hypothesis mentions "a blonde woman," leaving room for ambiguity.
+2. The premise mentions "singing on stage," but the hypothesis adds "and dancing," which is not addressed in the premise.
+3. The term "goofy looking" in the premise does not indicate hair color, and thus it is unclear if it refers to the "blonde woman" in the hypothesis.
+4. The reference to "on stage" in both statements is consistent, but the additional action of "dancing" in the hypothesis is not mentioned in the premise.
+5. The premise and hypothesis both involve a woman singing, but the coreference to "goofy looking" versus "blonde" is unresolved.
+6. "A goofy looking woman" lacks specific identifiers that connect to the "blonde woman" in the hypothesis.

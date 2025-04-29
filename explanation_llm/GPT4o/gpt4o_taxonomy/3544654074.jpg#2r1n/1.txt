@@ -1,0 +1,5 @@
+1. The couple in the statement refers to the newlywed couple in the content.
+2. "The couple" in the statement resolves to "a newlywed couple" in the content.
+3. "The couple" refers back to "a newlywed couple" mentioned in the content.
+4. The couple mentioned in the statement is the same as the newlywed couple described in the content.
+5. The reference to "the couple" in the statement is clarified as "a newlywed couple" in the content.

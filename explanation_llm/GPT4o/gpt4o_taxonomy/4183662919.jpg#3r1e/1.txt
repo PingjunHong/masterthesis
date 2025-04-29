@@ -1,0 +1,6 @@
+- "A child is playing" refers to the child who is playing with her father's boots.
+- The child mentioned in the hypothesis is the same child playing with her father's boots in the premise.
+- The action of playing in the hypothesis is the same action described in the premise, where the child plays with her father's boots.
+- The child in the hypothesis and the child in the premise are the same individual.
+- "Her father's boots" in the premise confirms the child mentioned in the hypothesis is engaged in playing.
+- The premise specifies the object of play (father's boots), while the hypothesis confirms the occurrence of playing involving the same child.

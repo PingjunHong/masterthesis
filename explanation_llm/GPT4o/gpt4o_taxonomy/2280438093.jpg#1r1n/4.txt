@@ -1,0 +1,10 @@
+1. The premise mentions singers, but does not specify that they are part of a chorus, which is typically a specific group performing together.
+2. The term "performing" in the hypothesis does not necessarily imply a chorus, as singers can perform individually or as part of various other musical arrangements.
+3. The presence of singers on stage does not logically imply they are part of a chorus, as singers can perform in various formats, such as solo acts or duets.
+4. The premise describes the number and gender of singers but lacks information about their organizational structure, such as being part of a chorus.
+5. The hypothesis assumes a specific performance setup (chorus) that is not logically deduced from the given premise, which only states the presence of singers.
+6. The premise does not indicate a group performance style associated with a chorus, like harmonized singing or uniform attire, which would support the hypothesis.
+7. The structure of the premise allows for multiple interpretations of the singers' arrangement, and does not exclusively suggest a chorus.
+8. The semantic content of "singers on a stage" encompasses multiple performance types, and the hypothesis narrows it down to one possibility not inherently supported by the premise.
+9. The premise and hypothesis both involve performance, but the hypothesis introduces an additional concept (chorus) that is not logically derived from the premise's details.
+10. The logical implications of the premise do not extend to defining the singers' performance as a chorus, leaving the hypothesis without necessary structural support.

@@ -1,0 +1,8 @@
+- If a boy hits a tennis ball, then he is hitting a ball, as a tennis ball is a type of ball.
+- The action of hitting a tennis ball inherently involves the action of hitting a ball, since a tennis ball is a specific kind of ball.
+- The premise specifies that the boy is engaging in the act of hitting, which implies that he is hitting an object classified as a ball.
+- The term "tennis ball" denotes a specific kind of ball, so hitting a tennis ball logically entails hitting a ball.
+- The structure of the premise includes the act of hitting a tennis ball, which semantically implies the act of hitting a ball.
+- The act of hitting a tennis ball encompasses the act of hitting a ball, as a tennis ball is a subset of balls.
+- The premise's mention of a tennis ball being hit on a court implies that the object of the action is a ball.
+- The lexical meaning of "tennis ball" includes it being a type of ball, making the hypothesis supported by the premise.

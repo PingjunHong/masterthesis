@@ -1,0 +1,10 @@
+1. The phrase "A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street" does not specify the age or gender of the person, while "An old lady pushing a stroller down a busy street" specifies both age and gender.
+2. The premise describes the person as "pushing a baby stroller down the street," but does not indicate that the street is busy, as stated in the hypothesis.
+3. The premise mentions "a person dressed in a dress with flowers and a stuffed bee attached to it," whereas the hypothesis simplifies this to "an old lady," changing the detail of the person's attire and identity.
+4. The phrase "an old lady pushing a stroller" implies the person is elderly, whereas the premise simply describes "a person," allowing for any age.
+5. The hypothesis states "a busy street," which adds an element of busyness not explicitly mentioned in the premise.
+6. The premise describes a "baby stroller," while the hypothesis refers to a "stroller" but does not specify that it is for a baby.
+7. The premise includes an elaborate description of the dress with flowers and a stuffed bee, which is not mirrored in the hypothesis that uses "old lady" without additional detail.
+8. The premise uses "a person" which is a general term, while the hypothesis uses "an old lady," leading to a syntactic difference in identifying the subject.
+9. The premise describes "pushing a baby stroller down the street," whereas the hypothesis uses "pushing a stroller down a busy street," indicating a structural change in describing the action and location.
+10. The premise's structure focuses on detailed attire and action, while the hypothesis provides a more generalized description, creating a syntactic alternation in the level of detail provided.

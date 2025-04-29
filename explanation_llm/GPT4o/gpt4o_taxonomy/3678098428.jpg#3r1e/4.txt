@@ -1,0 +1,5 @@
+1. If a man is wearing a red plaid hat, then he must be wearing a hat.
+2. A black tank top does not affect the fact that the man is wearing a hat.
+3. The presence of a red plaid hat logically implies the presence of a hat.
+4. Wearing any kind of hat, such as a red plaid one, ensures that the man is wearing a hat.
+5. The term "wearing a red plaid hat" includes the condition of wearing a hat.

@@ -1,0 +1,10 @@
+- People seated at long tables refers to a group of people sitting at tables.
+- People implies a group of people, resolving the reference to a group.
+- Seated at long tables resolves to sitting at tables, indicating the same action.
+- The reference to people seated is equivalent to a group of people sitting.
+- The group of people in the statement is the same as the people in the premise.
+- Tables in the premise refer to the tables mentioned in the statement.
+- Seated at tables is the same as sitting at tables, resolving the action described.
+- The reference to people all facing the same direction includes the group of people mentioned.
+- Some writing and some watching specifies activities of the group sitting at tables.
+- People seated resolves to the people sitting, indicating the same entity.

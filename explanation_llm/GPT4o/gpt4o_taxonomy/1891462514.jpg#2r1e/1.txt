@@ -1,0 +1,10 @@
+The lady refers to the woman in a white hijab.
+The statement "the lady" is a coreference to "the woman" in the premise.
+The lady digging into the ground is the same as the woman digging into the ground.
+"The lady" in the hypothesis is a pronoun referring to "the woman" in the premise.
+"The lady" is a demonstrative reference to "the woman" with a white hijab.
+The subject "the lady" and "the woman in a white hijab" refer to the same person.
+The woman in a white hijab is the lady mentioned in the hypothesis.
+The term "the lady" resolves to "the woman in a white hijab" from the premise.
+The lady is the same individual as the woman described in the premise.
+The lady digging is the woman in a white hijab mentioned earlier.

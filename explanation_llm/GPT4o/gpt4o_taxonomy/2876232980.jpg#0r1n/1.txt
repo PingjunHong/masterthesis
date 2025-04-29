@@ -1,0 +1,5 @@
+1. The blond headed child in the premise is not explicitly stated to be pretty in the hypothesis.
+2. The description "the blond headed child" in both the premise and hypothesis refers to the same child, but the attribute "pretty" introduced in the hypothesis is not mentioned in the premise.
+3. The term "blond headed child" in both the premise and hypothesis refers to the same individual, but the premise does not include a description of the child as "pretty".
+4. The reference to "a blond headed child" in both the premise and hypothesis is the same, but the additional descriptor "pretty" in the hypothesis is not supported by the premise.
+5. Both the premise and hypothesis refer to the same blond headed child, but the adjective "pretty" is added in the hypothesis without evidence from the premise.

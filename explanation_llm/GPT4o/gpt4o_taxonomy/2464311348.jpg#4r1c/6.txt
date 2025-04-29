@@ -1,0 +1,10 @@
+1. Being at a dock and sitting in a canoe are mutually exclusive locations.
+2. Preparing a fish and sitting with fishing poles are mutually exclusive actions.
+3. The action of preparing a fish conflicts with the action of sitting with fishing poles.
+4. Being at a dock indicates they are not on the water in a canoe.
+5. Preparing a fish typically occurs after fishing, not during, conflicting with sitting with fishing poles.
+6. The men cannot be simultaneously preparing a fish and engaging in the act of fishing.
+7. A dock is a fixed structure, while a canoe is mobile on water, creating a location conflict.
+8. The premise implies they are stationary on land, while the statement implies they are on water.
+9. Preparing a fish suggests completion of fishing, whereas sitting with fishing poles suggests fishing is ongoing.
+10. The act of sitting in a canoe is exclusive from the act of being at a dock.

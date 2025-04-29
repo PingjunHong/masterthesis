@@ -1,0 +1,7 @@
+1. The pedestrians in the hypothesis are the same as the pedestrians mentioned in the premise.
+2. The crowded city street in the premise refers to the busy street in the hypothesis.
+3. The busy street in the hypothesis corresponds to the crowded city street in the premise.
+4. The pedestrians in the hypothesis are referenced as the pedestrians on the crowded city street in the premise.
+5. The street mentioned in the hypothesis is the same street described as crowded in the premise.
+6. The pedestrians waiting in the hypothesis are the same group of pedestrians observed on the crowded street in the premise.
+7. The busy street in the hypothesis is the same location as the crowded city street with lots of pedestrians in the premise.

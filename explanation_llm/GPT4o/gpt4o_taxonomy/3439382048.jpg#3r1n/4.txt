@@ -1,0 +1,10 @@
+1. The premise states that the basketball player is tattooed but does not specify the content or design of the tattoos.
+2. The hypothesis introduces specific detail about the tattoo saying "mother," which is not mentioned in the premise.
+3. The premise provides no information about the player's tattoos other than the fact that they exist.
+4. Without details about the tattoo's design in the premise, the hypothesis cannot be logically inferred.
+5. The premise describes the player's action and appearance, but lacks any semantic information about the tattoos' messages.
+6. The premise's structure only supports the inference that the player has tattoos, not the specific wording or imagery of those tattoos.
+7. The logical implication of the premise is limited to the presence of tattoos without indicating their content.
+8. The player being tattooed does not logically imply any specific tattoo design or wording according to the premise.
+9. The premise and hypothesis lack sufficient semantic overlap needed to infer the specific tattoo content.
+10. The premise does not describe or imply any specific tattoo message, making the hypothesis neutral.

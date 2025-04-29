@@ -1,0 +1,5 @@
+1. The statement "They are college football players" introduces a potential specification not covered by the premise "A group of football players is standing behind a coaching official," as it does not specify the level of play.
+2. The premise describes a general scene involving football players and a coaching official, whereas the statement adds a detail about their collegiate status, which is not structurally present in the premise.
+3. The premise mentions "football players," but the statement "They are college football players" contains a syntactic alternation that includes additional information not inferred from the premise.
+4. The structure of the statement implies a subset of football players (college players), which is not explicitly or implicitly rephrased in the premise.
+5. The premise "A group of football players is standing behind a coaching official" does not syntactically alternate to the specific context of "college football players," leaving the collegiate aspect neutral.

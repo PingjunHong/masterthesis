@@ -1,0 +1,8 @@
+1. The presence of a flock of birds implies multiple birds, satisfying the condition of "some" in the statement.
+2. "Near" indicates proximity, which is consistent with the woman walking towards the birds.
+3. The flock of birds implies the existence of birds, which aligns with the statement that there were some birds.
+4. The phrase "a woman" in the statement does not conflict with "the back of a woman" in the content, ensuring gender consistency.
+5. The content does not specify any temporal conflict that would contradict the coexistence of the woman and birds.
+6. The structural logical relationship between a flock of birds and some birds is maintained, as a flock inherently includes some birds.
+7. There is no quantifier conflict because "some" is compatible with the presence of a flock.
+8. The spatial relationship is maintained as the content describes movement towards the birds, aligning with them being "near" her.

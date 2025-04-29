@@ -1,0 +1,10 @@
+1. The premise mentions an old man posing, not walking, so it does not support the claim that a man is walking by.
+2. The premise specifies that the man is posing in front of an advertisement, which suggests he is stationary, contradicting the idea of movement in the hypothesis.
+3. The action of posing implies a static position, which directly contradicts the action of walking stated in the hypothesis.
+4. The hypothesis introduces the concept of movement by walking, which is not present or implied in the premise.
+5. The premise does not mention any man walking by an advertisement, lacking evidence for the movement described in the hypothesis.
+6. There is no indication in the premise that the man is passing by the advertisement, only that he is in front of it.
+7. The hypothesis implies a transient action of walking by, while the premise only describes a static action of posing.
+8. The premise describes a specific scenario of posing, which does not align with the hypothesis's scenario of walking by.
+9. The hypothesis suggests a different situation involving movement that is not mentioned in the premise.
+10. The premise's focus on posing lacks any mention of walking, which is necessary to support the hypothesis.

@@ -1,0 +1,10 @@
+1. The statement introduces a green hat, which is not mentioned in the content.
+2. The content does not provide any information about the woman wearing a hat.
+3. The statement does not contradict the content but adds new information (the green hat).
+4. The presence of the green hat in the statement is neither supported nor contradicted by the content.
+5. The content focuses on the woman weaving, while the statement focuses on her clothing, with an additional detail.
+6. The statement and content share partial overlap (orange blouse) but diverge on other details.
+7. The content does not confirm or deny the existence of a green hat in the scenario.
+8. The statement’s additional detail (green hat) does not conflict with the content but is not implied by it.
+9. Neutrality arises because the statement neither fully aligns with nor contradicts the content.
+10. The content is silent on whether the woman is wearing anything other than the orange blouse.

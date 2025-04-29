@@ -1,0 +1,10 @@
+1. The premise mentions a blue hoodie, but does not specify whether the clothes are baggy, so the hypothesis introduces information about the style of clothing that is not supported by the premise.
+2. The premise describes a half-wall covered in graffiti, but the hypothesis generalizes it to a wall without specifying any graffiti, leading to a lack of mention of the specific wall type in the hypothesis.
+3. The premise specifies the type of garment as a hoodie, while the hypothesis vaguely refers to "baggie clothes," which may or may not include a hoodie, lacking specific mention.
+4. The premise includes the detail that the flip is done off a half-wall, but the hypothesis only mentions a wall, missing the detail about the wall being a half-wall.
+5. While the premise describes the action of doing a flip, the hypothesis introduces the idea of wearing baggie clothes, which is not mentioned or supported in the premise.
+6. The premise specifies the color of the hoodie as blue, but the hypothesis does not mention any color, leaving out specific details mentioned in the premise.
+7. The hypothesis implies a general style of clothing (baggie), whereas the premise provides a specific item (hoodie) without commenting on its fit, leaving the hypothesis with unsupported claims about clothing style.
+8. The premise mentions graffiti on the wall, but the hypothesis does not include this detail, introducing a less detailed description of the environment.
+9. The premise describes the man as young, but the hypothesis does not mention his age, which is a detail absent from the hypothesis.
+10. The hypothesis uses the term "wares," which could imply a broader range of clothing items than just a hoodie, a detail that is not specified in the premise.

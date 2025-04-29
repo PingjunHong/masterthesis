@@ -1,0 +1,10 @@
+1. The premise does not specify the gender of the person dressed in white and black; therefore, it cannot be concluded that the person is a man.
+2. The gender of the person leaping the ditch is not mentioned in the premise, so it is not supported that the leaper is a man.
+3. The premise describes a person in white and black clothing leaping, without indicating their gender, so the hypothesis introduces unsupported information by specifying "man."
+4. There is no evidence in the premise to confirm the leaping person is male; it only describes their clothing and action.
+5. The premise mentions a person in white and black winter clothing but does not provide any gender-specific details.
+6. The gender of the person dressed in white and black winter clothing is not identified in the premise, making the claim that the person is a man unsupported.
+7. The hypothesis assumes the gender of the person leaping, while the premise does not mention or imply any gender, making the hypothesis unsupported by the premise.
+8. The premise includes details about clothing colors and actions but lacks any mention of the gender of the person in white and black.
+9. The statement introduces the specific detail of the leaping person being a man, which the premise does not mention or confirm.
+10. The premise lacks any mention of the leaping person's gender, rendering the hypothesis's assertion that he is a man unsupported.

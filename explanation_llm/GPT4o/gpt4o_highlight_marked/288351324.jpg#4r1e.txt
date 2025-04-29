@@ -1,0 +1,6 @@
+1. The term "**group** of **people**" in the content implies the presence of "**people**" in the statement.
+2. The action "**dancing**" mentioned in the content is the same action described in the statement.
+3. The word "**together**" in the content reinforces that the dancing involves multiple individuals, consistent with the plural "**people**" in the statement.
+4. The content does not specify any individuals outside the group, so it aligns with the statement's generalization of "**people**" dancing.
+5. The content's description of "**people dancing together**" encompasses and includes the statement's simpler description of "**people dancing**."
+6. The content provides additional details (e.g., "**group**" and "**together**") that are not contradicted by the statement but are not required for the entailment.

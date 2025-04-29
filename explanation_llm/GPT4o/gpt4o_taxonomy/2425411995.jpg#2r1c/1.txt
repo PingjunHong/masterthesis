@@ -1,0 +1,5 @@
+- The mention of "a woman in tennis clothes" does not refer to "Pete Sampras."
+- "A woman" in the premise does not corefer with "Pete Sampras" in the statement.
+- The person referred to as "running to hit a ball with her tennis racket" is not Pete Sampras.
+- The pronoun "her" in the premise indicates the subject is female, whereas "Pete Sampras" is male.
+- The reference to "a woman" contradicts the reference to "Pete Sampras" due to gender mismatch.

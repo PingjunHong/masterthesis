@@ -1,0 +1,8 @@
+1. "Standing" and "walk off" are antonyms, as standing implies staying in place while walking off implies moving away.
+2. The word "standing" indicates the workers are stationary, while "walk off" indicates movement, creating a contradiction.
+3. "Standing on" suggests being on top of the lift, whereas "walk off" suggests leaving the lift, which are opposing actions.
+4. The premise describes a static action, while the hypothesis describes a dynamic action, which are semantically opposite.
+5. The meaning of "standing" directly contradicts "walk off," since one cannot be standing and walking away simultaneously.
+6. The premise implies presence on the lift, while the hypothesis implies absence from the lift, creating a contradiction.
+7. "Standing" involves being upright and still, whereas "walk off" involves changing location and leaving the lift.
+8. The premise suggests continuity of being on the lift, whereas the hypothesis suggests discontinuity and departure from the lift.

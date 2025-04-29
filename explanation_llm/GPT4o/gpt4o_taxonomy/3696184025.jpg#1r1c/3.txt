@@ -1,0 +1,8 @@
+1. Everyone is sitting contradicts the presence of a young girl standing on a blanket.
+2. The phrase "Everyone is sitting" structurally excludes the action of standing, which is described in the premise.
+3. Syntactically, "Everyone is sitting" negates the action of standing mentioned in the premise.
+4. The hypothesis "Everyone is sitting" rephrases a scenario where no one is standing, contradicting the premise that includes a standing individual.
+5. "Everyone is sitting" implies no one is standing, which structurally clashes with the premise showing a girl standing.
+6. The structural rephrasing of "Everyone is sitting" as a universal sitting excludes the standing action in the premise.
+7. Coordination in the statement "Everyone is sitting" aligns with an all-sitting scenario, contradicting the premise's description of standing.
+8. Subordinating "Everyone is sitting" under the assumption that no one is standing conflicts with the premise's account of a girl standing.

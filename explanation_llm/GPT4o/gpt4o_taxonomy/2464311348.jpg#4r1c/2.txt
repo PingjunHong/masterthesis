@@ -1,0 +1,10 @@
+1. The action of preparing a fish is different from sitting in a canoe.
+2. A dock and a canoe are different locations or settings.
+3. Preparing involves handling or processing, while sitting implies remaining stationary.
+4. A fishing pole is not mentioned in the premise and is not required for preparing a fish.
+5. Being on a dock is not the same as being in a canoe.
+6. The premise does not mention any fishing poles, which are central to the hypothesis.
+7. The activities described (preparing vs. sitting) involve different physical actions and contexts.
+8. The setting described in the hypothesis (canoe) contradicts the setting in the premise (dock).
+9. The premise involves an action related to fish preparation, not the action of fishing.
+10. The concept of "preparing" implies activity and engagement, unlike "sitting," which implies passivity.

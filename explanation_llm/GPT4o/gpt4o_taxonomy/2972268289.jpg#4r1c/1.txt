@@ -1,0 +1,6 @@
+- The cowboy refers to the man, and calling off his horse implies stopping the activity, whereas roping a calf successfully implies completion of the action.
+- His horse refers to the cowboy's horse, and calling it off indicates the cowboy did not finish roping the calf.
+- Calf roping refers to the action the cowboy is attempting, and calling off his horse suggests the action was interrupted or not completed.
+- The man in the statement refers to the cowboy in the premise, and the statement describes a successful action that contradicts the interruption implied by calling off his horse.
+- Calling off refers to the cessation of the cowboy's activity, which contradicts the successful roping implied in the statement.
+- His in "his horse" refers to the cowboy, and calling it off implies the cowboy stopped, which contradicts the idea of successful roping.

@@ -1,0 +1,10 @@
+1. "Worker" implies "person," satisfying the requirement that a person is atop the building.
+2. The action "peers out" implies the person's presence atop the building.
+3. "Under construction" indicates the location is a building, consistent with the person being atop it.
+4. The presence of "atop" in both the premise and hypothesis indicates structural alignment.
+5. "A building under construction" confirms the structure as a building, matching the hypothesis.
+6. The term "worker" does not conflict with "person" as a broader category.
+7. Temporal context aligns; both statements imply the present action and location.
+8. No quantifier conflict; both statements imply at least one person atop the building.
+9. Gender-neutral terms "worker" and "person" ensure no gender conflict.
+10. Location context "atop a building" aligns without conflict.

@@ -1,0 +1,7 @@
+1. "Poses" implies being stationary, while "walks by" implies movement.
+2. "An old man" specifies age, whereas "a man" lacks this specification.
+3. "In front of" indicates a position facing the advertisement, while "walks by" suggests movement past it.
+4. "With a package" suggests holding or carrying something, which is not mentioned in the hypothesis.
+5. "Poses" suggests intentionality and stillness, which contradicts the action of "walking."
+6. "An old man" indicates a specific age group, while "a man" is nonspecific and could imply any age.
+7. "Poses" suggests a static action, whereas "walks by" suggests a dynamic action.

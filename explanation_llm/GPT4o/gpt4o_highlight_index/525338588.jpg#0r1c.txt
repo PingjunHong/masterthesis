@@ -1,0 +1,3 @@
+- The highlighted word "standing" in the content contradicts the highlighted word "sitting" in the statement, as standing and sitting are mutually exclusive actions.
+- The content specifies "outside of a place," which contradicts "in the hotel lobby" from the statement, as being outside and being in a hotel lobby are mutually exclusive locations.
+- The content mentions a "building that has a sign that says 'HI-POINTE,'" which implies a specific location. In contrast, the statement refers to a generic "hotel lobby," suggesting a different setting entirely.

@@ -1,0 +1,6 @@
+- "Man" is explicitly mentioned in the premise, confirming the gender of the person behind the counter.
+- The premise directly states there is a man, implying he is the person behind the counter.
+- The use of "a man" in the premise indicates that the person is male, matching the hypothesis.
+- The description "a man" in the premise ensures that the individual behind the counter is male.
+- The premise identifies the person as a man, aligning with the statement that the person is a man.
+- The term "man" in the premise establishes the gender of the individual behind the counter.

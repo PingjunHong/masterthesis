@@ -1,0 +1,10 @@
+1. A boy cannot be preparing to kick a soccer ball and be sleeping at the same time.
+2. The actions of getting ready to kick a soccer ball and sleeping are mutually exclusive.
+3. The temporal state of being awake and active contradicts the state of being asleep.
+4. Physical activity requires consciousness, which contradicts being asleep.
+5. The location implied by preparing to kick a soccer ball cannot be the same as being at home asleep.
+6. The premise involves being outside or in a setting with a soccer ball, conflicting with being at home, asleep.
+7. Engaging in an action like kicking implies being awake, conflicting with the state of sleeping.
+8. The boy's activity level in the premise contradicts the inactivity implied by sleeping.
+9. The setting for playing soccer and being asleep at home are different, leading to a location conflict.
+10. Kicking a soccer ball involves physical movement, which contradicts the immobility of sleep.

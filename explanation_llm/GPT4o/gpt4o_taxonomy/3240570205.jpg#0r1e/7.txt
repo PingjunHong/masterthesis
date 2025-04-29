@@ -1,0 +1,8 @@
+1. The premise mentions an adult operating a video camera.
+2. A person operating a video camera is described in the premise as an adult.
+3. The premise explicitly states that one of the individuals is an adult using a video camera.
+4. The description in the premise includes an adult handling a video camera.
+5. The premise identifies one of the five adults as the one using a video camera.
+6. The statement directly matches the fact mentioned in the premise that an adult is using a video camera.
+7. The factual content of the premise includes an adult operating a video camera, confirming the statement.
+8. The premise specifies that among the five adults, one is using a video camera.

@@ -1,0 +1,8 @@
+- "Boys" in the hypothesis refers to "The boys" in the premise.
+- "Playing" in the hypothesis refers to "are playing with Legos" in the premise.
+- The reference "Boys" in the hypothesis is resolved by "The boys" mentioned in the premise.
+- The activity "playing" in the hypothesis corresponds to the action described in the premise, "playing with Legos."
+- The term "boys" in both the premise and hypothesis refers to the same group.
+- The verb "playing" in the hypothesis is resolved by the action "are playing" in the premise.
+- The hypothesis omits "Legos," but the reference to "playing" is consistent with the premise.
+- The indefinite "Boys" in the hypothesis resolves to the definite "The boys" in the premise.

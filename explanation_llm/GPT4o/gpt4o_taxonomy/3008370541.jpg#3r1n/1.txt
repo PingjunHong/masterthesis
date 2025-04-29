@@ -1,0 +1,10 @@
+The black dog with a blue collar refers to the black dog wearing a blue collar.
+The object being jumped into, "the water," is the same in both the premise and hypothesis.
+The blue collar on the dog mentioned in both the premise and hypothesis is the same object.
+The black dog mentioned in both the premise and hypothesis refers to the same dog.
+The action of entering the water is shared between the premise and hypothesis, but the reason for entering differs.
+The water mentioned in both statements is a common reference point for the action described.
+The blue collar as described in the premise is worn by the dog in the hypothesis.
+The phrase "a black dog" in both premise and hypothesis refers to the same animal despite different actions described.
+The color of the collar, blue, acts as a coreference point between the premise and hypothesis for identifying the dog.
+The water is a shared location in both premise and hypothesis, linking the actions described.

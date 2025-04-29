@@ -1,0 +1,10 @@
+1. Not all meat is old.
+2. The man could have taken fresh meat out of the bag.
+3. Meat from a bag is not always old.
+4. The description of meat does not specify its age.
+5. There is no indication in the premise about the age of the meat.
+6. Meat can be stored fresh in a bag.
+7. The term "old" is not mentioned in the premise.
+8. The bag could contain freshly purchased meat.
+9. The condition of the meat is not specified in the premise.
+10. The meat could have been recently packaged or preserved.

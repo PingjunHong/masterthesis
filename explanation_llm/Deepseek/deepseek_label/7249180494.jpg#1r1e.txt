@@ -1,0 +1,10 @@
+1. The man in the black wetsuit is a person.
+2. Walking out of the water implies a person is performing the action.
+3. The statement generalizes the specific detail (man in a black wetsuit) to a broader category (person).
+4. The action (walking out of water) is the same in both the content and the statement.
+5. The subject (man) in the content is a subset of the subject (person) in the statement.
+6. The statement captures the core action and agent from the content without additional constraints.
+7. The content provides sufficient evidence to infer the statement is true.
+8. No contradictory information exists between the content and the statement.
+9. The statement is a valid abstraction of the content.
+10. The entailment holds because the statement is a less specific version of the content.

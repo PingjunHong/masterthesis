@@ -1,0 +1,8 @@
+1. The premise mentions "island native fishermen," but does not specify their gender as men.
+2. The statement assumes the fishermen are men, but the premise does not confirm this.
+3. The statement infers the gender of the fishermen, which is not explicitly supported by the premise.
+4. The premise does not provide any evidence regarding the gender of the individuals fishing.
+5. "Island native fishermen" could include women, but this is not addressed in the premise.
+6. The premise leaves the gender of the fishermen ambiguous, yet the statement specifies them as men.
+7. The statement introduces the idea that the fishermen are men, whereas the premise simply describes them as "fishermen."
+8. The premise does not mention the gender of the fishermen, thus the statement's specification of "men" lacks support.

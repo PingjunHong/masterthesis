@@ -1,0 +1,10 @@
+1. "A couple of child relatives" could refer to any two children who appear related, not necessarily the two kids mentioned in the premise.
+2. "A couple of child relatives" does not specify which of the two kids is emotional, creating ambiguity.
+3. "They were happy to see each other" does not specify which child is emotional, leaving open the possibility that the emotional child is not happy.
+4. The phrase "because they were happy to see each other" introduces a reason for the hugging that is not confirmed by the premise.
+5. The premise mentions one child looking emotional, while the statement assumes both are happy, which is not resolved by coreference.
+6. "Child relatives" could mean they are related in different ways, which is not clarified by the premise.
+7. "They were happy to see each other" implies mutual emotion, but the premise only describes one child as emotional.
+8. The premise does not confirm that the emotional child is happy, creating a gap in coreference for "happy."
+9. "Hugging because they were happy to see each other" suggests motivation, which is not addressed by the premise.
+10. "A couple of child relatives" doesn't resolve to the specific two kids mentioned, leaving their relationship ambiguous.

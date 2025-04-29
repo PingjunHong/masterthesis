@@ -1,0 +1,7 @@
+1. "A doctor" in the statement does not specify if it is the blond-haired doctor or the African American assistant, so it's unclear who is studying.
+2. The term "studying" in the statement could be referring to either the doctor or the assistant, but the premise does not clarify this.
+3. "Her African American assistant" in the premise could imply both individuals are studying, but the statement only mentions "a doctor," leaving ambiguity.
+4. The statement uses "a doctor" without specifying "the blond-haired doctor," leading to uncertainty about who is involved in studying.
+5. The premise involves "a blond-haired doctor and her assistant," but the statement's use of "a doctor" does not resolve which individual is studying.
+6. The premise allows for both individuals to be engaged with the manuals, but the statement's reference to "a doctor" does not clarify if it excludes the assistant from studying.
+7. The coreference of "a doctor" in the statement lacks clear resolution because the premise involves two people interacting with the manuals.

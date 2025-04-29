@@ -1,0 +1,5 @@
+1. "Two men" in the premise and "Two sad men" in the hypothesis refer to the same individuals, but the hypothesis introduces an emotion not mentioned in the premise.
+2. Both "men" in the premise and "men" in the hypothesis refer to the same people, with the additional descriptor "sad" in the hypothesis not being confirmed or denied by the premise.
+3. "Climbing on a wooden scaffold" from the premise and hypothesis refers to the same action and context, but the hypothesis includes the emotional state "sad," which is not addressed in the premise.
+4. The mention of "wooden scaffold" in both the premise and hypothesis is coreferential, with the hypothesis adding the emotion "sad," which is not resolved by the premise.
+5. The reference to "Two men" in both statements is consistent, while the hypothesis adds the descriptor "sad," which is not linked to any specific information in the premise.

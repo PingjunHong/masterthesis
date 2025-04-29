@@ -1,0 +1,10 @@
+1. The content describes a "bearded man," which is a human, performing the action of "jumping."
+2. The statement "A human jumping" is a general description that matches the specific instance of the bearded man jumping in the content.
+3. The action of jumping is explicitly mentioned in the content, confirming the statement.
+4. The statement does not specify additional details (e.g., location, appearance), so the content's more detailed description still entails the simpler statement.
+5. The presence of other elements (e.g., snow, ocean, bike) does not contradict the core claim that a human is jumping.
+6. The statement is a subset of the information provided in the content, making it a valid entailment.
+7. No conflicting information in the content negates the statement.
+8. The term "human" encompasses "bearded man," ensuring semantic alignment.
+9. The action described in the statement is directly observable in the content.
+10. The statement is a factual extraction of part of the content's information.

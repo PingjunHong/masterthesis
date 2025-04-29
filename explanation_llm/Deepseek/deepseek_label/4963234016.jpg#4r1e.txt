@@ -1,0 +1,10 @@
+1. The statement "A woman is working" is a general assertion that aligns with the specific detail "A woman working long hours," which implies she is indeed working.
+2. "Working long hours" inherently includes the action of working, making the statement a direct subset of the content.
+3. The content provides a more detailed scenario (long hours) that does not contradict the simpler claim in the statement (working).
+4. The statement captures the core action (working) from the content, disregarding additional details (long hours), which do not negate it.
+5. If a woman is working long hours, it logically follows that she is engaged in work, satisfying the statement.
+6. The content’s specificity ("long hours") does not invalidate the broader, more general statement ("is working").
+7. The statement is entailed because the content’s scenario (working long hours) cannot occur without the woman first being in a state of working.
+8. The absence of conflicting information in the content ensures the statement’s truth is preserved.
+9. The statement is a necessary condition for the content to hold—without the woman working, the scenario of long hours would not apply.
+10. The content’s additional detail ("long hours") is irrelevant to the truth value of the statement, which only requires the action of working.

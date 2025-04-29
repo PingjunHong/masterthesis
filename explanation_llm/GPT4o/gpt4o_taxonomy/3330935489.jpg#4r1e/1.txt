@@ -1,0 +1,5 @@
+The dog refers to the white dog.
+The stick refers to the large stick.
+The white dog pulling a large stick refers to the dog pulling a stick.
+The dog pulling a stick refers to the white dog pulling a large stick.
+The large stick refers to the stick.

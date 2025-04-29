@@ -1,0 +1,5 @@
+1. "3" in the content implies there is a specific number of ladies, which satisfies the statement that "there are ladies," as "3" is a subset of "some" or "any."
+2. The word "ladies" is explicitly mentioned in both the content and the statement, ensuring consistency regarding the subject.
+3. The action "running" is explicitly described in both the content and the statement, indicating that the activity is the same.
+4. The presence of "numbers on their shirts" in the content provides additional detail but does not contradict the statement, as the statement does not specify this detail.
+5. The phrase "There are" in the statement is a broad existential claim that is supported by the content's description of the activity involving "ladies."

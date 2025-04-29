@@ -1,0 +1,8 @@
+- "A girl" in the statement refers to "a boy" in the content.
+- "Leaning against the wall" in the statement contradicts "holding onto the wall" in the content.
+- "Wall of an old brick house's raised foundation" in the content is the same wall referenced in the statement, but the actions described are contradictory.
+- The pronoun "a girl" in the statement incorrectly resolves to "a boy" in the content.
+- The reference to "the wall" in both the content and the statement suggests the same location, but the subject's gender differs.
+- The use of "holding onto" versus "leaning against" indicates different actions by different subjects.
+- The reference of "an old brick house's raised foundation" in both content and statement implies the same setting, but the subject's gender and action are contradictory.
+- The demonstrative "the wall" in the statement refers to the same wall in the content, with contrasting subjects and actions.

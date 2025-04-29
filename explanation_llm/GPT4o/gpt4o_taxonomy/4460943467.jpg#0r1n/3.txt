@@ -1,0 +1,10 @@
+1. Three hood wearing people pose for a picture is a rephrase of 3 young men in hoods standing in the middle of a quiet street facing the camera.
+2. Standing in the middle of a quiet street facing the camera can be rephrased as pose for a picture.
+3. Three hood wearing people is a syntactic alternation of 3 young men in hoods.
+4. 3 young men in hoods can be rephrased as three hood wearing people.
+5. The concept of posing for a picture is structurally similar to facing the camera.
+6. The phrase in the middle of a quiet street can imply the action of posing for a picture when facing the camera.
+7. Facing the camera suggests a similar meaning to the idea of posing for a picture.
+8. The description of the individuals as hood wearing in the statement matches the premise's young men in hoods.
+9. Quiet street implies a setting suitable for posing for a picture, correlating with facing the camera.
+10. The action described in the premise, standing, can be rephrased as pose in the hypothesis.

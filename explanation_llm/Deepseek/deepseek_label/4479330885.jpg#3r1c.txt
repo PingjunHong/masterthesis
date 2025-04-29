@@ -1,0 +1,10 @@
+1. The content mentions a statue, not an auditorium.
+2. The setting in the content is outdoors (in front of a statue), while the statement describes an indoor location (auditorium).
+3. The statement incorrectly identifies the location as an auditorium, which contradicts the actual setting.
+4. The content does not mention any auditorium-related context.
+5. The statement misrepresents the scene by changing the environment.
+6. The presence of a statue in the content directly conflicts with the auditorium claim.
+7. The statement introduces an unrelated setting not supported by the content.
+8. The content specifies a public or outdoor space, while the statement implies a confined indoor space.
+9. The two scenarios (statue vs. auditorium) cannot coexist based on the given information.
+10. The statement inaccurately describes the context provided in the content.

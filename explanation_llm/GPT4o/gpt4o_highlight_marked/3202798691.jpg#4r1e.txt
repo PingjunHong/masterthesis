@@ -1,0 +1,5 @@
+1. "Riding" in the content and "riding" in the statement both describe the action the man is performing, indicating the same activity.
+2. "Bike" in the content and "bike" in the statement refer to the same mode of transportation being used by the man.
+3. The phrase "riding a bike" in the content directly corresponds to "bike riding" in the statement, both expressing the activity of the man.
+4. The content specifies the context of the activity (along a dirt trail), which is not contradicted by the statement, allowing for entailment.
+5. The structure "a man is riding a bike" in the content is semantically equivalent to "the man is bike riding" in the statement, as both convey the same overall action and subject.

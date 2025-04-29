@@ -1,0 +1,5 @@
+- The content states the child is on the library steps but does not specify whether the steps are inside or outside the library.
+- The statement introduces the detail that the steps are **inside** the library, which is not confirmed or contradicted by the content.
+- The content lacks information about the location of the steps relative to the library's interior, making the statement neither supported nor refuted.
+- The content uses "on the library steps," which could refer to steps inside or outside, leaving the spatial detail ambiguous.
+- The statement assumes a specific location (**inside**), which is not explicitly addressed in the content.

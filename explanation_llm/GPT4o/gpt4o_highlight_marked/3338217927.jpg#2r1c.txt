@@ -1,0 +1,4 @@
+- A **dog** and a **cat** are different animals and cannot refer to the same entity.
+- Jumping for a Frisbee and washing one's face and whiskers are entirely different actions.
+- Being in the **snow** and washing one's face are conflicting environmental contexts.
+- A **dog** cannot perform actions explicitly attributed to a **cat**.

@@ -1,0 +1,10 @@
+1. The content specifies a golden retriever as the nursing animal, not a cat.
+2. Golden retrievers and cats are different species, making the statement contradictory.
+3. The statement incorrectly substitutes a cat for the golden retriever mentioned in the content.
+4. Nursing puppies is attributed to a dog in the content, not a feline.
+5. The content explicitly describes a canine caretaker, while the statement describes a feline one.
+6. The roles of the animals are mismatched between the content and the statement.
+7. The statement introduces an unrelated animal (cat) that contradicts the content's focus (golden retriever).
+8. The action (nursing puppies) is correctly assigned to a golden retriever in the content but incorrectly assigned to a cat in the statement.
+9. The content and statement describe biologically incompatible scenarios (dogs nursing vs. cats nursing in this context).
+10. The statement contradicts the content by altering the subject performing the action.

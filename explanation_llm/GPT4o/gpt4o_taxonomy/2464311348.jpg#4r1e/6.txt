@@ -1,0 +1,8 @@
+1. Preparing a fish implies cleaning it as a necessary step.
+2. Cleaning is an essential part of preparing a fish.
+3. The process of preparing a fish includes cleaning it.
+4. To prepare a fish, one must clean it, establishing the entailment.
+5. Cleaning a fish is a component of its preparation.
+6. The action of preparing inherently includes cleaning the fish.
+7. Cleaning is a logical necessity when preparing a fish.
+8. The preparation of fish cannot occur without cleaning it first.

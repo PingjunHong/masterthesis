@@ -1,0 +1,8 @@
+1. The statement generalizes the specific action (life vest usage) to broader safety procedures.
+2. The statement does not confirm or deny the flight attendant's attire (yellow).
+3. The statement does not specify the timing (before takeoff is implied but not explicitly stated in the content).
+4. The content focuses on a single action, while the statement implies a broader set of procedures.
+5. The statement could apply to any flight attendant, not necessarily the one described in the content.
+6. The content provides a visual detail (yellow clothing) absent in the statement.
+7. The statement does not contradict the content but does not fully align with its specificity.
+8. The statement’s generality makes it neither entailed by nor in conflict with the content.

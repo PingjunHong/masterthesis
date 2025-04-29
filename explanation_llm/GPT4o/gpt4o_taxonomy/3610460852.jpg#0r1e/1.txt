@@ -1,0 +1,8 @@
+- The woman is standing refers to the blond woman in a black shirt.
+- The woman in the statement refers to the blond woman mentioned in the premise.
+- The woman in the hypothesis refers to the blond woman standing behind the counter.
+- The woman standing in the statement is the same as the blond woman in the black shirt in the premise.
+- The reference to "the woman" in the hypothesis resolves to "a blond woman in a black shirt" in the premise.
+- The woman referred to in the hypothesis is the blond woman described in the premise.
+- The phrase "the woman" in the hypothesis resolves to "a blond woman" in the premise.
+- "The woman" in the hypothesis is the blond woman who is behind the counter in the premise.

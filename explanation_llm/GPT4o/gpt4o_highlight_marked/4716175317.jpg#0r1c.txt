@@ -1,0 +1,5 @@
+1. A **street market** is an outdoor setting, while **a mall** is an indoor location, so the two environments are mutually exclusive.
+2. The **street** setting implies an open-air environment, which contradicts the **inside** description of the mall.
+3. The presence of a **statue in the background** and the urban outdoor description of the **street market** conflict with the enclosed space of **a mall**.
+4. The term **market** refers to an open trading area, which is inconsistent with the structured and enclosed nature of **a mall**.
+5. The word **inside** implies being within a building, which contradicts the outdoor setting of a **street market**.

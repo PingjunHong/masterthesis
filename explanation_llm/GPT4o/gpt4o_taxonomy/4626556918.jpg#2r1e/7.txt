@@ -1,0 +1,7 @@
+1. A young man is a type of guy.
+2. A skateboarder typically carries a skateboard.
+3. A skateboard park is a type of park.
+4. Looking at an outdoor skateboard park implies looking at a park to skateboard.
+5. The action of looking at something often suggests an intention related to it, such as skateboarding at a skateboard park.
+6. Carrying a skateboard suggests the intention to skateboard.
+7. "Waring" is a misspelling of "wearing," which does not affect the entailment.

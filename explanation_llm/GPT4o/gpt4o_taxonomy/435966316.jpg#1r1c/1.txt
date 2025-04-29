@@ -1,0 +1,7 @@
+1. The three workers in life vests and hard hats on the boat are referred to as four fishermen in the hypothesis, which is inconsistent in both number and description.
+2. The individuals described as workers with life vests and hard hats are incorrectly identified as fishermen in the hypothesis.
+3. The premise specifies three individuals, while the hypothesis refers to four, indicating a coreference error.
+4. The premise's reference to workers conflicts with the hypothesis's reference to fishermen.
+5. The life vests and hard hats mentioned in the premise do not corefer with the description of fishermen in the hypothesis.
+6. The premise describes individuals on a boat, whereas the hypothesis incorrectly states they are over the boat.
+7. The hypothesis's mention of trying to pet a shark does not resolve with any reference in the premise.

@@ -1,0 +1,6 @@
+1. The premise describes a down jacket, while the hypothesis mentions a cotton shirt; these are different types of clothing materials.
+2. The premise involves a pink comb, whereas the hypothesis refers to a green hair comb; these are different colors.
+3. The premise specifies a black man, while the hypothesis does not mention race or ethnicity.
+4. Arms spread implies a certain posture, which is not mentioned in the hypothesis.
+5. Holding a pink comb suggests an action, whereas looking at a green hair comb suggests a different action.
+6. The presence of "holding" in the premise contradicts the "looking at" in the hypothesis, indicating different interactions with the comb.

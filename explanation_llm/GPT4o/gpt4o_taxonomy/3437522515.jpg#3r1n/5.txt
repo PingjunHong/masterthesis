@@ -1,0 +1,10 @@
+- The premise mentions tending to a garden, but does not specify what activity the woman is doing, such as weeding.
+- The premise does not mention any specific gardening tasks being performed.
+- The statement introduces the specific action of weeding, which is not mentioned in the premise.
+- The premise lacks information about the gardening activities taking place.
+- The hypothesis assumes the action of weeding, which is not explicitly supported by the premise.
+- The premise does not clarify whether weeding is part of tending to the garden.
+- There is no mention in the premise that implies or supports the specific action of weeding.
+- The premise does not specify the woman's actions beyond tending to the garden.
+- The hypothesis adds details about an activity that are absent from the premise.
+- Weeding is one of many gardening activities and is not specifically mentioned in the premise.

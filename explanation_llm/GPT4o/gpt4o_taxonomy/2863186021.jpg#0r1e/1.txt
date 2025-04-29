@@ -1,0 +1,5 @@
+- A flock of birds refers to some birds near a woman.
+- The woman wearing a white jacket with blue jeans is referred to as a woman.
+- The woman walking towards the birds implies that the birds were near her.
+- The presence of a flock of birds indicates that there were some birds near the woman.
+- The description of the woman in the premise as wearing a white jacket with blue jeans matches the reference to a woman in the hypothesis.

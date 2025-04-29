@@ -1,0 +1,5 @@
+- A man refers to the man cooking with fire in like 5 pots at the same time.
+- Cooking with a lot of pots refers to cooking with fire in like 5 pots.
+- A lot of pots refers to 5 pots.
+- The man cooking refers to the man in the premise.
+- The action of cooking with a lot of pots is the same as cooking with fire in like 5 pots.

@@ -1,0 +1,7 @@
+1. "Her hand" in the premise refers to the woman mentioned.
+2. "A woman" in the hypothesis and in the premise refers to the same individual.
+3. "With a comb in her hand" specifies the action performed by the woman in the premise, which involves using her hands.
+4. The action "weaving with a comb" in the premise implies the use of hands, which is referenced in the hypothesis as "doing something with her hands."
+5. The pronoun "her" in the premise refers to the woman who is performing the action, establishing that she is using her hands.
+6. The phrase "is weaving" in the premise indicates an activity that inherently involves hand use, aligning with the hypothesis that she is doing something with her hands.
+7. The activity "weaving" in the premise involves manipulation with hands, confirming the hypothesis statement about her hands.

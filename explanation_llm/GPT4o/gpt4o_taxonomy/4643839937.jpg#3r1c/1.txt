@@ -1,0 +1,10 @@
+1. "The man in a black shirt" in the statement refers to the man in a plaid shirt in the premise.
+2. "The man" in the statement refers to "a man in a plaid shirt" in the premise, creating a contradiction regarding the shirt's color.
+3. The pronoun "the man" in the statement is resolved to "a man in a plaid shirt" in the premise, not matching the shirt description.
+4. "The man" in the hypothesis is identified as "a man in a plaid shirt" in the content, contradicting the claim about him wearing a black shirt.
+5. Coreference of "the man" links the statement to the premise's "a man in a plaid shirt," leading to a contradiction about shirt color.
+6. Resolving "the man" from the statement to "a man in a plaid shirt" in the premise shows the shirt color conflict.
+7. "The man is wearing a black shirt" implies the same man as "a man in a plaid shirt," which are contradictory descriptions.
+8. The reference to "the man" in both statement and premise points to the same individual, but the shirt colors do not match.
+9. Coreference resolution connects "the man" in the statement to "a man in a plaid shirt," contradicting the black shirt description.
+10. The description "wearing a black shirt" refers to the same person as "in a plaid shirt," creating a contradiction through coreference resolution.

@@ -1,0 +1,10 @@
+1. "A clever person" does not explicitly refer to "a young boy," making it unclear if the person in the hypothesis is the same as the boy in the premise.
+2. "Balancing" lacks specific details, and without clear reference to "on a pipe above a river," it is not conclusively about the same action.
+3. The term "clever person" does not provide enough information to determine if it refers to "the young boy in green shorts."
+4. The use of "person" in the hypothesis is too general and does not definitively match "young boy" in the premise.
+5. There is no explicit link between "clever person" and "young boy in green shorts" to confirm they refer to the same individual.
+6. The premise describes a specific scenario involving "green shorts," which is not referenced in the hypothesis.
+7. "A clever person" could refer to anyone balancing, not specifically the young boy mentioned in the premise.
+8. The hypothesis lacks details such as "pipe" and "river," which are crucial to establish a coreference with the premise.
+9. Without specific identifiers like "young" or "green shorts," "clever person" is ambiguous and does not resolve reference to the premise's subject.
+10. The description "above a river" is absent in the hypothesis, making it neutral without a clear coreference to the premise's setting.

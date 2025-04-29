@@ -1,0 +1,10 @@
+1. The act of getting ready to kick a soccer ball does not provide any indication of the boy's age.
+2. Children of various ages, not just ten-year-olds, play soccer.
+3. The age of the boy is not mentioned in the premise; it is an additional assumption.
+4. There is no causal relationship between preparing to kick a soccer ball and being ten years old.
+5. The premise lacks specific information about the boy's age, making the statement speculative.
+6. Boys of different ages can engage in the activity described in the premise.
+7. The premise contains no probabilistic evidence to suggest the boy is ten years old.
+8. Soccer is a common activity among children of many ages, not exclusive to ten-year-olds.
+9. The premise does not include any age-related cues or context.
+10. Being ready to kick a soccer ball is not an age-specific action.

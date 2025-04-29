@@ -1,0 +1,5 @@
+- The premise describes a woman holding a comb while weaving, but the hypothesis states she has empty hands, which contradicts the information provided.
+- The activity of weaving requires tools, such as the comb mentioned in the premise, which contradicts the notion of her hands being empty in the hypothesis.
+- The premise explicitly mentions the presence of an object (a comb) in the woman's hand, whereas the hypothesis suggests the absence of any objects, creating a contradiction.
+- The premise indicates active engagement in weaving, implying the use of the comb, contradicting the hypothesis's claim of inactivity suggested by empty hands.
+- The hypothesis introduces the idea of empty hands which is not supported by the premise, where the woman is described as holding a comb.

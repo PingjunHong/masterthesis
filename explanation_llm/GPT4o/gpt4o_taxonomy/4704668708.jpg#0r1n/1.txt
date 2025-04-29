@@ -1,0 +1,10 @@
+1. The child in the premise is described as pulling tissue paper from a box, but the hypothesis refers to a child opening a present, which does not resolve any specific reference to tissue paper or the act of pulling it.
+2. The presence of colorful tissue paper in the premise is not mentioned in the hypothesis, so the reference to what the child is doing remains unresolved between pulling tissue paper and opening a present.
+3. The premise mentions a decorated box, while the hypothesis refers to a present, leaving it unclear whether these are the same object or different, unresolved references.
+4. The premise describes the child as looking for his present, whereas the hypothesis states the child is opening a present, which doesn't resolve if the present has been found or not.
+5. The reference to the child’s birthday in the hypothesis is not mentioned in the premise, leaving the temporal context unresolved between the two.
+6. The joyfulness of the child in the premise is not explicitly connected to a birthday in the hypothesis, so the emotional context remains unresolved.
+7. The reference to "his present" in the premise is not resolved with any specific mention of a birthday in the hypothesis.
+8. The action of pulling tissue paper in the premise is not explicitly resolved with the action of opening a present in the hypothesis, suggesting different activities.
+9. The hypothesis suggests the event is happening on the child's birthday, but this reference is not resolved with any similar indication in the premise.
+10. The premise includes the act of looking for a present, whereas the hypothesis describes the act of opening it, leaving the sequence of actions unresolved.

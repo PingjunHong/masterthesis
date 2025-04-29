@@ -1,0 +1,5 @@
+The man refers to the man in the plaid shirt.
+"Looking through a telescope" refers to "looking through a telescope lens".
+The telescope in the hypothesis is the same telescope referred to in the premise.
+The subject "a man" in the hypothesis is the same person as "a man in a plaid shirt" in the premise.
+The action of looking through the telescope in the hypothesis is performed by the same man mentioned in the premise.

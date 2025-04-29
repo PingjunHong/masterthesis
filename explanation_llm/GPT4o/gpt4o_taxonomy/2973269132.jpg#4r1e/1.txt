@@ -1,0 +1,9 @@
+1. Its prey in the premise refers to the object of preying by the lioness in the hypothesis.
+2. A lioness in the hypothesis refers to the lioness mentioned in the premise.
+3. Closes in on its prey implies the act of preying by the lioness.
+4. The action of closing in on its prey indicates that the lioness is preying.
+5. The lioness mentioned in both the premise and hypothesis is the same entity.
+6. The phrase preying in the hypothesis is an abstraction of the action described in the premise.
+7. The prey mentioned in the premise is the target of the lioness's preying action in the hypothesis.
+8. The term a lioness in the hypothesis is coreferential with the lioness that is closing in on its prey in the premise.
+9. The possessive pronoun its in the premise refers to the lioness.

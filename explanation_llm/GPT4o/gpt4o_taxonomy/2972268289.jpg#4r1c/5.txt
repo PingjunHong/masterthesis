@@ -1,0 +1,9 @@
+- The premise mentions a cowboy but does not specify whether the cowboy successfully ropes the calf.
+- The premise describes a cowboy calling off his horse, which does not indicate the success of roping a calf.
+- The hypothesis introduces the idea of successful roping, which is not mentioned or supported by the premise.
+- The premise does not provide any information about the outcome of the calf roping.
+- There is no mention in the premise of the calf being roped by the cowboy.
+- The premise lacks any detail on whether the cowboy completed the roping activity.
+- The success of roping a calf is an assumption not supported by the premise.
+- The premise only describes the action of calling off the horse, not the result of the roping attempt.
+- The hypothesis introduces the outcome of success, which is absent in the premise.

@@ -1,0 +1,4 @@
+1. The content explicitly states that "A black man wearing a **red belt**" is present, confirming the existence of a man wearing a red belt.
+2. The highlighted "**martial** arts" context typically involves belts as part of the attire, supporting the idea that the red belt is worn by one of the men practicing martial arts.
+3. The description "A black man" inherently implies that the individual is male, aligning with the statement that "A man is wearing a red belt."
+4. The statement does not specify which man is wearing the belt, and the content provides sufficient information that one man is wearing a red belt, fulfilling the entailment.

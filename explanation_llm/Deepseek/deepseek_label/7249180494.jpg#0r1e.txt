@@ -1,0 +1,10 @@
+1. The professional swimmer is a person, so the statement "A person is swimming" is true.
+2. The action of surfacing and spitting water implies the swimmer was previously submerged, which requires swimming.
+3. Grabbing the hand of someone helping him back to land suggests the swimmer was in the water, engaging in swimming activity.
+4. The term "professional swimmer" inherently indicates that the person was swimming.
+5. The entire scenario describes an aquatic activity, which aligns with the definition of swimming.
+6. Surfacing from water is an action that follows swimming underwater.
+7. The context implies the swimmer was actively moving in the water before being helped out.
+8. Spitting water out is a common behavior after swimming, further supporting the entailment.
+9. The swimmer's need for assistance back to land suggests prior exertion in the water, consistent with swimming.
+10. The statement generalizes the specific instance (a professional swimmer) to the broader category (a person swimming).

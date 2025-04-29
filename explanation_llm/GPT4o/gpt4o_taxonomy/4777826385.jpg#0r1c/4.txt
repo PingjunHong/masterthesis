@@ -1,0 +1,7 @@
+1. The premise describes an older man leaning, not a young man jogging, creating a contradiction between the age and the activity described.
+2. The premise involves a stationary action (leaning) while the hypothesis involves a dynamic action (jogging), which contradicts the state of motion implied.
+3. The premise specifies the man as older, directly contradicting the hypothesis's description of the man as young.
+4. The premise describes a man leaning, which contradicts the hypothesis's depiction of a man jogging, as these actions cannot occur simultaneously.
+5. The premise mentions a man leaning against a pedestal, indicating he is not jogging, which contradicts the hypothesis describing jogging.
+6. The semantic implication of "older man" in the premise contradicts the semantic implication of "young man" in the hypothesis, as they represent different age groups.
+7. The setting described in the premise (outside of an ornate building) does not align with the activity of jogging described in the hypothesis, which suggests a contradiction in location and action.

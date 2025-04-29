@@ -1,0 +1,8 @@
+- A vehicle refers to a land rover.
+- Crossing a river refers to being driven across a river.
+- A vehicle is the same as a land rover in this context.
+- The vehicle mentioned is the land rover.
+- The action of crossing a river corresponds to the land rover being driven across it.
+- The term vehicle resolves to the land rover.
+- The river being crossed by the vehicle is the same river the land rover is being driven across.
+- In this context, a land rover is a type of vehicle.

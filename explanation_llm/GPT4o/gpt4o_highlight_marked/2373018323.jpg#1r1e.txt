@@ -1,0 +1,5 @@
+1. The word "**man**" in both the content and statement refers to the same subject, ensuring consistency in identifying the person performing the action.
+2. The action described as a "**flip**" in both the content and statement matches, indicating the same activity is being performed.
+3. The "**half-wall**" mentioned in the content is a type of "**wall**," so the statement generalizes the structure appropriately.
+4. The additional details in the content, such as "blue hoodie" and "graffiti," do not contradict the statement and are therefore unnecessary for the entailment.
+5. The statement simplifies the description in the content without altering the core meaning of the event.

@@ -1,0 +1,10 @@
+- The child refers to this child mentioned in the premise.
+- The steps refers to the library steps mentioned in the premise.
+- Both references to the child in premise and hypothesis point to the same entity.
+- The steps in the hypothesis are the same as the library steps in the premise.
+- The demonstrative "this" in the premise specifies the child, which is then referred to simply as "the child" in the hypothesis.
+- "The steps" in the hypothesis is a shortened form of "the library steps" mentioned in the premise.
+- The reference to "the child" in the hypothesis matches "this child" from the premise.
+- The phrase "on the steps" is a coreferential phrase to "on the library steps" from the premise.
+- The noun "child" in both the premise and hypothesis refers to the same individual.
+- The location described as "the steps" in the hypothesis corresponds to "the library steps" in the premise.

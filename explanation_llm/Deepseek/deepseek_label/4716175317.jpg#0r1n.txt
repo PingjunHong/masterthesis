@@ -1,0 +1,10 @@
+1. The content does not specify what the street market sells, so the statement introduces new information (fruits) that is not confirmed or contradicted.
+2. The presence of a crowd shopping does not inherently indicate what items are being sold, making the statement neither supported nor refuted.
+3. The statement assumes the market sells fruits, but the content only describes a generic street market without details about products.
+4. The background (buildings, statue) is irrelevant to whether the market sells fruits, leaving the statement unverifiable.
+5. The statement could be true, but the content provides no evidence to confirm or deny it, resulting in neutrality.
+6. The market might sell fruits among other items, but the content does not specify, making the statement neither entailed nor contradicted.
+7. The crowd’s activity (shopping) is consistent with the statement, but the merchandise remains unspecified, leading to neutrality.
+8. The statement narrows the market’s offerings to fruits, while the content describes a broader, undefined market.
+9. Without explicit mention of fruits or other goods, the statement’s specificity is ungrounded in the content.
+10. The content’s focus is on the scene (crowd, urban setting) rather than the market’s inventory, leaving the statement neutral.

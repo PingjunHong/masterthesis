@@ -1,0 +1,6 @@
+1. Wearing a straw hat is mutually exclusive with burning a straw hat.
+2. Standing outside does not involve burning items one is currently wearing.
+3. Working a steel apparatus is a different action from burning a straw hat.
+4. A straw hat that is worn cannot simultaneously be burning.
+5. The presence of straw hat implies it is intact, contradicting it being burned.
+6. If a hat is worn, it cannot be in the process of being destroyed by fire.

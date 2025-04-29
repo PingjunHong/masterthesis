@@ -1,0 +1,5 @@
+1. **"Young boys"** in the content matches **"Young boys"** in the statement.
+2. **"Kick around a soccer ball"** in the content matches **"kicking around a soccer ball"** in the statement.
+3. Additional details in the content, such as **"in green and blue jerseys"** and **"while other soccer games take place in the background"**, are not present in the statement but do not contradict it.
+4. The statement is a simplified summary of the action described in the content, focusing on the highlighted parts, which are consistent between the two.
+5. The verb **"kick"** in the content aligns with the verb **"kicking"** in the statement, preserving the meaning of the action.

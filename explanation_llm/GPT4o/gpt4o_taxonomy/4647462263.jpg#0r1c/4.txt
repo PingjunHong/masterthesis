@@ -1,0 +1,10 @@
+1. The premise describes two men involved in an action, while the hypothesis introduces a woman performing a completely unrelated activity, leading to a contradiction.
+2. The structural elements of the premise focus on an event between two men, whereas the hypothesis involves a singular action by a woman, creating a logical inconsistency.
+3. Semantic understanding of the premise is centered around a physical altercation between men, which does not align with the hypothesis about a woman applying makeup, indicating contradiction.
+4. The premise specifies gender and action details that do not match or imply those in the hypothesis, resulting in a contradiction.
+5. The premise's focus on clothing and actions of men contrasts with the hypothesis's focus on a woman's activity, demonstrating a contradiction in subjects and actions.
+6. There is no logical connection between the premise's description of violence and the hypothesis's description of cosmetic application, indicating contradiction.
+7. The identities of the individuals in the premise (men) are incompatible with the identity in the hypothesis (woman), leading to a contradiction.
+8. The premise involves a dynamic physical interaction between two men, which does not logically infer or relate to the hypothesis's static activity of a woman, causing contradiction.
+9. The semantic roles in the premise are exclusively male with an aggressive action, contrasting with the feminine and passive activity in the hypothesis, resulting in contradiction.
+10. The premise and hypothesis involve different scenarios with different participants, creating a contradiction through incompatible narrative structures.

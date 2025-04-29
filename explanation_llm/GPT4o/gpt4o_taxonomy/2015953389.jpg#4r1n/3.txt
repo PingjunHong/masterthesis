@@ -1,0 +1,10 @@
+1. Workers standing on a lift indicates they are currently on the lift.
+2. Workers walk off a lift suggests they are no longer on the lift.
+3. Standing implies remaining in one place, while walking off implies leaving.
+4. The action of standing contradicts the action of walking off.
+5. Being on a lift is incompatible with walking off a lift.
+6. Standing is a stationary action, whereas walking is a motion away from the lift.
+7. Workers cannot be both standing on and walking off a lift simultaneously.
+8. Standing denotes presence on the lift, while walking off denotes absence from the lift.
+9. The verb standing describes a static position; the verb walking off describes movement away.
+10. Standing on a lift suggests a state of being on the lift, which contradicts walking off, suggesting movement away.

@@ -1,0 +1,8 @@
+1. "There are men dancing" mistakenly refers to the women wearing dresses.
+2. The term "men" incorrectly resolves to the women mentioned in the premise.
+3. "Men" in the hypothesis is a misinterpretation of "women" in the premise.
+4. The statement "There are men dancing" incorrectly assumes the dancers are men, whereas the premise specifies they are women.
+5. The reference to "men" fails to correctly identify the dancers as "women" from the premise.
+6. The hypothesis's use of "men" does not align with the premise's mention of "women."
+7. "Men dancing" does not correctly resolve to the subject "women wearing dresses."
+8. The coreference of "men" in the hypothesis contradicts the description of "women" in the premise.

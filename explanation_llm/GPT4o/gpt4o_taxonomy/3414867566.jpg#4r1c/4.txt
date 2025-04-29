@@ -1,0 +1,6 @@
+1. The premise mentions female gymnasts warming up before a competition, which is unrelated to the practice activities of football players, creating a contradiction in subject and action.
+2. The premise involves a specific scenario of gymnasts warming up, whereas the hypothesis involves a different activity (practice) associated with a different group (football players), leading to a contradiction in the groups and activities involved.
+3. The premise is about the pre-competition preparation of gymnasts, whereas the hypothesis focuses on football players practicing, which contradicts the specific context and group mentioned.
+4. The activities described in the premise and hypothesis pertain to different sports and types of preparation, creating a contradiction in the context provided by each statement.
+5. The premise and hypothesis discuss actions by different groups (gymnasts vs. football players) that are not logically tied, hence the statements contradict each other in role and activity.
+6. The premise indicates a specific action (warming up) linked to gymnasts, while the hypothesis refers to a general action (practicing) of football players, contradicting the specificity and relevance of the subjects.

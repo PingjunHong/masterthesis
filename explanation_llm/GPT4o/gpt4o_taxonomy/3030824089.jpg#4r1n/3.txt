@@ -1,0 +1,10 @@
+1. The premise "A dog runs." does not specify the location, whereas the statement "The dog is running outside" introduces an additional detail about the location.
+2. The premise uses the indefinite article "A," suggesting any dog, while the statement specifies "The dog," implying a particular dog.
+3. The premise has a general structure indicating an action without context, whereas the statement includes syntactic information about the environment.
+4. The premise provides a simple action, "runs," without any modifiers, while the statement includes "running outside," which adds a specific context.
+5. The premise is a basic sentence structure, while the statement uses a syntactic addition by specifying "outside," altering the original structure's meaning slightly.
+6. Syntactic alternation in the premise presents a general action, and the statement adds specificity, altering the structure's focus.
+7. The premise implies a generic activity, while the statement, through subordination, implies an additional circumstantial detail not present in the premise.
+8. The premise is a straightforward verb phrase, whereas the statement incorporates syntactic coordination by combining the action with a location descriptor.
+9. The simplicity of the premise contrasts with the extended structure of the statement, which incorporates additional elements not syntactically present in the premise.
+10. The premise does not specify any circumstantial context, while the statement syntactically integrates an outside setting, creating a neutral addition.

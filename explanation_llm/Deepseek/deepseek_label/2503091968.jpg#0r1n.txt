@@ -1,0 +1,10 @@
+1. The content does not mention any person almost hitting the taxi cab.
+2. The statement introduces a new entity (the person) not present in the content.
+3. The reason for the child's screaming is unspecified in the content.
+4. The statement assumes causation (screaming at someone) not supported by the content.
+5. The content only describes the child's action (sticking head out and screaming), not the target or reason.
+6. The statement adds contextual details (near-accident) not implied by the content.
+7. The child could be screaming for any reason unrelated to another person.
+8. The content is purely observational, while the statement is interpretative.
+9. No evidence in the content links the screaming to an external event or person.
+10. The statement infers intent (screaming at someone) beyond the content's scope.

@@ -1,0 +1,6 @@
+1. Pulling a boat requires active movement, while sitting around a campfire implies being stationary.
+2. Being involved in pulling a boat and sitting around a campfire are mutually exclusive activities.
+3. The location of pulling a fish boat is typically near water, whereas a campfire is usually set up on dry land.
+4. The villagers cannot be in two places at once: near the boat and around the campfire.
+5. The action of pulling the boat suggests the villagers are working, contradicting the leisure activity of sitting by a campfire.
+6. The temporal aspect of pulling a boat during the day contrasts with the typical timing of sitting around a campfire, which often occurs at night.

@@ -1,0 +1,10 @@
+1. "Men in suits with briefcases" implies they are well dressed.
+2. "Walk in formation down the street" is equivalent to "walk down a block."
+3. "A woman holding a sign" is consistent with "one of them holding a sign."
+4. "A group of men in suits" is a subset of "well dressed people."
+5. "Led by a woman holding a sign" does not conflict with "one of them holding a sign."
+6. The premise describes people walking, which aligns with the hypothesis describing them walking down a block.
+7. The presence of men in suits implies formality, matching the description of being well dressed.
+8. The street in the premise is equivalent to the block in the hypothesis, with no spatial conflict.
+9. The premise's description of a crowd watching implies public visibility, matching the hypothesis's context of a street or block.
+10. No specific quantifier conflict as both statements imply multiple people.

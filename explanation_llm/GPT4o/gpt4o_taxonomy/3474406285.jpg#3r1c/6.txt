@@ -1,0 +1,7 @@
+1. A dog cannot be simultaneously jumping over an obstacle and in a pool.
+2. Being in a pool contradicts the action of jumping over an obstacle.
+3. The location of the dog jumping over an obstacle excludes the possibility of it being in a pool.
+4. The structural requirements for jumping over an obstacle do not align with being in a pool.
+5. A dog in a pool is not in the same location as a dog jumping over an obstacle.
+6. The two activities, jumping over an obstacle and being in a pool, are mutually exclusive in this context.
+7. The logical structure of being in a pool does not accommodate the action of jumping over an obstacle.

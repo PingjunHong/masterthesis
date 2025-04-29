@@ -1,0 +1,10 @@
+1. "The man" in both the premise and the statement refers to the same individual, but their actions are different.
+2. The person identified as "the man" in each sentence is engaged in different activities: reading in one and climbing in the other.
+3. Coreference of "the man" indicates the same subject, yet the premise and statement describe incompatible scenarios.
+4. The phrase "the man" consistently points to one individual whose actions do not align between sentences.
+5. Reference to "the man" in both contexts suggests it is the same person, but the actions described cannot both be true simultaneously.
+6. Resolving "the man" shows a single entity involved in conflicting activities: reading in one scenario and climbing in another.
+7. The reference "the man" applies to the same individual, yet the described situations (reading vs. climbing) are mutually exclusive.
+8. Identifying "the man" as the same subject highlights a contradiction in described behaviors: reading versus climbing.
+9. By resolving "the man" to a single referent, the incompatibility of reading in a bar and climbing a mountain is evident.
+10. "The man" denotes the same person, but is involved in two distinct, contradictory activities.

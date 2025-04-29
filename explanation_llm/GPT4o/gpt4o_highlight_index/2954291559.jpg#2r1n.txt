@@ -1,0 +1,4 @@
+- The gender of the worker is unspecified in the content, while the statement specifies a man, introducing uncertainty about whether the worker is indeed male.
+- The content mentions a building under construction, whereas the statement does not specify the construction status of the building, leaving room for interpretation.
+- The content describes the worker as "peering out," which implies an action or purpose, not mentioned in the statement, potentially affecting the context.
+- The statement focuses on the presence of a man atop the building, which is consistent with the content but lacks additional context or details provided by the content.

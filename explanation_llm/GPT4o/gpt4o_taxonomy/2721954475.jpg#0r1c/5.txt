@@ -1,0 +1,10 @@
+1. The premise describes people standing near and on a black square, but it does not mention anyone lying on a couch.
+2. There is no mention of a couch or anyone lying down in the premise, which only describes people standing.
+3. The premise focuses on people in an outdoor setting with a black square; there is no context provided about a couch or someone lying down.
+4. The details in the premise do not include any information about a couch or a person lying down.
+5. The scene described in the premise does not include any elements related to a couch or a reclining person.
+6. The premise lacks any indication of indoor furniture or resting individuals, which the hypothesis introduces.
+7. No information in the premise supports the idea of a person lying on a couch.
+8. The scenario presented does not entail or suggest the presence of a couch or someone lying on it.
+9. The premise observes an outdoor activity involving standing people; it does not mention indoor activities or resting positions.
+10. The hypothesis introduces a new setting with a couch that is not mentioned or implied by the premise.

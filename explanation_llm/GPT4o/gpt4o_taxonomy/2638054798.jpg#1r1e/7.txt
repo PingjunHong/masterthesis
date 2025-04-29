@@ -1,0 +1,10 @@
+1. Not all instances of people sitting are indoors.
+2. The presence of children without shirts does not imply they are indoors.
+3. Children can sit shirtless in both indoor and outdoor settings.
+4. Being shirtless does not specify the location as indoors.
+5. The act of sitting does not provide information about being indoors.
+6. The term "kids" does not necessarily mean "children" refers to the same group.
+7. "Facing each other" does not indicate an indoor setting.
+8. The absence of shirts does not provide evidence for the setting being indoors.
+9. The location of the activity is not mentioned in the premise.
+10. Sitting down is an activity that can occur both indoors and outdoors.

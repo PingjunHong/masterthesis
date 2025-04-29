@@ -1,0 +1,10 @@
+1. "Sitting" is structurally opposed to "standing" as they describe different physical postures.
+2. "Sitting in front of a building" contradicts "standing in front of a building" due to the opposing actions of sitting and standing.
+3. "A man in a black ball cap, black jacket and pants sitting" cannot be rephrased as "standing" without changing the meaning from seated to upright position.
+4. "Sitting" negates the possibility of "standing" since they are mutually exclusive actions in this context.
+5. "Sitting" implies a lower posture compared to "standing," leading to a contradiction if stated otherwise.
+6. "Sitting" and "standing" are structurally different descriptions of posture, leading to a contradiction when interchanged.
+7. The premise describes "sitting," which is structurally incompatible with the hypothesis describing "standing."
+8. "Sitting" in the premise rephrased as "standing" in the hypothesis results in a contradiction due to the physical impossibility of being both simultaneously.
+9. The structural description of "sitting" in the premise contradicts the rephrased "standing" in the hypothesis.
+10. "Standing" rephrases the action described as "sitting," leading to a contradiction due to the opposing physical states.

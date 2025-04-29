@@ -1,0 +1,6 @@
+- A boy is airborne on a bicycle is a rephrase of Boy in midair on bicycle.
+- Boy in midair on bicycle and A boy is airborne on a bicycle convey the same meaning with different wording.
+- Both sentences describe the same scenario using different syntactic structures, indicating that the boy is off the ground on a bicycle.
+- The premise uses "midair" whereas the hypothesis uses "airborne," both implying the boy is not touching the ground while on the bicycle.
+- The premise and hypothesis are structurally different but semantically equivalent, both describing the boy's position as being in the air on a bicycle.
+- The essence of the premise that the boy is in the air on a bicycle is captured in the hypothesis through a syntactic variation.

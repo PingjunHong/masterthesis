@@ -1,0 +1,10 @@
+1. "Sitting" contradicts "about to cook" because they imply different actions.
+2. "Watching TV" contradicts "in the kitchen" as cooking occurs in the kitchen, not typically in front of a TV.
+3. "Sitting" implies a state of rest, which contradicts the active nature of "about to cook."
+4. "Watching TV" suggests a leisure activity, contradicting the task-oriented activity of cooking.
+5. "Sitting" and "wearing a watch and oven mitt about to cook" imply different postures; one is seated, and the other is preparing to cook.
+6. "Man" in the hypothesis is doing an activity associated with the living room, which contradicts the kitchen setting in the premise.
+7. "About to cook" implies action and intention, while "sitting watching TV" implies passivity and lack of intention to cook.
+8. "Dark-haired man" doesn't imply any activity related to "watching TV," but the premise clearly states an intention to cook, which contradicts the hypothesis.
+9. The presence of "oven mitt" suggests an imminent cooking activity, contradicting "watching TV," which doesn't involve cooking.
+10. "Watching TV" typically requires a television, which is not indicated in the kitchen premise, suggesting a contradiction in settings.

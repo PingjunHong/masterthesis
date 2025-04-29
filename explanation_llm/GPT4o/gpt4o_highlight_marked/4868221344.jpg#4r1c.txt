@@ -1,0 +1,5 @@
+- **Sitting** and **standing** are mutually exclusive physical positions.
+- A person cannot be **sitting** and **standing** simultaneously.
+- The description of the man and woman as **sitting** directly opposes the statement that they are **standing**.
+- The highlighted actions describe fundamentally different body postures.
+- The state of being **sitting** contradicts the state of being **standing**.

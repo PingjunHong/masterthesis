@@ -1,0 +1,7 @@
+1. If two children and a woman are climbing, then a woman is climbing, and two children are climbing.
+2. If they are climbing up the stairs, then they are engaged in the act of climbing.
+3. The order of mention does not affect the participation; hence, a woman and two children climbing is the same as two children and a woman climbing.
+4. The phrase "climb up the stairs" implies that both the woman and the two children are climbing.
+5. The structure being described as a "metal electric pole-like" does not alter the action of climbing up the stairs.
+6. The mention of a "metal electric pole-like structure" is additional detail that does not negate the act of climbing up stairs.
+7. The use of "and" in both the premise and hypothesis indicates the participation of the same individuals in the activity.

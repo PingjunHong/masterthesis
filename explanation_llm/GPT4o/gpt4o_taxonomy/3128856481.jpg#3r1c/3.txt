@@ -1,0 +1,8 @@
+1. Expanding its wings in the water indicates active movement, whereas sleeps soundly, floating suggests inactivity or rest.
+2. A white duck expanding its wings implies the duck is awake and active, while the duck sleeps soundly implies the duck is asleep.
+3. Expanding its wings in the water signifies the duck is engaging in an action, while sleeping soundly, floating on top of the water suggests a lack of action.
+4. The premise describes a duck in motion with wings expanded, contrasting with the hypothesis that describes a stationary, sleeping duck.
+5. The action of expanding wings contradicts the state of sleeping soundly as described in the hypothesis.
+6. The duck expanding its wings suggests alertness, which contradicts the duck being asleep as stated in the hypothesis.
+7. The premise implies the duck is active and awake, while the hypothesis implies it is inactive and asleep.
+8. The description of expanding wings suggests the duck is performing an action, conflicting with the hypothesis that depicts the duck in a restful state.

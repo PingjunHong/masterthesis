@@ -1,0 +1,4 @@
+- The word "boy" in the premise is synonymous with "young boy" in the hypothesis.
+- Walking on a pipe over water is an outdoor activity, aligning with the term "outside" in the hypothesis.
+- The action "walks" in the premise matches the action "is walking" in the hypothesis, indicating the same activity.
+- The phrase "stretches over water" implies an outdoor environment, supporting the idea of being "outside."

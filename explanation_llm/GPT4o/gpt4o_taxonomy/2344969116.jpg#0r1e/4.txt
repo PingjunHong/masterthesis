@@ -1,0 +1,10 @@
+1. A young boy with close-cropped hair is equivalent to a small boy, as both describe a boy in terms of age and size.
+2. Holding a black kettle is equivalent to holding a kettle, as the specific color does not change the action of holding.
+3. The phrase "as someone is about to pour something in it" implies that the kettle will soon be filled.
+4. The presence of a red robe does not affect the action of holding a kettle or the anticipation of it being filled.
+5. The action "about to pour" logically leads to the kettle being filled in the near future.
+6. The description of the boy's hair and robe does not contradict the hypothesis that he is holding a kettle that will soon be filled.
+7. The action of holding implies the object is not currently in use for its intended purpose, but is ready to be filled, aligning with the hypothesis.
+8. The premise describes an immediate future event where the kettle will be filled, which aligns with the hypothesis stating the kettle will soon be filled.
+9. "Someone is about to pour something in it" pragmatically infers that the kettle is intended to be filled, reinforcing the entailment.
+10. The sequence of events logically suggests that since the boy is holding the kettle and someone is about to pour something, the kettle will soon contain a substance.

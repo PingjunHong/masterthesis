@@ -1,0 +1,3 @@
+- "Men" is a subset of "people," so if there are men climbing, there are necessarily people climbing.
+- The number of individuals is the same in both the content and the statement, with both mentioning "two."
+- Both the content and the statement describe the same action ("climbing") occurring on the same object ("a wooden scaffold").
