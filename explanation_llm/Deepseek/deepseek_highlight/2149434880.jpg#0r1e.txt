@@ -1,0 +1,10 @@
+1. The highlighted word "leaps" in the content corresponds to "leaping" in the statement, indicating the same action.
+2. The phrase "a person dressed in white and black" in the content is referred to as "the man in white and black" in the statement, assuming gender but preserving the description.
+3. The action described in the content ("leaps a narrow, water-filled ditch") is summarized as "is leaping" in the statement, maintaining the core meaning.
+4. The statement simplifies the detailed action in the content while retaining the key information about the person's movement.
+5. The present continuous tense "is leaping" in the statement aligns with the present tense "leaps" in the content, both describing an ongoing action.
+6. The subject ("a person dressed in white and black") and the action ("leaps") in the content are directly mapped to the subject ("the man in white and black") and action ("is leaping") in the statement.
+7. The statement omits contextual details (e.g., the ditch, fields, and the female) but preserves the entailment of the person's action.
+8. The highlighted word "leaping" in the statement is a paraphrase of "leaps" in the content, demonstrating lexical entailment.
+9. The core event (a person leaping) in the content is explicitly stated in the statement, ensuring logical entailment.
+10. The statement focuses on the agent ("the man") and the action ("leaping"), which are central to the content's description.

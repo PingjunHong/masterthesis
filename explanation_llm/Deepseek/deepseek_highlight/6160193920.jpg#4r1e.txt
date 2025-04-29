@@ -1,0 +1,5 @@
+1. The phrase "very big grin" (indices 11,12 in Content) strongly implies happiness, as a grin is a facial expression typically associated with joy or pleasure.
+2. The word "happy" (index 4 in Statement) is directly supported by the description of the woman's facial expression ("very big grin"), which is a clear indicator of happiness.
+3. A "grin" is a non-verbal cue for happiness, and the intensifier "very big" further emphasizes the strength of the emotion, making the entailment unambiguous.
+4. The absence of any contradictory context (e.g., sarcasm or negative surroundings) in the Content reinforces that the grin genuinely reflects the woman's happiness.
+5. The Statement generalizes the observed emotion ("very big grin") to the broader state of being "very happy," which is a logically valid inference.

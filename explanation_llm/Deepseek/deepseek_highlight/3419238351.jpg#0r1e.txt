@@ -1,0 +1,7 @@
+1. The word "adults" (index 3 in Content) refers to "People" (index 0 in Statement), as both denote human beings.
+2. The phrase "stands in the bathroom" (indices 7, 6, 5 in Content) implies being inside a room, which aligns with "are in the house" (indices 4, 3, 2 in Statement), as a bathroom is typically part of a house.
+3. The presence of multiple adults ("group of adults") supports the plural "People" in the Statement.
+4. The action of standing in a bathroom (a specific location) inherently suggests being inside a larger structure like a house.
+5. The word "bathroom" (index 5 in Content) is a subset of "house" (index 2 in Statement), as bathrooms are rooms within houses.
+6. The collective scenario (adults and a child in a bathroom) implies a domestic setting, reinforcing the idea of being in a house.
+7. The spatial context ("in the bathroom") in the Content logically entails the broader spatial context ("in the house") in the Statement.

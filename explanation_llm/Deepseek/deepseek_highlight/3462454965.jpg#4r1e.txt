@@ -1,0 +1,8 @@
+1. The word "running" in the Statement is directly supported by the word "running" in the Content, confirming the action of the dogs.
+2. The plural form "dogs" in the Content implies multiple dogs, which aligns with the number "Three" in the Statement.
+3. The action "running through a field" in the Content inherently includes the simpler action "are running" in the Statement.
+4. The absence of any contradictory information in the Content ensures that the Statement's claim about the dogs running remains valid.
+5. The word "Three" in the Statement is explicitly matched by the same word in the Content, establishing the quantity of dogs.
+6. The progressive tense "are running" in the Statement is consistent with the present participle "running" in the Content.
+7. The general activity described in the Content ("running through a field") is a specific instance of the broader activity "are running" in the Statement.
+8. The Subject-Verb agreement in both sentences (dogs + running) supports the logical consistency of the entailment.

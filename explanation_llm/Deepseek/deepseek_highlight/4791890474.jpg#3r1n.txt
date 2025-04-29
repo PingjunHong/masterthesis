@@ -1,0 +1,10 @@
+1. The original content does not specify the type of advertisement (e.g., beer), so the statement introduces new information not implied by the content.
+2. The statement narrows the advertisement to a "beer" ad, which is an unsupported assumption given the generality of the content.
+3. The content mentions an "old man," while the statement simplifies it to "a man," omitting the age detail, making the relationship neutral.
+4. The statement does not contradict the content but adds specificity (beer ad) that is neither confirmed nor denied by the original text.
+5. The highlighted words ("ad for beer") in the statement are not inferable from the content, as the content only mentions a generic "advertisement."
+6. The statement and content share a common core (a man posing in front of an ad), but the statement’s additional detail does not logically follow from the content.
+7. The content’s "package" is ignored in the statement, and the focus on the ad’s subject (beer) introduces neutrality due to lack of evidence.
+8. The statement’s specificity about the ad’s content (beer) is irrelevant to the content’s broader description, making the relationship neutral.
+9. The content’s "advertisement" could refer to any product or service, so the statement’s claim about beer is neither entailed nor contradicted.
+10. The statement’s highlighted words introduce a new attribute (beer) that is not mentioned or implied in the content, resulting in neutrality.

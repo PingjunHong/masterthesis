@@ -1,0 +1,10 @@
+1. "An old man" implies "A man" (the statement generalizes the age descriptor).
+2. "package" is not necessary for the entailment, as the core action ("poses") is preserved.
+3. "poses" in the content directly matches "poses" in the statement.
+4. "in front of" is identical in both sentences, preserving the spatial relationship.
+5. "an advertisement" is synonymous with "an ad," maintaining the same referent.
+6. The highlighted words in the statement capture the essential elements (man, poses, ad) without requiring additional details (e.g., "old," "package").
+7. The statement is a simplified version of the content, retaining only the key components needed for entailment.
+8. The action ("poses") and location ("in front of an ad") are sufficient to infer the statement from the content.
+9. Non-highlighted words in the content (e.g., "with a") do not contradict or weaken the entailment.
+10. The statement’s structure aligns with the core proposition of the content, ignoring optional modifiers.

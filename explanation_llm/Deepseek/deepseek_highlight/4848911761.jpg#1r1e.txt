@@ -1,0 +1,6 @@
+1. The highlighted word "tricks" in the Statement corresponds to the action described by "do a one-handed trick" in the Content, confirming the performance of tricks.
+2. The phrase "a person in a red jacket" in the Statement aligns with "a breakdancer in a red jacket" in the Content, establishing the subject performing the tricks.
+3. The phrase "while people watching him" in the Statement matches "A group of people watch" in the Content, confirming the presence of an audience.
+4. The Statement summarizes the key elements of the Content (tricks, performer in red jacket, spectators) without introducing contradictions, ensuring logical consistency.
+5. The action "made by" in the Statement is implied by "do a one-handed trick" in the Content, as performing a trick entails creating or executing it.
+6. The singular "person" in the Statement is consistent with "a breakdancer" in the Content, both referring to the same individual.

@@ -1,0 +1,7 @@
+1. The highlighted words "deep water" in the Statement directly match the highlighted words "deep water" in the Content, confirming the location of the kids.
+2. The Content states that the kids are "splashing in deep water," which implies they are physically present in the water, aligning with the Statement.
+3. The phrase "is splashing in" in the Content (indices 5,6,7) indicates an action occurring in the "deep water," supporting the Statement's claim about the kids' location.
+4. The word "in" in the Statement (index 3) corresponds to the spatial relationship described by "splashing in" in the Content, reinforcing the entailment.
+5. The Subject "kids" in the Statement is the same as "A group of kids" in the Content, ensuring the entities being referred to are identical.
+6. The absence of contradictory information in the Content about the kids' location in water strengthens the entailment.
+7. The action "splashing" inherently requires being in water, further validating the Statement's claim about the kids being in deep water.

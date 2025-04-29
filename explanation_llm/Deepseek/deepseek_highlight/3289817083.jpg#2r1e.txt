@@ -1,0 +1,10 @@
+1. The phrase "a man holding a baby" in the content implies "a man with a baby" in the statement, as both describe a man in possession of or accompanying a baby.
+2. The word "petting" appears in both the content and the statement, confirming the action being performed.
+3. The phrase "a pony" in the content matches "a pony" in the statement, confirming the object being petted.
+4. The subject "a man" in the content aligns with "a man" in the statement, establishing the same actor.
+5. The relationship between the man, baby, and pony is preserved: the man (with the baby) is performing the action (petting) on the pony in both sentences.
+6. The highlighted words in both sentences collectively convey the same core meaning despite slight syntactic differences (e.g., "holding" vs. "with").
+7. The statement simplifies "holding a baby" to "with a baby," but the semantic role of the baby (as being associated with the man) remains unchanged.
+8. No contradictory or conflicting information exists between the highlighted words in the content and the statement.
+9. The action ("petting") and the target ("pony") are explicitly mentioned in both, ensuring the entailment holds.
+10. The grammatical structure of the statement is a valid paraphrase of the content's meaning, preserving the entailment relationship.

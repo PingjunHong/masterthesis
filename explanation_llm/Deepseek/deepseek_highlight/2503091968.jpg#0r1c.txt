@@ -1,0 +1,7 @@
+1. The child cannot be both sticking her head out of a taxi cab and screaming **and** at home resting simultaneously.
+2. "Sticking her head out of the taxi cab and screaming" implies the child is outside and active, while "at home, resting" implies the child is indoors and inactive.
+3. The actions described in the content (screaming in a taxi) are incompatible with the state described in the statement (resting at home).
+4. The location ("taxi cab") contradicts the location ("home").
+5. The activity ("screaming") contradicts the state ("resting").
+6. The highlighted words ("taxi cab" and "home") refer to mutually exclusive locations.
+7. The highlighted words ("screaming" and "resting") describe opposing states of activity.

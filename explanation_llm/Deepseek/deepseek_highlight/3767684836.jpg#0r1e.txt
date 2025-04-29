@@ -1,0 +1,7 @@
+1. The word "karate" in the content (index 16) implies martial arts, which supports the statement's claim about martial arts involvement.
+2. The phrase "performing a karate kick" (indices 10, 16) indicates an action associated with martial arts, confirming the statement.
+3. The presence of two individuals (a man in a black shirt and a man in a red shirt) aligns with the statement's mention of "two males."
+4. The action "jumping in the air performing a karate kick" (indices 10, 16) is a martial arts maneuver, directly supporting the statement.
+5. The word "males" in the statement (index 1) is justified by the description of two men in the content.
+6. The interaction between the two men (one kicking the other) suggests a martial arts context, fulfilling the statement's claim.
+7. The highlighted words collectively depict a scenario where two men are engaged in a martial arts-related activity, entailing the statement.

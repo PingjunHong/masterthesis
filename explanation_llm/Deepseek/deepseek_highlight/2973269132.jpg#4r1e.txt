@@ -1,0 +1,6 @@
+1. The word "preying" in the statement is derived from the action described by "closes in on its prey" in the content, indicating the lioness is actively hunting.
+2. The word "lioness" in both the content and the statement establishes the same subject performing the action.
+3. The phrase "closes in on its prey" in the content implies the act of preying, which is explicitly stated in the statement.
+4. The highlighted word "prey" in the content is semantically related to "preying" in the statement, reinforcing the entailment.
+5. The action described in the content ("closes in on its prey") is a specific instance of the general concept of "preying" mentioned in the statement.
+6. The statement captures the essence of the content by summarizing the lioness's action as "preying," which is entailed by the detailed description in the content.

@@ -1,0 +1,10 @@
+1. The word "people" in the statement corresponds to "Two people" in the content, establishing a direct match.
+2. The phrase "talking on a dock" in the content implies an outdoor setting, which aligns with "outside" in the statement.
+3. The action "talking on a dock" inherently occurs in an open, external environment, supporting the idea of "outside."
+4. The word "dock" suggests a location typically situated outdoors, reinforcing the entailment of "outside."
+5. The presence of "Two people" in the content logically entails the existence of "people" in the statement.
+6. The context of the content (a dock) is an outdoor space, which justifies the statement "people outside."
+7. The highlighted words in the content ("people," "talking," "dock") collectively imply an outdoor scenario, matching the statement.
+8. The statement "people outside" is a generalized abstraction of the more specific scenario described in the content.
+9. The content provides sufficient contextual clues (e.g., dock as an outdoor location) to infer the statement as true.
+10. The semantic overlap between "Two people" and "people" and the outdoor implication of "dock" satisfies the entailment.

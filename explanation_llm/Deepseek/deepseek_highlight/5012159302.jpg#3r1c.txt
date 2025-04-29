@@ -1,0 +1,8 @@
+1. The content states the equipment is pulled by **horses**, while the statement claims it is pulled by **sheep**, which are different animals.
+2. **Two horses** in the content contradicts **sheep** in the statement, as the number and type of animals differ.
+3. The content specifies **men** are working with the equipment, while the statement does not mention them, but this does not directly cause the contradiction.
+4. The statement incorrectly replaces **horses** with **sheep**, creating a factual inconsistency.
+5. The highlighted words in the content (**horses**) and statement (**sheep**) refer to entirely different entities, making the statements mutually exclusive.
+6. The verb **pulled** is consistent, but the subject performing the action (**horses** vs. **sheep**) contradicts.
+7. The statement ignores the presence of **two horses** in the content, replacing them with an incompatible alternative (**sheep**).
+8. The type of animal performing the action is central to the meaning, and swapping **horses** for **sheep** creates a direct contradiction.

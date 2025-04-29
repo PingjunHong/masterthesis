@@ -1,0 +1,8 @@
+1. "A person in a red shirt" (Content) entails "A person in red" (Statement) because wearing a red shirt implies the person is in red.
+2. "mowing the grass" (Content) entails "cutting the grass" (Statement) because mowing is a specific way of cutting grass.
+3. "with a green riding mower" (Content) entails "on a riding mower" (Statement) because using a riding mower implies being on it.
+4. The actions and objects described in the Content (person, red, grass, riding mower) are all present in the Statement, preserving logical consistency.
+5. The omission of "shirt" (Content) in the Statement does not change the meaning, as "in red" still correctly refers to the person's attire.
+6. The omission of "green" (Content) in the Statement does not affect the entailment, as the color of the mower is irrelevant to the action.
+7. The reordering of words (e.g., "riding mower" in Content vs. "mower" in Statement) does not alter the core meaning.
+8. Both sentences describe the same core event: a person performing grass-cutting using a riding mower while wearing red.

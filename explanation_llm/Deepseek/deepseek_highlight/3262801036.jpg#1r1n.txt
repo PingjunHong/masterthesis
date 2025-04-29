@@ -1,0 +1,7 @@
+1. The word "rescuers" (index 1 in Content) implies people whose role is to save others, aligning with "people act to save" (indices 2,4 in Statement).
+2. "Six rescuers" (index 1 in Content) directly corresponds to "six people" (index 2 in Statement), establishing numerical agreement.
+3. The action of "cooperate to place an injured man" (Content) entails "act to save a seventh who is injured" (Statement), as both describe collective efforts to aid an injured person.
+4. The phrase "injured man" (Content) is semantically equivalent to "seventh who is injured" (index 4 in Statement), confirming the victim's condition.
+5. The rescue context in the Content (e.g., "rescuers," "transport device") supports the saving action described in the Statement ("act to save").
+6. The collective effort ("cooperate") in the Content implies the group action ("six people act") in the Statement.
+7. The snowy, mountainous terrain (Content) is irrelevant to the entailment, as the Statement focuses only on the rescue scenario, which is preserved.

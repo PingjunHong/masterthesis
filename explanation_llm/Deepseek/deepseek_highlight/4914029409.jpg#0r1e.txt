@@ -1,0 +1,10 @@
+1. The **"little boy"**, **"woman"**, and **"other various bike riders"** in the Content collectively form a **"group of people"** in the Statement.
+2. The phrase **"riding bikes down a street"** in the Content directly entails **"ride bikes together down a street"** in the Statement.
+3. The presence of **"other various bike riders"** in the Content supports the idea of a **"group"** in the Statement.
+4. The action **"riding bikes"** in the Content is synonymous with **"ride bikes"** in the Statement.
+5. The location **"down a street"** in the Content matches **"down a street"** in the Statement.
+6. The shared activity (**"riding bikes"**) and direction (**"down a street"**) imply the **"together"** aspect in the Statement.
+7. The **"blue bike helmet"** and **"green bike helmet"** in the Content are details about the **"group of people"** in the Statement.
+8. The plural **"bikes"** in the Content aligns with the plural **"bikes"** in the Statement.
+9. The general description in the Statement (**"group of people"**) is a summary of the specific individuals (**"boy"**, **"woman"**, **"riders"**) in the Content.
+10. The absence of contradictory information in the Content ensures the Statement is entailed.

@@ -1,0 +1,7 @@
+1. The highlighted words "group of people walking" in the Content imply that "People are walking" in the Statement.
+2. The highlighted word "city" in the Content directly matches the word "city" in the Statement.
+3. The action "walking" in the Content is preserved in the Statement as "walking," confirming the same activity.
+4. The plural "people" in the Statement is supported by the plural reference "group of people" in the Content.
+5. The general location "a city" in the Statement is entailed by the specific description "busy city" in the Content.
+6. The absence of conflicting details (e.g., negation or contradictory actions) ensures the Statement aligns with the Content.
+7. The Statement captures the core elements (people, walking, city) from the Content without introducing unsupported information.

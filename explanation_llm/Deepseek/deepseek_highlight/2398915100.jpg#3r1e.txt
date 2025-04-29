@@ -1,0 +1,8 @@
+1. The highlighted words in the Content ("Men", "sit", "bus") directly correspond to the highlighted words in the Statement ("Men", "sit", "bus"), preserving the core meaning.
+2. The Statement is a simplified version of the Content, omitting non-essential details ("wearing blue uniforms") while retaining the key elements ("Men", "sit", "bus").
+3. The presence of "Men" and "sit" in both sentences, along with the shared context of a "bus", ensures the Statement logically follows from the Content.
+4. The Statement captures the main action ("sit") and subject ("Men") from the Content, and the location ("bus") is unchanged, making the entailment valid.
+5. Removing the descriptive phrase "wearing blue uniforms" does not alter the truth of the Statement, as the remaining highlighted words still align with the Content.
+6. The Statement’s highlighted words form a subset of the Content’s highlighted words, and this subset is sufficient to establish entailment.
+7. The Content provides additional information about the men (uniforms), but the Statement’s assertion about men sitting on the bus remains true regardless.
+8. The semantic relationship between the highlighted words in both sentences is preserved, ensuring the Statement is entailed by the Content.

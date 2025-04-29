@@ -1,0 +1,8 @@
+- The content specifies "a man" while the statement refers to "a woman," creating a direct contradiction in gender.
+- The highlighted word "man" in the content conflicts with the highlighted word "woman" in the statement.
+- The subject's gender in the content and statement are mutually exclusive (male vs. female).
+- The statement incorrectly replaces the male subject in the content with a female subject.
+- The contradiction arises from the mismatch between "man" and "woman" in the same context.
+- The identity of the person holding the meat is inconsistent between the two sentences.
+- The content and statement cannot both be true simultaneously due to the gender discrepancy.
+- The statement alters a key attribute (gender) of the subject described in the content.

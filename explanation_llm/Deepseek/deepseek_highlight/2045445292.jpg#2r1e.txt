@@ -1,0 +1,8 @@
+1. The highlighted words "two," "strong," "men," and "work" in the content directly correspond to "two," "strong," "men," and "working" in the statement, preserving the core meaning.
+2. The present continuous form "are working" in the statement aligns with the action "work" in the content, indicating ongoing activity.
+3. The adjective "strong" and the noun "men" in the content are retained in the statement, maintaining the description of the subjects.
+4. The plural noun "men" and the quantifier "two" in the content are reflected in the statement, ensuring consistency in number and quantity.
+5. The action "saw a log" in the content is a specific instance of "working," making the statement a general but valid inference.
+6. The semantic roles of the subjects ("two strong men") and their action ("work"/"are working") remain unchanged, supporting entailment.
+7. The progressive aspect in the statement ("are working") is implied by the dynamic verb "work" in the content, reinforcing the temporal alignment.
+8. No contradictory or conflicting information exists between the highlighted words in the content and the statement, ensuring logical consistency.

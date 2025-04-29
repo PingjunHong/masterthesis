@@ -1,0 +1,5 @@
+1. "Library steps" and "school steps" refer to different locations, making the statements contradictory.
+2. A library and a school are distinct buildings, so their steps cannot be the same.
+3. The child cannot simultaneously be on the steps of a library and a school.
+4. The highlighted words ("library" vs. "school") specify mutually exclusive locations.
+5. The premises describe two different settings, leading to a direct contradiction in the statement.

@@ -1,0 +1,10 @@
+1. The construction mentioned in the statement is not visible or implied in the content, making the additional information in the statement neither supported nor contradicted.
+2. The content does not provide any context about construction occurring, so the statement introduces new information that cannot be verified from the content alone.
+3. The highlighted words ("as construction occurs") add a temporal or situational detail that is absent in the content, resulting in a neutral relationship since the content neither confirms nor denies it.
+4. The statement introduces an external event (construction) that is unrelated to the core description in the content, making the relationship neutral.
+5. The content focuses solely on the boy and the house's foundation, while the statement extends the scenario with an unrelated activity, leaving no basis for entailment or contradiction.
+6. The presence or absence of construction does not affect the core claim of the boy holding onto the wall, so the additional detail does not create a meaningful inference link.
+7. The statement's added context ("as construction occurs") is neither logically connected to nor conflicting with the content, resulting in neutrality.
+8. The content lacks sufficient information to determine whether construction is plausible or implausible in the scene, making the statement's extension neutral.
+9. The highlighted words in the statement introduce an independent event that does not interact with the content's description, preventing any strong inferential relationship.
+10. The statement could be true or false independently of the content, as the content does not address the construction scenario at all.

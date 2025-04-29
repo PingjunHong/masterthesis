@@ -1,0 +1,5 @@
+1. The content states the men are **standing**, while the statement says they are **sitting**.
+2. The content describes the street as **quiet**, while the statement calls it **busy**.
+3. The content mentions the men are wearing **hoods**, while the statement says they are **bareheaded**.
+4. The content specifies **3 young men**, while the statement refers to **three people** (which could include non-men or non-young individuals).
+5. The content says they are **facing the camera**, while the statement does not mention any orientation or interaction with a camera.

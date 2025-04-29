@@ -1,0 +1,7 @@
+1. The highlighted words in the Content ("boy," "road," "cows") directly correspond to the highlighted words in the Statement ("boy," "road," "cows"), confirming the presence of these entities.
+2. The Statement lists key elements from the Content ("boy," "road," "cows") without adding contradictory information, making it a valid summary.
+3. The number of cows mentioned in the Content ("two cows") matches the Statement ("two cows"), ensuring consistency.
+4. The spatial relationship ("riding down the road between two cows") in the Content implies the coexistence of the boy, road, and cows, which aligns with the Statement's assertion.
+5. The Statement captures the core entities of the Content without requiring additional context or relationships to hold true.
+6. The absence of conflicting details (e.g., no negation or alternative entities) in the Statement supports the entailment.
+7. The grammatical structure of the Statement (a list of nouns) is simpler but fully supported by the more detailed Content.

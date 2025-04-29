@@ -1,0 +1,6 @@
+1. The highlighted word "man" in the Statement corresponds to "young man" in the Content, confirming the subject.
+2. The highlighted word "spreads" in the Statement aligns with "arms spread" in the Content, indicating the same action.
+3. The highlighted word "arms" in the Statement matches "arms" in the Content, reinforcing the action.
+4. The highlighted word "standing" in the Statement is supported by "stands" in the Content, describing the same posture.
+5. The highlighted word "front" in the Statement corresponds to "front" in the Content, confirming the positional relationship.
+6. The highlighted word "railing" in the Statement matches "railing" in the Content, identifying the same object.

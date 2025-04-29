@@ -1,0 +1,5 @@
+1. The word "gliding" introduces new information (motion) not implied or contradicted by the original content, which only describes a static scene ("on a wide plain").
+2. The original content does not specify whether the snowboarder is moving or stationary, making the addition of "gliding" neither supported nor contradicted.
+3. "Gliding" is a plausible action for a snowboarder on snow, but its absence in the original content prevents entailment or contradiction.
+4. The statement adds detail ("gliding") that is consistent with but not derivable from the original content, resulting in neutrality.
+5. The original content’s lack of action-related terms ("on a wide plain") leaves the dynamic state of the snowboarder undefined, making the statement neutral.

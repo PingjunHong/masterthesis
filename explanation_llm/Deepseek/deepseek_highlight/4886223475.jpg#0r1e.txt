@@ -1,0 +1,7 @@
+1. The highlighted word "riding" in the statement directly corresponds to the action described in the content ("riding a bike"), confirming the entailment.
+2. The phrase "a man" in the content aligns with "the man" in the statement, establishing the subject's identity and supporting the entailment.
+3. The object "a bike" in the content is explicitly mentioned in the statement, reinforcing the truth of the claim.
+4. The action "riding a bike" in the content is the main focus of the statement, leaving no ambiguity about the entailment.
+5. No contradictory or additional information in the content negates the statement, ensuring the entailment holds.
+6. The context of the content (e.g., location, attire) does not conflict with the statement, allowing the entailment to remain valid.
+7. The grammatical structure of the statement is a simplified subset of the content, preserving the core meaning without distortion.

@@ -1,0 +1,5 @@
+1. "Tending to a garden" (Content) involves outdoor plant care, while "cooking dinner" (Statement) is an indoor kitchen activity—the actions are mutually exclusive.
+2. "Older woman" (Content) is gardening, not performing the unrelated action of "cooking" (Statement).
+3. Gardening (Content) requires physical presence outside, making it impossible to simultaneously "cook dinner" (Statement) indoors.
+4. The roles described ("tending" vs. "cooking") are distinct and cannot logically occur at the same time in the given context.
+5. The activities ("gardening" in Content and "cooking" in Statement) belong to entirely different domains (horticulture vs. culinary), creating a direct contradiction.

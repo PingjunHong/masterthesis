@@ -1,0 +1,7 @@
+1. **"looking up"** (Content) implies that the crowd's attention is directed upward, which aligns with **"watching"** (Statement), as both describe the crowd observing something above them.
+2. **"3 people on the edge of the roof"** (Content) matches **"3 people on the roof's edge"** (Statement), confirming the presence and location of the individuals being observed.
+3. The phrase **"a crowd of people"** (Content) corresponds to **"the crowd on the ground"** (Statement), establishing that the observers are a group at ground level.
+4. The directional cue **"up"** (Content) supports the inference that the crowd is on the ground while the 3 people are elevated (on the roof).
+5. The action **"looking"** (Content) is synonymous with **"watching"** (Statement), both indicating visual attention toward the people on the roof.
+6. The word **"edge"** appears in both sentences, reinforcing the precarious position of the 3 people, which is central to the entailment.
+7. The absence of contradictory information between the two sentences ensures logical consistency, strengthening the entailment.

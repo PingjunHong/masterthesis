@@ -1,0 +1,7 @@
+1. "Middle eastern" implies a geographic origin outside the local context, aligning with the meaning of "foreign."
+2. A "marketplace" is a type of "store" or commercial establishment, satisfying the categorical relationship.
+3. The combination of "middle eastern" (non-local) and "marketplace" (commercial space) logically entails "foreign store."
+4. The specificity of "middle eastern marketplace" is broad enough to include the general concept of a "foreign store."
+5. The term "foreign" can encompass regions like the Middle East, and "store" is a plausible synonym or hypernym for "marketplace."
+6. The semantic overlap between "marketplace" (a place of trade) and "store" (a place of retail) supports entailment when combined with the geographic descriptor.
+7. The highlighted words in both sentences ("middle eastern" and "foreign," "marketplace" and "store") share sufficiently similar meanings to justify entailment.

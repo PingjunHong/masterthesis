@@ -1,0 +1,5 @@
+1. The content describes a **down jacket**, while the statement mentions a **cotton shirt**, which are different types of clothing.
+2. The content describes the comb as **pink**, while the statement refers to it as **green**, contradicting the color.
+3. The content describes the man as **holding** the comb, while the statement implies someone else is **looking at** it, suggesting a different interaction with the object.
+4. The content does not mention anyone else observing the comb, while the statement introduces an external observer ("someone").
+5. The content focuses on the man's **arms spread**, while the statement does not describe any posture or action related to the person wearing the shirt.

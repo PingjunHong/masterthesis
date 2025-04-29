@@ -1,0 +1,7 @@
+1. The word "man" (Content index 1) is a specific instance of "person" (Statement index 1), satisfying the hypernym-hyponym relationship.
+2. The phrase "cooking" (Content index 2) implies the action of "preparing food" (Statement indices 3, 4, 5), as cooking is a subset of food preparation.
+3. The combination of "man" and "cooking" in the Content logically entails that a "person is preparing food" in the Statement, as the roles and actions align.
+4. The high flames in the Content suggest active cooking, reinforcing the idea of food preparation in the Statement.
+5. No contradictory information exists between the Content and Statement; all highlighted words support the entailment.
+6. The semantic overlap between "cooking" and "preparing some food" is sufficient to establish entailment.
+7. The agent ("man"/"person") and action ("cooking"/"preparing food") in both sentences are semantically equivalent or hierarchically related.

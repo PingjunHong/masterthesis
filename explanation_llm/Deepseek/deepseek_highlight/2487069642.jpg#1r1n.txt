@@ -1,0 +1,8 @@
+1. The statement generalizes the specific action ("life vest usage") to a broader category ("safety procedures"), which may or may not include the exact action described in the content.
+2. The content specifies the attire of the flight attendant ("dressed in yellow"), while the statement does not mention this detail, making the relationship neither entailed nor contradicted.
+3. The statement does not confirm or deny whether the demonstration occurs "before takeoff," as the content does not specify the timing of the action.
+4. The highlighted words in the statement ("safety procedures") are more general than the specific action ("life vest usage") in the content, leaving room for uncertainty about whether they refer to the same event.
+5. The content describes a single action ("demonstrates life vest usage"), while the statement could refer to multiple or different safety procedures, making the relationship neutral.
+6. The statement does not contradict the content but also does not provide enough specific information to confirm that the described action is the exact one being referenced.
+7. The absence of details like the flight attendant's attire or the exact procedure in the statement prevents a definitive entailment or contradiction with the content.
+8. The statement could be referring to a different instance of safety demonstration, not necessarily the one involving the life vest as described in the content.

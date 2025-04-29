@@ -1,0 +1,7 @@
+1. The highlighted word "child" in the statement corresponds to the highlighted word "child" in the content, establishing the subject.
+2. The highlighted phrase "in the ocean" in the statement is supported by the highlighted phrase "in chest deep ocean water" in the content, confirming the location.
+3. The word "stands" in the content implies the child is present in the ocean, reinforcing the statement's claim.
+4. The phrase "chest deep ocean water" in the content specifies the child is submerged in the ocean, which aligns with "in the ocean" in the statement.
+5. The word "wet" in the content suggests the child has been in contact with water, further supporting the idea that the child is in the ocean.
+6. The word "ocean" in the statement directly matches the highlighted word "ocean" in the content, confirming the setting.
+7. The phrase "stands in" in the content implies the child is physically present in the ocean, which satisfies the statement's assertion.

@@ -1,0 +1,5 @@
+1. The content states "young adults," while the statement claims "the adults are old," directly contradicting the age description.
+2. "Young" in the content implies the adults are not old, which conflicts with the statement's assertion that they are old.
+3. The content and statement cannot both be true about the age of the adults at the same time.
+4. The statement negates the age attribute provided in the content ("young" vs. "old").
+5. The highlighted words ("young" in content, "old" in statement) are antonyms, creating a clear contradiction.

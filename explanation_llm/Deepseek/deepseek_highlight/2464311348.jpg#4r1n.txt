@@ -1,0 +1,8 @@
+1. The statement introduces new information ("just come in from fishing all day") that is not implied or contradicted by the content.
+2. The content does not provide any temporal context ("prepare a fish") to confirm or deny whether the men "have just come in" from fishing.
+3. The activity of "preparing a fish" does not necessarily mean they "fished all day"; they could have bought or received the fish.
+4. The statement assumes a prior activity ("fishing all day") that is not mentioned or supported by the content.
+5. The content only describes the current action ("prepare a fish") and does not address the men's earlier activities.
+6. The highlighted words ("just come in") imply a recent action, but the content does not provide evidence for this timing.
+7. The duration ("all day") is not inferable from the content, which only shows a single moment of preparation.
+8. The statement makes an assumption about the source of the fish (from fishing), while the content does not specify how the fish was obtained.

@@ -1,0 +1,10 @@
+1. "Villagers" implies "people," as villagers are a subset of people.
+2. "Pulling" in the content directly matches "pulling" in the statement.
+3. "The fish boat" is a specific instance of "a boat," satisfying the general reference in the statement.
+4. The action "pulling in the fish boat" entails "pulling a boat" because the latter is a broader description of the same action.
+5. The subject-verb-object structure ("Villagers pulling [the boat]") aligns with "people pulling a boat," preserving the core meaning.
+6. The highlighted words in both sentences (villagers/people, pulling/pulling, boat/boat) share lexical or semantic overlap, supporting entailment.
+7. No contradictory information exists between the content and the statement; all elements in the statement are supported by the content.
+8. The specificity of "villagers" and "fish boat" in the content does not conflict with the generality of "people" and "a boat" in the statement.
+9. The statement abstracts away details (e.g., "villagers" → "people," "fish boat" → "boat") without altering the core action or meaning.
+10. The presence of an agent ("villagers"), action ("pulling"), and object ("boat") in both sentences ensures logical consistency for entailment.

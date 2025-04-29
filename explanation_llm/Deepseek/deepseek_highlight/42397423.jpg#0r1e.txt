@@ -1,0 +1,10 @@
+1. The "young boy" in the content is a specific instance of a "person," satisfying the general category in the statement.
+2. "Balances" in the content directly corresponds to "balancing" in the statement, indicating the same action.
+3. The highlighted words in the content ("young boy," "balances") collectively provide sufficient evidence for the statement ("A person balancing").
+4. The specificity of the content (boy, green shorts, pipe, river) does not contradict the generality of the statement (person balancing).
+5. The action described in the content ("balances on a pipe") implies the broader action of "balancing" in the statement.
+6. The subject ("young boy") and verb ("balances") in the content are the core elements needed to support the subject ("person") and verb ("balancing") in the statement.
+7. No additional context in the content negates or contradicts the statement's claim about a person balancing.
+8. The statement abstracts away details (age, clothing, location) from the content while preserving the core relationship (person + balancing).
+9. The semantic roles (agent: boy/person, action: balancing) align between the content and the statement.
+10. The content’s description of the boy’s action inherently entails that a person is performing the action of balancing.

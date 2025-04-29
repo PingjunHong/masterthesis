@@ -1,0 +1,7 @@
+1. The highlighted words in the Content ("leans against a pedestal outside of") imply that the man is leaning in an outdoor location near a building, which directly supports the Statement's claim that he "leans outside a building."
+2. The phrase "outside of an ornate building" in the Content includes the key spatial relationship ("outside") that aligns with the Statement's assertion of leaning "outside a building."
+3. The action of leaning (highlighted in both sentences) is described in a way that preserves the core meaning (location relative to a building) despite additional details in the Content.
+4. The Statement simplifies the Content by omitting details (e.g., "against a pedestal," "ornate") but retains the essential spatial entailment ("outside a building").
+5. The highlighted words in the Content ("outside of") explicitly confirm the Statement's highlighted words ("outside"), making the directional relationship unambiguous.
+6. The building's description ("ornate") in the Content does not contradict the Statement's generic reference to "a building," allowing the entailment to hold.
+7. The Statement's assertion is a subset of the information in the Content, with no conflicting details, ensuring logical consistency.

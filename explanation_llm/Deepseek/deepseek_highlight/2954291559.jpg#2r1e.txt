@@ -1,0 +1,6 @@
+1. **"worker" (Content) implies "person" (Statement):** The term "worker" refers to a human, which is a type of person, satisfying the requirement of "person" in the Statement.
+2. **"atop" (Content) matches "atop" (Statement):** The spatial relationship "atop" is identical in both sentences, confirming the position of the person/worker on the building.
+3. **"building under construction" (Content) implies "building" (Statement):** A building under construction is still a building, so the Statement's reference to "building" is entailed by the Content.
+4. **"peers out from" (Content) implies presence "atop":** The action of peering out from a location inherently means the worker is positioned there, reinforcing "atop" in the Statement.
+5. **No contradictory information:** There are no elements in the Content that contradict the Statement, ensuring logical consistency.
+6. **Hierarchical relationship:** "Worker" is a subset of "person," and "building under construction" is a subset of "building," making the Statement a generalized version of the Content.

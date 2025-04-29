@@ -1,0 +1,6 @@
+1. The original content does not specify whether the steps are inside or outside the library, leaving the location ambiguous.
+2. The statement introduces new information ("inside the library") that is not present or implied in the content, making it neither supported nor contradicted.
+3. The content only describes the child's location relative to "library steps," which could refer to steps leading to, from, or near the library, not necessarily inside it.
+4. The statement's addition of "inside" is an unverifiable detail based on the content, resulting in a neutral relationship.
+5. The content and statement describe similar but not identical spatial relationships, with the statement being more specific without evidence in the content.
+6. The highlighted word "inside" in the statement is an inference that goes beyond the information provided in the content, creating neutrality.

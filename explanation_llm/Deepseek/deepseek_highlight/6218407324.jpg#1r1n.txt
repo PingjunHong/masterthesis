@@ -1,0 +1,7 @@
+1. The content does not specify the gender of the individuals ("men and women" is an assumption not supported by the text).
+2. The content does not mention the color of the boat ("yellow" is not confirmed or implied).
+3. The statement assumes the boat is a raft ("boat" is a broader term and not explicitly confirmed as a raft).
+4. The content describes the activity as "white water rafting," but the statement does not mention this context, making the connection neutral.
+5. The number "seven" matches, but the rest of the statement introduces unsupported details, weakening the entailment.
+6. The statement could be describing a different scenario involving seven people in a yellow boat, unrelated to the content.
+7. The content focuses on the activity and gear, while the statement focuses on the boat's color and gender, creating a mismatch in focus.

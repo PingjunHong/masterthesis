@@ -1,0 +1,10 @@
+1. The word "doctor" in the statement corresponds to "doctor" in the content (index 2), establishing the subject.
+2. The phrase "looking at" in the statement aligns with "looking threw" in the content (indices 9-10), indicating the same action.
+3. The word "book" in the statement is entailed by "medical manuals" in the content (indices 11-12), as manuals are a type of book.
+4. The action of "looking at a book" is a simplified version of "looking threw new medical manuals," preserving the core meaning.
+5. The subject "doctor" and the action "looking at" are both explicitly mentioned in the content, supporting the statement's claim.
+6. The term "medical manuals" implies a book-like format, making "book" a valid generalization.
+7. The highlighted words in the statement (1, 3, 6) directly map to semantically equivalent or more specific terms in the content.
+8. The statement omits non-essential details (e.g., hair color, assistant) without contradicting the content.
+9. The core event (a doctor examining written material) is preserved in both sentences.
+10. The content provides sufficient evidence to infer the statement's truth without ambiguity.

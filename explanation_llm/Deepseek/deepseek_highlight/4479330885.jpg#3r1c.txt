@@ -1,0 +1,6 @@
+1. "younger people" (Content) implies a comparative age group, while "young people" (Statement) is a general descriptor without comparison.
+2. "sitting in front of a statue" (Content) describes a location near a statue, whereas "sitting in an auditorium" (Statement) places the people in a completely different setting.
+3. The presence of a "statue" (Content) is not mentioned or implied in the Statement, which instead references an "auditorium."
+4. The Statement's "auditorium" suggests an indoor or structured seating environment, while the Content's "in front of a statue" implies an outdoor or public space.
+5. The number of people ("several") is consistent, but the context and location are contradictory.
+6. The action ("sitting") is the same, but the surrounding details (statue vs. auditorium) create a direct contradiction in the scenario.

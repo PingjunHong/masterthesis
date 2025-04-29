@@ -1,0 +1,5 @@
+1. The highlighted words "adults" and "operating" in the Content correspond to "adult" and "using" in the Statement, indicating that one of the adults is performing the action of using a video camera.
+2. The word "operating" in the Content is synonymous with "using" in the Statement, and "adults" in the Content includes the "adult" mentioned in the Statement.
+3. The phrase "one operating a video camera" in the Content directly entails that there is "an adult using a video camera" in the Statement.
+4. The presence of "five adults" in the Content ensures that at least one of them (the one operating the camera) satisfies the condition in the Statement.
+5. The highlighted words in both sentences align semantically, confirming that the action described in the Statement is explicitly mentioned in the Content.

@@ -1,0 +1,7 @@
+1. The highlighted words in the Content ("in front of a building") directly match the Statement ("in front of a building"), confirming the spatial relationship.
+2. The Content describes the man's location relative to the building ("sitting in front of a building"), which aligns with the Statement ("The man is in front of a building").
+3. The word "building" in the Statement corresponds to the same word in the Content, reinforcing the entailment.
+4. The prepositional phrase "in front of" in both the Content and the Statement establishes the same positional context.
+5. The verb "sitting" in the Content implies the man's location is "in front of a building," which is explicitly stated in the Statement.
+6. The absence of contradictory information in the Content supports the truth of the Statement.
+7. The highlighted indices in both sentences point to key terms ("in," "front," "of," "a," "building," "man") that collectively validate the entailment.

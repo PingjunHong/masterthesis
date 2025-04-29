@@ -1,0 +1,5 @@
+1. The word "dogs" (index 6,8 in Content) refers to animals, and "nap" (index 11 in Content) implies they are asleep, which aligns with "ANIMALS ARE ASLEEP" (indices 1,3,2 in Statement).
+2. "A bunch of dogs" (indices 6,8 in Content) is a subset of "ANIMALS" (index 1 in Statement), and "take a nap" (index 11 in Content) means they are asleep, satisfying the Statement.
+3. The phrase "dogs take a nap" (indices 6,8,11 in Content) directly corresponds to "ANIMALS ARE ASLEEP" (indices 1,3,2 in Statement) because dogs are animals and napping is a state of sleep.
+4. The Statement's "SOME ANIMALS" (indices 1,2 in Statement) is justified by "a bunch of dogs" (indices 6,8 in Content), and "ARE ASLEEP" (index 3 in Statement) is supported by "take a nap" (index 11 in Content).
+5. The Content describes dogs (animals) napping (sleeping), which is a specific instance of the general claim in the Statement that some animals are asleep.

@@ -1,0 +1,5 @@
+1. The content states people are **standing**, while the statement claims they are **sitting**.
+2. The content describes people being **outside** a building, while the statement places them **inside** a hotel lobby.
+3. The building in the content is labeled 'HI-POINTE,' which may not be a hotel, contradicting the statement's claim of a **hotel lobby**.
+4. The content mentions people **talking to each other**, but the statement does not mention any interaction, implying a different scenario.
+5. The spatial context in the content (front of a building) conflicts with the statement's setting (lobby).

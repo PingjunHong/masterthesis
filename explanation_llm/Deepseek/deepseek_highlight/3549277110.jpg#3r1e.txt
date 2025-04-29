@@ -1,0 +1,8 @@
+1. "Superhero books" are a subset of "literature," so reading superhero books entails reading literature.
+2. The term "literature" is broad enough to include any written works, including superhero books.
+3. The genre of superhero books falls under the category of fiction, which is a type of literature.
+4. The act of reading "superhero books" implies engaging with a written narrative, which qualifies as reading literature.
+5. If "superhero books" are considered published works with narrative content, they inherently constitute literature.
+6. The statement generalizes the content from a specific genre ("superhero books") to a broader category ("literature").
+7. The highlighted words align because "superhero books" are an instance of "a piece of literature."
+8. The entailment holds due to the hierarchical relationship between specific genres and the general concept of literature.

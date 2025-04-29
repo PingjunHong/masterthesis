@@ -1,0 +1,6 @@
+1. The highlighted word "woman" (index 1 in Content) corresponds to "person" (index 1 in Statement), indicating a general match between the entities.
+2. The highlighted word "talking" (index 16 in Content) aligns with "talking" (index 3 in Statement), confirming the action described.
+3. The highlighted word "little boy" (index 17 in Content) matches "child" (index 9 in Statement), as "little boy" is a specific instance of a child.
+4. The highlighted word "woman" (index 20 in Content) corresponds to "another person" (index 6 and 8 in Statement), as both refer to a second individual observing.
+5. The highlighted word "watching" (index 21 in Content) aligns with "watches" (index 8 in Statement), confirming the observational action.
+6. The overall scenario in the Content (a woman observing another woman talking to a child) is summarized by the Statement (a person talking to a child while another watches), preserving the core relationships.

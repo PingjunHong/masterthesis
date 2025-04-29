@@ -1,0 +1,5 @@
+1. The highlighted words in the Content ("child", "does", "jumping") directly correspond to the key elements in the Statement ("child", "does", "jumping kick"), preserving the core action and subject.
+2. The phrase "a child does a jumping kick" is a simplified version of the Content, omitting only the non-essential detail ("in a ninja outfit"), which does not affect the truth of the Statement.
+3. The action "does a jumping kick" in the Statement is explicitly confirmed by the same phrase in the Content, and the subject "child" is unchanged.
+4. The Statement captures the main event (a child performing a jumping kick) without requiring the additional context of the ninja outfit, making the entailment valid.
+5. The highlighted words in both sentences align semantically, with no contradictory or conflicting information, ensuring the Statement logically follows from the Content.

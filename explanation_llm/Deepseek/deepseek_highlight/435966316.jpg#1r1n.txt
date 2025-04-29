@@ -1,0 +1,8 @@
+1. The **workers** in the content are not identified as **lifeguards**, so the statement introduces an unverified assumption.
+2. The **boat** in the content is not described as being involved in a rescue mission for a **dog**, making the statement speculative.
+3. The content does not mention any **dog** or a drowning scenario, so the statement adds unsupported details.
+4. The action of **hanging from the boar** (likely a typo for "hanging from the boat") is not described in the content, which only notes the workers are **on a boat**.
+5. The statement misrepresents the scenario by implying a rescue effort, while the content only shows workers on a boat without context.
+6. The highlighted words in the statement (**lifeguards**, **boar**) either contradict or are not justified by the content (**workers**, **boat**).
+7. The content provides no evidence that the workers are performing a rescue, making the statement's claim neutral rather than entailed.
+8. The statement introduces an entirely new event (saving a dog) not referenced in the content.

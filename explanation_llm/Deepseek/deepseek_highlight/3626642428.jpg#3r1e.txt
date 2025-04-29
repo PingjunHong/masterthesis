@@ -1,0 +1,6 @@
+1. The word "swimming" (index 2 in Content) implies the dogs are in water, which is typically an outdoor activity.
+2. The word "river" (index 5 in Content) is an outdoor location, supporting the idea that the dogs are outdoors.
+3. The phrase "in a river" (indices 4 and 3 in Content) indicates an outdoor setting, reinforcing the entailment.
+4. The word "outdoors" (index 3 in Statement) is directly supported by the context of dogs being in a natural, open environment like a river.
+5. The activity of swimming (index 2 in Content) is commonly associated with outdoor spaces, aligning with the statement.
+6. The absence of any indoor context in the content (e.g., "pool" or "bathtub") strengthens the inference that the dogs are outdoors.

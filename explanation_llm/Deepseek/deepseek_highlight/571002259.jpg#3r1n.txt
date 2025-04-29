@@ -1,0 +1,7 @@
+1. The statement introduces new information ("the tree appears to be dead") that is not mentioned or implied in the content, making it neither supported nor contradicted.
+2. The content describes an action ("cutting down a branch") but does not provide any details about the tree's condition (e.g., whether it is dead or alive), so the statement is unrelated.
+3. The highlighted word "dead" in the statement is not referenced or relevant to the content, which focuses on the worker's activity rather than the tree's state.
+4. The statement makes an observation ("appears to be") that is speculative and not grounded in the factual description provided in the content.
+5. There is no logical connection between the action of cutting a branch and the tree being dead, as branches can be cut for reasons unrelated to the tree's health.
+6. The content does not contain any cues (e.g., visual or contextual) that would allow inferring the tree's condition, leaving the statement neutral.
+7. The statement could be true or false independently of the content, as the content does not address the tree's health.

@@ -1,0 +1,8 @@
+1. The word "walk" in the content implies the action of walking, which directly entails "are walking" in the statement.
+2. The present tense "walk" in the content aligns with the present continuous "are walking" in the statement, indicating the same ongoing action.
+3. The subject "mother and daughter" in both sentences performs the same action (walking), making the statement a direct entailment.
+4. The progressive aspect "are walking" in the statement is a more specific form of the simple present "walk" in the content, preserving the core meaning.
+5. The action described in the content ("walk") is explicitly continued in the statement ("are walking"), confirming the entailment.
+6. The semantic overlap between "walk" and "are walking" ensures the statement is entailed by the content, as both describe the same activity.
+7. The statement rephrases the action in the content without altering its fundamental meaning, leading to entailment.
+8. The highlighted words ("walk" and "are walking") are lexically and temporally consistent, reinforcing the entailment relationship.

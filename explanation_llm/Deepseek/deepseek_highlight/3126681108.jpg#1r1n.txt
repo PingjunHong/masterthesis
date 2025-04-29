@@ -1,0 +1,6 @@
+1. The **lady** in the statement is not necessarily the same person as the **girl** in the content, introducing ambiguity about the subject.
+2. The statement mentions the lady is **looking for her lost dog**, which is not mentioned or implied in the content, making it unrelated.
+3. The **jacket** in the statement is not specified as brown or worn in snow, so the connection is weak.
+4. The action of **looking for a lost dog** is entirely new information with no basis in the content.
+5. The content describes a girl **walking in snow**, while the statement describes a lady engaged in a different activity, creating no direct entailment or contradiction.
+6. The highlighted words (**lady**, **jacket**, **lost dog**) do not provide enough overlap or logical connection with the content to infer entailment or contradiction.

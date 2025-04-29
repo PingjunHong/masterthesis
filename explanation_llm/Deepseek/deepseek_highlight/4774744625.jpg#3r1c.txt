@@ -1,0 +1,8 @@
+1. The content states the men are **outside**, while the statement claims they are **at the kitchen table** (an indoor location).
+2. The content mentions **chairs with red seats**, but the statement does not reference chairs or their color.
+3. The content specifies the men are **sitting on chairs**, while the statement says they are **at the table**, which implies a different seating arrangement.
+4. The number of men (**three**) matches, but the context (location and seating) contradicts.
+5. The statement ignores the outdoor setting described in the content, creating a direct contradiction in environment.
+6. The highlighted words in the content (**men**, **chairs**, **red**) do not align with the highlighted words in the statement (**men**, **table**, **kitchen**, **three**), indicating mismatched details.
+7. The statement introduces a **kitchen table**, which is not mentioned or implied in the content.
+8. The action (**sitting**) is consistent, but the objects and locations involved contradict.

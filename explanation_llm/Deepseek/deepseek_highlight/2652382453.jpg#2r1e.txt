@@ -1,0 +1,8 @@
+1. **"Everyone" (Content) implies "People" (Statement)**: The word "Everyone" in the content refers to all individuals, which aligns with "People" in the statement, indicating a general group of individuals.
+2. **"on the street" (Content) matches "about the city street" (Statement)**: Both phrases describe a location (the street), with the statement specifying it as a "city street," which is consistent with the content's context of a city.
+3. **"seem to be busy doing their own thing" (Content) implies "milling about" (Statement)**: "Milling about" suggests movement or activity without a specific purpose, which aligns with people being "busy doing their own thing" in a general, unstructured way.
+4. **"in the city" (Content) supports "the city street" (Statement)**: The mention of a city in the content provides the setting, which is reinforced by the statement's reference to a "city street."
+5. **The overall scenario in the content (people on a city street engaged in activities) entails the statement's depiction (people moving around on a city street)**: The two descriptions are consistent in portraying a scene of people present and active on a city street.
+6. **"busy doing their own thing" (Content) is compatible with "milling about" (Statement)**: Both phrases describe people engaged in individual, possibly casual activities, supporting the entailment.
+7. **The generality of the content ("Everyone") allows for the specific interpretation in the statement ("People")**: The broad reference in the content logically includes the subset described in the statement.
+8. **No contradiction exists between the highlighted parts**: The words in both sentences reinforce rather than contradict each other, ensuring entailment.

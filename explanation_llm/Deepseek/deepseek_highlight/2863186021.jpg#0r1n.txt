@@ -1,0 +1,5 @@
+1. The word "woman" (index 4 in Content) implies "someone" (index 0 in Statement), as both refer to a person.
+2. The phrase "walking towards a flock of birds" (indices 15,16,17 in Content) implies "near a bunch of birds" (indices 5,6,7 in Statement), as "flock" and "bunch" are synonyms in this context, and "walking towards" suggests proximity ("near").
+3. The word "person" (index 0 in Statement) is a general term that includes "woman" (index 4 in Content), satisfying the entailment.
+4. The phrase "a flock of birds" (indices 16,17 in Content) is semantically equivalent to "a bunch of birds" (indices 6,7 in Statement), supporting the entailment.
+5. The action "walking towards" (indices 15,16 in Content) implies spatial closeness ("near" in Statement), reinforcing the entailment.

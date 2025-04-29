@@ -1,0 +1,10 @@
+1. The word "several" in the content implies a quantity that matches the statement "there are several women."
+2. The word "women" in the content directly corresponds to the word "women" in the statement, confirming their presence.
+3. The phrase "several women" in the content is a subset of the statement "there are several women," making the statement true.
+4. The existence of "several women" in the content logically entails that "there are several women" in the described scenario.
+5. The highlighted words in both sentences ("several" and "women") align semantically, ensuring the statement is entailed by the content.
+6. The content explicitly mentions "several women," which is sufficient to conclude that "there are several women" without additional context.
+7. The statement is a direct extraction of the key subject ("several women") from the content, making the entailment unambiguous.
+8. The content provides enough information about the presence of "several women" to satisfy the statement's claim.
+9. The statement is a generalization of the specific scenario described in the content, where "several women" are confirmed to exist.
+10. The highlighted words in the content and statement share identical meaning and reference, ensuring entailment.

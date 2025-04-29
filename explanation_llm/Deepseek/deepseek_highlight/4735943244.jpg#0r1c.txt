@@ -1,0 +1,5 @@
+1. The color of the cape in the content is green, while in the statement it is red.
+2. The number of feathers on the hat in the content is two, while in the statement it is three.
+3. The content describes the man wearing dark knee boots and resting on a walking stick, which are not mentioned in the statement.
+4. The statement omits details about the luggage and the building present in the content.
+5. The statement does not mention the man's posture (resting hands on a walking stick) as described in the content.

@@ -1,0 +1,7 @@
+1. The highlighted words "looking over a bicycle's rear wheel" and "maintenance garage" imply the man is engaged in repair-related activity, supporting the statement "A man repairs bicycles."
+2. The presence of "various tools visible in the background" suggests the man is equipped for bicycle repair, reinforcing the entailment.
+3. The phrase "maintenance garage" is a typical setting for bicycle repairs, aligning with the statement.
+4. The action "looking over a bicycle's rear wheel" is consistent with inspecting or fixing a bicycle, which entails repair work.
+5. The combination of "bicycle's rear wheel" and "tools" indicates a repair context, making the statement likely true.
+6. The man's focus on a specific bicycle part ("rear wheel") implies he is performing maintenance or repair, supporting the entailment.
+7. The overall scenario (man, bicycle, tools, garage) strongly suggests a repair context, making the statement a valid inference.

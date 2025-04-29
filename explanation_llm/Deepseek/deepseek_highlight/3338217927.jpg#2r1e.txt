@@ -1,0 +1,5 @@
+1. **"dog" (Content) → "animal" (Statement)**: A dog is a type of animal, so the presence of a dog entails the presence of an animal.
+2. **"jumping" (Content) → "playing" (Statement)**: Jumping for a Frisbee is a form of play, so the action implies the animal is playing.
+3. **"Frisbee" (Content) → "plastic toy" (Statement)**: A Frisbee is typically made of plastic and is a toy, so the Frisbee entails a plastic toy.
+4. **"snow" (Content) → "cold weather" (Statement)**: Snow indicates cold weather, so the presence of snow entails cold weather conditions.
+5. **"in the snow" (Content) → "outside" (Statement)**: Snow is typically found outdoors, so being in the snow entails being outside.

@@ -1,0 +1,8 @@
+1. The highlighted words "3 ladies" in the Content imply the existence of "ladies" in the Statement.
+2. The action "running" in the Content is directly mentioned in the Statement as "ladies running," confirming the entailment.
+3. The plural form "ladies" in the Content aligns with the plural "ladies" in the Statement, reinforcing the entailment.
+4. The presence of "ladies" and "running" in both sentences ensures the Statement logically follows from the Content.
+5. The Statement generalizes the specific detail "3 ladies" to "ladies," which is a valid inference since "3 ladies" are a subset of "ladies."
+6. The action described ("running") in the Content is preserved in the Statement, ensuring the entailment holds.
+7. No contradictory information exists between the highlighted parts of the Content and the Statement, supporting the entailment.
+8. The Statement captures the core elements (ladies and running) from the Content without introducing conflicting details.

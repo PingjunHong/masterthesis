@@ -1,0 +1,7 @@
+1. "A kid" in the content refers to "the child" in the statement, as both terms denote a young person.
+2. "Playing" in the content directly matches "playing" in the statement, indicating the same action.
+3. The phrase "a game called The Derby" in the content specifies the activity, which falls under the broader category of "playing" mentioned in the statement.
+4. The statement generalizes the specific activity ("playing a game called The Derby") to the more general action ("playing"), which is logically entailed.
+5. The subject ("a kid") and the action ("playing") in the content are sufficient to infer the subject ("the child") and action ("playing") in the statement without contradiction.
+6. The absence of negation or conflicting information in the content ensures the statement's truth follows directly.
+7. The highlighted words in both sentences ("kid"/"child" and "playing"/"playing") share semantic equivalence or near-equivalence, supporting entailment.

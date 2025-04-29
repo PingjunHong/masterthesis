@@ -1,0 +1,5 @@
+1. The statement introduces new information ("muddy") that is not implied or contradicted by the content.
+2. The content does not mention the children's cleanliness or state (e.g., muddy or clean), so the statement is neither supported nor refuted.
+3. Playing in water does not inherently imply whether the children are muddy; they could be clean or muddy depending on context.
+4. The highlighted word "muddy" is unrelated to the activity described in the content, making the statement neutral.
+5. There is no logical connection between "playing in water" and being "muddy" that would make the statement entailed or contradictory.

@@ -1,0 +1,10 @@
+1. The word "walking" in the content implies movement, which directly entails that "the man is moving."
+2. "Walking" is a specific type of movement, so the statement generalizes the action described in the content.
+3. The action of "walking to work" inherently involves motion, confirming the statement "the man is moving."
+4. The verb "walking" in the content is synonymous with "moving" in this context, leading to entailment.
+5. The statement captures the dynamic state of the man described in the content, as "walking" is a form of movement.
+6. The highlighted word "moving" in the statement is a broader term that encompasses "walking" from the content.
+7. The content describes an active action ("walking"), which logically entails that the subject is in motion.
+8. The statement is a paraphrase of the action in the content, as "moving" can substitute for "walking" without changing meaning.
+9. The semantic relationship between "walking" and "moving" is one of hyponymy, where "walking" is a subtype of "moving," ensuring entailment.
+10. The temporal aspect of "walking" in the content implies ongoing movement, aligning with the statement's assertion.

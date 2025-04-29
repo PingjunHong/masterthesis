@@ -1,0 +1,8 @@
+1. The content does not mention any person who almost hit the taxi cab, so the statement introduces new, unsupported information.
+2. The statement assumes intent ("screaming at the person"), while the content only describes the action of screaming without specifying a target.
+3. The highlighted words in the statement ("at the person that almost hit her taxi cab") add a causal relationship not present in the content.
+4. The content describes the child screaming while sticking her head out of the taxi, but it does not link the screaming to an external event like an almost-accident.
+5. The statement infers a specific reason for the screaming, while the content provides no context for why the child is screaming.
+6. The highlighted part of the statement introduces an external actor (the person) and an event (almost hitting the cab), neither of which are mentioned in the content.
+7. The content is purely observational (a child screaming), while the statement interprets the observation with additional assumptions.
+8. The statement's added details ("at the person that almost hit her taxi cab") are not entailed by the content and are not contradicted either, making the label neutral.

@@ -1,0 +1,7 @@
+1. "sit against a wall" implies "lean against a wall" as both describe a similar resting position against a surface.
+2. "homeless men" in the content matches "homeless men" in the statement, confirming the subject.
+3. "with a sleeping dog" entails "with a dog" because the presence of the dog is preserved regardless of its state (sleeping).
+4. The leash color ("purple") is irrelevant to the statement, so its omission doesn’t affect entailment.
+5. The number "two" is consistent in both sentences, ensuring the quantity of men is unchanged.
+6. "dressed in gray" is omitted in the statement, but clothing details don’t contradict the core claim about the men and the dog.
+7. The spatial relationship ("against a wall") is identical in both sentences, maintaining the same scene setup.

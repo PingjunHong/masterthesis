@@ -1,0 +1,5 @@
+1. The highlighted words in the Content ("barbie") and Statement ("race car") refer to different toys, indicating a contradiction in what the girl is playing with.
+2. A "barbie" (doll) and a "race car" are distinct objects, making the two descriptions mutually exclusive.
+3. The Content specifies the girl is engaged with a doll, while the Statement claims she is playing with a vehicle, which cannot both be true simultaneously.
+4. The type of toy mentioned in the Content ("barbie") contradicts the type of toy in the Statement ("race car"), as they belong to different categories.
+5. The actions described (playing with a doll vs. playing with a car) are incompatible based on the highlighted terms.

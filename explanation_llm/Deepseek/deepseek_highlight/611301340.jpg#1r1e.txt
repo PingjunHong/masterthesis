@@ -1,0 +1,7 @@
+1. The word "crowd" in the content implies a group of "people," which aligns with "People" in the statement.
+2. The phrase "wearing orange" in the content directly matches "wearing orange" in the statement.
+3. The presence of "wearing orange" in both sentences confirms the attribute of the group described.
+4. The content specifies the context (cheering in a stadium), but the statement only requires the existence of people wearing orange, which is satisfied.
+5. The highlighted word "crowd" (content) is a hypernym of "People" (statement), ensuring the entailment holds.
+6. No contradictory information exists between the content and the statement regarding the description of the group's attire.
+7. The statement is a simplified, partial extraction of the content's information, focusing solely on the attire of the group.

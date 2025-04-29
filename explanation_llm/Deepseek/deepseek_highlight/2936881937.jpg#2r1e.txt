@@ -1,0 +1,6 @@
+1. The word "man" in the content (index 1) refers to the same entity as "A man" in the statement, establishing a direct correspondence.
+2. The phrase "in a black shirt" in the statement (indices 5,6) is explicitly mentioned in the content, confirming the attire of the man.
+3. The content describes a scenario where the man is wearing a black shirt, which directly supports the statement's claim about his clothing.
+4. The subject ("man") and the attribute ("black shirt") in the statement are both present and correctly linked in the content.
+5. There is no contradiction between the content and the statement regarding the man's appearance, ensuring the entailment holds.
+6. The highlighted parts in both sentences align semantically, with the content providing sufficient evidence for the statement.

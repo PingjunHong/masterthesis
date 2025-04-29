@@ -1,0 +1,7 @@
+1. The highlighted words "group" and "cleaners" in the Content and Statement directly match, establishing the subject.
+2. The word "parade" appears in both the Content and Statement, linking the event context.
+3. The action of sweeping up after a parade implies the cleaners are active "after a parade," even if not explicitly stated in the Content.
+4. The temporal relationship ("during" in Content vs. "after" in Statement) is logically consistent, as cleaning typically occurs after an event.
+5. The presence of "animal feces" in the Content supports the idea of post-parade cleanup, reinforcing the entailment.
+6. The word "are" in the Content (index 3) implies ongoing action, which aligns with the Statement's implied timeframe ("after").
+7. The word "a" (indices 2 in Content, 1 in Statement) grammatically connects the noun phrases in both sentences.

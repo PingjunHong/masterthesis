@@ -1,0 +1,10 @@
+1. **Synonymy**: "Carpenter" and "workman" can be considered synonyms in this context, as both refer to a person engaged in manual labor, particularly in construction.
+2. **Role overlap**: A carpenter is a type of workman, so the statement generalizes the specific role mentioned in the content.
+3. **Action alignment**: "Working on a roof" and "helping put a roof on" describe the same or closely related activities in the context of construction.
+4. **Contextual entailment**: The broader scenario (a house being built) supports the inference that a workman (including a carpenter) would be involved in roof installation.
+5. **Event inclusion**: The statement’s action ("helping put a roof on") is a plausible subpart or description of the content’s action ("working on a roof").
+6. **Functional equivalence**: Both sentences describe a laborer contributing to roof construction, even if the phrasing differs slightly.
+7. **Implicit collaboration**: The content implies that the carpenter is part of a team (since houses are rarely built by one person), aligning with the statement’s "helping" framing.
+8. **Task specificity**: "Putting a roof on" is a natural interpretation of "working on a roof" in a construction setting.
+9. **Semantic broadening**: The statement uses a more general term ("workman") while retaining the core meaning of the content.
+10. **Construction domain knowledge**: In building a house, roof work inherently involves labor assistance, making the entailment reasonable.

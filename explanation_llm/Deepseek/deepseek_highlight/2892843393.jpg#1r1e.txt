@@ -1,0 +1,7 @@
+1. The highlighted word "person" in the Content and Statement establishes the subject, confirming the presence of an individual.
+2. The highlighted word "standing" in the Content implies the person is positioned somewhere, supporting the idea they are "near" something in the Statement.
+3. The highlighted word "pile" in the Content directly matches the "pile" in the Statement, confirming the existence of a grouped collection of objects.
+4. The highlighted word "coconuts" in the Content and Statement verifies the specific object involved, ensuring consistency in the description.
+5. The phrase "on the ground" in the Content (implied by the context of the highlighted words) suggests the coconuts are placed in a location where the person could logically be near them.
+6. The action "working a steel apparatus" in the Content implies the person is engaged in an activity that would likely require proximity to the coconuts, reinforcing the "near" relationship.
+7. The absence of any contradictory spatial information in the Content ensures the "near" claim in the Statement remains plausible.

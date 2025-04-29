@@ -1,0 +1,7 @@
+1. **"Three firefighter"** (Content) and **"Three firefighters"** (Statement) both specify the same number and profession, with only a minor grammatical difference (singular vs. plural).
+2. **"come out of"** (Content) and **"coming up from"** (Statement) convey the same directional movement (exiting/emerging from a subway station), with slight phrasing variations.
+3. **"subway station"** (Content) and **"subway station"** (Statement) are identical, confirming the location.
+4. The reordering of words (**"come out of"** vs. **"coming up from"**) does not change the core meaning, as both describe the firefighters' action of leaving the station.
+5. The grammatical tense shift (**"come"** vs. **"coming"**) is insignificant for entailment, as both describe the same event in progress.
+6. The addition of **"a"** in the Statement does not alter the meaning, as it is an optional article in this context.
+7. The highlighted words in both sentences map directly to each other semantically, despite minor syntactic differences.

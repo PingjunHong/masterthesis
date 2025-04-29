@@ -1,0 +1,5 @@
+1. The **highlighted words "old lady"** in the statement are not mentioned or implied in the content, which only refers to "a person" without specifying age or gender.
+2. The **highlighted words "busy street"** in the statement are not supported by the content, which only mentions "the street" without describing its level of activity.
+3. The content does not provide enough information to confirm or contradict the statement, making the relationship neutral.
+4. The statement introduces details (age, busyness) that are not present in the content, leading to neutrality.
+5. The content describes a general scenario ("a person") while the statement makes specific assumptions ("old lady," "busy street"), resulting in no entailment or contradiction.

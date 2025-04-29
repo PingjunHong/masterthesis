@@ -1,0 +1,5 @@
+1. The content states the man is "sitting," while the statement claims he is "standing," which are mutually exclusive actions.
+2. The highlighted word "sitting" in the content directly contradicts the highlighted word "standing" in the statement.
+3. The posture described in the content (sitting) is incompatible with the posture described in the statement (standing).
+4. The two actions cannot be true simultaneously for the same subject in the same context.
+5. The verb "sitting" in the content negates the possibility of the verb "standing" in the statement.

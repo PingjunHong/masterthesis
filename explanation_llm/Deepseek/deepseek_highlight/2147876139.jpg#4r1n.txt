@@ -1,0 +1,5 @@
+1. "Three girls" (highlighted in Content) implies "some people" (highlighted in Statement) because "girls" are a subset of "people," and "three" indicates a plural quantity, satisfying "some."
+2. "Blow out" (highlighted in Content) directly matches "blowing out" (implied in Statement), confirming the action described in the Statement.
+3. "The candles" (highlighted in Content) aligns with "candles" in the Statement, providing the object of the action.
+4. The collective action of "three girls blow out the candles" (highlighted parts in Content) logically entails that "some people are blowing out candles" (highlighted in Statement) because the specific instance (girls) and action generalize to the broader category (people).
+5. The presence of a cake with candles (implied by "cake made of Peeps" in Content) supports the scenario of candle-blowing, reinforcing the entailment.

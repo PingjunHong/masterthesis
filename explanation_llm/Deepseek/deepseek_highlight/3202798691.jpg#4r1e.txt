@@ -1,0 +1,6 @@
+1. "riding a bike" (indices 3,5 in Content) directly implies "bike riding" (indices 3,4 in Statement), as both phrases describe the same action of cycling.
+2. The phrase "a man is riding a bike" (Content) logically entails "the man is bike riding" (Statement) because the subject ("man") and the activity ("bike riding") are preserved.
+3. The active verb "riding" (index 3 in Content) and its object "bike" (index 5 in Content) are reordered as a compound noun "bike riding" (indices 3,4 in Statement), maintaining the same meaning.
+4. The core action ("riding" + "bike") in the Content is lexically reformulated as "bike riding" in the Statement without altering the semantic relationship.
+5. The grammatical transformation from "riding a bike" (Content) to "bike riding" (Statement) is a valid paraphrase, retaining entailment.
+6. The highlighted words in both sentences ("riding"/"bike" vs. "bike"/"riding") form a synonymous action description, ensuring logical consistency.

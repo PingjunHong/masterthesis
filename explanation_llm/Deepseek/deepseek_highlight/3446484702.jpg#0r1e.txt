@@ -1,0 +1,8 @@
+1. The **elderly woman** in the content matches the **elderly woman** in the statement, establishing the subject.
+2. **Balances** in the content corresponds to **balancing** in the statement, confirming the action.
+3. **Basket** in the content is generalized to **something** in the statement, maintaining logical consistency.
+4. **On her head** in both sentences aligns, confirming the location of the action.
+5. **Talking to a woman** in the content implies **having a conversation** in the statement, as talking is a form of conversation.
+6. The highlighted words collectively support the core claim: an elderly woman balancing an object while conversing.
+7. No contradictions exist between the highlighted parts; all key elements in the statement are verified by the content.
+8. The statement abstracts specific details (e.g., **basket** → **something**, **talking to a woman** → **having a conversation**) without altering the core meaning.

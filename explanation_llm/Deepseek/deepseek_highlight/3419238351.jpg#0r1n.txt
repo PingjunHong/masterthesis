@@ -1,0 +1,5 @@
+1. The statement introduces "the child's mom" and "her friends," which are not mentioned or implied in the content. The content only refers to "a group of adults," without specifying their relationship to the child.
+2. The content does not provide any information about the gender of the child ("small child"), while the statement assumes the child is male ("her son").
+3. The statement assumes the adults are "watching" the child, while the content only describes them as "looking down," which could have neutral or ambiguous intent.
+4. The statement adds details ("mom," "friends," "son") that are not supported by the content, making it an extrapolation rather than an entailment or contradiction.
+5. The content is a neutral observation, while the statement introduces subjective or unverified relationships and intentions.

@@ -1,0 +1,8 @@
+1. The word "man" in the content (index 0) is a specific instance of "human" in the statement (index 0), establishing a direct entailment relationship.
+2. The phrase "bearded man" (indices 0-1 in content) implies the existence of a "human" (index 0 in statement), as a man is a human.
+3. The action "jumps" (index 2 in content) matches the action "jumping" (index 2 in statement), confirming the described activity.
+4. The subject-verb pair "man jumps" (indices 0-2 in content) entails "human jumping" (indices 0-2 in statement) because a man performing an action is a human performing that action.
+5. The present tense verb "jumps" (index 2 in content) aligns with the present participle "jumping" (index 2 in statement), both describing an ongoing or immediate action.
+6. The absence of contradictory information in the content ensures the statement's validity (e.g., no negation or conflicting actions).
+7. The specificity of "bearded man" (content) does not conflict with the generality of "human" (statement), allowing for entailment.
+8. The core event ("jumping") is preserved without additional constraints in the statement (e.g., location or details), making the entailment unambiguous.

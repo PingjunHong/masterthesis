@@ -1,0 +1,6 @@
+1. The content states the boy is **playing on playground equipment**, while the statement claims he is **sitting on the school bus**—these are mutually exclusive actions.
+2. **Playground equipment** and a **school bus** are entirely different locations; the boy cannot be in both places simultaneously.
+3. The action of **playing** (active) contradicts the action of **sitting** (passive) in the given contexts.
+4. The statement implies the boy is **on his way home**, while the content describes him engaged in an activity at a playground, suggesting he is not in transit.
+5. The highlighted words **"playing"** (content) and **"sitting"** (statement) directly oppose each other in terms of physical activity.
+6. The scenario in the content (playground) does not align with the scenario in the statement (school bus), making the situations contradictory.

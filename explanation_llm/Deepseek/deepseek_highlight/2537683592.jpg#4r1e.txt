@@ -1,0 +1,10 @@
+1. "Men" and "guys" are synonyms in this context, both referring to male individuals.
+2. "Work along a wall" implies proximity, which aligns with "working near a wall."
+3. The action described ("work") is the same in both sentences.
+4. The location ("a wall") is identical in both sentences.
+5. The subject ("men"/"guys") is performing the same action in the same location, preserving the core meaning.
+6. The highlighted words ("Men" and "guys") serve the same semantic role in their respective sentences.
+7. No contradictory or additional information is introduced in the statement that conflicts with the content.
+8. The generalization from "men" to "guys" does not alter the truth conditions of the original sentence.
+9. The spatial relationship ("along" vs. "near") is sufficiently similar to support entailment.
+10. The statement is a paraphrase of the content, retaining all critical elements.

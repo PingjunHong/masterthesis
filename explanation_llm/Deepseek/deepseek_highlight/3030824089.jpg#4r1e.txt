@@ -1,0 +1,10 @@
+1. The highlighted words "dog" and "runs" in both sentences are identical in meaning and form, leading to entailment.
+2. The subject "dog" and the action "runs" in the content are directly reflected in the statement without any modification or contradiction.
+3. The grammatical structure and word order in both sentences align perfectly, ensuring the statement logically follows from the content.
+4. There are no additional words or negations in the statement that alter the meaning of the highlighted words from the content.
+5. The semantic roles of "dog" (agent) and "runs" (action) are preserved in the statement, confirming entailment.
+6. The statement is a direct paraphrase or repetition of the content's core proposition, with no conflicting information.
+7. The highlighted words in both sentences convey the same event (a dog running), making the entailment relationship clear.
+8. No ambiguity or lexical variation exists between the highlighted words in the content and the statement.
+9. The statement does not introduce any new information or context that could disrupt the entailment.
+10. The truth of the content ("A dog runs") necessarily implies the truth of the statement ("The dog runs") due to the shared core meaning.

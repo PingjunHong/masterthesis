@@ -1,0 +1,7 @@
+1. The word "dog" (indices 4,5 in Content) is a type of "canine" (index 1 in Statement), establishing a direct semantic relationship.
+2. The action "runs" (implied in Content) involves "using his legs" (indices 2,3,4,5 in Statement), as running requires leg movement.
+3. The phrase "on the grass outdoors" (Content) implies physical activity, which aligns with "using his legs" (Statement) for locomotion.
+4. The term "canine" (Statement) generalizes "dog" (Content), and the action described in the Content necessarily involves leg usage, supporting entailment.
+5. The absence of contradictory information in the Content (e.g., the dog not using legs) ensures the Statement's validity.
+6. The verb "runs" (Content) is a specific instance of "using his legs" (Statement), as running is a subset of leg-based movement.
+7. The entire scenario in the Content (dog running outdoors) logically requires the dog to engage its legs, fulfilling the Statement's claim.

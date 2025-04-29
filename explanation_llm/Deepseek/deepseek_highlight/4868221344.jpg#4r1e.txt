@@ -1,0 +1,10 @@
+1. The highlighted words in the Content ("man", "and", "woman", "sitting") directly correspond to the highlighted words in the Statement ("The", "man", "and", "woman", "are", "sitting"), preserving the core meaning.
+2. The Statement explicitly restates the action ("sitting") and the subjects ("man and woman") from the Content, confirming the entailment.
+3. The additional words in the Statement ("The", "are") do not alter the meaning of the original Content; they only provide grammatical structure.
+4. The Content implies that the man and woman are engaged in the act of sitting, which the Statement makes explicit.
+5. The semantic relationship between the Content and Statement is one of logical consequence: if the Content is true, the Statement must also be true.
+6. The Statement does not introduce any new information or contradictions relative to the Content, ensuring entailment.
+7. The verb "sitting" in the Content is directly mirrored in the Statement, reinforcing the entailment.
+8. The subjects ("man and woman") in both sentences are identical, and the action ("sitting") is unchanged, ensuring consistency.
+9. The Statement is a paraphrase of the Content, maintaining the same core proposition.
+10. The grammatical differences (e.g., "are sitting" vs. "sitting") do not affect the truth conditions of the Statement relative to the Content.

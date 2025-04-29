@@ -1,0 +1,10 @@
+1. "Prepare a fish" can include cleaning as one of the steps in the preparation process.
+2. Cleaning is a common activity when preparing fish, especially at a dock.
+3. The highlighted words "prepare a fish" and "cleaning their fish" share a semantic overlap in the context of handling fish.
+4. The action of preparing fish often implies cleaning it before cooking or storing.
+5. The setting (a dock) suggests a scenario where cleaning fish is a likely activity for the men.
+6. The word "prepare" is broad enough to encompass cleaning as a sub-task.
+7. The subjects ("two men") and the object ("fish") remain consistent, supporting the entailment.
+8. The statement specifies a plausible action ("cleaning") that fits within the general activity described in the content ("prepare").
+9. The highlighted words in both sentences refer to actions involving fish, making the entailment reasonable.
+10. If the men are preparing the fish, it is likely they are cleaning it as part of that process.

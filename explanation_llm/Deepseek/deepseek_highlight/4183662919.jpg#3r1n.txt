@@ -1,0 +1,10 @@
+1. The addition of "while he is at work" introduces new information not present in the content, making the statement neither entailed nor contradicted by the content.
+2. The content does not specify the father's location or activity, so the statement's claim about him being at work is neither supported nor refuted.
+3. The highlighted phrase "while he is at work" is an extraneous detail that does not affect the core action (the child playing with the boots), leaving the overall relationship neutral.
+4. The statement expands on the context of the content without altering its factual basis, resulting in a neutral inference.
+5. The content is consistent with the statement but does not provide enough information to confirm or deny the father's presence or absence at work.
+6. The temporal clause "while he is at work" introduces an unrelated scenario that does not logically conflict with or follow from the content.
+7. The statement's added detail does not change the truth value of the original content, maintaining neutrality.
+8. The content and statement describe compatible scenarios, but the statement's additional information does not derive from the content.
+9. The father's absence at work is neither implied nor excluded by the content, making the statement's assertion neutral.
+10. The highlighted words introduce an independent condition that does not interact logically with the content's claim.

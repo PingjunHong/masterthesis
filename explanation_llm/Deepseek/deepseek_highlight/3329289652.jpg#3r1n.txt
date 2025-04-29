@@ -1,0 +1,8 @@
+1. The statement does not confirm or deny that the boys are playing with Legos, making it unrelated to the content.
+2. The highlighted word "outside" introduces new information not present in the content, which does not address Legos.
+3. The content specifies "Legos" as the activity, while the statement generalizes to "playing" without specifying the context.
+4. The statement could be true or false independently of the content, as playing outside does not conflict with playing with Legos.
+5. The content and statement describe different scenarios (indoor vs. outdoor play), so neither supports nor contradicts the other.
+6. The statement does not provide enough information to determine if it aligns with or opposes the content.
+7. The highlighted word "outside" shifts the focus to location, which is not mentioned or implied in the content.
+8. The content and statement are about different aspects of the boys' activity, leaving no logical connection for entailment or contradiction.

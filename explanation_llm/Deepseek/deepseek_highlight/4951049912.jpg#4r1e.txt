@@ -1,0 +1,7 @@
+1. **"A person is sitting"** (Content) implies **"There's a place to sit"** (Statement), as sitting requires a place to sit.
+2. **"in front of a graffiti covered wall"** (Content) implies **"near a wall"** (Statement), as being in front of a wall means being near it.
+3. The act of **"sitting"** (Content) directly supports the existence of **"a place to sit"** (Statement).
+4. The presence of **"a wall"** (Content) confirms the existence of **"a wall"** (Statement).
+5. The spatial relationship **"in front of"** (Content) aligns with the general proximity suggested by **"near"** (Statement).
+6. The description **"graffiti covered wall"** (Content) specifies the type of wall, which still satisfies the general reference to **"a wall"** (Statement).
+7. The entire scenario in the Content logically entails the Statement, as all critical elements (sitting, wall, proximity) are present and consistent.

@@ -1,0 +1,7 @@
+1. The **electric guitar** (Content) and **banjo** (Statement) are different musical instruments.
+2. The **stage** (Content) and **floor** (Statement) are different locations for the performance.
+3. Playing an **electric guitar** implies a different sound and style than playing a **banjo**.
+4. A **stage** suggests a formal performance setting, while the **floor** implies an informal or casual setting.
+5. The **man** in the Content is engaged in a different activity (playing electric guitar) than the **man** in the Statement (playing banjo).
+6. The **electric guitar** requires amplification, while the **banjo** does not necessarily require the same setup.
+7. The **stage** implies visibility to an audience, whereas the **floor** may not involve an audience.

@@ -1,0 +1,10 @@
+1. The highlighted words "woman" and "tennis" in the Statement directly correspond to "woman" and "tennis" in the Content, establishing a clear connection.
+2. The action "running to hit a ball with her tennis racket" (Content) implies the woman is engaged in playing tennis, which aligns with the Statement.
+3. The phrase "tennis clothes" (Content) suggests the woman is dressed for the sport, supporting the claim that she "plays tennis" (Statement).
+4. The presence of a "tennis racket" (Content) is a strong indicator of playing tennis, reinforcing the entailment.
+5. The action of hitting a ball with a racket (Content) is a fundamental part of playing tennis, making the Statement logically follow.
+6. The word "running" (Content) implies active participation in a sport, which in this context is tennis, as stated.
+7. The combination of "tennis clothes," "tennis racket," and "ball" (Content) collectively confirms the activity described in the Statement.
+8. The absence of contradictory information in the Content ensures the Statement is entailed without conflict.
+9. The specificity of the sport (tennis) in both Content and Statement eliminates ambiguity, strengthening the entailment.
+10. The verb "plays" (Statement) is a general term that encompasses the specific actions described in the Content (running, hitting).
