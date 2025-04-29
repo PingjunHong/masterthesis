@@ -1,0 +1,10 @@
+1. The statement specifies a 'young person,' which is a subset of the 'youth' mentioned in the content, indicating logical entailment.
+2. The presence of 'a skateboard' in the statement supports the 'skateboarding' activity in the content, ensuring consistency.
+3. The statement's focus on 'a young person' aligns with the 'youth' engaged in skateboarding in the content, leading to entailment.
+4. The term 'does a trick on a rail' implies skateboarding, which is consistent with the statement's reference to 'a skateboard.'
+5. Both the content and the statement refer to a single individual, maintaining logical exclusivity.
+6. 'Youth' and 'young person' are synonymous in the context, ensuring no logical conflict.
+7. The activity described in the content ('does a trick on a rail') is inherently linked to skateboarding, as referenced in the statement.
+8. The content implies an outdoor setting, which aligns with the typical environment for skateboarding activities described in the statement.
+9. The statement does not contradict any gender-specific information, maintaining logical consistency with the content.
+10. The statement's lack of specific temporal or location details avoids any conflict with the content, supporting entailment.

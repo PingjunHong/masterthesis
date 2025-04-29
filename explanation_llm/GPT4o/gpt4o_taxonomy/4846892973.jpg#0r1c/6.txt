@@ -1,0 +1,10 @@
+1. People cannot be standing on a pier and in a boat simultaneously.
+2. Standing on a pier implies being on solid ground, not in a boat.
+3. The presence of a pier suggests they are not in a boat.
+4. The location of the people is mutually exclusive between a pier and a boat.
+5. Being on a pier and being in a boat are two distinct locations.
+6. The setting of "standing on a pier" excludes the possibility of being in a boat.
+7. A pier and a boat are separate places; the people cannot inhabit both at the same time.
+8. The geographical position conflict: pier versus boat.
+9. A pier is a structure on land, contrasting with a floating boat.
+10. Logical structural exclusivity: cannot be both on a pier and in a boat.

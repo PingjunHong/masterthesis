@@ -1,0 +1,10 @@
+1. The premise does not provide any information about the player's appearance, so we cannot determine if the player is pretty.
+2. The attractiveness of the player is not mentioned in the premise, leaving the hypothesis unsupported.
+3. There is no description of the player's physical features or attractiveness in the premise.
+4. The premise focuses on the player's actions and attire, not on their appearance.
+5. The hypothesis introduces a subjective opinion that is not addressed in the premise.
+6. The premise is concerned with the player's position and actions in the game, not their physical appearance.
+7. No evidence is provided in the premise to support the claim about the player's prettiness.
+8. The premise does not mention anything related to the player's looks, making the hypothesis speculative.
+9. The player's attractiveness is an additional detail not covered by the information given.
+10. The hypothesis involves a value judgment that is absent from the factual description in the premise.

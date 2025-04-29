@@ -1,0 +1,9 @@
+The young boy in the premise is lying down in bed, indicating he is not actively playing soccer as stated in the hypothesis.
+The boy mentioned in the premise is sleeping, which contradicts the action of playing soccer described in the hypothesis.
+The reference to the young boy in the premise is about a boy who is lying down and sleeping, not engaging in activities such as playing soccer.
+The boy in pajamas in the premise is asleep, which conflicts with the idea of the boy playing soccer in the hypothesis.
+The young boy in the premise is associated with sleeping on a pillow, which is inconsistent with the description of playing soccer in the hypothesis.
+The reference to the young boy in the content is about a sleeping child, not one who is awake and playing soccer.
+The boy described in the premise is engaged in sleeping, not playing any active sport like soccer as mentioned in the hypothesis.
+The young boy in the premise is lying down in bed, which is contradictory to the physical activity of playing soccer indicated in the hypothesis.
+The premise refers to a young boy in a resting position, which does not match the reference to a boy playing soccer in the hypothesis.

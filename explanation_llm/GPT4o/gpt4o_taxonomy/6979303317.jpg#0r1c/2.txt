@@ -1,0 +1,10 @@
+1. The men are described as looking at the camera, which contradicts the state of sleeping.
+2. The premise mentions men holding objects and resting, but not sleeping, which is opposite to sleeping.
+3. The concept of being in a tent is not mentioned in the premise, contradicting the statement about being in a tent.
+4. Holding objects and looking at a camera contradicts the act of sleeping.
+5. The premise describes men in active positions, contradicting the passive state of sleeping.
+6. The premise does not mention a tent, which contradicts the statement about men being in a tent.
+7. The physical actions described in the premise are inconsistent with the inactivity implied by sleeping.
+8. The absence of any mention of a tent directly contradicts the statement's implication that men are inside a tent.
+9. The act of looking at a camera suggests alertness, contradicting the notion of being asleep.
+10. The presence of pipes and a truck setting contradicts the idea of men being inside a tent.

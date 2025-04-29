@@ -1,0 +1,5 @@
+1. "Two people are sleeping on the train" is structurally rephrased to indicate an action (sleeping) that is incompatible with "An old woman watches a man look down at some balls on the ground," where no sleeping or train is mentioned.
+2. The premise involves a woman and a man engaged in specific actions (watching and looking), while the hypothesis rephrases this scenario into an unrelated activity (sleeping) and location (on the train).
+3. "Two people are sleeping on the train" syntactically alters the premise's actions and setting by introducing a new context (train) and action (sleeping) not present in the original scenario.
+4. The rephrasing of the activities and setting in the hypothesis does not maintain the meaning of the premise, leading to a contradiction.
+5. Syntactic alternation, from watching and looking down at balls to sleeping on a train, shifts the meaning entirely, resulting in a contradiction.

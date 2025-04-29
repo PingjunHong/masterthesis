@@ -1,0 +1,8 @@
+- A person is doing tricks in front of a crowd is a rephrase of, A group of people watch a breakdancer in a red jacket do a one-handed trick.
+- The premise describes a breakdancer performing a one-handed trick, which is rephrased in the hypothesis as a person doing tricks.
+- The premise mentions a group of people, which is equivalent to a crowd in the hypothesis.
+- The act of watching in the premise implies the presence of a crowd in the hypothesis.
+- The premise specifies a breakdancer, while the hypothesis generalizes to a person, maintaining the same meaning.
+- Doing a one-handed trick in the premise is structurally rephrased as doing tricks in the hypothesis.
+- The premise's focus on a red jacket is omitted in the hypothesis, which does not alter the overall meaning.
+- The structure of the premise is rephrased to convey the same scenario as the hypothesis, focusing on the activity and audience.

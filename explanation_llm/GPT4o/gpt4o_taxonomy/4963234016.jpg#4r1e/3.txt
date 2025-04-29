@@ -1,0 +1,9 @@
+- A woman is working is a rephrase of A woman working long hours.
+- The phrase A woman working long hours implies that a woman is engaged in work, thus A woman is working.
+- Working long hours necessarily includes working, so A woman is working is embedded in A woman working long hours.
+- The structure A woman working indicates an ongoing action, which is captured by A woman is working.
+- The statement A woman is working is a syntactic alternation of A woman working long hours.
+- The clause A woman working long hours can be rephrased as A woman is working, emphasizing the action of working.
+- A woman is working is a simplified version of the premise A woman working long hours.
+- The idea of working is consistent in both A woman working long hours and A woman is working, showing entailment through syntactic rephrasing.
+- The sentence A woman is working expresses the same action found in A woman working long hours, but with less detail.

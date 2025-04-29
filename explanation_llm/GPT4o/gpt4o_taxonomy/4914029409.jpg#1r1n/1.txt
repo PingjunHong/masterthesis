@@ -1,0 +1,10 @@
+1. "They" in the premise refers to "people," while "a group of friends" in the statement may or may not be the same people.
+2. The premise does not specify the relationship between the people, while the statement suggests they are friends, leading to uncertainty in reference.
+3. "They are all wearing helmets" in the premise refers to "people," but the statement does not clarify if the friends are the people mentioned.
+4. The statement uses "a street," which does not clarify whether it is the same street mentioned in the premise.
+5. The reference to "people" in the premise is not explicitly linked to "a group of friends" in the statement.
+6. The statement assumes a specific relationship (friends) that the premise does not establish, creating ambiguity in coreference.
+7. The premise uses "in the street," whereas the statement's "through a street" might imply a different context or location.
+8. "A group of friends" in the statement does not necessarily resolve to "people" in the premise due to lack of explicit identification.
+9. The premise's use of "bicycles" and the statement's use of "biking" could refer to different activities, adding to the coreference ambiguity.
+10. The statement's mention of "friends" introduces a new potential group identity not present in the premise's "people."

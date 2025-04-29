@@ -1,0 +1,10 @@
+1. The statement "Six or seven people are standing on a pier" is a rephrase of the content "Six or seven people are standing on a pier with a table and a pair of glasses in the foreground."
+2. The essential part of the premise, "Six or seven people are standing on a pier," is directly captured in the hypothesis.
+3. The hypothesis is a structural simplification of the premise by omitting additional details about the table and glasses.
+4. Both the premise and the hypothesis convey the same core idea regarding the people standing on a pier.
+5. The hypothesis focuses on the primary action described in the premise, which is the presence of people on a pier.
+6. The syntactic structure of the hypothesis mirrors the central clause of the premise without altering its meaning.
+7. The premise and hypothesis share the same subject and verb phrase, emphasizing the people standing on a pier.
+8. The hypothesis extracts the main clause from the premise, retaining its meaning while excluding supplementary information.
+9. The rephrasing in the hypothesis maintains the core information about the number of people and their location on a pier.
+10. The hypothesis is a concise version of the premise, preserving the fundamental action and setting described.

@@ -1,0 +1,7 @@
+1. The premise specifies roadside workers, who are typically not involved in situations of chastisement, creating a logical role conflict.
+2. The statement involves a woman, while the premise specifies workers with no mention of gender, creating a gender conflict.
+3. The premise sets a scene involving workers with a specific uniform, while the statement involves a scenario unrelated to the described environment, creating a context conflict.
+4. The hypothesis implies an interpersonal interaction (chastisement), which does not logically follow from the occupational activity described in the premise.
+5. The premise describes an outdoor work setting, while the statement implies a social interaction, leading to a structural activity conflict.
+6. The premise involves two workers, while the statement involves two people in a different context (chastising), resulting in a role mismatch.
+7. The statement implies a verbal interaction that does not align with the construction work scenario described in the premise, indicating a logical activity conflict.

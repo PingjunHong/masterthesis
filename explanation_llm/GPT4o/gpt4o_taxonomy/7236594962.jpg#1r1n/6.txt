@@ -1,0 +1,8 @@
+1. The presence of friends is not mentioned in the premise.
+2. The premise does not specify if the man is alone or with others.
+3. The statement introduces additional people not accounted for in the premise.
+4. The premise and statement differ on the social context of the man's activity.
+5. The number of people involved in the shooting is different between the premise and statement.
+6. The premise describes only one person, while the statement implies a group.
+7. There is no indication of companionship in the premise.
+8. The premise lacks information about the company of the man shooting the gun.

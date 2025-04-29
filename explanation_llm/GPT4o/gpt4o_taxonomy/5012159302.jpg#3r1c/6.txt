@@ -1,0 +1,6 @@
+1. Horses are not sheep.
+2. Sheep cannot be horses.
+3. The animals pulling the equipment are horses, not sheep.
+4. The statement mentions sheep, but the content specifies horses.
+5. The premise involves horses, whereas the hypothesis incorrectly mentions sheep.
+6. The type of animal pulling the equipment differs between the premise and the hypothesis.

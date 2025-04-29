@@ -1,0 +1,8 @@
+- "Three men" in the hypothesis refers to "three men" mentioned in the premise.
+- "Look at the camera" in the hypothesis corresponds to "are looking at the camera" in the premise.
+- The phrase "three men" in the statement is a direct reference to "three men" as detailed in the content.
+- The action "look at the camera" is a coreferential resolution with "are looking at the camera" from the premise.
+- The hypothesis resolves "three men" to the specific group described in the premise.
+- The reference to "three men" in both premise and hypothesis confirms coreference.
+- The activity mentioned, "look at the camera," is explicitly referring to the same action described in the premise.
+- The word "camera" in the hypothesis connects back to the "camera" that the men are looking at in the premise.

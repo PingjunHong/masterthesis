@@ -1,0 +1,5 @@
+1. The man is asian refers to the man in a white uniform, who is described as a black man in the premise.
+2. The black man in a white uniform is the same individual referred to as the man, and there is a contradiction because the premise specifies he is black, not Asian.
+3. The description of the man as Asian contradicts the premise, which explicitly identifies the man as black.
+4. The reference to the man as Asian conflicts with the identification in the premise of the man as a black individual.
+5. The man in the hypothesis is intended to be the same person as the black man in the premise, but the racial description is contradictory.

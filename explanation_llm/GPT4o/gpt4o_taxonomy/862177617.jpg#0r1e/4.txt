@@ -1,0 +1,10 @@
+- If a person is outdoors, then they are standing outside.
+- Standing in a crowd implies standing outdoors if the crowd is outdoors.
+- A person stands outdoors if they are in an outdoor setting.
+- Being in a crowd outdoors implies standing outside.
+- The description of being outdoors includes standing outdoors.
+- If a person is described as standing outdoors, then they are necessarily outdoors.
+- The presence of a crowd outdoors implies that the person is also outdoors.
+- Standing in a location described as outdoors means the person is standing outdoors.
+- If someone is in a setting characterized as outdoors, then they are standing outdoors.
+- The premise specifies the person is outdoors, confirming they are standing outdoors.

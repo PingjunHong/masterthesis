@@ -1,0 +1,4 @@
+1. Sitting implies that there is a place to sit.
+2. A graffiti covered wall is a specific type of wall.
+3. In front of a wall suggests proximity to the wall.
+4. Sitting near a wall implies there's a place to sit near the wall.

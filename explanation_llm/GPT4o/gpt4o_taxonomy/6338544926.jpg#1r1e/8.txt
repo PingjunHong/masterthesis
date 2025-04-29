@@ -1,0 +1,10 @@
+1. American Football is a type of football game, so if two people are playing American Football, it logically follows that a game of football is being played.
+2. In a game of American Football, players try to stop each other from throwing the ball, which aligns with the activities described in the premise, confirming that a football game is occurring.
+3. The premise describes activities that are characteristic of American Football, which falls under the broader category of football games, thus entailing that a football game is being played.
+4. The actions described, involving players trying to stop each other from throwing a ball, are typical of a football game, specifically American Football, which supports the statement that a game of football is in progress.
+5. The real-world understanding of American Football as a sport that involves trying to prevent the other team from advancing the ball aligns with the premise, thus confirming the statement that a football game is being played.
+6. The unstated assumption is that any activity described as involving American Football inherently involves the playing of a football game, which supports the entailment relationship.
+7. Given that American Football is a widely recognized sport, the presence of two people engaging in its activities inherently means that a game of football is taking place.
+8. The causal reasoning that activities typical of American Football correspond to the playing of a football game supports the entailment that the statement is true given the premise.
+9. Probabilistically, if two people are involved in actions characteristic of American Football, it is almost certain they are playing a football game, making the statement accurate.
+10. The premise describes a scenario that matches the real-world context of a football game, where players try to stop each other from advancing the ball, thus entailing the statement.

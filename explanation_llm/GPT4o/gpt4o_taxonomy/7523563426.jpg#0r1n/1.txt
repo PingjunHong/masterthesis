@@ -1,0 +1,8 @@
+- The hypothesis mentions "Bruce Springsteen," but does not refer to any specific aspect or action described in the premise.
+- The premise describes Bruce Springsteen's actions during a concert, while the hypothesis makes a claim about his sexual orientation without reference to any actions or descriptions in the premise.
+- The hypothesis uses "Bruce Springsteen" as a subject without connecting to any details or events in the premise.
+- Both the premise and hypothesis mention Bruce Springsteen, but the hypothesis introduces unrelated information that does not resolve any coreference from the premise.
+- The hypothesis does not refer to Bruce Springsteen's activities or context mentioned in the premise, focusing instead on a personal characteristic.
+- The mention of Bruce Springsteen in the hypothesis does not resolve or relate to the actions or setting described in the premise.
+- The premise provides a scenario involving Bruce Springsteen's performance, while the hypothesis states a personal detail that is not connected to the concert context.
+- The premise and hypothesis both mention Bruce Springsteen but do not establish any shared references or connections between the details provided.

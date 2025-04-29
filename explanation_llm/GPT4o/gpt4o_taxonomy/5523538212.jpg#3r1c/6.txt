@@ -1,0 +1,10 @@
+1. Ski-jumping and skiing down the road are distinct activities.
+2. The premise involves ski-jumping, not skiing down a road.
+3. The skier in the premise is performing in a location where two others are watching, not down a road.
+4. The statement introduces a road, which is not mentioned in the premise.
+5. The activities described (ski-jumping vs. skiing down a road) occur in different contexts or locations.
+6. The act of ski-jumping implies a different setting than skiing down a road.
+7. The premise does not mention a road, while the statement specifies one.
+8. Ski-jumping requires a jump, unlike skiing on a road.
+9. The presence of an audience in the premise suggests a competitive or exhibition setting, unlike casual road skiing.
+10. The statement implies individual action on a road, contrasting with the observed act in the premise.

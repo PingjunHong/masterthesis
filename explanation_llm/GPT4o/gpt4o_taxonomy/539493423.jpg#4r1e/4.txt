@@ -1,0 +1,10 @@
+- The premise states "man holding torch," which implies the presence of a man.
+- The phrase "holding torch of fire" indicates an action by someone, specifically a man, confirming his presence.
+- "Man" in the premise directly confirms the existence of a man in the hypothesis.
+- The noun "man" appears in the premise, satisfying the hypothesis's condition of there being a man.
+- The structure of the premise inherently includes a man, fulfilling the statement's requirement.
+- The semantics of "holding" necessitate a person, specifically identified as a man in the premise.
+- The premise's subject, "Man," logically supports the hypothesis's assertion of a man being present.
+- The simple presence of "man" in the premise guarantees the truth of the hypothesis's claim.
+- The phrase "torch of fire" being held implies human action, directly linked to the man mentioned.
+- The premise's assertion about a "man" aligns with the hypothesis's claim, confirming entailment.

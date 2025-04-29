@@ -1,0 +1,7 @@
+The man is wearing a blue jacket, not yellow.
+A person cannot simultaneously wear a blue jacket and be described as wearing yellow.
+The man is laying in the grass, not rolling.
+The actions "laying" and "rolling" are distinct and cannot occur at the same time.
+The color of the jacket does not match between premise and statement.
+The described activity differs between laying and rolling.
+The premise specifies blue, while the statement specifies yellow.

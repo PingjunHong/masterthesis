@@ -1,0 +1,10 @@
+1. The premise describes farmers wearing overalls, while the hypothesis mentions people wearing shorts, which suggests a different context not supported by the premise.
+2. The premise indicates the farmers are actively working on a tractor, whereas the hypothesis states that people are doing nothing, which is not supported by the premise.
+3. The premise provides details about farmers fixing a machine, but there is no mention of people standing around, which is introduced in the hypothesis.
+4. There is no mention in the premise of people wearing shorts, which is a detail introduced solely in the hypothesis.
+5. The premise focuses on farmers and their activities, but the hypothesis introduces a different scenario by mentioning people not working, which lacks support.
+6. The hypothesis contrasts with the premise by describing inactivity, whereas the premise consistently describes active work.
+7. The attire mentioned in the hypothesis (shorts) is not reflected in the premise, which only mentions overalls.
+8. The premise does not provide any information about people standing around or being idle, which the hypothesis assumes.
+9. The premise makes no reference to shorts or inactivity, which are elements introduced only by the hypothesis.
+10. The hypothesis suggests a scenario of idleness, which is not aligned with the active work setting described in the premise.

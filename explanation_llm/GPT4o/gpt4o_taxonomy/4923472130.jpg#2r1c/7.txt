@@ -1,0 +1,5 @@
+1. A red shirt is not the same as a green shirt.
+2. Red and green are distinct colors.
+3. A shirt cannot be both red and green at the same time.
+4. The description specifies a red shirt, not a green one.
+5. If a shirt is red, it cannot simultaneously be green.

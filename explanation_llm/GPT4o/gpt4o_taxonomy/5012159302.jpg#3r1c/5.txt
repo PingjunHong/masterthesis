@@ -1,0 +1,8 @@
+- The premise mentions horses pulling the equipment, but there is no mention of sheep being involved.
+- The hypothesis introduces sheep, which is not mentioned or supported by the premise.
+- There is no evidence in the premise to suggest that sheep are pulling the equipment instead of horses.
+- The premise explicitly states that horses are pulling the equipment, contradicting the hypothesis that sheep are doing so.
+- The information about sheep pulling the equipment is absent from the premise and is not entailed by the given details.
+- The premise does not provide any indication or mention of sheep being used to pull the equipment.
+- The premise clearly specifies horses as the animals pulling the equipment, and no mention is made of sheep being part of the scenario.
+- The hypothesis assumes the presence of sheep pulling the equipment, which is not supported by the premise's description of horses.

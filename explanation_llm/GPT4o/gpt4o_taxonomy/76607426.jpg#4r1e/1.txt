@@ -1,0 +1,7 @@
+- "A man is playing billiards" refers to the same man mentioned in "A man playing billiards at a bar."
+- The man playing billiards in the hypothesis is the same man as described in the premise.
+- The pronoun "A man" in the hypothesis resolves to the "man" mentioned in the premise.
+- The reference to "playing billiards" is consistent between the premise and hypothesis, indicating they describe the same event.
+- The description of the activity "playing billiards" in both the premise and hypothesis refers to the same man.
+- The demonstrative reference "A man" corresponds directly to "A man playing billiards at a bar," implying they are the same individual.
+- Both the premise and hypothesis refer to the same man engaged in the activity of playing billiards.

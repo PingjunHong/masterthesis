@@ -1,0 +1,8 @@
+- Several women refers to a bunch of women.
+- The group of women in both statements refers to the same women playing volleyball.
+- The word "several" in the premise and "a bunch" in the hypothesis both refer to the women playing volleyball.
+- Women in both the premise and hypothesis are the same group involved in playing volleyball.
+- The demonstrative "several" corresponds to the demonstrative "a bunch" in reference to the women playing volleyball.
+- Both "several" and "a bunch" refer to the same number of women playing volleyball.
+- The pronoun "women" in the premise and hypothesis refers to the identical group participating in the volleyball game.
+- The phrase "playing volleyball" applies to the same group described as "several women" and "a bunch of women."

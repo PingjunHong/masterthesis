@@ -1,0 +1,5 @@
+1. The man in the black wetsuit refers to the same individual as the man in the statement, but one is described as walking out of the water while the other is described as laying on the beach, indicating a contradiction in actions.
+2. The singular man in both the premise and statement must refer to the same person, yet he cannot be both walking out of the water and laying on the beach simultaneously.
+3. The reference to the man in the black wetsuit cannot also refer to a man laying on the beach as these are mutually exclusive locations.
+4. The premise refers to the man performing an action of walking, whereas the statement refers to a man being stationary, which cannot occur at the same time for the same individual.
+5. The pronoun "the man" in both sentences implies they refer to the same person, yet their described activities contradict each other.

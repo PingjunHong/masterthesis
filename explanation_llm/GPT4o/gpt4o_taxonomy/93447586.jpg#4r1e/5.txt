@@ -1,0 +1,10 @@
+1. The premise mentions a woman doing gymnastics on a balance beam, which is one type of gymnastics equipment, but it does not specify if she is using any other equipment.
+2. The statement is supported by the premise since a balance beam is a type of gymnastics equipment, so the use of equipment is entailed.
+3. The premise does not refute the idea that the balance beam is gymnastics equipment, making the statement logically supported.
+4. The absence of other gymnastics equipment in the premise does not affect the entailment, as the balance beam alone is sufficient to satisfy the statement.
+5. The premise does not introduce any new information that contradicts the use of gymnastics equipment, ensuring the statement's validity.
+6. The focus on the balance beam in the premise aligns with the statement's claim about gymnastics equipment, confirming entailment.
+7. There is no mention of any absence of equipment use in the premise, so the statement remains entailed.
+8. The premise describes an activity inherently involving equipment, matching the statement's implication of equipment use.
+9. The woman using the balance beam directly supports the notion of using gymnastics equipment as stated.
+10. The premise does not provide any details that negate the use of gymnastics equipment, supporting the statement's truth.

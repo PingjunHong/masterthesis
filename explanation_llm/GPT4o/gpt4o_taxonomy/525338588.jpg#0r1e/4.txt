@@ -1,0 +1,10 @@
+1. If people are standing outside of a building, then they are not inside the building.
+2. Standing outside implies being outside the confines of the building, thus not inside.
+3. Talking to each other outside indicates their position is external to the building.
+4. The premise specifies the location as outside, logically excluding the inside as their current location.
+5. The term "outside" inherently contrasts with "inside," confirming their position is not within the building.
+6. Being outside of a place implies the absence from within that place.
+7. The description of people outside logically contradicts the notion of them being inside.
+8. The premise's mention of "outside of a place" logically denotes the absence from the interior.
+9. If many people are outside, the interior of the building does not include them.
+10. "Outside" as described in the premise ensures their location is not inside the building.

@@ -1,0 +1,8 @@
+1. "Seven men and women are in a yellow boat" is a syntactic rephrasing that does not convey the same meaning as "A group of seven individuals wearing rafting gear, white water raft down a river," because the color of the boat is specified but does not denote the activity of rafting down a river.
+2. The description of "Seven men and women are in a yellow boat" lacks the detail of rafting gear and the action of rafting down a river, showing structural alteration with different meaning.
+3. The premise mentions "a group of seven individuals wearing rafting gear," whereas the hypothesis shifts the focus to "seven men and women" in a boat, which changes the emphasis without confirming the same activity or setting.
+4. The hypothesis structurally alters the premise by specifying the boat color as "yellow," which does not appear in the premise, resulting in a rephrasing with different details.
+5. The premise involves the activity of "white water rafting down a river," which is not explicitly mirrored in the hypothesis, indicating syntactic alternation that does not preserve the original meaning.
+6. The premise's description of "wearing rafting gear" is not matched in the hypothesis, which instead mentions "seven men and women in a yellow boat," altering the syntactic structure without retaining the same meaning.
+7. The premise includes the action "white water raft down a river," while the hypothesis provides a static image of people in a boat, representing a structural rephrasing without equivalent content.
+8. The hypothesis's focus on "seven men and women" in a "yellow boat" does not incorporate the premise's elements of rafting gear or river activity, showing syntactic-level rephrasing with a shift in meaning.

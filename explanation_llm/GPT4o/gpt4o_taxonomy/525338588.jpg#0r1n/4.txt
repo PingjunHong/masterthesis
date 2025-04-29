@@ -1,0 +1,10 @@
+1. The premise does not specify whether the building is a work building or what the purpose of the building is.
+2. The premise describes people talking outside, but does not indicate whether they intend to go inside the building.
+3. The premise does not provide any temporal information about whether the people will enter the building after their conversation.
+4. The premise mentions people talking, but does not include details about the nature or topic of their conversation.
+5. The premise does not imply any relationship between the people standing outside and the building they are in front of.
+6. The sign 'HI-POINTE' does not inherently suggest that the building is associated with work or employment.
+7. The premise does not include any details about the people's activities prior to the conversation.
+8. The premise does not indicate whether the people are employees or have any reason to enter the building.
+9. The premise simply describes a location and activity without connecting the activity to a future action related to the building.
+10. There is no indication in the premise that the people standing outside have any specific plans or intentions regarding entering the building.

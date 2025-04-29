@@ -1,0 +1,8 @@
+1. If people are standing outside, then they are not sitting inside.
+2. If people are outside a building, then they cannot be in the lobby of that building at the same time.
+3. The action of standing outside implies that they are not located inside the hotel lobby.
+4. The location described as outside contradicts the location described as the hotel lobby, which is inside.
+5. Being in front of a building negates the possibility of being in an interior space such as a lobby.
+6. If people are talking to each other outside, they cannot simultaneously be sitting in an indoor area like a lobby.
+7. The presence of a sign outside indicates an external environment, differing from an indoor location like a lobby.
+8. The description of standing contradicts the action of sitting, which is implied by being in a lobby.

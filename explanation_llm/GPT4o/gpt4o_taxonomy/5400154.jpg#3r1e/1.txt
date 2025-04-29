@@ -1,0 +1,7 @@
+- People in the boat refers to the two men standing in the boat.
+- Some people in the boat includes the two men mentioned in the premise.
+- "Some people" in the statement refers to the "two men" in the premise.
+- The people standing in the boat are the two men described in the premise.
+- The reference to "people" in the statement is resolved by the "two men" in the premise.
+- "Some people" in the hypothesis is a generalization of the "two men" mentioned in the premise.
+- The men in the boat are the people mentioned in the statement.

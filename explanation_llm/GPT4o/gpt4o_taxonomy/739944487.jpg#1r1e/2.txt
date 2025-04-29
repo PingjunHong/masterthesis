@@ -1,0 +1,6 @@
+1. "Rowboat" and "wooden object" are not necessarily synonymous; a rowboat is a specific type of boat that is often made of various materials, not exclusively wood.
+2. "Ocean" and "water" are not synonymous; the ocean is a specific type of body of water, whereas "water" is more general and could refer to any water body.
+3. "Group" and "bunch" can refer to similar concepts, but do not imply the same size or organization, leading to a neutrality in specificity.
+4. The presence of "seagulls" in the premise is not addressed in the hypothesis, which omits this detail, making it neutral.
+5. The premise specifies "surrounded by seagulls," which is not captured in the hypothesis, showing a lack of synonymy or negation that affects neutrality.
+6. The premise specifies "in a rowboat," which implies movement or activity, while the hypothesis merely states "on the water," lacking the specific semantic meaning of being in a rowboat.

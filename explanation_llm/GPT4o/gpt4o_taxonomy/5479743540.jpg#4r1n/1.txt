@@ -1,0 +1,8 @@
+1. "A skateboarding youth" refers to the young person performing the trick, but "a young boy" in the statement could refer to a different person.
+2. The reference "his friends" in the statement does not clearly map to any entity mentioned in the premise.
+3. "A skateboarding youth" does not specify the age or gender, whereas "a young boy" suggests a specific age and gender, leading to ambiguity in coreference.
+4. The action "does a trick on a rail" in the premise does not specify an audience, whereas the statement introduces "his friends," creating a reference discrepancy.
+5. "A trick on a rail" in the premise does not indicate the presence of friends, which is a key element in the statement, leading to unresolved references.
+6. The term "showing his new skateboard tricks" suggests a demonstration to others, which is not implied or referenced in the premise.
+7. The skateboarder's action in the premise lacks a reference to "new" tricks, which is a specific detail in the statement that is not accounted for.
+8. The phrase "a skateboarding youth" does not necessarily imply the context of showing tricks, which is central to the statement but unreferenced in the premise.

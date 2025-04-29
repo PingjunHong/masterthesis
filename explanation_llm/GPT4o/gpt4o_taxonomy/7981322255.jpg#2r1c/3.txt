@@ -1,0 +1,10 @@
+1. "A man is juggling baseballs" is a structural rephrasing that contradicts "A pro-baseball pitcher sends a curve ball," as the actions of juggling and pitching are mutually exclusive.
+2. "Fans look on upset" contradicts the original description where "many fans relax and enjoy the game."
+3. The premise suggests a structured sporting event with a pitcher and opponent, while the hypothesis implies a performance or act with "juggling," altering the scenario entirely.
+4. The roles and actions in "A man is juggling baseballs" do not align with the competitive and professional context of "A pro-baseball pitcher sends a curve ball."
+5. The emotional states of the fans differ structurally between "relax and enjoy" and "look on upset," showing a contradiction.
+6. The setting indicated by "while many fans relax and enjoy the game" is rephrased contradictorily by "while fans look on upset."
+7. The singular "A man" in the hypothesis rephrases the professional context of "A pro-baseball pitcher" incorrectly, as the latter specifies a professional role.
+8. The concept of "sends a curve ball to his opponent" directly contradicts "juggling baseballs," as these are distinct actions not typically rephrased from one another in context.
+9. The hypothesis suggests an informal and chaotic activity through "juggling," whereas the premise describes a formal sport, indicating a structural contradiction.
+10. The structural implication of enjoyment in the game is contradicted by the rephrasing to an upset audience.

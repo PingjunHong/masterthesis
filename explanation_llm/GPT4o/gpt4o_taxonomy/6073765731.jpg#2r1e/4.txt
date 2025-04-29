@@ -1,0 +1,10 @@
+1. The premise states that a lady is assisting another woman in work, which directly implies that the lady is helping the woman work.
+2. The premise explicitly mentions that the lady is involved in helping activities, thus confirming she is helping another woman work.
+3. The statement "A lady is helping another woman work" is a direct subset of the information provided in the premise.
+4. The action of helping is explicitly described in the premise, ensuring the hypothesis is supported.
+5. The premise describes an interaction where assistance is given, logically entailing that helping is occurring.
+6. The phrase "helping another woman work" is explicitly contained within the broader context of the premise.
+7. The premise's assertion about work in a compartment inherently involves the lady's help, fulfilling the statement.
+8. The premise's structure implies a helper and a recipient of help, directly aligning with the hypothesis.
+9. The premise depicts a scenario of cooperation in work, naturally entailing that help is provided.
+10. The action of assisting, as mentioned in the premise, logically aligns with the statement of helping.

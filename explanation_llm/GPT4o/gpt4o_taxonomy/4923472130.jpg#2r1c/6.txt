@@ -1,0 +1,6 @@
+1. Red is not green.
+2. A red shirt is not a green shirt.
+3. The person cannot be wearing both a red and a green shirt simultaneously.
+4. The shirt color cannot be both red and green at the same time.
+5. The statement about wearing a green shirt contradicts the red shirt described in the premise.
+6. A red shirt excludes the possibility of a green shirt being worn.

@@ -1,0 +1,5 @@
+1. The statement "A bunch of people are in a wooden object on the water" changes the specificity of the premise by using "a wooden object" instead of "a rowboat" and "water" instead of "ocean," which alters the meaning.
+2. The premise specifies "in the ocean surrounded by seagulls," while the statement generalizes to "on the water," lacking details about the specific location and surrounding elements.
+3. The premise describes "a group of people" and "in a rowboat," whereas the statement uses "a bunch of people" and "wooden object," altering the structural elements and specificity.
+4. The syntactic structure "are in a rowboat in the ocean" is rephrased in the statement as "are in a wooden object on the water," changing specific structural details.
+5. Coordination of details in the premise ("in a rowboat in the ocean surrounded by seagulls") is simplified in the statement ("in a wooden object on the water"), losing specific information about the environment.

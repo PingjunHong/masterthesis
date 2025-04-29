@@ -1,0 +1,9 @@
+1. The phrase "A basketball player with green shoes is dunking the ball in the net" does not structurally rephrase to "A famous NBA player is playing street ball".
+2. "Dunking the ball in the net" describes an action within a structured game, whereas "playing street ball" implies a casual or informal setting, which cannot be rephrased syntactically from the given premise.
+3. "While the arena crowd looks on" suggests a formal game setting, whereas "in front of a crowd" in the hypothesis lacks specificity and cannot be directly rephrased from the premise.
+4. "A famous NBA player" introduces new information about the player's notoriety, which is not syntactically rephrased from "A basketball player with green shoes".
+5. The premise focuses on the action of dunking in an arena, while the hypothesis shifts to street ball, a change in context that cannot be captured through syntactic alternation.
+6. There is no structural rephrasing that equates "arena crowd looks on" with "playing street ball in front of a crowd".
+7. The concept of "green shoes" cannot be syntactically rephrased to indicate "a famous NBA player".
+8. The premise implies a professional setting, whereas the hypothesis implies a casual setting; these concepts are not interchangeable through syntactic coordination or subordination.
+9. The player's action "dunking the ball" cannot be rephrased to "playing street ball" without altering the meaning.

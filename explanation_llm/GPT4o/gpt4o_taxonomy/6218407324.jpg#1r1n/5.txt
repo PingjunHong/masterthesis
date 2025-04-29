@@ -1,0 +1,10 @@
+1. The premise does not specify the gender of the individuals, so we cannot conclude they are men and women.
+2. The premise does not state the color of the raft, so we cannot assume it is yellow.
+3. The premise mentions a group of seven individuals but does not specify they are in a boat, only that they are white water rafting.
+4. The premise does not mention a boat, so we cannot assume the individuals are in a boat.
+5. The premise only describes individuals wearing rafting gear, which does not confirm the presence of both men and women.
+6. The premise does not specify the type of watercraft used, only that they are rafting down a river.
+7. The premise does not provide information about the color of any equipment used, including the raft or boat.
+8. The premise does not mention the composition or diversity of the group, so we cannot assume a mix of genders.
+9. The premise does not mention any specific details about the boat, such as its color or type, so these details are not supported.
+10. The premise only describes the activity (rafting) and the gear worn, not the specific characteristics (like the gender) of the individuals involved.

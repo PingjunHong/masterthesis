@@ -1,0 +1,10 @@
+1. The premise describes a boy sleeping, not engaging in any physical activity, so there is no mention of playing soccer.
+2. The premise focuses on a boy in bed, which does not imply any outdoor or active scenario like playing soccer.
+3. The details in the premise about the boy’s activity are limited to sleeping, with no indication of being awake or involved in sports.
+4. The premise provides a context of rest and inactivity, contradicting the active nature required for playing soccer.
+5. The setting described in the premise is indoors and restful, lacking any elements associated with a soccer game, such as a field or ball.
+6. The premise emphasizes a state of sleep, which inherently contradicts the active and conscious state needed for playing soccer.
+7. The hypothesis introduces an activity (playing soccer) that is entirely absent from the premise, which focuses solely on the boy’s sleep.
+8. There is no mention of a soccer ball, field, or any related soccer activity in the premise, making the hypothesis unsupported.
+9. The premise indicates the boy is in pajamas, suggesting bedtime rather than being dressed for or engaged in sports.
+10. The premise does not include any indication of movement or activity that would support the hypothesis of playing soccer.

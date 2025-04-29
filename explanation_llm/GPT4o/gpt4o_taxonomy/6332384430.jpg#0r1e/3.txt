@@ -1,0 +1,8 @@
+- A man is wearing a red belt is a rephrase of a black man wearing a red belt.
+- The presence of a black man wearing a red belt confirms that a man is wearing a red belt.
+- The statement a man is wearing a red belt is a syntactic alternation of a black man wearing a red belt.
+- The phrase a man wearing a red belt is included in the premise a black man wearing a red belt.
+- The structural rephrasing in a man is wearing a red belt is evident from the premise describing a black man wearing a red belt.
+- Coordination of the phrase a man is wearing a red belt with the premise indicates an entailment based on the description of a black man wearing a red belt.
+- Subordination of the detail a man is wearing a red belt under the broader premise about a black man wearing a red belt confirms entailment.
+- The wording a man is wearing a red belt captures the essential meaning of the premise's description of a black man wearing a red belt.

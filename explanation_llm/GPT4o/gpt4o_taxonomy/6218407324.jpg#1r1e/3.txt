@@ -1,0 +1,9 @@
+1. The statement "There are people in an inflatable boat" is a rephrase of "A group of seven individuals wearing rafting gear, white water raft down a river," as white water rafting typically involves inflatable rafts.
+2. The premise mentions "white water raft," which implies the use of an inflatable boat, thus aligning with the statement "There are people in an inflatable boat."
+3. "Individuals wearing rafting gear" suggests they are engaging in rafting, which involves an inflatable boat, matching the statement.
+4. The activity of "rafting down a river" inherently includes being in an inflatable boat, as stated in the hypothesis.
+5. "A group of seven individuals" indicates people, which corresponds to "There are people" in the statement.
+6. The phrase "rafting gear" in the premise suggests the use of a raft, which is typically inflatable, corresponding to the statement.
+7. "White water raft" and "inflatable boat" refer to the same kind of vessel used for rafting, showing a structural rephrasing.
+8. "A group of seven individuals" implies a number of people, which is consistent with the statement that mentions "people."
+9. The context of "rafting down a river" directly involves using an inflatable boat, thus supporting the hypothesis.

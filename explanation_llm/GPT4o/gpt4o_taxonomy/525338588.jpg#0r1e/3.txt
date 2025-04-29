@@ -1,0 +1,7 @@
+1. The group of people aren't inside the building is a rephrase of, Many people standing outside of a place talking to each other in front of a building.
+2. The phrase "Many people standing outside" structurally suggests that the people are not inside the building, hence The group of people aren't inside of the building is an entailment.
+3. Standing outside implies not being inside; therefore, the statement The group of people aren't inside of the building is a syntactic alternation confirming the premise.
+4. The description of people being outside in front of a building entails that they are not inside, as rephrased in The group of people aren't inside of the building.
+5. The syntactic structure of "standing outside" aligns with the meaning of "aren't inside," making The group of people aren't inside of the building a valid entailment.
+6. The premise's depiction of people outside a place supports the hypothesis that The group of people aren't inside of the building through structural inference.
+7. The rephrasing of being outside as not being inside is a syntactic alternation, thus The group of people aren't inside of the building is entailed.

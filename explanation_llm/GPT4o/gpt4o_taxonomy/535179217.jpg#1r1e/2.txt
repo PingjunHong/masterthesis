@@ -1,0 +1,8 @@
+1. The phrase "people are standing" directly indicates that "the people are standing."
+2. The concept of "near water" does not negate the fact that "the people are standing."
+3. The presence of a "boat heading their direction" does not alter the state of the people standing.
+4. The word "standing" in "people are standing near water" confirms the action described in "The people are standing."
+5. The context of "near water with a boat heading their direction" does not change the meaning of "the people are standing."
+6. The verb "are standing" in the premise aligns with the verb "are standing" in the hypothesis.
+7. No additional conditions in the premise contradict the people standing.
+8. Semantic equivalence between "people are standing" and "the people are standing."

@@ -1,0 +1,7 @@
+1. The premise states there is a boat heading in the direction of people standing near water, but it does not specify the size or color of the boat, so the hypothesis introducing "large blue boat" cannot be inferred logically from the premise alone.
+2. The hypothesis adds specific descriptive details about the boat's size and color, which are not mentioned in the premise, making it impossible to logically derive those details from the given information.
+3. The structure of the premise only provides information about the presence of a boat and its direction, without any mention of its attributes like size or color, hence the hypothesis remains neutral due to lack of explicit specification.
+4. The hypothesis assumes additional characteristics of the boat that are not covered in the premise, and since these characteristics are not logically implied by the structure of the premise, the relationship is neutral.
+5. There is no semantic indication in the premise regarding the boat's size or color, which prevents drawing a conclusive inference about these aspects, maintaining a neutral stance.
+6. The premise merely establishes a scenario involving people, water, and a boat's movement, without any logical implications about the boat's appearance, leaving the hypothesis as an unsupported embellishment.
+7. The absence of any indicators of size or color in the premise means the hypothesis's additional details do not logically follow from the information provided, classifying the statement as neutral.

@@ -1,0 +1,8 @@
+1. The woman in a black outfit refers to the woman described as being asleep.
+2. The sunlight through a large window refers to the light filtering in from outside.
+3. The moonlight in the statement refers to the sunlight in the premise.
+4. The window mentioned is the same in both the premise and hypothesis.
+5. The woman lying face first on a yoga mat refers to the woman who is asleep.
+6. The light filtering through the window during the day is the same window mentioned in the hypothesis where moonlight is described.
+7. The reference to moonlight filtering in the window contradicts the sunlight shining through the window.
+8. The woman in the premise is active (lying face first) which contradicts the state of being asleep in the hypothesis.

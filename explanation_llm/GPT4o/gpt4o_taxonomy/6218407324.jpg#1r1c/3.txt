@@ -1,0 +1,6 @@
+1. The statement "The man has fallen out of the boat" implies an individual is no longer in the raft, whereas the premise describes a group of individuals actively rafting, with no mention of anyone falling out.
+2. The premise mentions a group of seven individuals wearing rafting gear, which suggests all individuals are still in the raft, contradicting the idea in the statement that a man has fallen out.
+3. The premise describes the group as "rafting down a river," implying they are all in the raft, contradicting the statement that suggests one individual is not.
+4. The statement "The man has fallen out of the boat" suggests a change in state (from being in the raft to out of it) not supported by the premise, which maintains the group is rafting together.
+5. The premise consistently describes a cohesive group activity ("rafting down a river"), which contradicts the statement’s scenario of one person falling out.
+6. The premise does not support the scenario of an individual being separated from the group or the raft, as implied in the statement.

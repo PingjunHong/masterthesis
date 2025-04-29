@@ -1,0 +1,7 @@
+- "No one seems to be looking at" implies a lack of interest, which matches "not many people seem to be interested in."
+- "A statue at a museum" is a specific example of "a statue."
+- "No one" is a stronger form of "not many people," indicating a similar sense of rarity or lack.
+- "Seems to be looking at" is an indirect way of expressing interest, aligning with "seem to be interested in."
+- The phrase "not many people" is semantically similar to "no one," suggesting minimal attention.
+- "A museum" is a setting where statues are commonly found, reinforcing the context of "a statue."
+- "No" in the premise and "not many" in the hypothesis both indicate a small or nonexistent number, maintaining consistency in meaning.

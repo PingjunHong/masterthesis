@@ -1,0 +1,10 @@
+1. A player is waiting is a rephrase of the female softball player crouching in the infield, waiting for the next play.
+2. The premise describes a female softball player who is waiting for the next play, which syntactically rephrases to a player is waiting.
+3. The sentence a player is waiting captures the action described in the premise as the player crouches in anticipation of the next play.
+4. The hypothesis simplifies the premise by focusing on the core action, which is the player waiting.
+5. The structural rephrasing from a detailed description of the player's position and attire to a player is waiting maintains the same meaning.
+6. The premise's description of the player’s activity in the infield, waiting for the next play, can be syntactically rephrased to a player is waiting.
+7. A player is waiting captures the essential meaning of the premise, which involves the player in a waiting position for the next play.
+8. The hypothesis is a syntactic alternation of the premise by removing specific details while preserving the meaning that a player is in a waiting position.
+9. The act described in the premise of the player crouching in anticipation is structurally rephrased as a player is waiting.
+10. The sentence a player is waiting simplifies the premise while keeping the meaning intact through syntactic rephrasing.

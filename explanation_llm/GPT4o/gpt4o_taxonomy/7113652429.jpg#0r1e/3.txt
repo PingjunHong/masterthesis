@@ -1,0 +1,6 @@
+Four men play drums is a rephrase of Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.
+Both sentences describe the same activity of four men playing drums.
+The main action of four men playing drums is preserved in both the premise and the hypothesis.
+The hypothesis is a syntactic reduction of the premise, focusing on the core action: playing drums.
+The premise provides additional details, but the essential action of playing drums by four men is unchanged in the hypothesis.
+The premise and hypothesis convey the same meaning regarding the activity of the men.

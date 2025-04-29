@@ -1,0 +1,10 @@
+- Spectators are present, indicating the streets are not empty.
+- The presence of spectators implies the streets are populated.
+- People lining the street contradicts the idea of emptiness.
+- Spectators lining the street means there are people on the streets.
+- Streets cannot be empty if there are spectators present.
+- An event with spectators suggests the streets are not devoid of people.
+- The presence of a competition with spectators contradicts the streets being empty.
+- Streets are not empty when there are people watching a runner.
+- Spectators indicate activity and presence on the streets.
+- Streets lined with spectators are not considered empty.

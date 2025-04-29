@@ -1,0 +1,10 @@
+1. Sitting in front of a graffiti-covered wall implies there's a place to sit near a wall.
+2. A person sitting indicates the presence of a place to sit near a wall.
+3. Being in front of a wall suggests that there is a place available to sit near it.
+4. The presence of a person sitting implies a place to sit is available near the wall.
+5. A location to sit near a wall is suggested by someone sitting in front of it.
+6. The existence of a place to sit is inferred from a person being seated near a wall.
+7. Sitting in front of a wall indicates the availability of a place to sit near it.
+8. The act of sitting in front of a graffiti-covered wall confirms there's a place to sit near the wall.
+9. If a person is sitting, then there must be a place to sit near the wall.
+10. A wall near where a person is sitting suggests there is a place to sit.

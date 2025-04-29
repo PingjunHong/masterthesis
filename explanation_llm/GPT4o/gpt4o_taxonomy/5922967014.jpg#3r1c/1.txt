@@ -1,0 +1,8 @@
+1. The boys in the statement refers to the three young boys in the premise.
+2. The boys enjoying a day at the beach indicates they are awake and active, which contradicts the statement that they are sleeping.
+3. The reference to the boys indicates they are participating in beach activities, not sleeping.
+4. The boys in the premise are described as enjoying a day at the beach, implying they are awake, which contradicts the statement that they are sleeping.
+5. The term 'the boys' is coreferentially linked in both premise and statement, but their described activities (enjoying vs. sleeping) are contradictory.
+6. The premise refers to the boys as being engaged in an activity, while the statement claims they are asleep, resolving the coreference leads to a contradiction.
+7. Resolving the reference to 'the boys' shows a contradiction between being active at the beach and being asleep.
+8. The reference to the boys in both the premise and the statement indicates the same group; however, their states of activity and sleep are contradictory.

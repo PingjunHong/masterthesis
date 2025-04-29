@@ -1,0 +1,8 @@
+- A youth is synonymous with a young person.
+- A skateboarding youth implies the presence of a skateboard.
+- Doing a trick on a rail is an activity done on a skateboard, confirming the presence of a skateboard.
+- A skateboarding youth inherently involves a skateboard, which aligns with a young person on a skateboard.
+- The term "youth" in the premise is equivalent to "young person" in the hypothesis.
+- Skateboarding is an activity that requires a skateboard.
+- The use of "youth" indicates a person who is young, aligning with "young person."
+- The phrase "does a trick" suggests the use of a skateboard, confirming that the young person is on a skateboard.

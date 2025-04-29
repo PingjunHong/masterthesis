@@ -1,0 +1,10 @@
+1. A young boy in the statement refers to the young boy wearing a red shirt and jeans in the premise.
+2. Playing in the field in the statement is linked to stands in the middle of a field and throws a toy plane in the air in the premise.
+3. The field in the statement refers to the field mentioned in the premise.
+4. The action of playing in the statement is related to the action of throwing a toy plane in the air in the premise.
+5. The young boy in the statement is the same individual as the young boy in the red shirt and jeans in the premise.
+6. The field in the statement is the same as the middle of a field in the premise.
+7. The activity of playing in the statement corresponds to the activity of throwing a toy plane in the premise.
+8. The young boy mentioned in the statement is the one described as standing in the field in the premise.
+9. Field in the statement resolves to the field described where the boy is throwing a toy plane in the premise.
+10. Playing in the field in the statement resolves to the boy engaging with the toy plane in the premise.

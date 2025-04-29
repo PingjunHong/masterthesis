@@ -1,0 +1,10 @@
+1. The premise mentions individuals wearing rafting gear, but the hypothesis specifies they are in a yellow boat, which is not stated in the premise.
+2. The premise only states "a group of seven individuals," without specifying gender, whereas the hypothesis mentions "men and women."
+3. The activity mentioned in the premise is "white water rafting," which is distinct from merely sitting in a boat as suggested by the hypothesis.
+4. The premise does not specify the color of the rafting equipment or boat, while the hypothesis specifies a yellow boat.
+5. The premise describes the individuals as wearing rafting gear, but the hypothesis makes no mention of their attire or gear.
+6. The premise involves rafting on a river, while the hypothesis merely mentions being in a boat, which could imply a different setting or activity.
+7. The hypothesis specifies "men and women," introducing a gender specification not present in the premise.
+8. The premise indicates a rafting activity which implies movement, whereas the hypothesis does not explicitly state the activity being conducted.
+9. The premise does not confirm the actual number of men versus women, while the hypothesis suggests the presence of both genders.
+10. The premise sets a scene on a river, but the hypothesis does not confirm the location.

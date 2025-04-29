@@ -1,0 +1,8 @@
+The man refers to the man wearing a gray ball cap.
+The gray cap refers to the gray ball cap.
+The man in the statement is the same individual as the man wearing a gray ball cap in the premise.
+Gray cap in the statement corresponds to gray ball cap in the premise.
+The man in the hypothesis is the same man described in the premise.
+The gray cap mentioned in the hypothesis is the gray ball cap worn by the man in the premise.
+The man wearing a gray cap in the statement is the man wearing a gray ball cap in the premise.
+The reference to the man in the statement is the same as the man described wearing a gray ball cap in the premise.

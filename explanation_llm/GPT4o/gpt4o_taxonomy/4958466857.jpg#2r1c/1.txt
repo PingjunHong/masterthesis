@@ -1,0 +1,7 @@
+1. The statement "Two men own homes" implies that the men referenced have homes, whereas the premise refers to "Two homeless men," indicating they do not own homes.
+2. The two men mentioned in the hypothesis are referred to as "homeless" in the premise, creating a contradiction when saying they own homes.
+3. The phrase "Two men" in the statement is resolved to mean the same "two homeless men" described in the premise, leading to a contradiction because homeless men do not own homes.
+4. The coreference between "Two men" in the statement and "Two homeless men" in the premise leads to a contradiction since owning homes contradicts being homeless.
+5. The reference to "men" in both the premise and statement points to the same individuals, but their described statuses (homeless vs. homeowners) are contradictory.
+6. Resolving "Two men" in the statement to "Two homeless men" in the premise reveals a contradiction, as the premise explicitly states the men are homeless, yet the statement claims they own homes.
+7. The hypothesis contradicts the premise because the "Two men" it refers to are established as homeless in the premise, directly opposing the idea of them owning homes.

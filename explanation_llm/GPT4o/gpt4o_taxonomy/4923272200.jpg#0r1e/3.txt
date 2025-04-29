@@ -1,0 +1,8 @@
+- A man is playing an instrument on the street near other people is a rephrase of A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.
+- Playing the saxophone is an instance of playing an instrument, maintaining the core meaning.
+- In the street implies near other people, as the people are sitting on the curb next to the street.
+- Some people sitting on the curb next to the street by him can be structurally rephrased as near other people.
+- The saxophone is a type of instrument, preserving the original meaning of playing the saxophone.
+- The structure of playing the saxophone in the street is syntactically equivalent to playing an instrument on the street.
+- The phrase "next to the street by him" is a structural alternation of "near other people."
+- The clause "A man is playing the saxophone" is an alternation of "A man is playing an instrument."

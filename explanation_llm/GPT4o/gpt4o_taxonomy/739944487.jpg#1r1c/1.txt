@@ -1,0 +1,8 @@
+1. "A group of people" in the premise refers to the people in the rowboat, while in the hypothesis it refers to people inside watching a hockey game.
+2. "In a rowboat in the ocean" in the premise conflicts with "inside watching a hockey game" in the hypothesis.
+3. The reference to "surrounded by seagulls" in the premise is inconsistent with being "inside" in the hypothesis.
+4. The location implied by "in the ocean" is resolved differently than the location implied by "inside."
+5. "Rowboat" in the premise suggests an outdoor, water-based setting, which contradicts "watching a hockey game inside" in the hypothesis.
+6. The term "people" in both statements refers to different contexts, one outdoors and one indoors.
+7. "Surrounded by seagulls" implies an outdoor environment, conflicting with the indoor setting of watching a hockey game.
+8. The setting "in the ocean" in the premise is incompatible with the indoor activity described in the hypothesis.

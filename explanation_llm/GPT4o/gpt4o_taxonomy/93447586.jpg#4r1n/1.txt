@@ -1,0 +1,8 @@
+1. "She" in the premise refers to the woman doing gymnastics.
+2. The action "doing gymnastics" in the premise does not specify the type of gymnastics move being performed, whereas the hypothesis specifies a "handstand."
+3. The premise mentions "using the balance beam," but does not specify the action being performed on it.
+4. The hypothesis specifies "doing a handstand," which is not directly mentioned or implied in the premise.
+5. The premise and hypothesis both refer to the same woman, but the specific actions described differ.
+6. The hypothesis introduces the specific action of a "handstand," which is additional information not confirmed by the premise.
+7. The coreference "she" in the premise is resolved to the same woman mentioned in the hypothesis, but the specific gymnastics move is not resolved.
+8. The premise simply indicates "using the balance beam" without clarifying what specific move is being executed, leading to neutrality regarding the handstand claim.

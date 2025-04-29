@@ -1,0 +1,10 @@
+1. There is no mention of any activity such as dancing or singing in the premise.
+2. The premise describes a person standing in a crowd, but does not provide any indication of dancing or singing taking place.
+3. The hypothesis introduces actions that are not mentioned in the premise, leaving them unsupported.
+4. The premise focuses on the appearance and location of the person, without any reference to performing arts.
+5. The presence of a crowd outdoors does not imply that the person with blue hair is engaged in dancing or singing.
+6. There is no evidence in the premise to suggest that the person is involved in any musical or dance activity.
+7. The hypothesis suggests activities that are not described or inferred from the premise.
+8. The description of the person in the premise does not include any actions related to music or dance.
+9. The premise does not provide information about the person's actions, making the hypothesis unsupported.
+10. The hypothesis assumes activities that are not evidenced by the details given in the premise.

@@ -1,0 +1,8 @@
+1. The term "youth" in the premise does not specify gender, whereas "young boy" in the hypothesis specifies male gender, creating a difference in meaning.
+2. The premise mentions the action "does a trick on a rail," while the hypothesis describes "showing tricks to friends," which implies a social context not present in the premise.
+3. The premise refers to "a rail" as part of the trick, but the hypothesis does not mention any specific equipment or location, leading to a mismatch in details.
+4. The premise uses the word "youth" which can refer to individuals of various ages, whereas the hypothesis uses "young boy," suggesting a narrower age range.
+5. "Showing tricks to friends" in the hypothesis implies an audience and a social setting, which is not mentioned in the premise.
+6. "New skateboard tricks" in the hypothesis suggests novelty or recent acquisition, which is not indicated by the premise.
+7. The premise does not mention "friends," which is a key part of the social interaction described in the hypothesis.
+8. "Skateboarding youth" in the premise implies a general activity, while "showing tricks" in the hypothesis suggests a specific intention and purpose.

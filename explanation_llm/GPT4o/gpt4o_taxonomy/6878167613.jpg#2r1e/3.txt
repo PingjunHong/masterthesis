@@ -1,0 +1,6 @@
+The golfer is getting ready to putt on the green, with a crowd watching in the background is a rephrase of, A golfer is getting ready to putt on the green, with a crowd of people watching in the background.
+The statement omits "of people," which doesn't change the meaning and remains a syntactic rephrasing of the premise.
+The phrase "crowd watching" is a syntactic alternation of "crowd of people watching," maintaining the same meaning.
+The statement uses a slightly different sentence structure while preserving the original meaning of the premise.
+"Getting ready to putt on the green" is structurally the same in both the premise and the statement, showing syntactic-level inference.
+The statement and premise both describe the same situation using different but equivalent wording.

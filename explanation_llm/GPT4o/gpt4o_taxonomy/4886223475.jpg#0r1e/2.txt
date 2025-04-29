@@ -1,0 +1,10 @@
+1. Riding a bike is a more general activity that includes the specific action described in the premise.
+2. The phrase "a man in a one piece tunic" specifies the man, but does not alter the fact that he is riding a bike.
+3. The action of riding a bike is explicitly stated in both the premise and the hypothesis.
+4. The additional details about the tunic, sandstone wall, and touching his nose do not contradict the action of riding a bike.
+5. The premise describes a scene where riding a bike is the primary action, which directly supports the hypothesis.
+6. The verb "riding" in both the premise and hypothesis confirms the same action is taking place.
+7. The premise's mention of a bike entails the presence of bike-riding activity.
+8. The hypothesis is a generalization of the action described in the premise.
+9. The premise provides more information but does not negate the statement that the man is riding a bike.
+10. The activity in the hypothesis is a necessary component of the scenario given in the premise.

@@ -1,0 +1,8 @@
+1. "An Asian man" in the statement refers to "An Asian" in the content.
+2. "Pushing a cart up the street" in the statement refers to "pushing his cart up the street" in the content.
+3. The pronoun "his" in the content refers back to "An Asian," clarifying the subject as male.
+4. The implied subject of the action "pushing" in the statement is resolved as "An Asian" in the content.
+5. The phrase "up the street" is a common element in both the premise and hypothesis, indicating the same action location.
+6. "An Asian" in the content is clarified as "An Asian man" in the statement through the implicit understanding of gender from the context.
+7. The determiner "his" in the content, when resolved, confirms that the cart belongs to the Asian man mentioned in the statement.
+8. The content's description of attire and activity matches the statement's identification of the subject as a man, resolving the coreference.

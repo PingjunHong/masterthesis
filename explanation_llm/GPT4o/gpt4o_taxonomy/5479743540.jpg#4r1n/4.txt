@@ -1,0 +1,10 @@
+- The premise mentions a youth doing a trick on a rail, but does not specify that the youth is a boy or that there are friends present.
+- The premise describes a skateboarding youth, which does not logically entail that the youth is showing tricks to anyone.
+- The act of doing a trick does not inherently imply an audience, hence there is no mention of friends in the premise.
+- The premise specifies a trick on a rail but does not indicate that the youth is presenting or demonstrating tricks, which would involve an audience.
+- There is no mention in the premise of the youth having new tricks or a new skateboard, only that a trick is being performed.
+- The premise does not specify the youth's gender, thus it cannot be inferred that it is a young boy.
+- The premise focuses on the action of skateboarding on a rail, lacking any reference to interaction with friends or showing tricks.
+- The premise simply states the activity without providing details about the personal attributes of the youth or the presence of an audience.
+- The structure of the premise describes an individual action, whereas the hypothesis implies a social context not supported by the premise.
+- The semantic content of the premise is about executing a trick, which does not infer the act of showing off or demonstrating to others.

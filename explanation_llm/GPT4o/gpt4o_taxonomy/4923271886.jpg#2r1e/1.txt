@@ -1,0 +1,6 @@
+1. The guy wearing a blue jacket refers to the male in a blue jacket.
+2. The blue jacket mentioned in the hypothesis is the same as the blue jacket in the premise.
+3. The grass in the hypothesis corresponds to the grass in the premise.
+4. The guy in the hypothesis is the male mentioned in the premise.
+5. Wearing a blue jacket in the hypothesis matches the blue jacket described in the premise.
+6. Laying on the green grass in the hypothesis is the same action as deciding to lay in the grass in the premise.

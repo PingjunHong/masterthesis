@@ -1,0 +1,7 @@
+- The phrase "overall wearing people" refers to "the farmers" who "have on their overalls."
+- "Overall wearing people" is a reference to "the farmers" mentioned in the premise.
+- "They" in "they have on their overalls" refers to "the farmers," which connects to "overall wearing people."
+- The "machine" in the premise refers to "a tractor" in the hypothesis.
+- "Their tractor" in the premise and "a tractor" in the hypothesis refer to the same machine being worked on by "the farmers."
+- "The farmers" are "working hard" in the premise, which corresponds to "working" in the hypothesis.
+- The task of fixing "the machine" in the premise is equivalent to "fix a tractor" in the hypothesis.

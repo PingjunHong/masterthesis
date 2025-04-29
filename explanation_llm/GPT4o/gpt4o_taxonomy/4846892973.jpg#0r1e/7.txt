@@ -1,0 +1,10 @@
+1. The premise explicitly mentions six or seven people standing on a pier.
+2. The number of people standing on the pier is the same in both the premise and the hypothesis.
+3. The premise includes the detail of a pier, which matches the location stated in the hypothesis.
+4. The people mentioned in the premise are standing, as also described in the hypothesis.
+5. The pier is the location where the people are standing, consistent between premise and hypothesis.
+6. The premise does not contradict the number of people or their location as stated in the hypothesis.
+7. The presence of people on a pier in the premise directly supports the statement in the hypothesis.
+8. The background detail of a pier is common knowledge; people can stand on piers, which supports the statement.
+9. The premise provides enough factual detail to confirm the statement without additional reasoning.
+10. There is no conflicting information between the premise and the hypothesis regarding the presence of people on a pier.

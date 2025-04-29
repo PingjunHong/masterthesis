@@ -1,0 +1,8 @@
+1. The man in the black wetsuit is walking out of the water is not a structural rephrase of A man in a wetsuit walks out of the water carrying a surfboard, as the latter adds new information about carrying a surfboard.
+2. A man in a wetsuit walks out of the water carrying a surfboard introduces an additional detail not present in The man in the black wetsuit is walking out of the water, making it not a simple syntactic rephrase.
+3. The structural rephrasing focuses on the act of walking out of the water, but the statement also includes carrying a surfboard, which alters the meaning.
+4. Both sentences describe a man in a wetsuit walking out of the water, but the inclusion of carrying a surfboard in the statement means it is not purely a syntactic alternation.
+5. The core action of walking out of the water is shared, but the hypothesis adds the element of a surfboard, which is not simply a structural rephrasing of the premise.
+6. The premise and statement both mention a man in a wetsuit and the action of walking out of the water, but the statement's mention of a surfboard prevents it from being a straightforward syntactic rephrase.
+7. The statement's additional detail of carrying a surfboard means it is not a structural rephrase of the premise, which lacks this detail.
+8. The premise and the statement both discuss exiting the water, yet the added component of the surfboard in the statement means it is not just a rephrasing.

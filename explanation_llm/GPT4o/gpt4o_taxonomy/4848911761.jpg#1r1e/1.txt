@@ -1,0 +1,6 @@
+1. The person in a red jacket in the statement refers to the breakdancer in a red jacket in the premise.
+2. The people watching him in the statement refers to the group of people watching in the premise.
+3. Him in the statement refers to the breakdancer mentioned in the premise.
+4. A person in a red jacket in the statement is the same as the breakdancer in a red jacket in the premise.
+5. The act of people watching him in the statement corresponds to the group of people watching in the premise.
+6. The pronoun him in the statement resolves to the breakdancer in the premise.

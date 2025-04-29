@@ -1,0 +1,10 @@
+- The premise does not mention any fishing activity; standing in a boat does not imply fishing.
+- The premise only specifies that two men are standing, not fishing, so the hypothesis introduces new information.
+- The act of fishing is not supported by the premise; being in a boat does not necessarily mean they are fishing.
+- The number of men is not specified as "a few" in the premise; it only mentions two men.
+- The premise describes the men as standing, which does not entail any action like fishing.
+- The hypothesis includes an action (fishing) that is not mentioned or implied by the premise.
+- The premise does not provide any evidence that fishing is taking place.
+- The premise states "standing," which does not indicate any involvement in fishing activities.
+- The hypothesis adds detail about the men’s activity that is absent from the premise.
+- The premise does not mention the purpose or reason for the men being in the boat, such as fishing.

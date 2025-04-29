@@ -1,0 +1,10 @@
+- The premise describes people standing outside of a building, but does not mention whether they are or aren't inside the building at any point.
+- Absence of evidence in the premise regarding the specific location of the group inside or outside the building.
+- The premise does not provide information about whether the group has entered the building or not, simply noting their presence outside.
+- The premise mentions people outside but lacks explicit detail about their location relative to the building.
+- While people are described as outside in the premise, it does not exclude the possibility that some might also be inside.
+- The premise only describes people talking outside and does not address their presence inside the building.
+- The statement assumes the group is not inside, but the premise doesn't confirm or deny this detail.
+- The premise omits any mention of the group’s presence inside the building, leaving it open to interpretation.
+- The statement introduces the notion of absence inside, which is not directly supported by the premise.
+- The premise provides no insight into whether the group has ever been or will be inside the building.

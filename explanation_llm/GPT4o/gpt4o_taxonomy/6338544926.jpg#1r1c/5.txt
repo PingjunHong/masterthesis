@@ -1,0 +1,8 @@
+- The premise does not mention baseball or a pitcher, so the hypothesis introduces elements not present in the premise.
+- The premise involves American Football, which does not include roles like pitcher or activities such as hitting a baseball.
+- There is no mention of a batter or a baseball in the premise, conflicting with the elements introduced in the hypothesis.
+- The hypothesis discusses an entirely different sport (baseball), which is not referenced in the premise involving American Football.
+- The premise describes actions specific to American Football, whereas the hypothesis describes actions specific to baseball, indicating an absence of related mention.
+- The roles and actions in the hypothesis (pitcher, batter, hitting a baseball) are unrelated to the scenario depicted in the premise.
+- The premise does not entail any actions related to baseball, such as pitching or batting, which negates the hypothesis.
+- The hypothesis introduces a context (baseball) that is not supported by the American Football scenario in the premise.

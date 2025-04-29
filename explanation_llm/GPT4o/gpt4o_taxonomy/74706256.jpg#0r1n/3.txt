@@ -1,0 +1,6 @@
+- The statement "A blond little boy is cutting out little stars for his little sister" introduces additional details not present in the content, such as the act of cutting stars and the purpose of doing it for his sister, which are not syntactic rephrasings of the content.
+- The premise describes a generic activity of the boy using scissors, while the statement specifies the object being cut and the recipient, which involves adding new information rather than structural rephrasing.
+- The content mentions the boy using scissors to cut something, whereas the statement specifies what is being cut and for whom, which is an expansion beyond simple syntactic alternation.
+- The premise does not specify what the boy is cutting or his motivation, making the statement's mention of stars and the sister additional details rather than a structural rephrase.
+- The statement adds specific details about the object and purpose of cutting that are not implied by the premise, indicating a lack of syntactic-level inference.
+- The content describes the boy's activity without specifying the object or recipient, while the statement adds these elements, showing a semantic difference beyond mere syntactic rephrasing.

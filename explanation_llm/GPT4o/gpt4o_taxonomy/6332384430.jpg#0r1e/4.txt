@@ -1,0 +1,10 @@
+1. The premise states that a black man is wearing a red belt, which directly implies that a man is wearing a red belt.
+2. The description includes a black man wearing a red belt, which logically entails that at least one man in the scenario is wearing a red belt.
+3. The presence of a man wearing a red belt in the premise logically supports the hypothesis that a man is wearing a red belt.
+4. The premise explicitly mentions a man with a red belt, which confirms the existence of such a man in the scenario.
+5. Since the premise describes a black man with a red belt, it follows logically that there is a man with a red belt.
+6. The phrase "a black man wearing a red belt" guarantees that a man is wearing a red belt as part of the description.
+7. The specific detail of a red belt worn by a man in the premise directly corresponds to the statement that a man is wearing a red belt.
+8. The premise provides a clear instance of a man with a red belt, thus supporting the hypothesis without needing additional context.
+9. The structure of the premise, which lists a black man wearing a red belt, inherently confirms the truth of the statement that a man is wearing a red belt.
+10. The semantic content of the premise includes a man with a red belt, which logically infers the presence of a man wearing a red belt.

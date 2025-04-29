@@ -1,0 +1,8 @@
+1. The woman in a colorful bikini refers to the woman mentioned in the statement as wearing a prom dress.
+2. The pronoun "the woman" in both the premise and statement refers to the same individual, leading to a contradiction in attire description.
+3. The woman described as wearing a colorful bikini is the same woman described as wearing a prom dress, which is contradictory due to differing clothing descriptions.
+4. The reference to "the woman" in both the premise and hypothesis is resolved to the same person, but their described clothing is inconsistent.
+5. The demonstrative "the woman" connects to the same entity in both premise and statement, yet the clothing described is mutually exclusive.
+6. The entity "the woman" is consistently referenced but is described with conflicting attire in bikini versus prom dress.
+7. The statement presumes "the woman" is someone wearing a prom dress, resolving "the woman" in the premise to the same individual but with contradicting clothing.
+8. The coreference of "the woman" links to the same person, but the colorful bikini in the premise contradicts the prom dress in the hypothesis.

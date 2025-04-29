@@ -1,0 +1,10 @@
+1. "Three men carrying a red bag" does not specify they are sailors.
+2. The premise mentions a boat, but does not specify it is a sailboat.
+3. "Another person and boat in the background" does not confirm that the other person is a sailor.
+4. The premise does not indicate that any sailors are getting into the boat.
+5. "Some sailors" implies a group, but the premise only specifies "three men" without confirming they are part of a larger group.
+6. The premise describes a scene with a boat, but does not confirm that any sailing activity is taking place.
+7. The premise does not specify the time or location where sailors are getting into the sailboat.
+8. The premise does not indicate exclusivity to sailors; the men could be anyone.
+9. The premise does not mention "some" of the men as sailors, leading to a quantifier conflict.
+10. The premise describes a red bag and a boat, but neither are exclusive to sailors or sailboats.

@@ -1,0 +1,10 @@
+1. The "young boy" in the hypothesis refers to the same "young boy" in the premise, but their activities and locations conflict.
+2. "A young boy" in both the premise and hypothesis indicates the same individual, but the premise describes him outdoors, while the hypothesis places him indoors.
+3. The "young boy" mentioned in both texts is the same, yet the premise has him throwing a toy plane outside, contradicting the hypothesis that he is playing video games inside.
+4. The reference to "a young boy" resolves to the same person in both the premise and hypothesis, but the described actions (throwing a toy plane vs. playing video games) cannot simultaneously occur in the stated settings.
+5. The "young boy" identified in both statements is the same, but the premise describes outdoor activity, directly contradicting the indoor setting of the hypothesis.
+6. The coreference "young boy" connects the two statements to the same individual, but the juxtaposition of outdoor play versus indoor gaming creates a contradiction.
+7. "A young boy" in the hypothesis is the same as "a young boy" in the premise, yet their respective activities and settings are mutually exclusive.
+8. The reference to "a young boy" is the same in both the premise and hypothesis, but the physical locations mentioned (outdoor field vs. indoors) are contradictory.
+9. The "young boy" coreference links the premise and hypothesis, but the contrasting actions (throwing a toy plane vs. playing video games) result in a contradiction.
+10. "A young boy" is the same entity in both statements, but the premise's outdoor scenario contradicts the hypothesis's indoor scenario.

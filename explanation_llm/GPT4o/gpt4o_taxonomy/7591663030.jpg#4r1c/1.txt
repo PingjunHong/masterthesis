@@ -1,0 +1,7 @@
+1. "A guy riding a motorcycle" refers to someone actively operating the motorcycle, while "A man sitting on a parked motorcycle" indicates he is stationary and not riding.
+2. "A guy riding a motorcycle" implies movement, whereas "A man sitting on a parked motorcycle" suggests he is stationary, leading to a contradiction in the state of the motorcycle.
+3. "A guy" in the premise refers to someone engaged in riding, which contradicts "A man" who is described as sitting and waiting, not riding.
+4. "Riding" in the premise implies the motorcycle is in motion, conflicting with "parked" in the hypothesis, which indicates the motorcycle is not moving.
+5. The premise describes the motorcycle being ridden, while the hypothesis describes the motorcycle as parked, conflicting with the action described.
+6. The premise involves junk cars as a setting for riding, whereas the hypothesis involves waiting for a friend, not indicating any action related to junk cars.
+7. The reference to "waiting for his friend" suggests an intention to remain stationary, contradicting the active riding described in the premise.

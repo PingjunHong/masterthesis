@@ -1,0 +1,10 @@
+1. The sign 'HI-POINTE' suggests the building is not a hotel, as hotels typically have signs indicating their name or function, and 'HI-POINTE' does not convey this.
+2. People standing outside a building implies they are not inside, contradicting the statement that they are sitting in the lobby.
+3. The activity of standing and talking outside suggests casual interaction, whereas sitting in a hotel lobby implies a different setting and activity.
+4. The premise describes an outdoor setting, which logically contradicts the indoor setting implied by being in a hotel lobby.
+5. The sign 'HI-POINTE' does not align with typical hotel signage, suggesting the building is not a hotel and thus does not have a hotel lobby.
+6. Real-world knowledge tells us that people standing outside are usually not simultaneously sitting inside, creating a causal contradiction.
+7. The location described in the premise does not match typical features associated with hotel lobbies, such as interior seating and decor.
+8. The presence of the sign 'HI-POINTE' implies a specific place or establishment that is not a hotel, contradicting the scenario of a hotel lobby.
+9. The activity described in the premise indicates a social gathering outside, whereas sitting in a hotel lobby suggests a different scenario and purpose.
+10. The word 'HI-POINTE' does not suggest a hotel name, and thus the statement about a hotel lobby contradicts the likely nature of the building.

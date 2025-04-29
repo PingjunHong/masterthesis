@@ -1,0 +1,6 @@
+1. There are two little boys smiling is a rephrase of Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.
+2. The boys are smiling is a syntactic rephrasing of Two little boys are smiling and laughing.
+3. The statement There are two little boys smiling captures the same information as the premise about the boys smiling.
+4. The phrase There are two little boys smiling is a structural simplification of the premise Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.
+5. The key action of the boys smiling in the premise is directly expressed in the statement There are two little boys smiling.
+6. The statement highlights that two boys are smiling, which is directly derived from the premise.

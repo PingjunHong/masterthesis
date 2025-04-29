@@ -1,0 +1,5 @@
+1. The phrase "three men" in the statement matches "Three men" in the content, but there is no coreference indicating they are going to work.
+2. The statement "three men going to work" lacks a reference to any specific action or context described in the premise that suggests going to work.
+3. The content describes the activities of the men (holding pipes, holding a large object, resting) without any reference to their purpose, such as going to work.
+4. "Three men" in both the premise and the statement refers to the same group, but there is no coreferential link in the premise that implies their intention or destination, such as work.
+5. The description of the men's actions in the premise does not provide any referential context that connects them to the action of going to work mentioned in the statement.

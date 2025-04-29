@@ -1,0 +1,10 @@
+1. The premise describes people standing outside, but the hypothesis introduces the idea of them sitting, which is not mentioned in the premise.
+2. The premise does not mention a hotel lobby, only a building with a sign, so the hypothesis introduces a setting that lacks supporting evidence.
+3. There is no mention in the premise of the people being indoors or seated, contradicting the hypothesis's claim.
+4. The sign 'HI-POINTE' could refer to a variety of establishments, not specifically a hotel, making the hypothesis unsupported.
+5. The premise only describes an outdoor interaction, but the hypothesis implies an indoor location, which is not mentioned.
+6. The activity described in the premise is people talking outside, while the hypothesis describes them being seated inside a lobby, an idea absent from the premise.
+7. The physical location mentioned in the premise is outside a building, contradicting the hypothesis's claim about being inside a hotel lobby.
+8. The premise does not include any details about furniture or seating arrangements, which are implied by the hypothesis of sitting in a lobby.
+9. The hypothesis posits a specific location (hotel lobby) not identified or entailed by the premise, which only mentions 'HI-POINTE.'
+10. The premise does not support the hypothesis of being in a hotel because it lacks any mention of hotel-related details.

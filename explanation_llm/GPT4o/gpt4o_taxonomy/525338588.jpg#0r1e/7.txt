@@ -1,0 +1,9 @@
+1. The people are seen standing outside, which means they are not inside the building.
+2. If people are outside a building, they are not inside it.
+3. Standing outside a location implies not being inside that location.
+4. The description specifies people are outside, confirming they are not inside.
+5. Being outside and in front of a building means the group is not inside.
+6. The term "outside" indicates the opposite of being inside a building.
+7. Presence outside a building inherently suggests absence from the interior.
+8. "Outside" indicates the group is not within the confines of the building.
+9. The location 'outside' is distinct from being 'inside,' confirming the group’s position.

@@ -1,0 +1,6 @@
+1. "Some people" in the premise refers to "other people" in the hypothesis, but their actions or intentions are not specified in the premise.
+2. "A man" in the hypothesis refers to the same "man" mentioned in the premise, but his intentions (trying to earn money) are not mentioned in the premise.
+3. The phrase "by him" in the premise refers to the location "next to the street" but does not imply the man is playing for others specifically for money.
+4. The premise does not specify that the man is trying to earn money, only that he is playing the saxophone.
+5. "Some people" sitting on the curb are not explicitly stated to be an audience or paying the man in the premise.
+6. The premise describes the man's activity (playing the saxophone) but does not mention any economic transaction or intention to earn money.

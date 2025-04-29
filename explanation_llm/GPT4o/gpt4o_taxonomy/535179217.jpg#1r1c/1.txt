@@ -1,0 +1,6 @@
+1. "People" in the statement refers to the same group as "people" in the content, but their actions are inconsistent.
+2. "Water" in the content is not the same as "restaurant" in the statement, indicating different locations.
+3. The "boat heading their direction" in the content conflicts with the context of "waiting in line at the restaurant" in the statement.
+4. The activity of "standing near water" in the content contradicts "waiting in line" in the statement, assuming the same group of people.
+5. The setting implied by "near water" does not align with the setting of a "restaurant" in the statement.
+6. The reference to "a boat" in the content does not appear or match with any reference to "restaurant" activities in the statement.

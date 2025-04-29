@@ -1,0 +1,7 @@
+1. The premise mentions a "guy" but does not specify the gender; "guy" typically refers to a male, aligning with "man" in the hypothesis, so it is supported.
+2. Both the premise and the hypothesis describe the act of riding a motorcycle, with no conflicting information, making it entailed.
+3. The setting "near junk cars" in the premise is irrelevant to the hypothesis, which focuses solely on the act of riding a motorcycle.
+4. The hypothesis does not introduce any new information that contradicts or goes beyond what is stated in the premise.
+5. The term "guy" is often synonymous with "man," therefore the hypothesis does not add unsupported details.
+6. The action of riding a motorcycle is explicitly mentioned in both the premise and hypothesis, ensuring no absence of mention.
+7. The hypothesis is a simpler restatement of the premise without additional, unmentioned elements.

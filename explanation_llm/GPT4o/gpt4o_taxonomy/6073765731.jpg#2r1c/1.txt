@@ -1,0 +1,8 @@
+1. The lady in the statement is the same lady mentioned in the premise as helping another woman, which contradicts the action of sleeping.
+2. The reference to "a lady" in both the premise and the statement implies it is the same person, but their actions are contradictory.
+3. The lady referred to as helping another woman in the premise cannot be the same lady sleeping on a couch in the statement.
+4. The statement's reference to "a lady" sleeping contradicts the premise's description of "a lady" actively working.
+5. The lady in the statement cannot be the lady in the premise because their states of action (helping vs. sleeping) are mutually exclusive.
+6. The term "a lady" in the premise, who is engaged in helping work, cannot simultaneously refer to "a lady" sleeping in the statement.
+7. Resolving "a lady" between the premise and statement reveals a contradiction in her activity status.
+8. The lady performing tasks related to nurse-work in the premise is incompatible with the lady described as sleeping in the statement.

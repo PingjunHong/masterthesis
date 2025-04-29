@@ -1,0 +1,4 @@
+1. The equipment being pulled by sheep refers to the equipment being pulled by horses.
+2. The two men working on farm equipment that is being pulled by two horses implies that the equipment is not being pulled by sheep.
+3. The reference to sheep contradicts the reference to horses in the context of pulling the equipment.
+4. The animals pulling the equipment in the premise are horses, not sheep, as stated in the hypothesis.

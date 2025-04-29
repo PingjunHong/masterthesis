@@ -1,0 +1,8 @@
+The premise describes a blond little boy actively using scissors, which implies he is awake and engaged in an activity, whereas the hypothesis states he is sleeping.
+The premise does not mention the boy sleeping, and his engagement in cutting something suggests he is not asleep.
+The absence of any mention of sleep in the premise contradicts the hypothesis that the boy is sleeping.
+The active nature of using scissors indicates the boy is awake, conflicting with the hypothesis that he is asleep.
+The premise provides evidence of the boy's activity, while the hypothesis introduces the unrelated idea of him sleeping.
+No supporting evidence in the premise indicates the boy is sleeping; the hypothesis introduces information that is absent from the premise.
+The boy's action of cutting with scissors suggests he is not sleeping, as the hypothesis claims.
+The premise lacks any mention of sleep, presenting an active scenario that contradicts the hypothesis.

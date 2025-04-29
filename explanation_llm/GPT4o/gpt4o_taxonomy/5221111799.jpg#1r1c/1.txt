@@ -1,0 +1,4 @@
+1. "A house being built" refers to the location where the carpenter is working, and does not denote the boy's actions or location.
+2. "A carpenter" and "A boy" are distinct entities; the hypothesis doesn't resolve any coreference related to the carpenter.
+3. "A roof at a house being built" is specific to the carpenter's work environment, not related to the boy's activity.
+4. The premise does not include reference to a boy or jumping, so there is no coreference to resolve between the premise and the hypothesis.

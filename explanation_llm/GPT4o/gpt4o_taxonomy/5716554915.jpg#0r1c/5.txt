@@ -1,0 +1,10 @@
+1. The premise mentions sunlight shining through the window, not moonlight, contradicting the statement about moonlight.
+2. The premise describes the woman lying face first on a yoga mat, which suggests she is awake or engaged in an activity, contradicting the statement that she is asleep.
+3. The premise does not mention the woman being asleep; her position on the yoga mat could indicate rest, but sleep is not explicitly stated.
+4. The premise describes sunlight and does not mention any moonlight or nighttime setting, which contradicts the hypothesis about moonlight filtering in the window.
+5. There is no indication in the premise that the time of day is night, as suggested by the mention of moonlight in the hypothesis.
+6. The premise describes the scene during daylight, as evidenced by sunlight, which contradicts the hypothesis that mentions a nighttime scenario with moonlight.
+7. The premise does not provide any evidence of the woman being asleep, only lying on a yoga mat, which contradicts the hypothesis that she is asleep.
+8. The premise mentions several paintings on the wall but does not provide any context related to the woman sleeping, contrary to the hypothesis.
+9. The premise does not mention moonlight, which is introduced in the hypothesis without supporting evidence, creating a contradiction.
+10. The premise suggests daylight through the mention of sunlight, whereas the hypothesis introduces moonlight without basis, leading to a contradiction.

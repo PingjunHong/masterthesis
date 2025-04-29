@@ -1,0 +1,8 @@
+1. Three men are described in the premise, and the statement refers to three men, confirming their presence.
+2. The premise states that the men are looking at the camera, which aligns directly with the statement that three men look at the camera.
+3. The premise does not mention any other people besides the three men, ensuring that "three men" in the premise and statement refer to the same group.
+4. The description in the premise of the men holding objects and looking at the camera logically implies that the action of looking at the camera applies to all three men.
+5. The presence of three men in the premise logically supports the statement that three men are looking at the camera.
+6. The specific action of looking at the camera by the men in the premise is directly mirrored in the statement, confirming it as entailment.
+7. The premise logically implies that the action of looking applies collectively to the three men, matching the statement.
+8. The explicit mention of "three men" in both the premise and statement ensures that the numerical and subject reference is consistent.

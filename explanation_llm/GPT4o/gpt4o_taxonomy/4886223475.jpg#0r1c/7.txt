@@ -1,0 +1,10 @@
+1. A person cannot simultaneously ride a bike and drive a truck.
+2. Riding a bike and driving a truck are mutually exclusive actions.
+3. A man cannot be operating a bicycle and a truck at the same time.
+4. Bicycles and trucks require different forms of operation.
+5. A person riding a bike is not in a truck.
+6. Biking involves a pedal-powered vehicle, while a truck is motor-powered.
+7. A bike rider is not inside a truck.
+8. The modes of transport—biking and driving a truck—are distinct and separate.
+9. A bike does not have the capacity or features of a truck.
+10. The physical position on a bike differs from that required to drive a truck.

@@ -1,0 +1,10 @@
+1. No one seems to be looking at the statue does not syntactically infer that the statue is offensive.
+2. The premise describes the statue's current audience engagement, not its potential offensive nature.
+3. The lack of attention to the statue does not syntactically suggest that people find it offensive.
+4. A description of a statue at a museum with no observers doesn't imply that people are mad about it.
+5. The premise focuses on observation, whereas the hypothesis assumes a negative sentiment not present in the premise.
+6. There is no syntactic structure in the premise indicating people's emotions towards the statue.
+7. The premise and hypothesis describe different aspects: the former mentions presence, while the latter infers sentiment.
+8. The premise lacks any syntactic indication of offense or anger regarding the statue.
+9. The structure of the premise suggests physical presence, not emotional response.
+10. The absence of observation in the premise doesn't translate to emotional reactions in the hypothesis.

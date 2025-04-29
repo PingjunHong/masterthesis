@@ -1,0 +1,10 @@
+1. Men standing in a boat are not standing on top of a car.
+2. A boat and a car are different types of vehicles and cannot be the same location.
+3. It is physically impossible for the same men to be standing in a boat and on top of a car simultaneously.
+4. The statement "men are standing on top of a car" contradicts the location described in the premise.
+5. Standing in a boat precludes standing on top of a car at the same time.
+6. Boats and cars occupy different physical spaces, making it impossible for men to be in both places at once.
+7. The term "in a boat" and "on top of a car" describe mutually exclusive locations.
+8. Men cannot occupy two distinct vehicles, a boat and a car, simultaneously.
+9. Being in a boat contradicts being on top of a car due to differing environments.
+10. The environment of a boat and a car are distinct, making the scenario impossible as described.

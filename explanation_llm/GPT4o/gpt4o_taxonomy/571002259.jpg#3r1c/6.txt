@@ -1,0 +1,10 @@
+- A tree worker is not a ballerina.
+- Cutting down a branch is not the same as climbing a tree.
+- The presence of a hard hat suggests safety measures inconsistent with the activity of climbing.
+- The occupation of tree worker does not align with the activity of a ballerina.
+- The premise implies a work-related context, while the hypothesis suggests a leisure activity.
+- The equipment used by a tree worker, such as a hard hat, is not suitable for a ballerina.
+- The setting described involves cutting down a branch, not climbing it.
+- The attire of a tree worker is not suitable for a ballerina.
+- The premise involves a single person (tree worker), while the hypothesis suggests a different individual (ballerina).
+- The action of cutting down a branch contradicts the action of climbing it.

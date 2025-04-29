@@ -1,0 +1,5 @@
+1. Blue and yellow are distinct colors, making the statements about the jacket color contradictory.
+2. Laying in the grass and rolling on the grass describe different actions.
+3. "Male" and "guy" are synonymous, but the color difference in clothing creates a contradiction.
+4. Deciding to lay implies stillness, while rolling suggests movement, adding to the contradiction.
+5. The premise specifies "blue jacket," whereas the hypothesis inaccurately describes it as "yellow," contradicting the color description.

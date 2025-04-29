@@ -1,0 +1,3 @@
+1. Gray is not blue.
+2. A cap cannot be both gray and blue simultaneously.
+3. The exclusivity of the color description means the man cannot wear both a gray and blue cap at the same time.

@@ -1,0 +1,8 @@
+1. Moonlight and sunlight are different sources of light, with moonlight indicating nighttime and sunlight indicating daytime.
+2. The sun shining through the window signifies daytime, which contradicts the presence of moonlight that signifies nighttime.
+3. Asleep suggests a state of rest, while lying on a yoga mat during the day may imply being awake or engaged in an activity; these are conflicting states.
+4. Moonlight implies the presence of the moon, which is inconsistent with the sun shining, indicating the presence of the sun.
+5. The premise describes sunlight, which semantically contradicts moonlight in the hypothesis.
+6. The concept of the sun shining through the window is antonymous to the moonlight filtering in.
+7. "Asleep" implies unconsciousness, whereas the context of being on a yoga mat may suggest activity or awareness, which contradicts being asleep.
+8. The time of day inferred by sunlight directly contradicts the time of day inferred by moonlight.

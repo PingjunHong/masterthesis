@@ -1,0 +1,12 @@
+1. The premise describes the pitcher sending a curve ball, which implies he is focused on playing baseball, not juggling baseballs.
+2. The premise states that fans are relaxing and enjoying the game, which contradicts the hypothesis that fans are upset.
+3. The act of pitching a curve ball is unrelated to juggling, suggesting a contradiction between the premise and hypothesis activities.
+4. The presence of many fans relaxing implies a positive or calm atmosphere, contradicting the hypothesis claim that fans are upset.
+5. The premise focuses on a professional baseball game scenario, which logically excludes unrelated activities like juggling baseballs.
+6. Sending a curve ball implies a single action in the game, whereas juggling involves multiple balls and actions, leading to a contradiction.
+7. The enjoyment of fans in the premise contrasts with the hypothesis's assertion of them being upset, indicating a contradiction.
+8. A curve ball is a specific baseball action not associated with juggling, suggesting a contradiction in the described activities.
+9. The premise highlights the pitcher’s role in the game, whereas the hypothesis implies an unrelated activity, leading to a contradiction.
+10. The relaxing fans in the premise imply satisfaction, contradicting the hypothesis's depiction of upset fans.
+11. The professional context of pitching in the premise suggests seriousness, incompatible with the casual, unrelated act of juggling in the hypothesis.
+12. The structure of the premise focuses on the game and its enjoyment, contradicting the hypothesis’s focus on a separate, upsetting activity.

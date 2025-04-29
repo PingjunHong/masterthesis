@@ -1,0 +1,10 @@
+1. Riding a bike is a different activity than driving a truck.
+2. A man riding a bike cannot simultaneously be driving a truck.
+3. Riding involves a bicycle, while driving involves a motor vehicle like a truck.
+4. The action of biking inherently excludes the action of driving a truck.
+5. The premise describes biking, not driving, which is stated in the hypothesis.
+6. The structural activity described in the premise contradicts the activity mentioned in the hypothesis.
+7. The verb "riding" in the context of a bike contradicts the verb "driving" in the context of a truck.
+8. The rephrasing of "riding a bike" to "driving a truck" changes the meaning entirely, resulting in contradiction.
+9. The location and action of riding a bike preclude the possibility of simultaneously driving a truck.
+10. The syntactic structure of a man being on a bike directly opposes the structure of him being in a truck.

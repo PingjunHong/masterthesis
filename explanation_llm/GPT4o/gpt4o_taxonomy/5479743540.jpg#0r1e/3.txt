@@ -1,0 +1,8 @@
+1. A man is crouching on a handrail is a rephrase of, A guy wearing jeans and a hat is crouching on a handrail.
+2. A guy is crouching on a handrail is structurally similar to, A man is crouching on a handrail.
+3. The phrase, A guy wearing jeans and a hat is crouching on a handrail, can be rephrased as, A man is crouching on a handrail.
+4. The essential action of crouching on a handrail is expressed in both the premise and the hypothesis.
+5. The premise specifies more details but retains the core meaning of a man crouching on a handrail.
+6. The use of "guy" and "man" are interchangeable in the context, maintaining the syntactic structure.
+7. The structural elements involving the subject "a man" and the action "is crouching on a handrail" are consistent between the two statements.
+8. The hypothesis is a simplified structural form of the premise, focusing on the main action.

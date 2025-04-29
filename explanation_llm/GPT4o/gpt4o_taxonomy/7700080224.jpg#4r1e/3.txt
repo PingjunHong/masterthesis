@@ -1,0 +1,8 @@
+- A bunch of women are playing volleyball is a rephrase of Several women are playing volleyball.
+- Several women are playing volleyball and A bunch of women are playing volleyball convey the same meaning using different wording.
+- The phrase "A bunch of women" is a syntactic variation of "Several women," maintaining the same meaning.
+- The structural alternation from "Several" to "A bunch" does not alter the meaning of the sentence.
+- The premise and hypothesis are syntactically different but semantically identical, as "Several" and "A bunch" both indicate a group of women.
+- The coordination of "women are playing volleyball" remains unchanged in both the premise and hypothesis, ensuring identical meaning.
+- Substitution of "Several" with "A bunch" represents a syntactic alternation without affecting the truth condition of the statement.
+- The hypothesis is a syntactic restructuring of the premise with equivalent meaning, using different quantifiers.

@@ -1,0 +1,7 @@
+1. "The people are sitting in the hotel lobby" contradicts "Many people standing outside of a place" because sitting and standing are mutually exclusive actions.
+2. "The people are sitting in the hotel lobby" conflicts with "outside of a place" as being in the hotel lobby implies being inside, not outside.
+3. "The people are sitting" versus "Many people standing" indicates a contradiction in posture.
+4. "In the hotel lobby" is a contradiction of "outside of a place" as the hotel lobby is an indoor location.
+5. "Sitting in the hotel lobby" contradicts "talking to each other in front of a building" because being in the lobby implies being inside the building, not in front of it.
+6. "The people are sitting" contradicts "Many people standing" due to the difference in physical positions.
+7. "In the hotel lobby" versus "in front of a building" indicates a contradiction in location.

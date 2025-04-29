@@ -1,0 +1,7 @@
+- "Young" is explicitly mentioned in the premise, confirming the age aspect in the hypothesis.
+- "Three young boys" includes "young" as a descriptor, matching the hypothesis claim about the boys' age.
+- The premise specifies "young boys," directly supporting the hypothesis that the boys are young.
+- The word "young" in the premise aligns with the description of the boys in the hypothesis.
+- The premise includes the adjective "young," which matches the age implication in the hypothesis.
+- "Young boys" in the premise semantically corresponds to the age description in the hypothesis.
+- The term "young" in the premise is synonymous with "young" in the hypothesis.

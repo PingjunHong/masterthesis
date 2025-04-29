@@ -1,0 +1,6 @@
+- The people are outside, not inside.
+- The building is not specified as a hotel.
+- Standing and sitting are mutually exclusive actions.
+- The location is in front of a building, not in a lobby.
+- A sign saying 'HI-POINTE' does not indicate a hotel lobby.
+- Being outside contradicts being in a lobby.

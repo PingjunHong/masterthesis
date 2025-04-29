@@ -1,0 +1,10 @@
+1. Working on an Earthen structure implies being outdoors, whereas being in an office building implies being indoors.
+2. The action of using a pickaxe on an Earthen structure suggests an outdoor setting, which contradicts the indoor setting of an office building.
+3. The premise involves an Earthen structure and a pickaxe, typically associated with construction or excavation outdoors, unlike an office building setting.
+4. The context of working on an Earthen structure does not align with the typical environment of an office building.
+5. The structural activity described in the premise (using a pickaxe on Earth) cannot occur inside an office building.
+6. The setting implied by working on an Earthen structure contradicts the indoor environment of an office building.
+7. The contradiction arises from the juxtaposition of an outdoor activity (pickaxe and Earthen structure) with an indoor location (office building).
+8. The premise's outdoor construction scenario opposes the hypothesis's indoor office setting.
+9. The use of a pickaxe on Earth suggests an outdoor scenario, which is incompatible with the indoor office building described in the hypothesis.
+10. An Earthen structure worked on with a pickaxe indicates an outdoor environment, contrary to the hypothesis of an indoor office building.

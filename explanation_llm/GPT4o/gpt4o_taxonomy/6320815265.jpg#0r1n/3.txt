@@ -1,0 +1,5 @@
+1. The statement "There are children in the streets" implies the presence of children, whereas the premise makes no mention of children, creating a contradiction.
+2. "Spectators line the street" in the premise does not specify that any of these spectators are children, directly contradicting the statement that specifies "children in the streets."
+3. The existence of "spectators" in the premise does not equate to "children," conflicting with the statement that specifically mentions "children in the streets."
+4. The premise focuses on a "female runner" and "spectators," with no indication of "children," which contradicts the statement claiming children are present.
+5. The presence of "spectators" in the premise without any specification of their age contradicts the statement's specific mention of "children in the streets."

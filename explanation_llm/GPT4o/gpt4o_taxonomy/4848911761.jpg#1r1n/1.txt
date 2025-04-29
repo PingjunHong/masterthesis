@@ -1,0 +1,10 @@
+A person refers to the breakdancer in a red jacket.
+The crowd refers to the group of people watching.
+Doing tricks refers to the breakdancer performing a one-handed trick.
+In front of the crowd refers to the breakdancer being watched by the group of people.
+A person doing tricks is the same individual as the breakdancer doing a one-handed trick.
+The crowd encompasses the group of people present to watch the performance.
+The red jacket worn by the breakdancer is not mentioned in the hypothesis but does not change the identity of the breakdancer.
+The breakdancer in the premise is the person referred to in the hypothesis.
+A group of people is equivalent to a crowd in the context of watching the performance.
+The one-handed trick is one of the tricks being performed by the person.

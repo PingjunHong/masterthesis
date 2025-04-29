@@ -1,0 +1,10 @@
+1. The phrase "two men" in the premise refers to the men in the boat, whereas "some men" in the hypothesis refers to men on a car, indicating different groups of men.
+2. The reference "standing in a boat" in the premise does not match "standing on top of a car" in the hypothesis, showing the locations do not align.
+3. The men in the premise are described as being "in a boat," which contradicts the reference to men "on top of a car" in the hypothesis.
+4. The use of "two men" in the premise specifies a number that conflicts with the indefinite "some men" in the hypothesis.
+5. The coreference of "men" in the premise is resolved to "in a boat," contrasting with the hypothesis's coreference to "on top of a car."
+6. The premise involves a specific setting "in a boat," while the hypothesis resolves to a completely different setting "on top of a car."
+7. The reference to the location "boat" in the premise does not resolve to the location "car" in the hypothesis, indicating different surroundings.
+8. The premise uses definite language "two men," contradicting the indefinite language "some men" in the hypothesis.
+9. "Standing in a boat" in the premise resolves to a situation that cannot coexist with "standing on top of a car" in the hypothesis.
+10. The premise's context of "a boat" does not resolve to the hypothesis's context of "a car."

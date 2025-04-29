@@ -1,0 +1,9 @@
+- The premise only mentions a red shirt, so the hypothesis suggests a color change not supported by the premise.
+- There is no mention of a green shirt in the premise, conflicting with the hypothesis's description.
+- The premise provides no evidence of the person wearing a green shirt, thus making the hypothesis contradictory.
+- The color of the shirt in the premise is red, not green, as stated in the hypothesis.
+- The hypothesis introduces a detail about the color of the shirt that is absent from the premise.
+- The premise explicitly states the shirt is red, which contradicts the hypothesis's claim of it being green.
+- The hypothesis presents unsupported information by stating the shirt is green, a detail not found in the premise.
+- The premise describes the shirt as red, directly opposing the hypothesis's assertion of a green shirt.
+- The hypothesis assumes a shirt color change to green that is not mentioned in the premise.

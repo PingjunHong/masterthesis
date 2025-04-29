@@ -1,0 +1,10 @@
+1. The premise mentions two ladies at workout, which suggests they are engaged in some form of physical activity, but does not specify their position or location, so the hypothesis that they are sitting on the floor is unsupported.
+2. The premise describes the context as being in mother nature, which implies they might be standing, walking, or moving around as part of their workout, but does not mention sitting.
+3. The absence of details about the ladies’ posture or position during the workout means the hypothesis introduces information not corroborated by the premise.
+4. While the premise suggests they are outdoors, it lacks any indication of the ladies being stationary or sitting, leaving the hypothesis unverified.
+5. The premise does not mention any specific location or action that involves sitting, thus the hypothesis is contradicted by the lack of evidence of such an activity.
+6. The statement about sitting on the floor introduces a scenario not addressed in the premise, which only describes a workout setting.
+7. The premise does not provide any evidence of the ladies being inactive or in a seated position, making the hypothesis unsupported.
+8. The concept of sitting is absent from the premise, which focuses on the activity of working out, leaving the hypothesis unjustified.
+9. There is no mention of any equipment or setting that would imply sitting, such as mats or benches, in the premise, which contradicts the hypothesis.
+10. The premise’s focus on workout does not entail any sedentary behavior or sitting positions, thus the hypothesis lacks support.

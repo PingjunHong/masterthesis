@@ -1,0 +1,10 @@
+1. "The tree" in the statement does not directly refer to the tree in the premise; it may be a different tree.
+2. The premise mentions a tree worker and a branch, but does not specify the condition of the tree itself, allowing "the tree" in the statement to be unrelated.
+3. The premise focuses on the action of cutting a branch, while "the tree" in the statement could refer to any tree, not necessarily the one involved in the action.
+4. "The tree" in the statement might be mentioned independently of the tree worker's actions described in the premise, suggesting no direct coreference.
+5. The tree worker's activity in the premise does not imply the tree's condition, so "the tree" in the statement is not definitively linked to the premise.
+6. The statement "The tree appears to be dead" introduces a new element not directly addressed or implied in the premise, indicating separate reference points.
+7. There is no linguistic cue in the premise that ties "the tree" in the statement to the tree being interacted with by the worker.
+8. The premise describes the tree worker's actions, but "the tree" in the statement stands as an independent observation, not necessarily co-referential.
+9. "The tree" in the statement could refer to a different tree outside the context of the premise, which focuses on the cutting action.
+10. The statement introduces a subjective assessment ("appears to be dead") without a direct link to the tree worker's actions in the premise, suggesting no coreference.

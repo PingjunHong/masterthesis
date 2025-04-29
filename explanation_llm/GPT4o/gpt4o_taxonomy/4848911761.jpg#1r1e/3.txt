@@ -1,0 +1,10 @@
+1. Tricks are made by a person in a red jacket while people watching him is a rephrase of, A group of people watch a breakdancer in a red jacket do a one-handed trick.
+2. The premise describes a breakdancer in a red jacket performing tricks while being watched by a group, which is structurally rephrased as the hypothesis.
+3. The statement captures the same scene described in the premise, with the focus shifted to the performer in a red jacket making tricks.
+4. The phrase "a breakdancer in a red jacket do a one-handed trick" is rephrased as "tricks are made by a person in a red jacket."
+5. The activity of "watching" is maintained between the premise and hypothesis, structurally rephrased to focus on the action of making tricks.
+6. The premise and hypothesis both describe the same event, simply shifting the focus from the observers to the performer.
+7. The structural roles of the participants (the people watching and the breakdancer) are preserved in the hypothesis, aligning with the premise.
+8. While the premise uses "a group of people watch," the hypothesis uses "people watching him," which is a syntactic alternation conveying the same meaning.
+9. The premise's specific trick "do a one-handed trick" is generalized as "tricks" in the hypothesis, maintaining semantic equivalence through syntactic variation.
+10. The subject "a breakdancer in a red jacket" is rephrased as "a person in a red jacket" in the hypothesis, preserving the core identity within a syntactic alternation.

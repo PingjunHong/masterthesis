@@ -1,0 +1,6 @@
+1. The woman in the premise is described as standing behind a girl and helping her with an experiment, but there is no syntactic indication that she is the girl's mother, as suggested in the hypothesis.
+2. The premise involves a woman and a girl working on an experiment, while the hypothesis introduces a mother-child relationship that is not explicitly or implicitly mentioned in the premise.
+3. The structural rephrasing in the hypothesis assumes a familial relationship (mother and child) which is not supported by the syntactic content of the premise.
+4. The premise uses a more general structure, referring to a woman and a girl, whereas the hypothesis specifies familial roles (mother and child) without syntactic evidence from the premise.
+5. The syntactic alternation in the hypothesis shifts from a neutral description of people involved in an activity to assigning specific roles that are not syntactically derivable from the premise.
+6. The premise uses coordination to describe the actions of standing and helping, while the hypothesis uses subordination by introducing the roles of mother and child, which is not a syntactic rephrase of the premise.

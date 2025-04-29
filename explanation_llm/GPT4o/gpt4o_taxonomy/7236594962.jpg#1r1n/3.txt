@@ -1,0 +1,7 @@
+1. The phrase "a man is shooting a gun outdoors" is structurally rephrased as "a man is shooting a gun outside," but the addition of "with his friends" in the hypothesis introduces new information not present in the premise.
+2. The word "outdoors" in the premise is a structural rephrase of "outside" in the hypothesis; however, the presence of "with his friends" in the hypothesis changes the meaning and makes the statement neutral.
+3. "Outside" is a syntactic alternation of "outdoors," but the hypothesis includes "with his friends," which is a detail not found in the premise, leading to a neutral label.
+4. While "outdoors" and "outside" are structurally similar, the hypothesis introduces the concept of "with his friends," altering the meaning from the original premise.
+5. The structural rephrasing of "outdoors" to "outside" maintains the same meaning, but the added element of "with his friends" in the hypothesis creates a neutral relationship with the premise.
+6. "Outdoors" and "outside" are syntactic alternations, and while they convey the same setting, the hypothesis adds "with his friends," which is not inferred from the premise.
+7. The hypothesis rephrases "outdoors" to "outside," but the introduction of "with his friends" results in a neutral classification due to the absence of this information in the premise.

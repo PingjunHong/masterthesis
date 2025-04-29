@@ -1,0 +1,10 @@
+1. A young boy is sleeping on a pillow is a syntactic rephrasing of Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.
+2. The statement simplifies the premise by focusing on the core action of the boy sleeping on a pillow.
+3. The premise's detailed description of the boy lying down in bed and sleeping is rephrased in the hypothesis as simply sleeping on a pillow.
+4. The structural rephrasing in the hypothesis maintains the meaning of the premise by stating the essential activity, which is the boy sleeping on a pillow.
+5. The hypothesis condenses the premise by omitting specific details, such as the pajamas and colorful striped pillow, while maintaining the meaning through syntactic alternation.
+6. The hypothesis uses subordination to express the primary action described in the premise, focusing on the boy sleeping on a pillow.
+7. A young boy sleeping on a pillow is a coordinated simplification of the premise, retaining the key information of the boy's action.
+8. The premise's description of the setting and action is structurally rephrased in the hypothesis to emphasize the simple act of sleeping on a pillow.
+9. The hypothesis is a syntactic alternation of the premise, preserving the core idea of a young boy sleeping on a pillow.
+10. The essence of the premise is captured in the hypothesis through a structural rephrasing that omits non-essential details.

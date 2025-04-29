@@ -1,0 +1,4 @@
+1. The blond little boy in the premise is actively using scissors, indicating he is awake, whereas the hypothesis states he is sleeping.
+2. The blond little boy in the orange sweatshirt is engaged in an activity, which contradicts the claim in the hypothesis that he is sleeping.
+3. The premise describes the blond little boy as cutting something, demonstrating that he is not asleep as stated in the hypothesis.
+4. The action of using scissors by the blond little boy in the premise implies he is awake, contradicting the hypothesis that he is sleeping.

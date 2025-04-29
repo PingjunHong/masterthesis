@@ -1,0 +1,13 @@
+1. The act of ski-jumping does not necessarily imply teaching.
+2. Watching someone ski-jump does not mean they are learning a trick.
+3. Ski-jumping is an action, while teaching involves instruction, which is not mentioned.
+4. Observing an act is not synonymous with being taught.
+5. A skier performing a jump does not imply an instructional context.
+6. The presence of other skiers does not indicate a teaching scenario.
+7. The term "watching" in the premise does not equate to "teaching" in the hypothesis.
+8. Ski-jumping is a performance, not inherently an educational activity.
+9. The statement "a skier teaching" implies an educational role not present in the premise.
+10. The word "act" suggests a display, whereas "teaching" suggests instruction.
+11. The premise describes an activity being observed, not a teaching moment.
+12. The presence of a trick does not imply it is being taught to others.
+13. "Watching" is passive, whereas "teaching" implies an active engagement in instruction.

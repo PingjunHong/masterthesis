@@ -1,0 +1,10 @@
+1. The premise describes a guy wearing a hat, which implies his head is covered, contradicting the hypothesis that his bald head is exposed.
+2. There is no mention in the premise of the guy removing his hat, so the state of his head being exposed is unsupported.
+3. The premise does not provide any information about the guy's hair or head, making the statement about his bald head an unsupported addition.
+4. The description of the guy wearing a hat contradicts the hypothesis because a hat would typically cover the head.
+5. The premise lacks any mention of the guy’s head being exposed, so the hypothesis introduces new, unsupported information.
+6. The statement assumes the absence of the hat or its ineffectiveness in covering the head, which is not mentioned or implied in the premise.
+7. There is no indication in the premise about the guy's baldness, making the statement about his bald head an unsupported claim.
+8. The premise suggests the head is covered by a hat, while the hypothesis assumes it is exposed, creating a contradiction.
+9. The hypothesis introduces the condition of the head being uncovered, which is not supported by the premise’s description of wearing a hat.
+10. The premise does not entail any information about the guy's head being visible, leaving the hypothesis unsupported by the given evidence.

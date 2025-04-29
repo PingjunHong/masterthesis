@@ -1,0 +1,9 @@
+- The premise describes a volleyball match, while the hypothesis discusses a cricket game, which involves different sports and participants not mentioned in the premise.
+- There is no mention of boys or cricket in the premise, which focuses on women's volleyball teams, making the hypothesis unsupported.
+- The premise only includes women's volleyball teams and a referee, with no reference to boys or the sport of cricket.
+- The hypothesis introduces ten boys playing cricket, which is an entirely different scenario not entailed by the premise about a volleyball match.
+- The premise does not provide any information about boys or cricket, thus the hypothesis lacks supporting evidence.
+- The setting in the premise is a volleyball court, not a cricket field, and there is no mention of any boys participating in any sport.
+- The premise focuses on volleyball, while the hypothesis shifts to cricket, which involves different players and context not mentioned.
+- The sports, participants, and context in the hypothesis are not present in the premise, resulting in a lack of supporting details.
+- The premise involves women and volleyball, but the hypothesis brings in boys and cricket, which are unrelated and not mentioned in the premise.

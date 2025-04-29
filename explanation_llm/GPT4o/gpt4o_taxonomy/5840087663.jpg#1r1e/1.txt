@@ -1,0 +1,6 @@
+1. The boy refers to the young boy using a field microscope.
+2. Using a field microscope refers to looking through a microscope.
+3. The young boy is the same as the boy mentioned in the statement.
+4. Field microscope in the content corresponds to microscope in the statement.
+5. Identifying a field specimen implies looking through a microscope as part of using it.
+6. The action of using in the premise involves looking through in the context of a microscope.

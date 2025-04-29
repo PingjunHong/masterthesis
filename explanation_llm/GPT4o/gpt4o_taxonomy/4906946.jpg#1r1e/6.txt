@@ -1,0 +1,10 @@
+1. "Workers" does not specify gender, while "men" does.
+2. The premise does not mention the gender of the workers, whereas the hypothesis specifies men.
+3. The premise includes gloves and hard hats, but the hypothesis only mentions jackets.
+4. The premise includes construction cones, suggesting a construction setting, while the hypothesis focuses solely on jackets.
+5. The premise describes safety jackets as lime green, aligning with the hypothesis, but does not provide gender information.
+6. The premise describes "roadside workers," which is a broader category than "men."
+7. The hypothesis assumes a specific gender that is not confirmed by the premise.
+8. The premise mentions two roadside workers in safety gear, while the hypothesis assumes they are men without evidence.
+9. The hypothesis adds a gender-specific detail not present in the premise.
+10. The premise provides a context of workers in a construction environment, while the hypothesis narrows to gender without supporting information.

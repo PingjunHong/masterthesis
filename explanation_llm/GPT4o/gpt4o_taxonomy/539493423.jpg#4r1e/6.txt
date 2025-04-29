@@ -1,0 +1,5 @@
+1. "Man" indicates at least one man, satisfying the quantifier "there is."
+2. The presence of a man holding a torch inherently confirms the existence of a man.
+3. The term "man" in the premise confirms the gender identity required by "there is a man."
+4. The logical structure of the premise supports the statement, as the existence of a man is a necessary condition for a man holding a torch.
+5. "Holding torch of fire" does not negate the existence of a man; instead, it confirms the presence of a man, satisfying the statement.

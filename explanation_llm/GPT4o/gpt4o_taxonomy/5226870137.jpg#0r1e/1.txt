@@ -1,0 +1,5 @@
+The man refers to the man in a suit.
+The buggy refers to the horse-drawn buggy.
+Driving refers to the action being performed by the man in a suit.
+The stone street is where the buggy is being driven.
+The suit-wearing man and the buggy he is driving are part of the same scene.

@@ -1,0 +1,10 @@
+1. The premise mentions individuals wearing rafting gear and participating in white water rafting, but does not specify the color of the raft, so the hypothesis involving a yellow boat cannot be directly derived from the premise.
+2. The premise describes the activity of rafting down a river, but does not provide any information about the gender composition of the group, making the identification of "men and women" in the hypothesis neutral.
+3. While the premise indicates a group of seven individuals, it does not offer details about the exact type or color of the boat, thus the statement about a yellow boat is neither contradicted nor supported.
+4. The premise discusses individuals white water rafting, which implies they are in some form of watercraft, but it does not specify that the boat is yellow, leaving the hypothesis unaddressed in terms of color.
+5. The hypothesis specifies the gender of the individuals as "men and women," yet the premise simply refers to "individuals," leaving the gender aspect neutral since it is not specified.
+6. The premise describes rafting gear and activity, but the hypothesis introduces additional information (yellow boat) not logically implied by those details, resulting in a neutral relationship.
+7. The statement about the color of the boat being yellow is not necessarily incompatible with the premise, but it is not explicitly or implicitly inferred from the information about rafting gear and activity.
+8. The premise does not mention anything about the boat's color or the group's gender, making these aspects introduced by the hypothesis neutral due to the lack of related details.
+9. The hypothesis introduces the concept of a yellow boat, which is not addressed by the premise's description of rafting gear and activity, leaving the statement neutral in terms of color.
+10. The premise provides no logical basis to infer the color or specific gender composition mentioned in the hypothesis, maintaining neutrality due to the absence of these details.

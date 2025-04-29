@@ -1,0 +1,8 @@
+1. The statement "dogs sniff the air" refers to dogs, not women, which are the subject mentioned in the premise.
+2. The premise describes women performing with blue streamers, while the statement introduces dogs without any reference to the women.
+3. The hypothesis mentions an activity involving dogs, which does not relate to or reference the women in blue costumes in the premise.
+4. The statement "dogs sniff the air" does not resolve to any element or entity within the premise involving women and blue streamers.
+5. There is no co-referential link between the women in the premise and the dogs in the hypothesis, leading to a contradiction.
+6. The premise is about a performance by women, whereas the statement shifts focus to dogs with no identifiable connection.
+7. The hypothesis refers to dogs, which cannot be co-referenced with the women described in the premise.
+8. The entities "women" and "dogs" are not co-referential, making the premise and hypothesis contradictory.

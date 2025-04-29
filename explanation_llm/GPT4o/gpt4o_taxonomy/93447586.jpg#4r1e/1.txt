@@ -1,0 +1,5 @@
+1. She refers to the woman doing gymnastics.
+2. The balance beam is a type of gymnastics equipment.
+3. The woman using the balance beam implies she is using gymnastics equipment.
+4. The term gymnastics in the premise encompasses the use of gymnastics equipment, such as the balance beam.
+5. The pronoun she in the premise confirms that the woman using the balance beam is the same as the woman referred to in the hypothesis.

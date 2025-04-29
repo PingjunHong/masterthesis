@@ -1,0 +1,10 @@
+1. Some people are in a boat is a rephrase of Two men are standing in a boat, as men are people.
+2. The statement Some people are in a boat uses a more general term, people, which includes men, as in the premise.
+3. The premise specifies men, which implies the broader category of people used in the statement.
+4. The premise Two men are standing in a boat implies the presence of people in a boat, aligning with the statement.
+5. The premise describes two specific individuals (men), which fits under the more general term some people in the statement.
+6. The premise mentions men specifically, which are a subset of people, consistent with the statement.
+7. The structural shift from specifying the number and gender (two men) to a more inclusive term (some people) in the statement retains the same meaning.
+8. The premise and statement are syntactically different but semantically equivalent, as men are inherently people.
+9. The phrase Two men in the premise can be syntactically altered to include them under the broader category of Some people in the statement.
+10. The premise's indication of two men naturally fits within the statement's broader category of some people.

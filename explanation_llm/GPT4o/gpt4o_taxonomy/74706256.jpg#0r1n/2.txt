@@ -1,0 +1,8 @@
+1. The action of "cutting something" does not specify what is being cut, whereas "cutting out little stars" specifies the object being cut, which introduces additional detail not present in the premise.
+2. The premise does not mention any reason or recipient for the cutting activity, while the hypothesis introduces the purpose of making stars for his little sister, adding context that is not implied by the premise.
+3. The premise describes the boy's clothing in detail, including the color and style, but the hypothesis does not mention clothing, focusing instead on the activity and its purpose, which creates a semantic gap.
+4. "Cutting something" is a broader term compared to "cutting out little stars," which is a specific type of cutting activity, and the semantic difference between these expressions makes the statement neutral.
+5. The premise lacks any mention of family relations or motivations, while the hypothesis introduces the concept of a "little sister," adding relational context that is absent in the premise.
+6. The hypothesis specifies the shape being cut as "little stars," which is a specific form or pattern not indicated in the broader term "something" used in the premise.
+7. The word "using scissors" in the premise implies cutting, but does not specify what is being cut, while the hypothesis specifies both the tool and the object, indicating a semantic expansion not covered in the premise.
+8. The hypothesis introduces the concept of "for his little sister," which adds a purpose and relational element not present in the premise, creating a semantic distinction.

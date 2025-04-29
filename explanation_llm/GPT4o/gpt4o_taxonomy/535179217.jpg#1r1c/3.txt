@@ -1,0 +1,8 @@
+1. People are standing near water with a boat heading their direction is not a rephrase of People are waiting in line at the restaurant.
+2. The structure of people standing near water does not align with the structure of people waiting in line at a restaurant.
+3. The action of standing near water cannot be syntactically rephrased as waiting in line at a restaurant.
+4. A boat heading their direction does not structurally equate to being at a restaurant.
+5. The setting near water is not a syntactic variant of being at a restaurant.
+6. The phrase with a boat heading their direction cannot be structurally rephrased to match waiting in line at the restaurant.
+7. People are standing near water lacks structural similarity to People are waiting in line at the restaurant.
+8. Near water with a boat heading their direction cannot be rephrased to convey the same meaning as in line at a restaurant.

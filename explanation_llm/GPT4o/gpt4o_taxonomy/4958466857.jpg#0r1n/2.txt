@@ -1,0 +1,8 @@
+1. "Dirty clothing" and "disguise" do not share the same semantic meaning or intent; dirty clothing implies unkempt appearance, whereas disguise implies intentional alteration for concealment.
+2. The concept of "begging for money" does not semantically align with "conducting research," which involves systematic investigation and study.
+3. "Sitting on a sidewalk" does not imply conducting research, which usually involves a structured environment or laboratory setting.
+4. "Begging" and "conducting research" are not synonymous; begging involves soliciting assistance, whereas research involves systematic inquiry.
+5. "Cardboard sign" and "conducting research" do not share semantic properties; a cardboard sign is typically used for communication or solicitation, not for research purposes.
+6. "Two men" in the premise do not hold any semantic relation to "research scientists" in the hypothesis, as the premise provides no indication of any scientific activity or profession.
+7. "Dog" in the premise does not correlate with any aspect of "conducting research" semantically, as pets are unrelated to scientific roles.
+8. "Wearing dirty clothing" is not semantically equivalent to "in disguise," as dirty clothing suggests neglect or poverty, while disguise implies a strategic alteration of appearance.

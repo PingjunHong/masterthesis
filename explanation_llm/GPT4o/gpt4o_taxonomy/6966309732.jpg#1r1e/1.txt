@@ -1,0 +1,6 @@
+The soccer team in blue refers to the soccer team clad in blue for the match.
+The phrase "in blue" in the hypothesis refers to "clad in blue for the match" in the premise.
+Both the premise and hypothesis refer to the same soccer team, identified by their blue clothing.
+The soccer team mentioned in the hypothesis is the same team described as clad in blue in the premise.
+The team described as "clad in blue for the match" in the premise is the team referred to as "in blue" in the hypothesis.
+The soccer team in the hypothesis is the same team that is specified as wearing blue in the premise.

@@ -1,0 +1,5 @@
+The man holding the torch refers to the same man mentioned in the hypothesis.
+The object being held by the man in the premise is a torch, not a bag.
+The man in the premise is holding a torch, contradicting the hypothesis that he is holding a bag.
+The premise identifies the object as a torch, whereas the hypothesis incorrectly identifies it as a bag.
+The reference to the object held by the man in the premise resolves to a torch, conflicting with the hypothesis's reference to a bag.

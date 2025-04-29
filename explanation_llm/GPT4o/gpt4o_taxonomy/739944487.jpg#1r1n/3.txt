@@ -1,0 +1,7 @@
+1. The premise mentions people in a rowboat but does not specify their destination or activity, whereas the hypothesis adds details about rowing towards islands and fishing, which are not directly rephrased from the premise.
+2. The premise describes the people as being surrounded by seagulls, which is not addressed or rephrased in the hypothesis, leaving their actions and surroundings partially unspecified in relation to each other.
+3. The activity of "rowing towards some islands" in the hypothesis is not a structural rephrase of "are in a rowboat in the ocean" in the premise, as it introduces new information about direction and purpose.
+4. The hypothesis includes the action of "fishing," which is not present or implied in the premise, indicating that this detail is not a syntactic rephrase of the original content.
+5. The presence of "some islands" in the hypothesis is not syntactically derived from "the ocean" in the premise, as the premise does not mention any geographical features like islands.
+6. The hypothesis structures the activities (rowing and fishing) in a way that introduces a sequence and additional purpose not evident in the premise's description.
+7. The premise's focus on the surrounding environment with seagulls is not rephrased in the hypothesis, which instead introduces a narrative of action and intent not structurally present in the premise.

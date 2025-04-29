@@ -1,0 +1,8 @@
+1. The premise mentions "blue streamers" and "blue costumes," but the hypothesis does not specify the color, so it lacks the detail provided in the premise.
+2. The premise specifies "women of India," while the hypothesis uses "indian women," which is a broader category and could include women not currently performing as described in the premise.
+3. The premise mentions the performance involves "blue streamers," which is an additional detail not included in the hypothesis.
+4. The premise describes the costumes as "beautiful blue," whereas the hypothesis simply states "gorgeous costumes" without mentioning the color.
+5. The specific activity of performing with "blue streamers" is not mentioned in the hypothesis, leaving it unclear if this detail is included in their performance.
+6. The hypothesis does not specify any additional elements of the performance, such as the type of dance or event, which are not detailed in the premise.
+7. The premise focuses on a specific visual aspect of the performance (blue streamers and costumes), which the hypothesis does not elaborate on, so the visual aspect is not fully supported.
+8. The hypothesis could imply a broader range of performances not limited to the specific activity with blue streamers described in the premise.

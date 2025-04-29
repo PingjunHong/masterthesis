@@ -1,0 +1,10 @@
+1. Men cannot be standing on a boat and on top of a car at the same time.
+2. The locations "in a boat" and "on top of a car" are mutually exclusive.
+3. The premise specifies men are in a boat, not on a car.
+4. "Standing in a boat" contradicts "standing on top of a car" as simultaneous actions.
+5. Being "in a boat" and "on a car" involves conflicting spatial locations.
+6. The term "some" implies a group that doesn't match the specific "two" in the premise.
+7. The actions in the premise and hypothesis occur at different places, creating a conflict.
+8. "In a boat" and "on top of a car" represent incompatible settings for the same individuals.
+9. The spatial reference of "in a boat" conflicts with "on top of a car."
+10. "Some men" implies a possibility of more than two, which contradicts the "two men" specified.

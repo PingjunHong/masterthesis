@@ -1,0 +1,5 @@
+The phrase "two children" in the statement refers to "two children" in the content.
+The term "on a rug" in the statement corresponds to "laying on a rug" in the content.
+The word "rug" in the statement is the same as "rug" in the content.
+The reference to "children" in the statement is the same as "children" in the content.
+The phrase "are on a rug" in the statement is equivalent to "laying on a rug" in the content.

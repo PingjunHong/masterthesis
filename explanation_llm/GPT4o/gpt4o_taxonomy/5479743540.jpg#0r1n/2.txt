@@ -1,0 +1,10 @@
+1. The description of the person's clothing in the premise does not specify a button-up shirt.
+2. Wearing jeans and a hat does not imply wearing a button-up shirt due to lack of specific shirt description.
+3. The premise focuses on jeans and a hat, leaving the type of shirt ambiguous.
+4. The hypothesis introduces new information about the shirt not covered in the premise.
+5. Jeans and a hat do not semantically suggest the presence of a button-up shirt.
+6. The premise lacks details about the upper body clothing, making the shirt type unconstrained.
+7. Button-up shirt is neither confirmed nor denied by the given clothing details.
+8. The premise does not negate the possibility of a button-up shirt but also does not confirm it.
+9. Semantic difference between specified and unspecified clothing elements.
+10. The premise provides no explicit mention of a shirt type, maintaining neutrality.

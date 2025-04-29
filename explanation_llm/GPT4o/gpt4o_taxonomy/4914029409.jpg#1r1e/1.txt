@@ -1,0 +1,6 @@
+- "A group of bicyclists" refers to "people riding bicycles."
+- "On a street outside" refers to "in the street."
+- "They" refers to "people riding bicycles," indicating all are wearing helmets.
+- "Bicyclists" refers to "people riding bicycles."
+- "A group of bicyclists" implies multiple individuals, as does "people are riding bicycles."
+- "Street" in the hypothesis matches "the street" in the premise.

@@ -1,0 +1,9 @@
+1. The girl in the statement refers to the same girl playing a violin in the premise, not someone washing laundry.
+2. The girl mentioned in the hypothesis is the same girl playing music in the premise, not performing a household chore.
+3. The reference to "a girl" in both the premise and hypothesis is the same individual; however, her activities do not match.
+4. The girl playing the violin is identified as the same girl in the hypothesis, contradicting the activity ascribed to her.
+5. The girl in the group of people playing music is the same girl referred to, contradicting her washing laundry.
+6. The girl referenced in the hypothesis is the same as the girl performing in the premise, but the actions described are incompatible.
+7. The coreference of "a girl" points to the same person engaged in different activities, leading to a contradiction.
+8. The girl mentioned in both the premise and statement is the same, but the actions are mutually exclusive.
+9. The girl in the hypothesis is identified as the same girl in the premise, but her described actions are contradictory.

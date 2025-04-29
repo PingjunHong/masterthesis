@@ -1,0 +1,10 @@
+1. The premise describes people riding bicycles, but does not specify whether they are in a group, so the hypothesis introduces the notion of a group not explicitly supported by the premise.
+2. The premise mentions the street but does not clarify whether it is outside or inside, although it is likely outside; this detail is introduced by the hypothesis.
+3. The premise specifies that people are wearing helmets, which is not mentioned in the hypothesis, indicating a lack of complete overlap in details.
+4. The premise does not specify the number of bicyclists, so while the hypothesis mentions a group, this is not explicitly stated in the premise.
+5. The premise does not explicitly mention the setting as "outside," leaving room for interpretation, so the hypothesis adds an assumption not directly supported.
+6. The hypothesis speaks about "bicyclists," while the premise uses "people riding bicycles," potentially implying a difference in interpretation not clarified by the premise.
+7. The premise does not indicate that the riders are together as a unified group, leaving the notion of a "group" in the hypothesis unsupported.
+8. The hypothesis introduces the notion of "a group," which implies a collective action or togetherness not specified in the premise.
+9. The premise emphasizes helmet-wearing, which is omitted in the hypothesis, leading to an absence of mention regarding safety.
+10. The hypothesis suggests an outdoor activity by mentioning "street outside," which is not explicitly affirmed by the premise.
