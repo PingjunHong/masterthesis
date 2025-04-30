@@ -1,0 +1,1 @@
+- The word "sand" in the premise contradicts "pool" in the hypothesis, as they refer to different types of surfaces/environments.

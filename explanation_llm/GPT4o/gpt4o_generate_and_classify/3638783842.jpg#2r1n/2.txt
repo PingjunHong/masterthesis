@@ -1,0 +1,3 @@
+- The premise mentions "formally dressed" while the hypothesis does not mention anything about the attire, which could change the context or description.
+- The premise describes the women as "older," while the hypothesis does not mention age, leading to potential differences in interpretation.
+- The hypothesis includes "with glasses," which is an attribute not mentioned in the premise.

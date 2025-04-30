@@ -1,0 +1,2 @@
+- The premise describes a woman walking, while the hypothesis states a woman is sitting, which are contradictory states of action.
+- The hypothesis specifies an elderly woman, which is in conflict with the premise that only mentions a woman, with no age specified.

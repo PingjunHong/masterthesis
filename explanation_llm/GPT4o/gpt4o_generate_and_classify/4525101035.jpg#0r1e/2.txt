@@ -1,0 +1,2 @@
+- "Stands in front of a blue railing" in the content is semantically equivalent to "standing in front of a railing" in the statement.
+- "With his arms spread" in the content is semantically equivalent to "spreads his arms" in the statement.

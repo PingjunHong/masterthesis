@@ -1,0 +1,1 @@
+- The premise does not mention any audition or movie, which are introduced in the hypothesis, leading to the label of neutral.

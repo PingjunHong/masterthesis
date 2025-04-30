@@ -1,0 +1,1 @@
+- Although the content mentions signs and balloons, the hypothesis does not mention these details, which does not affect the entailment of the group standing outside.

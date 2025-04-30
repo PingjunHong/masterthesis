@@ -1,0 +1,2 @@
+- "A young boy" and "a boy" refer to the same entity, allowing for the inference that the boy mentioned in the statement is the same as the one in the content.
+- "Walks on a pipe" implies that the boy is in motion, which aligns with "walking" in the statement.

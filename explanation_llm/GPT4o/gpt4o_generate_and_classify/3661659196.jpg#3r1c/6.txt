@@ -1,0 +1,1 @@
+- The location conflict arises because the content specifies the conversation happening next to lockers, while the statement specifies next to the toilet, which are typically distinct locations.

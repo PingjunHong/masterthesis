@@ -1,0 +1,1 @@
+- The premise does not mention a cat, while the hypothesis introduces a cat, which is not supported by the premise.

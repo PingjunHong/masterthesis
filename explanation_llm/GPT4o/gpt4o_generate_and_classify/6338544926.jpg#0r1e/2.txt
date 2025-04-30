@@ -1,0 +1,2 @@
+- The premise describes "two college football players battle it out outdoors on the field during game day," which semantically corresponds to the concept of "a college football game" in the hypothesis.
+- The phrase "game day" in the premise matches the concept of a "game" in the statement.

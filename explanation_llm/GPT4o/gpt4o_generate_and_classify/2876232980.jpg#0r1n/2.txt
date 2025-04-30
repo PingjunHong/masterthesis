@@ -1,0 +1,1 @@
+- The word "pretty" is not synonymous with or implied by "blond headed" and is subjective, which affects the entailment.

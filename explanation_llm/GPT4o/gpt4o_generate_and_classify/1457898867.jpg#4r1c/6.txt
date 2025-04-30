@@ -1,0 +1,1 @@
+- The content describes two cows, while the statement asserts a single cow is alone, creating a structural conflict between the number of cows mentioned.

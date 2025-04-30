@@ -1,0 +1,2 @@
+- The premise does not mention a couple, while the hypothesis introduces the concept of a couple.
+- The premise describes an outdoor setting involving a cart, while the hypothesis introduces an indoor restaurant setting, which is not mentioned.

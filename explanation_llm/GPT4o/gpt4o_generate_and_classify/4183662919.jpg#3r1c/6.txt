@@ -1,0 +1,2 @@
+- The premise mentions "father's boots," while the hypothesis mentions "mothers' shoe," indicating a conflict in ownership and type of footwear.
+- The singular "shoe" in the hypothesis contradicts the plural "boots" in the premise, suggesting a conflict in quantity.

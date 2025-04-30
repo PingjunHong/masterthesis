@@ -1,0 +1,1 @@
+- "Some" implies more than one, which supports the presence of multiple dogs.

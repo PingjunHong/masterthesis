@@ -1,0 +1,1 @@
+- The premise mentions "people" and "they," while the hypothesis refers to "a group of friends." There is no explicit coreference to confirm that "people" and "a group of friends" are the same.

@@ -1,0 +1,2 @@
+- "A man" in the content refers to the same individual as "A man" in the statement.
+- "A hat" in the content refers to the same object as "a hat" in the statement.

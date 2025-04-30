@@ -1,0 +1,2 @@
+- The premise describes people gathered for an event, implying their presence and participation, while the hypothesis describes a scenario where people leave, creating a temporal conflict.
+- The hypothesis introduces the idea of charging per note, which conflicts with the implicit expectation in the premise that people are attending a concert without such mentioned constraints.

@@ -1,0 +1,2 @@
+- The premise does not mention a sofa, which is a key element in the hypothesis.
+- The location of the man in the premise is described as walking past a fence, which does not support the hypothesis that he is sitting on a sofa.

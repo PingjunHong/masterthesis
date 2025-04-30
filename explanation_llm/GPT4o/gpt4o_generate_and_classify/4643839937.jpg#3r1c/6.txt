@@ -1,0 +1,1 @@
+- The description of the shirt as plaid in the premise logically conflicts with the description of the shirt as black in the hypothesis.

@@ -1,0 +1,1 @@
+- There is no need for coreference resolution as the references are clear and consistent between the content and statement.

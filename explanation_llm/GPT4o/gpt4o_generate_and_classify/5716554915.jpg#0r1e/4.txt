@@ -1,0 +1,1 @@
+- Sunlight shining through a window implies the location is likely a room, supporting the presence of a person in a room.

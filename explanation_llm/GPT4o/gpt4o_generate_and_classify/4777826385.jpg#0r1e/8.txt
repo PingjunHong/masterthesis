@@ -1,0 +1,1 @@
+- Being outside of a pedestal near a building logically implies being outside that building.

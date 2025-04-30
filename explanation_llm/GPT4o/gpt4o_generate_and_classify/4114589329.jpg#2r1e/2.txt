@@ -1,0 +1,2 @@
+- The word "three" in the statement matches the word "three" in the content, indicating the same quantity of boys.
+- The word "boys" in the statement matches the word "boys" in the content, indicating the same group of individuals.

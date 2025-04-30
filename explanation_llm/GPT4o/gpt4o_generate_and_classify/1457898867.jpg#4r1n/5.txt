@@ -1,0 +1,2 @@
+- The premise does not mention a horse, so the hypothesis introduces information that is not supported by the premise.
+- The premise describes a road, but the hypothesis does not mention the road, introducing a setting inconsistency.

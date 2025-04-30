@@ -1,0 +1,1 @@
+- The word "standing" in the premise contradicts the word "walk" in the hypothesis because standing implies being stationary, whereas walking implies movement.

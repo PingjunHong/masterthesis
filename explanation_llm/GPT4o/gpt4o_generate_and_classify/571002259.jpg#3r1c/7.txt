@@ -1,0 +1,1 @@
+- Ballerinas typically do not perform tree climbing as part of their normal activities, which contradicts the statement given the premise.

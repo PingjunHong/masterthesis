@@ -1,0 +1,2 @@
+- The premise involves an activity (cutting) that logically excludes the state of sleeping, indicating a contradiction.
+```

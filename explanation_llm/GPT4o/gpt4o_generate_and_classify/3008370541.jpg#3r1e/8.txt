@@ -1,0 +1,1 @@
+- When a dog jumps into water, it is a reasonable assumption that the dog will get wet as a result, based on real-world understanding of how water affects objects.

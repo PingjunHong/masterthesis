@@ -1,0 +1,1 @@
+- "Maintenance garage" in the content semantically implies the presence of "garage" in the statement.

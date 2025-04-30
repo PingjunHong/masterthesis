@@ -1,0 +1,1 @@
+- "Inside" can be inferred from being in a "bar."

@@ -1,0 +1,1 @@
+- The content does not specify the gender of the workers, but the statement assumes they are men. However, the label is entailment, suggesting that this assumption is reasonable or irrelevant to the entailment decision.

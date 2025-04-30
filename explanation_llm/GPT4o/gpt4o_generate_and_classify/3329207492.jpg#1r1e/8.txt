@@ -1,0 +1,1 @@
+- Real-world reasoning about the scenario described implies there are five children, considering each child has a distinct role in the activity.

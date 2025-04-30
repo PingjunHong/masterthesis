@@ -1,0 +1,1 @@
+- "Bathroom" is a part of a "house," so if people are in the bathroom, they are in the house.

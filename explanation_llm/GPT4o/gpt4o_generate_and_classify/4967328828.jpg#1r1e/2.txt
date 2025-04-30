@@ -1,0 +1,2 @@
+- "Rests laying down" in the content semantically aligns with "lays" in the statement.
+- "Next to" in the content is semantically equivalent to "near" in the statement.

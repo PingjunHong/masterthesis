@@ -1,0 +1,1 @@
+- The activities described in the content (playing on the field) and the statement (hanging out in the locker room) cannot occur simultaneously, hence they are logically exclusive.

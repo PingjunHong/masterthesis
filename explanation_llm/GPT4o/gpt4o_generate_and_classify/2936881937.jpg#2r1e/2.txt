@@ -1,0 +1,1 @@
+- "A man in a black shirt is looking at a bike in a workshop" semantically entails "A man is in a black shirt" because the description of the man includes him wearing a black shirt.

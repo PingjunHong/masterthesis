@@ -1,0 +1,1 @@
+- There is no temporal information in the premise to support or contradict the specific time mentioned in the hypothesis, creating a conflict based on the lack of temporal context.

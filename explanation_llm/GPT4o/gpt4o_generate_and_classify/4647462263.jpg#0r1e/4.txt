@@ -1,0 +1,1 @@
+- The action described as kicking in the premise logically implies the action described as kicking in the statement, as there is no additional context altering the nature of the action.

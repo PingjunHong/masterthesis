@@ -1,0 +1,1 @@
+- "Laying on" in the content can semantically be interpreted as "are on" in the statement, as both refer to the children being positioned on the rug.

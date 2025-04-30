@@ -1,0 +1,1 @@
+- Holding a comb implies hands are not empty, creating a logical conflict with the statement of "empty hands."

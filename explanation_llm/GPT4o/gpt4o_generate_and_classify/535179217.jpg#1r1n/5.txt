@@ -1,0 +1,2 @@
+- The premise mentions a boat heading in the direction of the people, but it does not specify that the boat is large.
+- The color of the boat is not mentioned in the premise, so the hypothesis introduces new information by stating the boat is blue.

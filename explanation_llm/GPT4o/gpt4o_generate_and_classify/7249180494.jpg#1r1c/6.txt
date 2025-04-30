@@ -1,0 +1,1 @@
+- The actions of walking and laying are mutually exclusive, as one cannot be walking and laying simultaneously.

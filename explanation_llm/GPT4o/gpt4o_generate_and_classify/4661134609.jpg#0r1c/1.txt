@@ -1,0 +1,1 @@
+- No coreference resolution is applicable because the premise and hypothesis do not contain overlapping entities or references.

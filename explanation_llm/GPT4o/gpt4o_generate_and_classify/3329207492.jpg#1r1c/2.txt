@@ -1,0 +1,1 @@
+- "Shoots a water gun" in the content is semantically inconsistent with "sprays him with water" in the statement, as shooting implies a more forceful action than spraying.

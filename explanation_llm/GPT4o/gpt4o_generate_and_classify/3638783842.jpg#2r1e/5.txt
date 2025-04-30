@@ -1,0 +1,1 @@
+- The content mentions "formally dressed" and "older," which are not necessary for the statement to be true, hence their absence in the statement does not affect the entailment.

@@ -1,0 +1,2 @@
+- The statement does not mention the color of the boy’s hair, which is blond in the content, but this absence does not affect entailment.
+- The statement does not specify the color of the sweatshirt, but this absence does not affect entailment.

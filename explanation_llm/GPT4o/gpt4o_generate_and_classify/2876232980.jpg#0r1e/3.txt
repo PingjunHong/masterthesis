@@ -1,0 +1,1 @@
+- The structure of "A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow" directly supports "A child wearing a red top is standing behind a blond headed child" since the additional information about sitting in a wheelbarrow doesn't alter the standing relationship between the two children.

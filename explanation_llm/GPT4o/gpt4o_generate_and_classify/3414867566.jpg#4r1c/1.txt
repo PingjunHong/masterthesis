@@ -1,0 +1,1 @@
+- No coreference resolution is needed between the content and the statement as they refer to different subjects and activities.

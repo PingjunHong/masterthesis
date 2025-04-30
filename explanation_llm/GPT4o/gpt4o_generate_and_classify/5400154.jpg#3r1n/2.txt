@@ -1,0 +1,2 @@
+- "Standing" in the premise does not imply "fishing" in the hypothesis.
+- "Two men" in the premise does not entail "a few men" in the hypothesis, as "a few" typically implies more than two.

@@ -1,0 +1,1 @@
+- The premise specifies "a purple slide" and "feet first," which are not mentioned in the hypothesis, but this additional detail does not affect the overall entailment.

@@ -1,0 +1,1 @@
+- The premise does not mention temperature, and the hypothesis introduces a specific temperature that is not supported by any information in the premise.

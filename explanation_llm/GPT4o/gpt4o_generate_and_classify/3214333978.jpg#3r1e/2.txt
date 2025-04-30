@@ -1,0 +1,1 @@
+- The premise states the road is "icy," while the hypothesis suggests it is "dangerous" because of the ice. Although "icy" and "dangerous" can be related, they do not mean the same, so the connection is not explicitly stated in the premise.

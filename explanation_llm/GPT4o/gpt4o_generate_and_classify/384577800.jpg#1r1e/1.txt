@@ -1,0 +1,2 @@
+- The "brown dog" in the content refers to "a dog" in the statement.
+- "An object" in the content refers to "something" in the statement.

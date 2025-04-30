@@ -1,0 +1,1 @@
+- The direction of the escalator (up or down) is not specified in the content, so assuming it is going up is not supported by word meanings.

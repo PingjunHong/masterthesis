@@ -1,0 +1,1 @@
+- People cannot be in a city and a park simultaneously if referring to distinct locations.

@@ -1,0 +1,1 @@
+- A torch typically produces a relatively small fire, so the statement that "The fire is large" introduces an assumption not typically associated with a torch, making it neutral without additional context.

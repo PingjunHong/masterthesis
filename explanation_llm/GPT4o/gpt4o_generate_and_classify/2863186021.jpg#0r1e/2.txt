@@ -1,0 +1,2 @@
+- "Some birds" in the statement corresponds to "a flock of birds" in the content, where a flock implies the presence of multiple birds.
+- "Near" in the statement is semantically consistent with "walking towards" in the content, indicating proximity.

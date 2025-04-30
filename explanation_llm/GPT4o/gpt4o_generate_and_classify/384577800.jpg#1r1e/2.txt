@@ -1,0 +1,2 @@
+- "Carries" in the content can be interpreted as "carrying" in the statement.
+- "An object" is semantically equivalent to "something."

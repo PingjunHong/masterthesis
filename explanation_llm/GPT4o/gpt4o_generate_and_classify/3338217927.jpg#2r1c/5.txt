@@ -1,0 +1,2 @@
+- The premise mentions a dog, while the hypothesis introduces a cat, which is not supported or mentioned in the premise.
+- The premise describes a dog jumping for a Frisbee, while the hypothesis involves actions like washing a face and whiskers, which are not mentioned in the premise.

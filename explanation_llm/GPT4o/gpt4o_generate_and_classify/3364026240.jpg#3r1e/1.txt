@@ -1,0 +1,1 @@
+- The snowboarder mentioned in the premise is the same snowboarder referenced in the hypothesis.

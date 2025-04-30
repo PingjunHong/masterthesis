@@ -1,0 +1,1 @@
+- No coreference is involved between the premise and the hypothesis as they refer to different actions and settings.

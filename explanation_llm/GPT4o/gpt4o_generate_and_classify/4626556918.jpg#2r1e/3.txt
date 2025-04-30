@@ -1,0 +1,1 @@
+- "Looks at an outdoor skateboard park" in the content is structurally similar to "is looking at a park to skateboard" in the statement.

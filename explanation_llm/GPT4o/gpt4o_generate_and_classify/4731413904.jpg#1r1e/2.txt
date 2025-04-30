@@ -1,0 +1,1 @@
+- "Several" and "some" can both refer to an undefined number of men, allowing "some men" to be inferred from "several men."

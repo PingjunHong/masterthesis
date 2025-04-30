@@ -1,0 +1,4 @@
+- "A man" in the content and "a guy" in the statement refer to the same person.
+- "A guy with a blue top" in the statement refers to "a man wearing a short-sleeved blue shirt" in the content.
+- "Carries a pack" in the statement refers to "carrying a blue backpack" in the content.
+- "Makes his way through snow" in the statement refers to "treks through the snow" in the content.

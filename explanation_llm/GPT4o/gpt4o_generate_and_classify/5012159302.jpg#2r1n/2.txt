@@ -1,0 +1,2 @@
+- "Fixing a tractor" is semantically similar to "working hard on a tractor" in the context of the premise.
+- "Men in overalls" can be inferred from "farmers" and "they have on their overalls" since farmers are typically associated with wearing overalls during farm work.

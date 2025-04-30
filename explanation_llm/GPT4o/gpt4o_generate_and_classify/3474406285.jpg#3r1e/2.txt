@@ -1,0 +1,1 @@
+- "Jumps over an obstacle" implies that the dog is temporarily in the air during the jump.

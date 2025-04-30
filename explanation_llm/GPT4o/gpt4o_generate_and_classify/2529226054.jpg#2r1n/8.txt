@@ -1,0 +1,1 @@
+- Walking past a fence does not imply the presence of a street, as fences can exist in various locations such as parks, gardens, or private properties.

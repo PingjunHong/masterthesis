@@ -1,0 +1,1 @@
+- The term "kid" in the content is synonymous with "child" in the statement, but this synonymy does not affect the entailment relationship since the purpose of playing is not mentioned in the content.

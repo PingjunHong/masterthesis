@@ -1,0 +1,1 @@
+- The quantifier "two" in the premise conflicts with the quantifier "a few" in the hypothesis.

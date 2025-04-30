@@ -1,0 +1,1 @@
+- The phrase "Two children are laying on a rug" in the content syntactically rephrases to "Two children are on a rug" in the statement, maintaining the same meaning.

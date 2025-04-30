@@ -1,0 +1,2 @@
+- "Down jacket" is a type of "jacket."
+- "Pink comb" is a type of "comb."

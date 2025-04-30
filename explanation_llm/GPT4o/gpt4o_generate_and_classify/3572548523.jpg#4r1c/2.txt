@@ -1,0 +1,1 @@
+- "Walking" implies movement, while "sitting" implies being stationary, which are contradictory states.

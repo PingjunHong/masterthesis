@@ -1,0 +1,1 @@
+- The word "eat" in the premise does not have a synonymic relationship with "play pool" in the hypothesis, indicating distinct activities.

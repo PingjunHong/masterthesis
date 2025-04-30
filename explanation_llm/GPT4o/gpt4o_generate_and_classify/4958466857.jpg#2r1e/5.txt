@@ -1,0 +1,1 @@
+- The color "purple" of the leash and the fact that the dog is "sleeping" are not mentioned in the statement but do not affect the entailment.

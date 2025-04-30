@@ -1,0 +1,2 @@
+- The premise describes farmers wearing overalls, while the hypothesis states people are wearing shorts, which are semantically different types of clothing.
+- The premise discusses people working hard, whereas the hypothesis mentions people "doing nothing," indicating opposite activities.

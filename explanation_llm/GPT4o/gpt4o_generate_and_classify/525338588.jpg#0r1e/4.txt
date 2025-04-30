@@ -1,0 +1,1 @@
+- The fact that people are standing outside a building logically implies they are not inside, given the spatial distinction between inside and outside.

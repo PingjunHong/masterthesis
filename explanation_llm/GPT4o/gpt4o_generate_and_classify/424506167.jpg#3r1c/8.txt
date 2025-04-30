@@ -1,0 +1,1 @@
+- If the dogs are standing in the yard, they cannot simultaneously be sitting on the porch, given typical spatial constraints.

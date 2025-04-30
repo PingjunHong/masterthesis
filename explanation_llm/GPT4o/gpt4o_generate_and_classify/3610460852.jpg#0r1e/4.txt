@@ -1,0 +1,1 @@
+- The statement "The woman is standing" is pragmatically entailed by the content because it logically follows from the information given that the woman is indeed standing, without needing additional context.

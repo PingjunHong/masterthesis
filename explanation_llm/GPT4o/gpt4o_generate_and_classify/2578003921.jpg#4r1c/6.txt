@@ -1,0 +1,2 @@
+- Riding through a forest logically conflicts with riding on a highway as they are different environments.
+- The mode of transportation implied (bicycle vs. motorcycle) presents a logical conflict based on typical usage of "biker" and "motorcycle."

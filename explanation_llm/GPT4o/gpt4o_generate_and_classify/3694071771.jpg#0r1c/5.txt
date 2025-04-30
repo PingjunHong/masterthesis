@@ -1,0 +1,2 @@
+- The premise does not mention a swingset or a park, whereas the hypothesis introduces these elements.
+- The hypothesis states the man is tall, but there is no mention of height in the premise.

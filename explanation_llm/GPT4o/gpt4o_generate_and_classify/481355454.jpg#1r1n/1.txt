@@ -1,0 +1,1 @@
+- The premise mentions only five children playing soccer, while the hypothesis states there are ten children playing, which is not supported by the premise.

@@ -1,0 +1,1 @@
+- The premise specifies a location ("Middle Eastern marketplace"), which is logically exclusive to the location and type specified in the hypothesis ("American theater").

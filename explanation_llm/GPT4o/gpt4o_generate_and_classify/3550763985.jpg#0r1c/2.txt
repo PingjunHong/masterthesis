@@ -1,0 +1,2 @@
+- "Jogging" implies a running motion which contradicts the action of "jump" in the premise.
+- "Street" implies a paved road whereas the premise describes a "snowy day," indicating a different environment.

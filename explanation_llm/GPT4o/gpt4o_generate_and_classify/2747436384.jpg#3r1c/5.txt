@@ -1,0 +1,2 @@
+- The premise does not mention anyone sitting, whereas the hypothesis specifically states that people are sitting.
+- The premise describes boys with their backs to a wave, but it does not specify whether they are on the beach, sitting, or standing, which is introduced by the hypothesis.

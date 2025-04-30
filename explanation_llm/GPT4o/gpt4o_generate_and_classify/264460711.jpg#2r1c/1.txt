@@ -1,0 +1,1 @@
+- No coreference to resolve between premise and hypothesis.

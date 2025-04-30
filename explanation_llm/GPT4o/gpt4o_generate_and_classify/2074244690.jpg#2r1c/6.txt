@@ -1,0 +1,1 @@
+- "Watching an event" and "asleep" are mutually exclusive situations; one cannot watch an event while being asleep.

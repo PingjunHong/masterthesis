@@ -1,0 +1,1 @@
+- "Men" in the premise refers to two individuals, while "men" in the hypothesis could refer to more than two individuals.
