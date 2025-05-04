@@ -119,15 +119,15 @@ few_shot_examples = {
 
 def build_prompt(mode, premise, hypothesis, gold_label, taxonomy_idx=None, highlighted_1="", highlighted_2=""):
     if mode == "highlight_index":
-        return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences.\n\n    Content: {premise}\n    Highlighted word indices in Content: {highlighted_1}\n\n    Statement: {hypothesis}\n    Highlighted word indices in Statement: {highlighted_2}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
+        return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences.\n\n    Context: {premise}\n    Highlighted word indices in Content: {highlighted_1}\n\n    Statement: {hypothesis}\n    Highlighted word indices in Statement: {highlighted_2}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
     
     elif mode == "highlight_marked":
         marked_premise = mark_tokens(premise, highlighted_1)
         marked_hypothesis = mark_tokens(hypothesis, highlighted_2)
-        return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences. Highlighted parts are marked in \"**\".\n\n    Content: {marked_premise}\n    Statement: {marked_hypothesis}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
+        return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences. Highlighted parts are marked in \"**\".\n\n    Context: {marked_premise}\n    Statement: {marked_hypothesis}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
     
     elif mode == "label":
-        return f"""You are an expert in Natural Language Inference (NLI). Please list all possible explanations for why the following statement is {gold_label} given the content below without introductory phrases.\n    Content: {premise}\n    Statement: {hypothesis}\n    Answer:"""
+        return f"""You are an expert in Natural Language Inference (NLI). Please list all possible explanations for why the following statement is {gold_label} given the content below without introductory phrases.\n    Context: {premise}\n    Statement: {hypothesis}\n    Answer:"""
     
     elif mode == "taxonomy":
         # generate descriptions per category (1/8)
@@ -145,7 +145,7 @@ def build_prompt(mode, premise, hypothesis, gold_label, taxonomy_idx=None, highl
         {few_shot_text}
         ---
         Now, consider the following premise and hypothesis:
-        Content: {premise}    
+        Context: {premise}    
         Statement: {hypothesis}
         Please list all possible explanations for the given category without introductory phrases.
         Answer:"""
@@ -189,7 +189,7 @@ def build_prompt(mode, premise, hypothesis, gold_label, taxonomy_idx=None, highl
         7. Factual Knowledge – Explanation relies on commonsense, background, or domain-specific facts. No further reasoning involved.
         8. World-Informed Logical Reasoning – Requires real-world causal, probabilistic reasoning or unstated but assumed information.
 
-        Content: {premise}   
+        Context: {premise}   
         Statement: {hypothesis}  
         Label: {gold_label}
 
