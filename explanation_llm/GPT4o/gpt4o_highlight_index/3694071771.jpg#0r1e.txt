@@ -1,4 +1,0 @@
-- The highlighted words "man," "with," and "helmet" in the content correspond to "person" and "wearing" in the statement, indicating that the man is a person wearing something.
-- The highlighted words "numbers," "on," "his," "arm," and "leg" in the content match "wearing" and "numbers" in the statement, suggesting that the person is wearing numbers.
-- The highlighted words "riding," "a," "red," and "racing" in the content correspond to "using" and "nonmotorized vehicle" in the statement, suggesting that riding a bike is using a nonmotorized vehicle.
-- A "red racing bike" is a type of nonmotorized vehicle, which aligns with the description of the person using a nonmotorized vehicle in the statement.

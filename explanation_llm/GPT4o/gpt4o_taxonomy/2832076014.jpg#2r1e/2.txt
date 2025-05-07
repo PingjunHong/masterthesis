@@ -1,3 +1,0 @@
-- A land rover is a type of vehicle.
-- Driving across a river implies crossing a river.
-- Being driven across implies the action of crossing.

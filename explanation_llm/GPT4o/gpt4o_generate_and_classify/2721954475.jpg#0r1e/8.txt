@@ -1,1 +1,0 @@
-- Although a group of people standing is mentioned in both the content and the statement, the statement does not specify the context or location about the black square, leading to a lack of full entailment.

@@ -1,4 +1,0 @@
-- The action of riding a bike is explicitly mentioned in the content.
-- The subject "man" is consistent in both the content and the statement.
-- The additional details in the content do not negate the fact that the man is riding a bike.
-- The core activity described in the statement is a subset of the detailed description in the content.

@@ -1,4 +1,0 @@
-1. "Dogs" are a subset of "animals," so the mention of dogs implies the presence of animals.
-2. The phrase "take a nap" means the dogs are asleep, satisfying the condition of some animals being asleep.
-3. The quantifier "some" is satisfied because at least one dog is asleep, and dogs are animals.
-4. The indefinite article "a" in "a bunch of dogs" indicates a group of animals, which includes at least one dog, and some are asleep.

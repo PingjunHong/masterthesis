@@ -1,5 +1,0 @@
-- "Women" and "men" refer to different genders, creating a direct conflict in the description of who is dancing.
-- The presence of "women" in the content contradicts the claim of "men" dancing in the statement.
-- The content specifies "women" dancing, while the statement specifies "men," making the two mutually exclusive.
-- The highlighted term "women" excludes the possibility of "men" being the dancers in the described scene.
-- "Men dancing" cannot simultaneously occur if only "women wearing dresses" are specified as dancing in the content.

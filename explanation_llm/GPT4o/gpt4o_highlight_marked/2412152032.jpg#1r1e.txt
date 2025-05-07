@@ -1,6 +1,0 @@
-1. "Children" in the content matches "Children" in the statement, referring to the same group.
-2. "Uniforms" in the content and "uniforms" in the statement refer to the same clothing.
-3. "Climbing" in the content and "climb" in the statement describe the same action, with "climbing" being the continuous form and "climb" the base form.
-4. The phrase "a tower" in both the content and the statement refers to the same object being climbed.
-5. The additional detail "yellow sports" in the content is omitted in the statement but does not contradict or negate it.
-6. The content provides a more descriptive depiction of the action, while the statement simplifies it, maintaining the same meaning.

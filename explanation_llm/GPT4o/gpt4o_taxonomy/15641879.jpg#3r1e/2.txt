@@ -1,9 +1,0 @@
-- "A man" and "the person" refer to the same individual in the context.
-- The term "stands behind a counter" implies that the person is behind the counter.
-- "Man" specifies the gender of "the person," confirming they are the same.
-- "In an Alaska sweatshirt" describes the man's attire, supporting his identification as the person.
-- The words "stands" and "behind" describe the man's position relative to the counter, aligning with the statement.
-- "A man" in the premise is equivalent to "the person" in the hypothesis.
-- The use of "a man" indicates a male individual, which aligns with "the person is a man."
-- "Counter" in both the premise and statement refers to the same object, confirming the location.
-- "Behind a counter" in the premise specifies the man's location, which matches "behind the counter" in the statement.

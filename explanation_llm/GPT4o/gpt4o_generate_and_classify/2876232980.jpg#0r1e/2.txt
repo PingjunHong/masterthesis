@@ -1,1 +1,0 @@
-- The phrase "a blond headed child sitting in a wheelbarrow" in the content implies the existence of "a blond headed child" in the statement, as sitting is a state and does not negate their presence.

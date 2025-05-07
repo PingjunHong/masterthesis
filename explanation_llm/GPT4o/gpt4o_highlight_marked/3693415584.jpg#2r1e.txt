@@ -1,5 +1,0 @@
-- The subject "woman" is identical in both sentences.
-- The action "weaving" is identical in both sentences.
-- The detail "wearing a bright orange blouse" in the content does not affect the truth of the statement, as it is additional information.
-- Removing the adjective "bright orange blouse" does not change the core meaning of the statement.
-- The essential elements "woman" and "weaving" remain consistent between the content and the statement.

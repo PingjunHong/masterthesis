@@ -1,1 +1,0 @@
-- Being "standing on a pier" logically conflicts with being "in a boat" as per the statement.

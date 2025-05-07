@@ -1,5 +1,0 @@
-1. The highlighted words "young girls" in the Content imply "girls" in the Statement, as "young girls" are a subset of "girls."
-2. The highlighted word "playing" in the Content implies "are in" the water in the Statement, as playing in the water necessitates being in the water.
-3. The highlighted word "water" in both sentences directly supports the entailment, as the location remains consistent.
-4. The phrase "Four young girls" in the Content entails "Four girls" in the Statement, as the count and core noun are preserved.
-5. The action "playing in the water" in the Content logically implies the state "are in the water" in the Statement, as the latter is a necessary condition for the former.

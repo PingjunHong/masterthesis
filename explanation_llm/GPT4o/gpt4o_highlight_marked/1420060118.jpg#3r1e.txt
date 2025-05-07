@@ -1,4 +1,0 @@
-1. The word **child** matches in both sentences, indicating the subject is the same.
-2. The action **jumping kick** is explicitly mentioned in both sentences, showing the main activity is identical.
-3. The phrase **a ninja outfit** in the first sentence provides additional detail about the child but does not contradict or negate the second statement, which omits this detail.
-4. The use of the article **a** in both sentences maintains consistency in referring to a single unspecified child.

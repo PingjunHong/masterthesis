@@ -1,5 +1,0 @@
-1. The word "**kid**" in the content corresponds to "**child**" in the statement, as they are synonyms.
-2. The phrase "**playing** a game" in the content matches the action described as "**playing**" in the statement.
-3. The definite article "**a**" in the content aligns with the context of the activity being referenced in the statement.
-4. The specific game "**The Derby**" mentioned in the content is irrelevant to the entailment, as the statement generalizes the activity of playing.
-5. The verb "**is**" in the statement correctly conveys the ongoing action described in the content.

@@ -1,6 +1,0 @@
-1. "Crowd" (Content) implies a gathering in one place, while "walking down the street" (Statement) suggests movement in a linear path, creating a contradiction in location dynamics.
-2. "Wearing orange" (Content) specifies a color associated with the crowd, whereas "drag queens" (Statement) introduces a distinct group with no mention of color, contradicting the description.
-3. "Cheering for their team in a stadium" (Content) describes a sports-related event, while "walking down the street" (Statement) depicts an unrelated, casual activity, contradicting the context.
-4. "A crowd" (Content) is a general term for a large group, while "drag queens" (Statement) specifies a particular subgroup, creating a mismatch in group identity.
-5. "In a stadium" (Content) places the action in a confined, structured space, whereas "street" (Statement) implies an open, public area, contradicting the setting.
-6. The actions "cheering" (Content) and "walking" (Statement) are fundamentally different, with one being stationary and energetic and the other being mobile and casual, leading to a contradiction in behavior.

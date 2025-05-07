@@ -1,4 +1,0 @@
-- The phrase "Several women" in the content directly matches "several women" in the statement, indicating that the quantity of women is the same in both.
-- Both the content and the statement specify the presence of multiple women, thus confirming that the statement is true based on the content.
-- "Several" in both instances refers to more than two, ensuring numerical consistency between the content and the statement.
-- The use of "women" in both the content and the statement confirms that the subject being talked about is the same group of people in both cases.

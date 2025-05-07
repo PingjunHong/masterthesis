@@ -1,4 +1,0 @@
-- The balance beam is a type of gymnastics equipment.
-- If a woman is using a balance beam, she is necessarily using gymnastics equipment.
-- Gymnastics activities typically involve the use of specialized equipment, such as the balance beam.
-- The action of doing gymnastics implies the involvement of gymnastics equipment.

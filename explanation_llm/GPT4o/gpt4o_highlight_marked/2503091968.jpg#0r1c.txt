@@ -1,5 +1,0 @@
-1. "Taxi cab" indicates the child is outside, while "home" suggests the child is indoors.
-2. "Screaming" implies the child is active and noisy, while "resting" suggests the child is calm and inactive.
-3. The presence of a "taxi cab" contradicts the setting of being "home."
-4. The activity of "sticking her head out" conflicts with the act of "resting."
-5. The dynamic environment of a "taxi cab" clashes with the peaceful state implied by "home."

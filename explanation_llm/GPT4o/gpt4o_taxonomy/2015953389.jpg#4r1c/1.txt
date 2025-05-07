@@ -1,5 +1,0 @@
-1. "Workers" in the statement refers to the same "Workers" in the premise, but their actions are contradictory.
-2. "Standing on a lift" in the premise conflicts with "walk home from work" in the statement as they imply different activities at the same time.
-3. The workers cannot simultaneously be "standing on a lift" and "walking home from work."
-4. The location implied by "standing on a lift" contradicts the action of "walking home," as they suggest different physical states.
-5. The verb "standing" in the premise contradicts "walk" in the statement, indicating opposite actions for the same workers.

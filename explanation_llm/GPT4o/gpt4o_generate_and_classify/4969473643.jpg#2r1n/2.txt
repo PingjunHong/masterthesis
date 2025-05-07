@@ -1,1 +1,0 @@
-- "Looking at the camera" does not necessarily mean "taking a picture"; looking and taking a picture are different actions.

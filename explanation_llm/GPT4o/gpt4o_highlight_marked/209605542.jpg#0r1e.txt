@@ -1,6 +1,0 @@
-1. "is pulling" in the content matches "pulls" in the statement as both describe an ongoing or habitual action of climbing.
-2. "himself" in the content corresponds directly to "himself" in the statement, indicating the climber is performing the action on his own body.
-3. "up" in the content matches "up" in the statement, indicating the direction of movement is the same.
-4. "some gray rocks" in the content is consistent with "some rocks" in the statement, as "gray" is a specific detail not necessary for entailment.
-5. "a climber" in both the content and the statement refers to the same person performing the action.
-6. The omission of "high above some green foliage" in the statement does not contradict the content, as it provides additional context irrelevant to the action described.

@@ -1,9 +1,0 @@
-1. The woman in a black shirt refers to the woman dressed in black.
-2. The act of looking at a bicycle does not imply shopping for a bicycle.
-3. The description of the woman's activity (looking) is different from the hypothesis (shopping).
-4. The premise does not specify any intention or action related to shopping.
-5. "A woman in a black shirt" and "a woman dressed in black" could refer to the same person, but their activities are not semantically equivalent.
-6. The statement about shopping introduces an action not mentioned or implied in the premise.
-7. The premise only establishes a visual interaction with the bicycle, not a commercial one.
-8. The term "looking" is not synonymous with "shopping," so the hypothesis cannot be inferred from the premise.
-9. The hypothesis assumes a purpose (shopping) that is not evident from the premise.

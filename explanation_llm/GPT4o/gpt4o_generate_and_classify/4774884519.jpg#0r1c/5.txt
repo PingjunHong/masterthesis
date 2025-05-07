@@ -1,1 +1,0 @@
-- The content mentions people on an escalator but does not mention an elevator at all.

@@ -1,5 +1,0 @@
-1. The highlighted word "**playing**" in both the content and the statement explicitly matches, indicating that the activity described is the same.
-2. The highlighted word "**children**" in both the content and the statement explicitly matches, confirming the subject of the activity is the same.
-3. The content specifies that the children are "**playing soccer**," and soccer is an activity, which supports the general statement that they are "**playing**."
-4. The content mentions "Five children," which directly matches the number of children described in the statement.
-5. The statement is a more general description of the content, omitting the specific activity ("soccer"), but still maintaining consistency with the idea that the children are "**playing**."

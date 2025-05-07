@@ -1,5 +1,0 @@
-- Running and walking describe different types of movement with varying speeds and energy levels.
-- Running typically involves a faster pace compared to walking.
-- Walking is characterized by having one foot on the ground at all times, whereas running includes phases where both feet are off the ground.
-- Running is generally associated with more vigorous physical activity than walking.
-- The action of running implies a quicker motion than the action of walking.

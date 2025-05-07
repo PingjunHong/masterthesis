@@ -1,5 +1,0 @@
-The statement "A man is in front of a camera" is considered entailment given the content for the following reasons:
-- The content describes a young man looking at the camera, implying he is positioned in front of it.
-- Being in front of a camera is a prerequisite for being captured in an image or video, as suggested by the description.
-- The content does not specify any obstruction between the young man and the camera, supporting the inference.
-- The phrase "looks at the camera" indicates a direct line of sight, which typically requires being in front of the camera.

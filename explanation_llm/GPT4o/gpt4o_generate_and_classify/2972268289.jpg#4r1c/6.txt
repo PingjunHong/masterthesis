@@ -1,2 +1,0 @@
-- The content indicates that the cowboy calls off his horse, implying the action of roping is not completed, whereas the statement implies the action is completed successfully.
-- There is a contradiction between the action being called off and the action being successfully completed.

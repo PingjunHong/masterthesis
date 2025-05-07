@@ -1,8 +1,0 @@
-1. Steps are commonly part of the entrance to buildings, including libraries, so if a child is on the library steps, it is logical to conclude the child is on steps.
-2. Being on library steps inherently means being on steps, as library steps are a specific type of steps.
-3. The word "library" in "library steps" specifies the location but does not change the fact that "steps" are involved, so the child being on library steps entails the child being on steps.
-4. The library steps are a subset of all steps, so if the child is on library steps, they are necessarily on steps.
-5. Real-world understanding of a library's architecture includes the presence of steps, so a child on the library steps is indeed on steps.
-6. The concept of steps in the context of a library does not alter the definition of steps, so the child being on library steps confirms they are on steps.
-7. In the context of buildings, steps are universally recognized as a structural component, and the library is no exception, thus placing the child on steps.
-8. The statement "on the library steps" implies a position on steps due to the real-world design of public buildings incorporating steps at their entrances.

@@ -1,2 +1,0 @@
-- The premise mentions a snowboarder on a wide plain of snow, but does not mention a snowmobile or a blizzard.
-- The hypothesis introduces a snowmobile and a blizzard, which are not mentioned in the premise.

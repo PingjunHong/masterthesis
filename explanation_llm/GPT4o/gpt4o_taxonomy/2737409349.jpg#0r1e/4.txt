@@ -1,8 +1,0 @@
-- The premise states that the man is talking on the phone, which directly implies he is on the phone.
-- Talking on the phone inherently means using the phone, thus the man is on the phone.
-- If a man is talking on the phone, it logically follows that he is on the phone.
-- The action of talking on the phone necessitates being on the phone, confirming the statement.
-- Being on the phone is a prerequisite for talking on the phone, as described in the premise.
-- The premise's description of "talking on the phone" ensures the man is indeed on the phone.
-- Engaging in a conversation via phone requires being on the phone, as indicated by the premise.
-- The premise provides that the man is engaged in a phone conversation, affirming he is on the phone.

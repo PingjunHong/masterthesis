@@ -1,8 +1,0 @@
-- Driving across a river implies that the vehicle is interacting with water, and splashing is a typical result of this interaction.
-- When a vehicle crosses a river, it inevitably disturbs the water, which leads to splashes.
-- The act of driving across a river suggests movement through water, causing water displacement and splashing.
-- A land rover moving through a river causes water to be displaced, resulting in splashes.
-- The dynamics of a vehicle crossing a body of water include water being thrown upwards, which is described as splashing.
-- The motion of driving across a river generates turbulence in the water, creating splashes.
-- A land rover traveling through a river disturbs the water, leading to splashing as part of the crossing process.
-- The phrase "driven across a river" encompasses the concept of water interaction, including splashing as a natural outcome.

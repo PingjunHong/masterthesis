@@ -1,5 +1,0 @@
-- The people are outside, not inside the building.
-- The people are standing, not sitting.
-- The content describes an activity taking place in front of a building, while the statement implies the activity is happening inside, specifically in a hotel lobby.
-- The sign 'HI-POINTE' does not necessarily indicate a hotel, contrasting with the implication of a hotel in the statement.
-- The location described in the content is outside, whereas a lobby implies an indoor setting.

@@ -1,6 +1,0 @@
-1. "Old man" in the content implies "man" in the statement, as "old" is a specific descriptor of the more general category "man."
-2. "With a package" provides additional detail about the man but does not contradict the statement, which does not specify whether the man has a package or not.
-3. "Poses" is a direct match in both the content and the statement, indicating the same action.
-4. "In front of" is a direct match in both the content and the statement, indicating the same spatial relationship.
-5. "Advertisement" and "ad" refer to the same concept, with "ad" being a common abbreviation of "advertisement."
-6. The presence of a package in the content does not change the core meaning of the statement, which focuses on the man posing in front of an ad.

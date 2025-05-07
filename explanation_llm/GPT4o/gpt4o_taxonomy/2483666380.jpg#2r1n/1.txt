@@ -1,7 +1,0 @@
-- The woman mentioned in the hypothesis refers to the same woman weaving with a comb in her hand in the premise.
-- The term "at work" in the hypothesis does not specify the activity of weaving mentioned in the premise.
-- The hypothesis refers to a woman who might be working, but the specific nature of her work, i.e., weaving with a comb, is not explicitly stated.
-- "A woman" in both the premise and hypothesis refers to the same individual, but the hypothesis does not clarify the type of work she is doing.
-- The reference to "a woman" in the hypothesis matches the woman described in the premise, yet the premise does not confirm her activity as work.
-- The comb in her hand in the premise does not directly link to the concept of "work" in the hypothesis, making the reference ambiguous.
-- The premise describes a specific action involving weaving and a comb, while the hypothesis generalizes the woman's activity as work without detailing it.

@@ -1,2 +1,0 @@
-- Not all carpenters are men, so assuming a gender without explicit mention introduces uncertainty.
-- While carpenters often work with shingles, the premise does not confirm the particular task of hammering the final shingle is occurring.

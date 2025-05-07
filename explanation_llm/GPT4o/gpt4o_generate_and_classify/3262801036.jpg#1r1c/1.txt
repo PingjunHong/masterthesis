@@ -1,1 +1,0 @@
-- The phrase "six rescuers" in the content is resolved with "six people" in the statement, and "an injured man" in the content is resolved with "a seventh who is injured" in the statement.

@@ -1,2 +1,0 @@
-- "Pushing a baby stroller" in the content is semantically equivalent to "pushing a stroller" in the statement.
-- "Down the street" implies being "outside," as streets are typically outdoors.

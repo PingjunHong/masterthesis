@@ -1,1 +1,0 @@
-- The content describes the man as being on stage, while the statement describes him as being on the floor, creating a location conflict.

@@ -1,3 +1,0 @@
-- The man is described as wearing a long sleeves white collared shirt and a tie, not shorts and a t-shirt.
-- The activity mentioned is walking to work, not jogging.
-- The context specifies attire suitable for work, which contrasts with casual running clothing like shorts and a t-shirt.

@@ -1,1 +1,0 @@
-- "American Football" is a type of "football," so if two people are playing American Football, it can be inferred that a game of football is being played.

@@ -1,1 +1,0 @@
-- People loitering or waiting on the steps of a building implies their presence outside the building.

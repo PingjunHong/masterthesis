@@ -1,3 +1,0 @@
-1. The word "people" in the content and "The people" in the statement both refer to the same group of individuals, indicating they share the same subject.
-2. The phrase "are standing" in both the content and the statement directly matches, confirming that the action described in both is the same.
-3. The highlighted words in both sentences confirm the presence and action of the people, establishing the entailment relationship based on identical actions and subjects.

@@ -1,5 +1,0 @@
-- **Bar** and **game** describe different locations; a bar is not the same as a baseball game.
-- Watching a sports game on television at a **bar** implies they are not physically present at a baseball **game**.
-- The activity of watching on television contrasts with attending a live **game**.
-- The setting of a **bar** excludes the environment of a baseball **game**.
-- The men are spectators at a **bar**, not participants or attendees at a baseball **game**.

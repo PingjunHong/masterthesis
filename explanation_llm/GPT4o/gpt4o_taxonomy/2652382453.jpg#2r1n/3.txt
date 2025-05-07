@@ -1,7 +1,0 @@
-- People are conducting business in the city is a syntactic rephrase of Everyone on the street in the city seem to be busy doing their own thing.
-- The phrase conducting business in the city is a structural alternation of busy doing their own thing on the street in the city.
-- Conducting business is a coordinated rephrasing of busy doing their own thing, preserving the meaning.
-- People are conducting business in the city captures the essence of everyone being busy in the city streets through syntactic restructuring.
-- The statement People are conducting business in the city is a subordination of the premise, expressing the same idea in different terms.
-- The hypothesis People are conducting business in the city is a syntactic variation of the premise Everyone on the street in the city seem to be busy doing their own thing.
-- Conducting business in the city simplifies and rephrases busy doing their own thing in the street in the city while maintaining the original meaning.

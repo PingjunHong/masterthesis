@@ -1,1 +1,0 @@
-- No coreference resolution is needed as the entities ("two boys", "a book") are consistent across both the content and the statement.

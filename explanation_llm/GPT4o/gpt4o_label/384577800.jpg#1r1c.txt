@@ -1,4 +1,0 @@
-- The hillside is described as snowy in the content, but grassy in the statement.
-- The direction of movement is unspecified in the content, while the statement specifies "down."
-- The color of the hillside does not match; snowy versus grassy suggests different environments.
-- There is no mention of the dog's direction in the content, contradicting the "down" direction in the statement.

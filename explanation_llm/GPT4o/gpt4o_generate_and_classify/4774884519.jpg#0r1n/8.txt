@@ -1,1 +1,0 @@
-- Without explicit reference, an escalator could move in either direction, and no additional context suggests that the escalator is specifically going up.

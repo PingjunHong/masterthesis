@@ -1,4 +1,0 @@
-- The actions described in the content and the statement are mutually exclusive, as getting ready to kick a soccer ball requires being awake and active, whereas sleeping involves being at rest and inactive.
-- The locations implied by the content and the statement are inconsistent; the content suggests the boy is outdoors or in a setting for physical activity, while the statement suggests he is indoors at home.
-- The timeframes implied by the activities are contradictory, as preparing to kick a soccer ball implies current or imminent physical action, whereas sleeping suggests a period of inactivity, typically at a different time.
-- The mental states implied are incompatible; being ready to kick a soccer ball requires attentiveness and coordination, whereas sleeping involves being unconscious and unresponsive.

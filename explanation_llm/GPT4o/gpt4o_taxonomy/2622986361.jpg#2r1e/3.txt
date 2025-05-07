@@ -1,8 +1,0 @@
-- The crowd on the ground is watching 3 people on the roof's edge is a rephrase of, A crowd of people looking up at 3 people on the edge of the roof of a building.
-- Both the premise and the statement describe the same scenario where people are looking at three individuals on the roof's edge.
-- The phrase "looking up at" in the premise implies that the crowd is "on the ground," as stated in the hypothesis.
-- "3 people on the edge of the roof of a building" in the premise is rephrased as "3 people on the roof's edge" in the hypothesis.
-- The premise's "A crowd of people looking up" structurally corresponds to the statement's "The crowd on the ground is watching."
-- "A building" in the premise indirectly indicates the presence of a roof, aligning with "the roof's edge" in the statement.
-- The crowd observing from below, as mentioned in the premise, aligns with the statement's description of people watching from the ground.
-- "Looking up" and "watching" are synonymous actions involving visual attention directed upwards from the crowd to the individuals on the roof.

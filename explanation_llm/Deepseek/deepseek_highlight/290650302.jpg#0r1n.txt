@@ -1,5 +1,0 @@
-1. The **Content** does not mention the woman using a phone, so the **Statement** introduces new information ("on her phone") that is neither confirmed nor contradicted.
-2. The **Statement** focuses on the woman being on her phone, while the **Content** describes her appearance and surroundings without addressing her actions, making the relationship **neutral**.
-3. The **highlighted word "phone"** in the **Statement** is unrelated to any details in the **Content**, so there is no overlap or conflict.
-4. The **Content** provides a general description of the scene, while the **Statement** adds a specific action (using a phone) that does not alter or oppose the original description.
-5. Since the **Content** does not state whether the woman is or isn’t on her phone, the **Statement** neither contradicts nor supports it, resulting in a **neutral** label.

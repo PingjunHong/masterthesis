@@ -1,5 +1,0 @@
-- The term "children" in the content is synonymous with "kids" in the statement.
-- "Embracing" in the content is synonymous with "hugging" in the statement.
-- The presence of two children in the content corresponds directly to the two kids mentioned in the statement.
-- The act of embracing inherently implies the act of hugging, as both involve a close physical interaction.
-- The descriptive detail about the tan coats in the content is non-essential for the action of hugging, allowing for a focus on the core action that supports entailment.

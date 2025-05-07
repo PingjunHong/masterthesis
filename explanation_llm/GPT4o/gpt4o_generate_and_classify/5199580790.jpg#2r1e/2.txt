@@ -1,2 +1,0 @@
-- "Some people" in the statement is semantically compatible with "Three men" and "another person" in the content, as "some" indicates an unspecified number of individuals, which can include three or more.
-- "Put something in a boat" is semantically compatible with "are carrying a red bag into a boat" because carrying a bag into a boat implies placing it there.

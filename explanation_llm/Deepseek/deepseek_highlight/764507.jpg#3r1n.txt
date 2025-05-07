@@ -1,6 +1,0 @@
-1. "Two couples" implies four adults, which aligns with "Four adults" in the content, but the content does not specify the relationships between the adults.
-2. "Eat food" is consistent with "eat" in the content, though the content does not explicitly mention "food."
-3. "Kitchen floor" is more specific than "tile floor" in the content, but a kitchen floor could be tiled, making this neither confirmed nor contradicted.
-4. The statement does not introduce any information that contradicts the content, nor does it provide information that is strictly entailed by the content.
-5. The content does not confirm or deny whether the floor is in a kitchen, leaving the statement's specificity neutral.
-6. The relationships ("couples") and location ("kitchen") in the statement are not addressed in the content, making them neither supported nor contradicted.

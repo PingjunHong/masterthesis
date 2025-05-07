@@ -1,5 +1,0 @@
-- The content mentions **two people**, while the statement refers to **one person**.
-- The content specifies **two**, indicating a pair, contradicting the statement's reference to a single individual.
-- The statement claims **one person**, which directly opposes the existence of **two people** in the content.
-- The content involves **two people crossing by each other**, which is incompatible with the statement that only **one person** is present.
-- The content describes **two people** interacting, while the statement implies there is just **one person outdoors**, creating a contradiction.

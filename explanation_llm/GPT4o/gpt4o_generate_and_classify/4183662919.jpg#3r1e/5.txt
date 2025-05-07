@@ -1,1 +1,0 @@
-- The content specifies the child is playing with boots, but the statement does not mention what the child is playing with. This absence does not affect the entailment since playing is the core action entailed.

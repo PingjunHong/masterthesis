@@ -1,6 +1,0 @@
-1. **"Three women" (Content indices 0,1) aligns with "The three women" (Statement indices 0,4,7,2,1)**, confirming the same group of subjects.
-2. **"smiling" (Content index 6) implies happiness**, supporting "happy" (Statement index 6) as an emotional state.
-3. **"making cupcakes" (Content) directly entails "baking cupcakes" (Statement)**, as "making" and "baking" are contextually synonymous in this scenario.
-4. The combination of **"smiling" and "making cupcakes" (Content) logically justifies "happy about baking cupcakes" (Statement)**, as the actions and expressions align with the stated emotion.
-5. The **plurality ("three women") and the activity ("cupcakes") are preserved** in both sentences, ensuring consistency in the scenario.
-6. **No contradictory information exists** between the highlighted or non-highlighted parts, reinforcing entailment.

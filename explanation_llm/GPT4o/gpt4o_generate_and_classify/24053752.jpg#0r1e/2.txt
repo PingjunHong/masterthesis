@@ -1,2 +1,0 @@
-- "Mowing the grass" in the content is synonymous with "cutting the grass" in the statement.
-- "With a green riding mower" in the content is semantically equivalent to "on a riding mower" in the statement, with the focus on the action rather than the color.

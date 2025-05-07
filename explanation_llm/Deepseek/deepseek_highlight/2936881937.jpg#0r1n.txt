@@ -1,8 +1,0 @@
-1. The word "man" in the content implies a "person," satisfying the requirement in the statement.
-2. The phrase "maintenance garage" in the content directly matches the word "garage" in the statement.
-3. The presence of a man in the garage confirms that "a person is in a garage."
-4. The description of the scene (man in a garage) logically entails the generalized statement (person in a garage).
-5. The highlighted word "man" is a subset of "person," making the statement true based on the content.
-6. The context of the garage and the man's presence fulfills the conditions stated in the statement.
-7. The statement is a broader interpretation of the content, and the highlighted words support this relationship.
-8. The content provides sufficient evidence (location and subject) to conclude the statement is entailed.

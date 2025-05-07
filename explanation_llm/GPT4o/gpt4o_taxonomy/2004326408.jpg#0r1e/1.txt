@@ -1,6 +1,0 @@
-The woman on the bike refers to the woman who is riding a bike.
-The woman is carrying a shoulder bag refers to the woman riding the bike.
-The woman wearing bike shorts and a skirt is the same woman on the bike.
-The woman in the premise refers to the same woman in the hypothesis.
-The woman riding a bike is the same woman mentioned in the hypothesis.
-The mention of a woman in the hypothesis is resolved by the woman riding a bike in the premise.

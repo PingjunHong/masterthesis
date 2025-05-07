@@ -1,1 +1,0 @@
-- "Unemployed" contradicts "worker", as a worker is employed by definition.

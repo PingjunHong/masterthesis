@@ -1,4 +1,0 @@
-- "A basketball player" in the content implies "someone" in the statement because "a basketball player" is a specific example of "someone."
-- "Arena crowd" in the content implies "a crowd" in the statement because "arena crowd" specifies the location of the crowd, but it is still a crowd.
-- "Looks on" in the content implies "watching" in the statement because "looks on" is synonymous with "watching," indicating that the crowd is observing the event.
-- "Dunking the ball in the net" in the content implies "play basketball" in the statement because dunking is an action specific to playing basketball.

@@ -1,1 +1,0 @@
-- No specific coreference resolution is needed as the premise and hypothesis do not contain pronouns or demonstratives that require resolution.

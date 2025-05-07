@@ -1,2 +1,0 @@
-- "Asian" in both the content and statement refers to a person of Asian descent, which is consistent and supports entailment.
-- "Pushing his cart up the street" in both the content and statement reflects the same action and direction.

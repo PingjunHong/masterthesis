@@ -1,8 +1,0 @@
-1. The highlighted words "black" and "down" in the Content are not necessary to establish the entailment, as the Statement only requires the presence of a "man" and a "jacket."
-2. The Statement generalizes the Content by omitting specific details (e.g., "black," "down," "pink") while retaining the core elements ("man," "jacket," "holding a comb").
-3. The entailment holds because the Statement captures the essential actions and attributes ("wearing a jacket," "holding a comb") from the Content, regardless of additional descriptors.
-4. The highlighted words in the Statement ("man," "jacket") are directly supported by the corresponding words in the Content, ensuring logical consistency.
-5. The Statement is a simplified version of the Content, preserving only the key information needed for entailment.
-6. The entailment is valid because the Statement does not contradict any part of the Content, even if it ignores some details.
-7. The core meaning of the Statement is fully contained within the Content, as both describe a man wearing a jacket and holding a comb.
-8. The additional descriptors in the Content ("black," "down," "pink") do not affect the truth of the Statement, as they are not required for the entailment.

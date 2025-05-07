@@ -1,1 +1,0 @@
-- The action of jumping contradicts the action of sitting as they cannot occur simultaneously.

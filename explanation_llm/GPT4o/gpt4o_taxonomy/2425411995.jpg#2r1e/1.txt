@@ -1,5 +1,0 @@
-- The woman in tennis clothes refers to the woman playing tennis.
-- The act of running to hit a ball with a tennis racket implies playing tennis, where "a woman" refers to the same person in both sentences.
-- The reference to "her tennis racket" in the premise links to the woman playing tennis in the hypothesis.
-- The activity described in the premise involves a tennis racket, indicating that the woman is engaging in tennis, thus resolving the reference to "a woman" as participating in tennis.
-- The use of "her" when mentioning the tennis racket in the premise indicates that the woman is the one playing tennis in the hypothesis.

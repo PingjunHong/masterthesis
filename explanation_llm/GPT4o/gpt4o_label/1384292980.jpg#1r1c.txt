@@ -1,5 +1,0 @@
-- Walking implies movement, whereas setting down implies being stationary.
-- Walking occurs on the street, while setting down suggests being physically on the street.
-- The simultaneous act of walking and setting down is practically impossible.
-- The action of setting down typically involves resting or stopping, which contradicts the act of walking.
-- Walking indicates a continuous action, while setting down indicates a completed action.

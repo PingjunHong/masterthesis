@@ -1,2 +1,0 @@
-- The premise describes a woman looking at a bicycle, while the hypothesis describes a woman sleeping on a couch, which are mutually exclusive activities.
-- The color of the woman's shirt in the premise is black, while the hypothesis mentions green, creating a conflict.

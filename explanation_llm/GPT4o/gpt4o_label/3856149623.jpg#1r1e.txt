@@ -1,4 +1,0 @@
-- The term "doctor" in the statement corresponds to "a blond-haired doctor" in the content.
-- "Looking at a book" in the statement is supported by "looking threw [through] new medical manuals" in the content, as manuals are a type of book.
-- The action of "looking" in the statement is directly supported by the action described in the content.
-- The presence of the assistant in the content does not negate the possibility of the doctor looking at a book, making the statement a valid entailment.

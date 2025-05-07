@@ -1,4 +1,0 @@
-- The content describes a young girl standing, but the statement claims everyone is sitting, which is contradictory.
-- The highlighted word "standing" in the content conflicts with the highlighted word "sitting" in the statement, as one cannot be both standing and sitting simultaneously.
-- The physical posture described in the content (standing) is incompatible with the posture described in the statement (sitting), indicating a contradiction.
-- The action of standing on a blanket contradicts the assertion that everyone is sitting, suggesting different postures.

@@ -1,1 +1,0 @@
-- The statement claims the activity is happening indoors, while the content specifies it is happening outdoors, creating a location conflict.

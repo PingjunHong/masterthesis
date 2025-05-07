@@ -1,2 +1,0 @@
-- The premise does not mention that the people riding bicycles are friends, whereas the hypothesis introduces this new information.
-- The premise does not specify the relationship between the people, whereas the hypothesis assumes they are a group of friends.

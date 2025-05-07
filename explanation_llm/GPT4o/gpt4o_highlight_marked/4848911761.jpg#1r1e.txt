@@ -1,7 +1,0 @@
-1. The term **breakdancer** in the content implies that the person is performing **tricks**, aligning with the use of "tricks" in the statement.
-2. The description of the breakdancer doing a **one-handed trick** matches the idea of performing **tricks** in the statement.
-3. The phrase **in a red jacket** in both sentences refers to the same person, ensuring consistency in the description.
-4. The group of people **watching** in the content corresponds to the people **watching him** in the statement, indicating the same scenario.
-5. The action of a breakdancer inherently involves creating or performing **tricks**, which supports the entailment between the sentences.
-6. The content's detail of a **one-handed trick** is a specific example of **tricks** mentioned in the statement, establishing a logical connection.
-7. Both sentences describe a scene where the person in the **red jacket** is the focal point of the audience's attention, ensuring alignment.

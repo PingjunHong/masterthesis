@@ -1,8 +1,0 @@
-A person in red refers to the person in a red shirt.
-Cutting the grass refers to mowing the grass.
-Riding mower refers to the green riding mower.
-The use of "a person" in both statements refers to the same individual.
-Red shirt is referred to as red in the hypothesis.
-The action of mowing the grass is referred to as cutting the grass.
-The green riding mower is referred to simply as a riding mower.
-The person in red shirt and the person in red are the same individual.

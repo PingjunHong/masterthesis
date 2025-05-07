@@ -1,7 +1,0 @@
-1. "Workers" (subject in Content) aligns with "Workers" (subject in Statement), maintaining the same referent and role.
-2. "standing" (verb in Content) is synonymous with "stand" (verb in Statement), both describing the same action in present tense.
-3. "on a lift" (prepositional phrase in Content) matches "on a lift" (prepositional phrase in Statement), preserving location and object.
-4. The word order in both sentences follows a subject-verb-prepositional structure, ensuring logical consistency.
-5. No additional or contradictory information is introduced in the Statement relative to the Content.
-6. The grammatical forms (e.g., present participle "standing" vs. base form "stand") are contextually equivalent in describing the action.
-7. Both sentences depict the same scenario without ambiguity or divergence in meaning.

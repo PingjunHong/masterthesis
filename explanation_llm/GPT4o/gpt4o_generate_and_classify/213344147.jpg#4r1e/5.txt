@@ -1,1 +1,0 @@
-- The content does not specify any indoor location for the people, supporting the hypothesis that they are outside.

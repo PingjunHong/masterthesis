@@ -1,8 +1,0 @@
-1. "A woman" (Content) and "A squatting woman" (Statement) refer to the same person, establishing coreference.
-2. "wearing a ball cap" (Content) and "wearing a hat" (Statement) are semantically equivalent, as a "ball cap" is a type of "hat."
-3. "squats down" (Content) and "squatting" (Statement) describe the same action, confirming the posture.
-4. "to touch the cracked earth" (Content) and "touching the ground" (Statement) convey the same action, as "cracked earth" is a specific type of "ground."
-5. The highlighted words in both sentences collectively describe the same scenario with synonymous or interchangeable terms.
-6. The actions and attributes in the Statement are all explicitly supported by the Content, with no contradictory information.
-7. The Statement condenses the Content without altering the core meaning, preserving entailment.
-8. All key elements (woman, hat, squatting, touching) in the Statement are directly inferable from the Content.

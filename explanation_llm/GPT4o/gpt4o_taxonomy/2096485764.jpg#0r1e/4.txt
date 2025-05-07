@@ -1,5 +1,0 @@
-- If a man is reading a paper in a bar, then he is inside because bars are enclosed spaces.
-- Green lighting typically exists indoors, indicating the man is inside.
-- Reading a paper in a bar suggests an indoor activity, thus the man is inside.
-- The presence of lighting, specifically green lighting, implies an indoor location where the man is situated.
-- Bars are conventionally indoor establishments, so being in a bar means the man is inside.

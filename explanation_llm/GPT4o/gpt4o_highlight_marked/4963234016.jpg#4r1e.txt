@@ -1,6 +1,0 @@
-1. "Working" in the content directly aligns with "working" in the statement, indicating the woman is engaged in an activity.
-2. The removal of "long hours" in the statement does not negate the fact that the woman is working; it simplifies the description without altering the meaning.
-3. The statement focuses on the core action "working," which is explicitly present in the content.
-4. The qualifier "long hours" is additional detail and not necessary for the truth of the statement "A woman is working."
-5. Both the content and the statement describe the same subject (a woman) performing the same action (working), even if the content provides more specific details.
-6. The entailment holds because the statement is a less specific version of the content while preserving the essential meaning.

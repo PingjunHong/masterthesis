@@ -1,2 +1,0 @@
-- The premise mentions "people," while the hypothesis mentions "dogs," which are different entities.
-- The semantic meaning of "people" does not overlap with "dogs," leading to a contradiction.

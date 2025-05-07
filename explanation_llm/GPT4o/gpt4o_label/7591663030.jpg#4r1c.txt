@@ -1,3 +1,0 @@
-- The content describes the motorcycle as being ridden, whereas the statement describes it as parked.
-- The content does not mention the presence of a friend or waiting for anyone, while the statement does.
-- The activity implied in the content (riding) contradicts the action in the statement (sitting and waiting).

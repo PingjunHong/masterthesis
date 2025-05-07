@@ -1,2 +1,0 @@
-- The premise does not mention a nursing home, so the location stated in the hypothesis is not supported by the premise.
-- The premise mentions "an ornate building," which does not confirm that it is a nursing home.

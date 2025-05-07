@@ -1,1 +1,0 @@
-- The phrase "a crowd of people" in the content can be resolved to "a group of people" in the statement.

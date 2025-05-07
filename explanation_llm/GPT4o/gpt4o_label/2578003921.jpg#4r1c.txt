@@ -1,4 +1,0 @@
-- The location differs; the content states "forest," whereas the statement mentions "highway."
-- The type of vehicle differs; the content implies a bicycle or similar, while the statement specifies a "motorcycle."
-- The setting in the content suggests a more natural environment, while the statement indicates a constructed roadway.
-- The term "biker" in the content is ambiguous regarding the vehicle type, whereas "motorcycle" in the statement is explicit.

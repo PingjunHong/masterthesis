@@ -1,1 +1,0 @@
-- The premise does not specify the size or color of the boat, making it possible for the boat to be large and blue, but this information is not included, leading to a neutral label.

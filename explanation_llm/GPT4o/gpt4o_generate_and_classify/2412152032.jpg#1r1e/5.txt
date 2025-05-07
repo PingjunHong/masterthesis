@@ -1,1 +1,0 @@
-- The specific color "yellow" in the uniforms is not mentioned in the statement but does not contradict the entailment.

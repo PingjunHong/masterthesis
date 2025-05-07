@@ -1,3 +1,0 @@
-- The hypothesis implies the child is resting, which logically conflicts with the premise where the child is described as screaming, an activity inconsistent with resting.
-- The premise and hypothesis present a location conflict: being in a taxi cab versus being at home.
-- The premise describes the child as being active (screaming), while the hypothesis describes the child as resting, which is a logical inconsistency.

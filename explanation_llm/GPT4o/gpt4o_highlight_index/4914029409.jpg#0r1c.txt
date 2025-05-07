@@ -1,5 +1,0 @@
-- The content describes people riding bikes, while the statement describes people changing a bike tire, indicating different activities.
-- Riding bikes is an active motion along a street, whereas changing a bike tire is a stationary activity, demonstrating a contradiction in the actions being performed.
-- The content involves a little boy and a woman riding, suggesting they are moving, while the statement implies that people have stopped to change a tire.
-- The context of riding bikes down a street contrasts with the setting of fixing a bike, as bike riding and repairing typically occur in different scenarios.
-- The highlighted words in the content indicate people engaged in riding, which contradicts the highlighted words in the statement about performing a repair task.

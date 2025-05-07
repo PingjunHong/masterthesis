@@ -1,5 +1,0 @@
-1. Not all logs are oak logs.
-2. A log can be made of various types of wood, not just oak.
-3. The type of wood used in the log is unspecified in the premise.
-4. Oak is just one of many possible types of logs.
-5. The premise does not mention the specific type of wood.

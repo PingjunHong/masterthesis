@@ -1,2 +1,0 @@
-- Volleyball and cricket are different sports, and the premise describes volleyball, not cricket.
-- The premise specifies teams of women, while the hypothesis specifies boys, which contradicts the gender mentioned in the premise.

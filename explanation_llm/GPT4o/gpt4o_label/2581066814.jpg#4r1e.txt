@@ -1,4 +1,0 @@
-- The term "man" in the content is a specific type of "person" mentioned in the statement, which satisfies the broader category.
-- The action of "rides a bike" in the content directly aligns with the action described in the statement, "biking."
-- The content provides a more detailed description, while the statement generalizes that description without contradicting it.
-- The absence of clothing ("naked") in the content does not affect the primary focus on the action of biking, which is the shared focus of both the content and the statement.

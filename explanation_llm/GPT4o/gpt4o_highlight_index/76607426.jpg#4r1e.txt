@@ -1,5 +1,0 @@
-1. The activity "playing billiards" in both the content and the statement directly matches, indicating the same action is taking place.
-2. The subject "a man" is consistent in both the content and the statement, referring to the same individual participating in the activity.
-3. The location "at a bar" in the content specifies where the action is occurring but does not contradict the statement, which focuses solely on the action itself.
-4. The omission of "at a bar" in the statement does not negate the action described, making the statement a more general description of the same event.
-5. The content provides additional context about the location, but the core activity described—"a man is playing billiards"—remains unchanged, supporting entailment.

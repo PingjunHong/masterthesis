@@ -1,3 +1,0 @@
-1. The action "**flip**" in the content directly contradicts "**falls**" in the statement, as flipping suggests control and intentional movement, whereas falling suggests a lack of control.
-2. The description "**covered** in graffiti" in the content conflicts with "**painted nicely**" in the statement, as graffiti implies an irregular or chaotic appearance, while "painted nicely" suggests an orderly and clean look.
-3. The word "**is**" in "**is covered** in graffiti" indicates the current state of the wall in the content, which contradicts the current state implied by "**is painted nicely**" in the statement.

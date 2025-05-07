@@ -1,1 +1,0 @@
-- The premise mentions a yellow flower, but it does not mention any blue flower, contradicting the hypothesis.

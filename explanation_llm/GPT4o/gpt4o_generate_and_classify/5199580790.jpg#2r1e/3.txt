@@ -1,1 +1,0 @@
-- "A place with more than one boat" can be inferred from "boat in the background" along with the boat being mentioned initially, suggesting the presence of at least two boats, forming a syntactic paraphrase with the statement.

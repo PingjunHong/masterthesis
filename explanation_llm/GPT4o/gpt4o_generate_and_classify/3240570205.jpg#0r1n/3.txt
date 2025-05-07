@@ -1,1 +1,0 @@
-- The premise describes a situation without specifying any audition-related activity, whereas the hypothesis suggests an audition context; these are syntactically different scenarios.

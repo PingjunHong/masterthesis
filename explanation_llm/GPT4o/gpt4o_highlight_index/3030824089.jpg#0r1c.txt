@@ -1,2 +1,0 @@
-- "Runs" in the content implies the dog is active and moving, while "sleeping" in the statement implies the animal is inactive and resting.
-- "Outdoors" in the content indicates the dog is outside, whereas "basement" in the statement suggests the animal is inside a building.

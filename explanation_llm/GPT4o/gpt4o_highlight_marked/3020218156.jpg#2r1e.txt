@@ -1,5 +1,0 @@
-1. "man" and "guy" are synonymous, both referring to an adult male.
-2. "standing in front of a building" implies proximity to the building, which aligns with "near a building."
-3. "on the phone" is not contradictory to the statement and does not affect the entailment.
-4. "two men to the side" corresponds to "two other men," indicating the presence of additional individuals nearby.
-5. "stands" is consistent with "standing," both describing a stationary upright posture.

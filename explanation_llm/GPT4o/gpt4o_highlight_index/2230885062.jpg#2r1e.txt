@@ -1,5 +1,0 @@
-- The highlighted words "Two" and "two" both indicate the number of individuals involved, confirming that the same quantity of people is referenced in both the content and the statement.
-- The highlighted word "woman" in the content is a specific type of "people" in the statement, as women are a subset of people. Thus, "woman" entails "people."
-- The highlighted word "standing" is directly mentioned in both the content and the statement, indicating that the action performed by the individuals is the same.
-- The highlighted word "outside" in the content implies being in an open area, which supports the statement's mention of being "on the grass," as grass is typically found outside.
-- The highlighted word "grass" appears in both the content and the statement, confirming the location where the individuals are standing is the same.

@@ -1,1 +1,0 @@
-- The structure "sitting on the floor, sleeping" pragmatically implies the man is indeed sleeping on the floor, supporting the entailment conclusion.

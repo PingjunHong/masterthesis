@@ -1,6 +1,0 @@
-1. The content mentions a boy riding, but it does not specify whether he is riding a **horse** or another object, so the type of transportation is ambiguous.
-2. The statement introduces the concept of a **horse**, but this detail is not confirmed or contradicted by the content.
-3. The content describes a road, while the statement uses "by," leaving the relationship between the boy, the **horse**, and the cows open to interpretation.
-4. The content's "riding down the road" and the statement's "rides a **horse**" are not inherently contradictory but lack sufficient overlap to be entailed.
-5. The content does not explicitly mention or exclude the presence of a **horse**, so the statement could be true or false depending on unstated details.
-6. The focus of the content is on the presence of the boy and the cows, while the statement adds new information about the **horse**, which is neither supported nor denied.

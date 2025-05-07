@@ -1,4 +1,0 @@
-- The term "three girls" in the content implies that they are people, fulfilling the requirement of "some people" in the statement.
-- "Blow out the candles" is directly mentioned in both the content and the statement, establishing a clear action match.
-- The use of "some" in the statement is satisfied by the presence of "three girls" in the content, as "some" can refer to any non-zero number of people.
-- The content specifies "a cake made of Peeps," which does not affect the action of blowing out candles, thus maintaining the focus on the action relevant to the statement.

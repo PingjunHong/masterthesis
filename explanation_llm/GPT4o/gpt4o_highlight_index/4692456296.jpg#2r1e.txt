@@ -1,4 +1,0 @@
-- The action "walk along the side of a bridge" in the Content implies the action "are walking" in the Statement, as both involve the activity of walking.
-- The specific location "along the side of a bridge" in the Content does not contradict the general action of "walking" in the Statement, making the latter a more general description of the same activity.
-- The presence of "a mother and daughter" in both the Content and the Statement indicates the same subjects are involved in both actions, supporting the entailment.
-- The phrase "are walking" in the Statement is an abstraction of "walk along the side of a bridge" in the Content, capturing the ongoing nature of the activity without specifying location, which aligns with the Content.

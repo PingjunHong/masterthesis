@@ -1,4 +1,0 @@
-- Playing a game and sleeping are mutually exclusive activities, meaning the child cannot be doing both simultaneously.
-- The content explicitly states the child is actively engaged in playing, which inherently contradicts the state of sleeping.
-- Playing a game requires consciousness and alertness, whereas sleeping involves a lack of such awareness.
-- The temporal nature of playing a game suggests present activity, conflicting with the inactivity implied by sleeping.

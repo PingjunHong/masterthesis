@@ -1,8 +1,0 @@
-1. "Men" is a subset of "people," so if two men are climbing, it necessarily means two people are climbing.
-2. The term "people" is more general and includes "men," making the statement a broader but valid inference.
-3. The highlighted words "two men" and "two people" are semantically compatible because all men are people.
-4. The rest of the sentence ("climbing on a wooden scaffold") remains unchanged, so the action and context support the entailment.
-5. The quantity ("two") is preserved, and the shift from "men" to "people" does not introduce contradiction.
-6. No additional constraints in the statement exclude the possibility of the two individuals being men.
-7. The statement does not specify gender beyond "people," so the content's specificity about "men" does not violate the entailment.
-8. The core meaning (two individuals performing an action on a scaffold) is retained, ensuring logical consistency.

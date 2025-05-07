@@ -1,8 +1,0 @@
-1. The statement rephrases the premise by specifying "child" instead of "person," which does not confirm the age of the person rolling down the hill.
-2. The premise mentions "a person rolls down a hill riding a wagon," whereas the statement specifies "a child in a wagon," which introduces an assumption not supported by the premise.
-3. The premise includes "as another watches," which is omitted in the statement, altering the context.
-4. The statement rephrases the action to "rolls down a hill," but does not convey the presence of another person watching, as mentioned in the premise.
-5. The premise uses "a person" generically, whereas the statement specifies "a child," leading to potential differences in interpretation based on age.
-6. The structural rephrasing in the statement omits the interaction implied by "as another watches," which affects the overall meaning compared to the premise.
-7. The premise describes a scenario involving two people, one rolling and one watching, while the statement focuses solely on the rolling action, creating syntactic divergence.
-8. The statement assumes the person in the wagon is a child, which is not explicitly supported by the premise.

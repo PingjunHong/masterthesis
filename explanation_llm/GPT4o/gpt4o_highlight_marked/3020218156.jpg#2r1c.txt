@@ -1,5 +1,0 @@
-- "man" in the content contradicts "girls" in the statement because the genders do not match.
-- "standing" in the content contradicts "walk" in the statement because the actions differ.
-- "two" in the statement contradicts the singular "man" in the content because the numbers do not align.
-- The content mentions "in front of a building," while the statement refers to "through a hall," indicating different locations.
-- The content describes "on the phone," whereas the statement does not include this detail, suggesting different activities.

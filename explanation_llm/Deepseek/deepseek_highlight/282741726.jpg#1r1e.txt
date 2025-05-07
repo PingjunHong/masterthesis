@@ -1,5 +1,0 @@
-1. The content describes "people seated at long tables," which directly implies that a group of people are sitting at tables.
-2. The phrase "people seated" in the content aligns with the statement's "group of people are sitting," confirming the action and subject.
-3. The mention of "long tables" in the content supports the statement's reference to "tables," as they are the same objects.
-4. The absence of contradictory information in the content ensures the statement's claim about people sitting at tables remains valid.
-5. The broader context of the content (e.g., "some writing and some watching") does not negate the basic fact that people are seated at tables, reinforcing the entailment.

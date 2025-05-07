@@ -1,7 +1,0 @@
-1. The highlighted word "tan" in the Content (index 2) matches the highlighted word "tan" in the Statement (index 1), confirming the description of the girl.
-2. The highlighted word "running" in the Content (index 13) aligns with the highlighted word "runs" in the Statement (index 5), indicating the same action.
-3. The phrase "leaning over an object" in the Content is preserved in the Statement as "leans over an object," maintaining the same meaning.
-4. The subject "One tan girl" in the Content corresponds to "A tan girl" in the Statement, ensuring the same entity is referenced.
-5. The action sequence "running and leaning over an object" in the Content is condensed to "runs leans over an object" in the Statement without altering the core meaning.
-6. The absence of conflicting information between the highlighted parts and the rest of the Statement supports the entailment.
-7. The grammatical adjustments (e.g., "running" to "runs") do not change the semantic relationship between the Content and the Statement.

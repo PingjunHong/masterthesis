@@ -1,6 +1,0 @@
-- If a child is sticking her head out of a taxi cab, then she must be inside the car.
-- A taxi cab is a type of car, so being in a taxi cab implies being in a car.
-- Sticking her head out of the taxi cab suggests the child is positioned within the vehicle.
-- Being in a taxi cab inherently means being inside a car, as a taxi cab is a kind of car.
-- Screaming while sticking her head out of a taxi cab implies she is located inside the car.
-- The action of sticking her head out requires the child to be inside the car to perform the action.

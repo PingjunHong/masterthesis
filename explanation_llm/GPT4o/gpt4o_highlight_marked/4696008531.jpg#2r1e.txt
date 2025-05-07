@@ -1,5 +1,0 @@
-1. "**Black**" in both the content and statement explicitly matches, indicating the color of the shirt is the same.
-2. "**T-shirt**" is a specific type of "**shirt**," so a T-shirt is inherently a subset of shirts.
-3. The man mentioned in both the content and the statement is the same individual, as no contradictory details are provided.
-4. The description of the clothing in both the content and the statement aligns, confirming the entailment.
-5. The use of "is in" in the statement is consistent with the description of the man's attire in the content.

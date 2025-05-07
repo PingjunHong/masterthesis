@@ -1,2 +1,0 @@
-- "Looks at" does not semantically entail "going skateboarding."
-- "Carrying a skateboard" does not mean "going skateboarding."

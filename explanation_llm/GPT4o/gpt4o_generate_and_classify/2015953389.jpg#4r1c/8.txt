@@ -1,1 +1,0 @@
-- Workers cannot be both standing on a lift and walking home from work at the same time, indicating a contradiction in their location and activity.

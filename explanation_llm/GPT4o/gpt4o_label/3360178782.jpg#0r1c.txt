@@ -1,5 +1,0 @@
-- The consumers are purchasing vegetables, not throwing them.
-- The activity described involves walking through the market, not throwing items.
-- The statement specifies bananas, which are not mentioned in the content.
-- The content describes a scene with a busy store, not an event involving throwing objects.
-- Throwing bananas implies a disruptive action, which contradicts the normal shopping activity described.

@@ -1,8 +1,0 @@
-1. The statement "A young man does a flip off a wall and wears baggy clothes" is a syntactic variation of the premise "A young man in a blue hoodie doing a flip off of a half-wall that is covered in graffiti," focusing on different clothing descriptions.
-2. The premise describes "a young man in a blue hoodie," while the statement uses "a young man wears baggy clothes," showing a syntactic alternation with different emphasis on clothing.
-3. The premise mentions "a half-wall that is covered in graffiti," whereas the statement simplifies this to "a wall," demonstrating a structural rephrasing with a loss of specific detail.
-4. The statement changes the phrase "doing a flip off of a half-wall" to "does a flip off a wall," maintaining the core action but altering the syntactic structure.
-5. "Doing a flip off of a half-wall" in the premise is rephrased as "does a flip off a wall" in the statement, reflecting a syntactic transformation without altering the action's fundamental meaning.
-6. The premise includes the detail "in a blue hoodie," whereas the statement generalizes to "wears baggy clothes," showing syntactic alternation in clothing description.
-7. Both the premise and the statement describe a flipping action by the young man, but the statement rephrases the setting and clothing details, leading to a neutral label due to lack of precise alignment.
-8. The term "half-wall" in the premise is structurally rephrased to "wall" in the statement, altering the specificity of the location without changing the core action.

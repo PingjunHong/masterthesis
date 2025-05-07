@@ -1,2 +1,0 @@
-- The premise describes a boy playing on playground equipment, but it does not specify "swings," creating a location conflict between the premise and the statement.
-- The premise does not mention any time related to the activity, while the statement specifies "after school," causing a temporal conflict.

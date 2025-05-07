@@ -1,4 +1,0 @@
-- "Sitting" contradicts "play" because sitting implies inactivity, while playing pool suggests active engagement.
-- "On a tile floor" contradicts "in a bar" because the setting described in the content is a tile floor, whereas the statement specifies a bar location.
-- "Four adults" contradicts "two couples" because the content indicates four individuals, while the statement refers to only two couples (assuming "two couples" means four people in relationships, but their actions differ).
-- "Eat" contradicts "play" because eating is a passive activity, whereas playing pool is an active recreational activity.

@@ -1,5 +1,0 @@
-- The cape color in the statement is red, whereas in the content it is green.
-- The number of feathers on the hat in the statement is three, whereas in the content it is two.
-- The content description includes a piece of wheeled luggage to the man's right, which is not mentioned in the statement.
-- The content specifies the man is resting both hands on a walking stick, which is not mentioned in the statement.
-- The content describes the man wearing dark knee boots, which is not mentioned in the statement.

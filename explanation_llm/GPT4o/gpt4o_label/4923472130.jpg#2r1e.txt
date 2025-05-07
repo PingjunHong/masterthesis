@@ -1,3 +1,0 @@
-- The content directly describes a person wearing a red shirt, which supports the statement that a person wears a red shirt.
-- The statement is a partial description of the more detailed content, focusing specifically on the red shirt mentioned.
-- The presence of the red shirt in the content logically includes the possibility of a person wearing it, as described in the statement.

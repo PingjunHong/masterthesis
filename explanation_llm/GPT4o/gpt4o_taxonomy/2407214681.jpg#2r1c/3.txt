@@ -1,6 +1,0 @@
-1. The boys are bare-chested is a structural rephrase that contradicts Two little boys wearing athletic jerseys are washing their hands in a public restroom because wearing athletic jerseys implies they are not bare-chested.
-2. The premise states that the boys are wearing athletic jerseys, and the hypothesis claims they are bare-chested. The structure of wearing athletic jerseys directly contradicts the state of being bare-chested.
-3. Bare-chested implies a state of not wearing a shirt, whereas wearing athletic jerseys indicates that shirts are being worn, creating a contradiction.
-4. The syntactic structure of wearing athletic jerseys and being bare-chested are mutually exclusive, as the presence of jerseys negates the possibility of being shirtless.
-5. The contradiction arises from the syntactic rephrasing: wearing jerseys implies clothed torsos, whereas bare-chested implies unclothed torsos.
-6. The hypothesis rephrases the idea of not wearing any shirt, which is incompatible with the premise's description of the boys wearing jerseys.

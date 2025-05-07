@@ -1,3 +1,0 @@
-1. Both sentences describe a "man," which is the same subject in each case.
-2. The action of "stands on his motorbike" in the content is directly aligned with "standing on his motorbike" in the statement, indicating the same activity.
-3. The highlighted words in both sentences confirm that the subject, "man," is engaged in the action of standing on a motorbike, leading to a clear entailment.

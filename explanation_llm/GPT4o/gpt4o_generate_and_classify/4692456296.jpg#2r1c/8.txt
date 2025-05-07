@@ -1,1 +1,0 @@
-- Walking along the side of a bridge implies being outdoors, whereas eating in a kitchen implies being indoors.

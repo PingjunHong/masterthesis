@@ -1,4 +1,0 @@
-- **Climbing** conflicts with **crawl** as they describe different types of movement.
-- **A tower** conflicts with **sand** as they indicate entirely different locations.
-- **In sand** conflicts with **a tower** since sand is not typically part of a tower.
-- **Children** conflicts with **kids** only if the terms are contextually restricted to distinct groups.

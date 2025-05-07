@@ -1,1 +1,0 @@
-- "Icy road" implies a surface condition that is slippery and cold, whereas "dry highway" implies a surface condition that is free from moisture and not slippery.

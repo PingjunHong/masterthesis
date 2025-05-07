@@ -1,3 +1,0 @@
-- The highlighted words "eating a hotdog" in the content contradict the highlighted words "eating pizza" in the statement because a hotdog and pizza are different types of food.
-- The highlighted word "woman" in the content contradicts the implication of "his family" in the statement if "his family" is assumed to not specifically include the woman mentioned, suggesting different groups of people.
-- If "his family" is interpreted as a specific group that does not include the woman, this contradicts the presence of the woman in the content, as the statement implies only the man's family is present.

@@ -1,1 +1,0 @@
-- There is a location conflict: the statement places the firefighters inside a fire station, whereas the premise places them coming out of a subway station, indicating they cannot be in both places simultaneously.

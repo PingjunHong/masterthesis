@@ -1,3 +1,0 @@
-1. The soccer **team** is actively playing on the field in the content, but in the statement, they are in the **locker** **room**, which indicates they are not playing.
-2. The action of countering **down** the field in the content implies motion and gameplay, whereas being in the **locker** **room** in the statement implies inactivity and absence from the field.
-3. The phrase "in front **of** the defender" in the content situates the team on the field, contradicting the statement's location of the **locker** **room**.

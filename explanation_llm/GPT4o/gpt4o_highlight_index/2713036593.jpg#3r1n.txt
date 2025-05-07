@@ -1,5 +1,0 @@
-- The highlighted word "floor" in the Content implies a sitting position, aligning with the "sitting position" in the Statement.
-- The action "sleeping" is explicitly stated in both the Content and the Statement, indicating the same activity.
-- The presence of a "man" in both the Content and the Statement ensures they refer to the same subject.
-- The term "sitting" in the Content is synonymous with "sitting position" in the Statement, maintaining semantic consistency.
-- The adjective "young" in the Statement does not contradict any information in the Content, allowing for entailment.

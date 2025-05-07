@@ -1,3 +1,0 @@
-- Red and green are distinct colors, and one cannot simultaneously be both.
-- The description specifies a red shirt, which directly opposes the claim of a green shirt.
-- The observed color of the shirt in the content does not align with the stated color in the statement.

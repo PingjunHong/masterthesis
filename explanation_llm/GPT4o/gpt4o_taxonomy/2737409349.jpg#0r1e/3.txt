@@ -1,5 +1,0 @@
-- A man can is on the phone is a syntactic rephrase of, A man is sitting in the green chair, talking on the phone, and working on the laptop.
-- The phrase "talking on the phone" implies that the man is on the phone, which is structurally rephrased in the statement.
-- Rephrasing "talking on the phone" as "is on the phone" maintains the same meaning.
-- The statement focuses on the part of the premise where the man is engaged in a phone conversation, which is a structural rephrasing of the original sentence.
-- The key action "talking on the phone" in the premise is syntactically altered to "is on the phone" in the statement, preserving the meaning.

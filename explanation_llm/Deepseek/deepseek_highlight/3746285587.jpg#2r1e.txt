@@ -1,7 +1,0 @@
-1. The word "woman" in both sentences refers to the same entity, establishing a coreference link.
-2. "Kneeling" (Content) implies being "on the ground" (Statement), as kneeling is a posture requiring contact with the ground.
-3. "In the street" (Content) implies being "outside" (Statement), as streets are typically outdoor locations.
-4. The action of kneeling (Content) is consistent with the general state of being "on the ground" (Statement).
-5. The spatial context ("street" in Content and "outside" in Statement) aligns, as streets are inherently outdoor spaces.
-6. The subject ("woman") and her described state ("kneeling"/"on the ground") are preserved across both sentences.
-7. The highlighted words collectively support the logical inference that a woman kneeling in the street entails her being on the ground outside.

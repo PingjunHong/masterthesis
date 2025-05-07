@@ -1,6 +1,0 @@
-1. The highlighted "Three men" in the Content implies "Some people" in the Statement, as three men are a subset of "some people."
-2. The action "carrying a red bag into a boat" in the Content aligns with "put something in a boat" in the Statement, as carrying implies placing or putting.
-3. The phrase "another person and boat in the background" in the Content supports "a place with more than one boat" in the Statement, confirming multiple boats are present.
-4. The general scenario described in the Content (people moving an object into a boat) logically entails the broader claim in the Statement (people putting something in a boat).
-5. The highlighted "people" in the Statement is justified by the presence of "three men" and "another person" in the Content, collectively representing "some people."
-6. The existence of at least two boats (one being entered and one in the background) in the Content satisfies the condition "more than one boat" in the Statement.

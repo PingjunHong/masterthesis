@@ -1,5 +1,0 @@
-- The men are **playing** drums, whereas being **asleep** in the motel implies inactivity.
-- The men are **drinking** something out of a bottle, which is incompatible with being **asleep**.
-- The activity of **playing drums** contradicts the state of being **asleep**.
-- The location described involves **orange lighting**, whereas being in a **motel** is not mentioned or implied.
-- The described scene involves **action** (drumming and drinking), which conflicts with the passive state of being **asleep**.

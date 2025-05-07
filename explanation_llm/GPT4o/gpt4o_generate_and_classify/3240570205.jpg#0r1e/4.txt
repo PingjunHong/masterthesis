@@ -1,1 +1,0 @@
-- The presence of a person operating a video camera in the content logically entails that an adult is using a video camera, as the content specifies that the people in front of the boy are adults.

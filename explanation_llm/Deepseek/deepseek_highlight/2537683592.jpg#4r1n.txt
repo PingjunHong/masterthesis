@@ -1,8 +1,0 @@
-1. The statement introduces new information ("it starts raining") that is not mentioned or implied in the content, making the relationship neutral.
-2. The highlighted words in the statement ("starts raining") introduce an event (rain) that is unrelated to the content, which only describes men working along a wall.
-3. The content does not provide any context about weather conditions, so the statement's addition of rain neither contradicts nor is entailed by the content.
-4. The statement expands on the scenario with an unrelated detail (rain), which does not logically follow from or conflict with the content.
-5. The highlighted words in the statement describe a temporal event (rain starting) that is neither supported nor contradicted by the static description in the content.
-6. The content is purely descriptive (men working), while the statement introduces a dynamic change (rain), creating no direct logical connection.
-7. The statement's added detail ("starts raining") does not alter or depend on the information in the content, resulting in a neutral relationship.
-8. The content and statement describe different aspects of a scene (work vs. weather), with no overlap or contradiction in their highlighted parts.

@@ -1,5 +1,0 @@
-- The statement "An older man leans outside a building" generalizes the content by omitting specific details like "against a pedestal" and "ornate," which are not necessary for the statement to be true.
-- Both the content and the statement describe an older man in a similar action of leaning, maintaining consistency in the primary action.
-- The location described in both the content and the statement is outside a building, aligning the spatial context.
-- The phrase "ornate building" in the content is a more specific description of "a building" in the statement, which does not contradict the statement.
-- The content provides additional details that do not alter the truth of the statement, allowing it to be a logically consistent simplification.

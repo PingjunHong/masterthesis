@@ -1,1 +1,0 @@
-- A "crowded city street" logically suggests that there are "many pedestrians" on it.

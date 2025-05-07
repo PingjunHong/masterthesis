@@ -1,4 +1,0 @@
-- "Land rover" and "sedan" refer to different types of vehicles, implying a contradiction in vehicle type.
-- "Being driven across" suggests movement and successful traversal, while "stuck in the middle" suggests immobility and failure to cross.
-- "Across a river" indicates a successful passage, whereas "in the middle of a river" implies being stationary and obstructed.
-- "Land rover" is typically associated with off-road capability suitable for driving through rivers, while a "sedan" is generally not suited for such terrain, leading to a contradiction in vehicle suitability.

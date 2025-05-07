@@ -1,1 +1,0 @@
-- In the premise, "riding a motorcycle" implies movement, while in the statement, "sitting on a parked motorcycle" implies no movement, creating a contradiction.

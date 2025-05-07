@@ -1,5 +1,0 @@
-1. The **blonde** attribute in the statement is not mentioned in the content, making it neither supported nor contradicted.
-2. The **dancing** action in the statement is not mentioned in the content, so it cannot be confirmed or denied.
-3. The content describes the woman as **goofy looking**, but the statement does not address this attribute, leaving no basis for entailment or contradiction.
-4. The statement adds details (**blonde**, **dancing**) that are absent in the content, resulting in neutrality due to lack of overlap.
-5. The core action (**singing on stage**) is shared, but the additional or modified details in the statement prevent a definitive relationship.

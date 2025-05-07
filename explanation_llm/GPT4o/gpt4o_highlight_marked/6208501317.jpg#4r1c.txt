@@ -1,6 +1,0 @@
-1. **Playing** and **sleeping** are mutually exclusive activities, so the child cannot be doing both at the same time.
-2. The action of **playing** a **game** directly contradicts the state of **sleeping**, as one requires active engagement and the other implies inactivity.
-3. The presence of a **game** in the context of the content implies an active scenario, which is incompatible with the passive state described by **sleeping**.
-4. The phrase **playing a game** suggests intentional participation, while **sleeping** denotes unconsciousness, creating a contradiction.
-5. The mention of **playing** implies the child is awake and alert, which contradicts the state of being asleep.
-6. The focus on **a game** called The Derby suggests ongoing activity, which cannot coexist with the inactivity required for **sleeping**.

@@ -1,7 +1,0 @@
-1. The word "overpass" (index 8 in Content) implies an outdoor location, which aligns with "outside" (index 3 in Statement).
-2. "Crossing an overpass" (Content) suggests movement in an open, public space, supporting the idea of "people outside" (Statement).
-3. The presence of "five girls and two guys" (Content) indicates multiple individuals, fulfilling the condition of "people" (Statement) being present.
-4. An overpass is typically an outdoor structure, so the scenario described in the Content inherently involves an outdoor setting, matching "outside" in the Statement.
-5. The action of "crossing" (Content) implies the individuals are not indoors, reinforcing the claim that they are "outside" (Statement).
-6. The phrase "are crossing" (Content) indicates the people are actively in an outdoor space, which is synonymous with being "outside" (Statement).
-7. The absence of any indoor context in the Content leaves "outside" (Statement) as the only plausible interpretation of the location.

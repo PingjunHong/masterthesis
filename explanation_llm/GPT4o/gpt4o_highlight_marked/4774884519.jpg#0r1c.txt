@@ -1,5 +1,0 @@
-1. **Escalator** and **elevator** are distinct modes of transportation, and a person cannot simultaneously be on an escalator and taking an elevator.
-2. The **escalator** involves a moving staircase, while the **elevator** is a vertical lift, so the described action contradicts the mode of transportation.
-3. The **elevator** implies being inside a closed compartment, whereas the **escalator** involves being on an open moving platform.
-4. The observation of the outside through the glass wall is consistent with being on an **escalator**, but not with being inside an **elevator**, which typically lacks such visibility.
-5. The physical setup of waiting on an **escalator** conflicts with the action of taking an **elevator**, as these describe two different activities.

@@ -1,1 +1,0 @@
-- No coreference exists between the boy in the content and any element in the statement.

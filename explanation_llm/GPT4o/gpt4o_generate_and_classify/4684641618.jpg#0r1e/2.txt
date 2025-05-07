@@ -1,1 +1,0 @@
-- "Walk down a sidewalk along a busy street in a downtown area" implies "walking downtown" because the location described as "a downtown area" semantically matches the concept of "downtown."

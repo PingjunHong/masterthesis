@@ -1,6 +1,0 @@
-1. The highlighted words in the Content ("walks to work") indicate the woman is walking to work, while the Statement ("is not walking to work") directly contradicts this.
-2. The Content describes an action in progress ("walks to work"), but the Statement negates that action entirely ("not walking to work").
-3. The temporal or situational context implied by the Content (walking to work) is explicitly denied by the Statement.
-4. The Content's assertion of movement ("walks") toward a destination ("to work") is incompatible with the Statement's claim of no such movement or intent.
-5. The Statement's negation ("not") directly opposes the affirmative action ("walks to work") described in the Content.
-6. The Content and Statement cannot both be true simultaneously due to the logical opposition between the highlighted phrases.

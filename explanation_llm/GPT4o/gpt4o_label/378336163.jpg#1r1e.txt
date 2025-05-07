@@ -1,4 +1,0 @@
-- The term "bearded man" implies a human, so any action performed by him, such as jumping, involves a human.
-- The action "jumps" in the content corresponds directly with the action "jumping" in the statement.
-- The content provides additional context about the scene that does not contradict the statement, allowing the focus to remain on the human action of jumping.
-- The presence of the man performing the action in the content ensures that the statement about a human jumping is accurate and supported.

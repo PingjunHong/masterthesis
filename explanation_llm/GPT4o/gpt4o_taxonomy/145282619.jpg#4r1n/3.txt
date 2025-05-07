@@ -1,8 +1,0 @@
-1. The statement does not imply who the man is cooking for, whereas the premise specifies cooking over high flames.
-2. The premise focuses on the cooking method, while the statement introduces a new element, the man's friends, which is not addressed in the premise.
-3. The premise describes the act of cooking, but the purpose or audience for the cooking is not specified, as it is in the statement.
-4. The statement introduces additional information about the man's potential social context that is not mentioned in the premise.
-5. The premise and statement offer different contexts; the premise is about the cooking process, while the statement suggests a personal motive or group presence.
-6. There is no structural rephrasing that connects the premise's focus on cooking with flames to the statement's focus on cooking for friends.
-7. The premise and statement vary syntactically: the premise uses a focus on the activity itself, while the statement adds a social layer.
-8. The premise's structural emphasis on the physical act of cooking does not syntactically align with the statement's implication of social interaction.

@@ -1,8 +1,0 @@
-- The man wearing the vest in the hypothesis refers to the man wearing a red vest in the premise, but the actions described (walking vs. sitting) contradict each other.
-- The man in the red vest is identified as the same individual in both the premise and hypothesis, yet the premise states he is walking, and the hypothesis states he is sitting, which are mutually exclusive activities.
-- The man wearing a vest mentioned in both the premise and hypothesis is the same person, but the premise describes him walking, and the hypothesis describes him sitting, creating a contradiction.
-- Coreference is established for the man wearing a vest, who is the same individual in both statements, but the premise indicates he is walking, contradicting the hypothesis where he is sitting.
-- The reference to the man wearing a vest is consistent across premise and hypothesis, yet the contradiction arises from his described actions: walking in the premise versus sitting in the hypothesis.
-- The hypothesis refers to the same man wearing a red vest from the premise, but a contradiction exists as walking contrasts with sitting.
-- The man wearing the vest is coreferenced in both premise and hypothesis as the same person, but the premise's action of walking is incompatible with the hypothesis's action of sitting.
-- The man wearing a vest in both the premise and hypothesis is the same person, but the premise states he is walking past a fence, contradicting the hypothesis's statement that he is sitting on a sofa.

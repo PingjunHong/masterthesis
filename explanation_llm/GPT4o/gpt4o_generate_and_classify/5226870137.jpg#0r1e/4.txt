@@ -1,1 +1,0 @@
-- The presence of a man driving a horse-drawn buggy implies that the man is driving a buggy, as a horse-drawn buggy is a type of buggy.

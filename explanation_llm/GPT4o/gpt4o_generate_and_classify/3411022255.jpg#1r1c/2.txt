@@ -1,2 +1,0 @@
-- The action "crossing the street" is semantically different from "riding the bus."
-- "Crossing the street" typically implies walking, not riding a vehicle like a bus.

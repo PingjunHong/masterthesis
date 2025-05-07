@@ -1,3 +1,0 @@
-1. The content mentions **two cows**, while the statement refers to a **single cow**, creating a numerical mismatch.
-2. The content describes the boy riding between **two cows**, implying the cows are together, whereas the statement claims the cow is **alone**, which contradicts the context.
-3. The content specifies a **boy** is present, while the statement implies no other subjects are present except the **single cow**, leading to inconsistency.

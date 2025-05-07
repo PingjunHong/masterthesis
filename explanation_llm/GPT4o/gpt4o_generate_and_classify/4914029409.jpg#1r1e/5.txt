@@ -1,1 +1,0 @@
-- Bicyclists typically ride on streets, which supports the statement that the group is on a street outside.

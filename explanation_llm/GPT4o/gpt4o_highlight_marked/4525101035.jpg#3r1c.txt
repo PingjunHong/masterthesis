@@ -1,3 +1,0 @@
-1. The content describes the person as **wearing a down jacket**, but the statement describes someone **wearing a cotton shirt**.
-2. The content specifies the person is **holding** a comb, but the statement does not indicate that the person is holding anything and instead mentions they were **looking at** a comb.
-3. The content describes the comb as **pink**, whereas the statement describes the comb as **green**.

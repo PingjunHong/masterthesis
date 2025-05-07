@@ -1,5 +1,0 @@
-1. The **man** in the content is actively performing a reverse slam dunk, while the **man** in the statement is inactive and **sleeping**.
-2. The **man** in the content is in front of a **crowd**, while the **man** in the statement is described as being **at home**.
-3. The action "**makes** a spectacular reverse slam dunk" contradicts the passive state of "**sleeping**" in the statement.
-4. The content describes a physical activity (**slam dunk**) that requires being awake and alert, which contradicts the sleeping state in the statement.
-5. The setting of the content (a crowd's amazement) implies a public, active event, which contradicts the private, inactive setting of "**home**" in the statement.

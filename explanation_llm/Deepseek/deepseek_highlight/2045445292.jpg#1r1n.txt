@@ -1,7 +1,0 @@
-1. The content does not mention the purpose of cutting the wood (e.g., building a table), so the statement introduces new, unverified information.
-2. The word "table" in the statement is not supported by the content, making the claim unspecific and thus neutral.
-3. The action of sawing a log could have many purposes, and "building a table" is just one possible interpretation, not confirmed by the content.
-4. The content only describes the action (sawing a log) and does not imply any further context or intent (e.g., woodworking for furniture).
-5. The statement assumes a specific outcome ("to build a table") that is not inferable from the content alone.
-6. The highlighted word "table" introduces an unrelated detail, creating a disconnect between the content and the statement.
-7. The content is purely observational, while the statement includes an unsubstantiated goal, making it neither entailed nor contradicted.

@@ -1,8 +1,0 @@
-1. The highlighted words in the Content ("riding a bike") directly support the highlighted words in the Statement ("on a bike"), as both describe the woman's action of biking.
-2. The phrase "riding a bike" in the Content implies the woman is "on a bike," satisfying the Statement's requirement.
-3. The action of riding a bike inherently means the woman is positioned on the bike, making the Statement true.
-4. The Content provides sufficient context (the woman biking) to confirm the Statement's claim about her being on a bike.
-5. The semantic meaning of "riding a bike" in the Content aligns with "on a bike" in the Statement, establishing entailment.
-6. The Statement is a simplified version of the Content's description of the woman biking, so the entailment holds.
-7. The highlighted parts in both sentences refer to the same activity (biking), ensuring the Statement is entailed by the Content.
-8. The Content's description of the woman's action ("riding a bike") logically necessitates the truth of the Statement ("on a bike").

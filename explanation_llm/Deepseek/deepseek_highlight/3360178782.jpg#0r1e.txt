@@ -1,6 +1,0 @@
-1. The highlighted word "consumers" (index 3 in Content) aligns with "Shoppers" (index 0 in Statement), as both refer to people buying goods.
-2. The highlighted word "purchase" (index 11 in Content) matches "purchasing" (index 5 in Statement), indicating the same action of buying.
-3. The phrase "public market" (implied in Content) corresponds to "public market" (index 7 in Statement), confirming the location.
-4. The description "busy store" in Content supports "busy" (index 7 in Statement), reinforcing the crowded setting.
-5. The mention of "vegetables" in both Content and Statement (index 5 in Statement) ensures consistency in the items being bought.
-6. The overall context of people buying in a crowded market (Content) is captured succinctly in the Statement.

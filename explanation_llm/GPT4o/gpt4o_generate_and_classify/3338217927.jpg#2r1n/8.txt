@@ -1,2 +1,0 @@
-- While dogs often play fetch, there is no evidence in the premise that the dog is playing with an owner, as the premise only describes a dog jumping for a Frisbee.
-- In a real-world context, a Frisbee could be part of a game of fetch, but the premise doesn't specify the presence of an owner or the context of a game.

@@ -1,5 +1,0 @@
-- The men are watching the sports game on television, not attending it in person.
-- The statement claims the men are at a baseball game, but the content says they are at a bar.
-- The content does not specify which sport is being watched, while the statement assumes it is baseball.
-- Being at a bar and being at a baseball game are two different physical locations.
-- Watching a game on TV (implied by "on the television") is not the same as being present at the game.

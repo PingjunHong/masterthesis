@@ -1,3 +1,0 @@
-- The highlighted word "boy" in the content contradicts the highlighted word "girl" in the statement, as "boy" and "girl" refer to different genders.
-- The highlighted phrase "holding onto" in the content contradicts the highlighted phrase "leaning against" in the statement, as "holding onto" implies actively grasping or supporting oneself, while "leaning against" suggests resting or reclining without actively holding.
-- The highlighted word "old" in the content contradicts the absence of any reference to age or condition in the statement, suggesting a possible mismatch in descriptions of the wall's condition.

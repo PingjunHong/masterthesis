@@ -1,2 +1,0 @@
-- Best Buy is a retail electronics store, which is an indoor environment, so an employee standing in an aisle in Best Buy would be indoors.
-- The presence of a "Geek Squad sign" in the background implies the scene is set within a Best Buy store, which is indoors.

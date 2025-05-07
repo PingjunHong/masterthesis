@@ -1,3 +1,0 @@
-- "Two people" in the content implies a pair of individuals, whereas "women" in the statement specifies a gender, suggesting a mismatch if the people are not both women.
-- "Talking" in the content refers to engaging in conversation, while "shopping" in the statement involves purchasing goods, indicating different activities.
-- "On a dock" specifies a location near water, whereas "at the mall" indicates a retail environment, highlighting a location discrepancy.

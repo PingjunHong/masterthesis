@@ -1,6 +1,0 @@
-- "A flight attendant" in the statement refers to "The flight attendant dressed in yellow" in the content, but the specific procedure being demonstrated is not mentioned in the statement.
-- "Safety procedures" in the statement does not explicitly refer to "life vest usage," which is the specific demonstration mentioned in the content.
-- The reference to "before takeoff" in the statement is not addressed in the content, which only specifies the demonstration of "life vest usage."
-- "Demonstrates life vest usage" in the content is a specific action, while "demonstrating safety procedures" in the statement is a broader category that may or may not include life vest usage.
-- The phrase "dressed in yellow" in the content specifies the appearance of the flight attendant, whereas the statement does not mention any details about the flight attendant's attire.
-- The content specifies "demonstrates life vest usage," but the statement introduces "before takeoff," creating a temporal reference that is not resolved by the content.

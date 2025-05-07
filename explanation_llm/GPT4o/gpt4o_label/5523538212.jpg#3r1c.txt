@@ -1,3 +1,0 @@
-- The statement describes a skier skiing on a road, while the content describes a skier ski-jumping, which is a different activity involving a ramp.
-- The statement implies a location on a road, whereas the content involves ski-jumping, typically performed on a specially designed ski jump, not a road.
-- The statement does not mention any observers, while the content specifically mentions two other skiers watching the act.

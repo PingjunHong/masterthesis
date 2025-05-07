@@ -1,4 +1,0 @@
-1. The content mentions a **woman**, while the statement refers to **Pete Sampras**, who is a man.
-2. The content describes an unspecified **woman** playing tennis, not **Pete Sampras**.
-3. There is no evidence in the content to suggest that the person playing tennis is **Pete Sampras**.
-4. The statement incorrectly identifies the tennis player as **Pete Sampras**, while the content specifies a **woman**.

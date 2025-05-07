@@ -1,7 +1,0 @@
-- "Two cows" indicates a plural number, whereas "a single cow" implies only one.
-- "Between two cows" suggests multiple cows are present, contradicting the notion of one cow being alone.
-- "A single cow is alone" means there are no other cows nearby, which is negated by the presence of two cows.
-- The word "alone" implies solitude, which is incompatible with the context of "two cows."
-- "Single" conveys the idea of one, whereas "two" conveys the idea of more than one, leading to a contradiction.
-- "Road between two cows" requires at least two cows, conflicting with the hypothesis of one cow alone.
-- "Alone" denotes isolation, but "between" signifies the existence of more than one cow.

@@ -1,5 +1,0 @@
-- The content does not specify the direction of the escalator, so the people could be going either up or down.
-- The description of the people looking outside does not imply any particular direction of movement.
-- The focus of the content is on the action of waiting and looking, not on the movement direction.
-- The term "destination" is ambiguous and does not clarify whether it is at a higher or lower level.
-- There is no contextual information provided that indicates the escalator's direction.

@@ -1,5 +1,0 @@
-1. "Run" (action in Content) contradicts "sleeping" (action in Statement), as they describe mutually exclusive states of activity.
-2. "Near the leaves" (location in Content) contradicts "on the pile of leaves" (location in Statement), implying different spatial relationships.
-3. The dynamic scene of movement ("run together") in Content contradicts the static scene ("sleeping") in Statement.
-4. The absence of a "pile" in Content contradicts its explicit mention in Statement, altering the description of the leaves.
-5. The verbs "run" (active) and "sleeping" (inactive) cannot both be true simultaneously for the same subject (dogs).

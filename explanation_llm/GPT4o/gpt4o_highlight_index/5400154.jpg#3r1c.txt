@@ -1,2 +1,0 @@
-- The highlighted word "boat" in the content indicates the men are on water, while the highlighted word "car" in the statement indicates the men are on land, making the locations mutually exclusive.
-- Boats and cars are distinct types of vehicles, with boats used on water and cars used on land, so it is impossible for the same group of men to be simultaneously standing in a boat and on top of a car.

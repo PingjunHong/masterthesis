@@ -1,1 +1,0 @@
-- The statement specifies that the plants are ferns, but the premise only mentions plants without specifying their type, so there is no semantic overlap to confirm the statement.

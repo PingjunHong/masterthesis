@@ -1,7 +1,0 @@
-1. The phrase "working long hours" in the content implies that the woman is engaged in work, which directly supports the statement "A woman is working."
-2. The word "working" in the content (highlighted indices 2,3,4) is a verb indicating an action, which aligns with the verb "working" in the statement (highlighted index 3).
-3. The subject "a woman" in the content remains unchanged in the statement, preserving the core meaning that a woman is involved in an activity.
-4. The statement generalizes the content by omitting the duration ("long hours"), but the core action ("working") is retained, leading to entailment.
-5. The progressive aspect of "working" in both sentences indicates an ongoing action, reinforcing the entailment relationship.
-6. The content provides additional details (e.g., "long hours") that do not contradict the statement, making the statement a valid inference.
-7. The semantic overlap between "working long hours" and "is working" is sufficient for entailment, as the latter is a subset of the former.

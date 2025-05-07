@@ -1,4 +1,0 @@
-1. "Looking at" implies visually perceiving something, which is synonymous with "sees," indicating the woman is observing the bicycle.
-2. The presence of a "woman" in both sentences establishes the same subject engaging in the action.
-3. The "bicycle" is the object of focus in both sentences, confirming that it is the item being perceived.
-4. The context of "looking at" a bicycle inherently involves seeing it, thus supporting the entailment.

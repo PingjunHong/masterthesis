@@ -1,8 +1,0 @@
-- Standing on a motorbike implies being on the motorbike.
-- Uniform and helmet are not relevant to the act of standing on a motorbike.
-- The presence of a man in both the premise and hypothesis matches.
-- Red uniform does not affect the fact that there is a man standing on a motorbike.
-- The action of standing is included in both the premise and the hypothesis.
-- The premise directly supports the statement as it involves a man on a motorbike.
-- Specific details like color or type of uniform do not change the fundamental act of standing on a motorbike.
-- The premise explicitly mentions a man and a motorbike, which aligns perfectly with the hypothesis.

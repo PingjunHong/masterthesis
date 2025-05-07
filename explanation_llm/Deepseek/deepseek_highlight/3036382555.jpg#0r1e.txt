@@ -1,7 +1,0 @@
-1. The highlighted word "girls" in the Statement corresponds to "young girls" in the Content, which are the same entities.
-2. The highlighted word "playing" in the Statement is explicitly mentioned as "playing" in the Content.
-3. The highlighted word "outdoors" in the Statement is directly supported by "outdoors" in the Content.
-4. The combination of "girls," "playing," and "outdoors" in the Statement is fully entailed by the Content, as all three elements are present and aligned.
-5. The absence of conflicting information in the Content ensures that the Statement's meaning is fully supported.
-6. The specific details in the Content (e.g., "dressed as fairies," "in the leaves") do not contradict the general claim in the Statement.
-7. The Statement is a simplified summary of the Content, and the highlighted words capture the core meaning without requiring additional context.

@@ -1,8 +1,0 @@
-- Pete Sampras is a retired professional tennis player and is unlikely to be playing tennis casually.
-- The premise describes a woman playing tennis, whereas Pete Sampras is a male tennis player, making the statement about him playing tennis contradictory to the context.
-- The activity described involves a woman, whereas Pete Sampras is not a woman, indicating a mismatch in gender.
-- The context suggests a casual tennis game, while Pete Sampras is known for playing professional tennis matches, not casual games.
-- Pete Sampras is not mentioned in the premise, nor is there any indication that he is present or involved in the scenario.
-- The attire described is typical for casual or amateur play, whereas Pete Sampras, as a former professional, would be associated with professional tennis attire and settings.
-- Real-world knowledge informs us that Pete Sampras has not been active in professional tennis for many years, contrasting with the ongoing action in the premise.
-- The premise describes a single person, a woman, engaging in tennis, whereas Pete Sampras would involve a different scenario with additional players or context.

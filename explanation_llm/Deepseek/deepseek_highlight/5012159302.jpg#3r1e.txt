@@ -1,8 +1,0 @@
-1. The highlighted words "men" and "working" in the Content align with "men" and "working" in the Statement, confirming the subject and action.
-2. The phrase "farm equipment" in the Content is semantically related to "farm stuff" in the Statement, as "stuff" can generalize "equipment."
-3. The word "farm" appears in both the Content and the Statement, establishing a shared context.
-4. The action "working on" in the Content is directly reflected in the Statement as "working on," preserving the relationship between the subjects and their activity.
-5. The plural "men" in the Content matches the plural "men" in the Statement, ensuring consistency in the number of subjects.
-6. The term "equipment" (implied by "farm equipment" in the Content) is encompassed by the broader term "stuff" in the Statement, allowing for entailment.
-7. The absence of contradictory information in the Statement relative to the Content supports the entailment relationship.
-8. The Statement simplifies the Content by replacing specific details ("farm equipment") with a more general term ("farm stuff"), which is logically consistent.

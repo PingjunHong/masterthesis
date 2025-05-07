@@ -1,5 +1,0 @@
-1. A "land rover" (a type of vehicle) being driven across a river contradicts the idea of a "sedan" (a different type of vehicle) being stuck in the same river, as they cannot both be true simultaneously.
-2. The "land rover" is actively moving ("being driven"), while the "sedan" is immobile ("stuck"), creating a contradiction in the state of the vehicles in the river.
-3. The presence of a "land rover" crossing the river implies the river is passable, which contradicts the "sedan" being stuck, suggesting the river is impassable.
-4. The two vehicles ("land rover" and "sedan") are distinct and cannot occupy the same scenario in a logically consistent way, leading to a contradiction.
-5. The action of driving across the river (by the land rover) conflicts with the sedan being stuck, as one implies successful traversal while the other implies failure.

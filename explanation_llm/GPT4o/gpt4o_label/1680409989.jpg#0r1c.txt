@@ -1,4 +1,0 @@
-- The statement describes a woman painting, while the content describes a person with a purple shirt painting, without specifying the gender.
-- The content specifies that the person is painting an image of a woman, whereas the statement mentions painting a portrait of a monkey.
-- The content involves a white wall as the painting surface, but the statement does not mention any wall.
-- The statement implies that the painter is a woman, but the content does not specify the gender of the painter.

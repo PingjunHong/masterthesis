@@ -1,2 +1,0 @@
-- None needed, as the statement is fully supported by the content.
-Every explanation is directly based on the entailment relationship between the content and the statement.

@@ -1,5 +1,0 @@
-1. The word "woman" in the **Content** (index 2) and the word "woman" in the **Statement** (index 1) refer to the same entity, establishing a direct link.
-2. The phrase "is standing" in the **Content** (index 8) and the phrase "is standing" in the **Statement** (index 3) are identical, confirming the action described in the **Statement**.
-3. The **Content** explicitly describes the woman's posture ("standing behind a counter"), which logically entails the simpler claim in the **Statement** ("The woman is standing").
-4. The **Statement** is a subset of the information in the **Content**, as the **Content** provides additional details (e.g., "blond," "black shirt," "behind a counter") while preserving the core fact of the woman standing.
-5. The highlighted words in both sentences align semantically and syntactically, with no contradictory or conflicting information, ensuring the **Statement** follows from the **Content**.

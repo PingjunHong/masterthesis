@@ -1,4 +1,0 @@
-- The word "Man" in the content directly corresponds to "a man" in the statement, indicating the presence of a male human in both.
-- The content specifies "Man holding torch of fire," which implies the existence of a man, thereby supporting the statement "There is a man."
-- The action of "holding torch of fire" performed by the man in the content confirms his existence, satisfying the statement's claim of a man's presence.
-- The description in the content inherently includes a man as the subject, matching the statement that asserts "There is a man."

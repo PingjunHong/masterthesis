@@ -1,4 +1,0 @@
-- If workers are standing on a lift, they cannot simultaneously be walking off it.
-- The action of standing implies being stationary, while walking off implies movement away from the lift.
-- The presence of workers on the lift contradicts the notion that they have already walked off.
-- The statement suggests a departure from the lift, while the content indicates they are still on it.

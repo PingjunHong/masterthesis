@@ -1,7 +1,0 @@
-1. The highlighted word "woman" (index 2 in Statement) corresponds to "blond woman" (index 3 in Content), confirming the subject is a woman.
-2. The highlighted word "speaks" (index 1 in Statement) aligns with "speaks" (index 6 in Content), indicating the action of speaking.
-3. The highlighted word "women" (index 2 in Statement) is supported by "female students" (index 2 in Content), as "female students" implies they are women.
-4. The phrase "other women" in the Statement is entailed by "group of young dark-haired female students" in the Content, as the group consists of women.
-5. The interaction "speaks with a group" in the Content implies "speaks to other women" in the Statement, as the group is composed of women.
-6. The absence of contradictory information in the Content ensures the Statement's validity.
-7. The general description in the Statement ("a woman speaks to other women") is a simplified but accurate summary of the more detailed Content.

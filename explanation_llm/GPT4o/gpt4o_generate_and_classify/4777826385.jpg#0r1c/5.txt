@@ -1,1 +1,0 @@
-- The premise does not mention anything about jogging, while the hypothesis introduces the new information of a person jogging, which is not supported by the premise.

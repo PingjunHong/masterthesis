@@ -1,1 +1,0 @@
-- The premise does not explicitly mention the number of tables, but the statement "tables" is supported by the description "long tables" in the premise.

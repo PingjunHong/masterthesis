@@ -1,8 +1,0 @@
-A woman in the black shirt refers to the woman in green.
-The woman looking at a bicycle refers to the woman sleeping on a couch.
-The woman in a black shirt refers to the woman in green.
-The woman in the premise is looking at a bicycle, whereas the woman in the hypothesis is sleeping on a couch.
-The woman in the premise is wearing a black shirt, while the woman in the hypothesis is wearing green.
-The reference to "a woman" in the premise is about someone interacting with a bicycle, not someone asleep on a couch.
-The woman who is looking at a bicycle cannot simultaneously be sleeping on a couch.
-The woman wearing black cannot be the same as the woman wearing green.

@@ -1,2 +1,0 @@
-- The hypothesis only mentions "Six or seven people are standing on a pier," which is directly stated in the premise, and does not introduce any unsupported elements.
-```

@@ -1,1 +1,0 @@
-- Groups of people looking at items together are generally considered to be together.

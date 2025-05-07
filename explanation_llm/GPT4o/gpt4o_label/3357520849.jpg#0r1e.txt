@@ -1,5 +1,0 @@
-- The content explicitly mentions that the man is sitting in front of a building.
-- The statement is a more general description that is consistent with the detailed description provided in the content.
-- The location of the man as described in the content ("in front of a building") directly supports the statement.
-- Both the content and the statement agree on the presence of a man and his position relative to a building.
-- There are no contradictions between the content and the statement regarding the man's location.

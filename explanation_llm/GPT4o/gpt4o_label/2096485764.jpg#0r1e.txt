@@ -1,4 +1,0 @@
-- Bars are typically indoor environments.
-- Reading a paper is an activity usually done indoors, especially in social settings like bars.
-- Green lighting is associated with interior design and is less common outdoors.
-- The context implies a setting associated with indoor leisure activities.

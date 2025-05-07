@@ -1,8 +1,0 @@
-1. "A cat" in the statement does not refer to "a dog" in the content.
-2. "The couch" in the statement does not refer to "snow" or "water" in the content.
-3. "Laying on the couch" in the statement does not describe "standing near snow" in the content.
-4. "A cat" cannot be resolved to "a dog" from the content.
-5. "The couch" cannot be identified as any part of the scene described in the content, which involves snow and water.
-6. "Laying" in the statement does not correspond to "standing" in the content.
-7. No reference in the statement matches any reference in the content involving a dog, snow, or water.
-8. "Looking at water" in the content has no corresponding reference in the statement involving a couch or a cat.

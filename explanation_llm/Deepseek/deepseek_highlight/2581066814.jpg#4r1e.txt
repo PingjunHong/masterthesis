@@ -1,7 +1,0 @@
-1. The highlighted words "naked man" in the Content imply a "person," satisfying the "person" in the Statement.
-2. The highlighted word "rides" in the Content is synonymous with "biking" in the Statement, establishing the action.
-3. The combination of "rides a bike" in the Content directly entails "biking" in the Statement.
-4. The core meaning of the Content (a person performing the action of biking) is preserved in the Statement.
-5. The Statement generalizes the specifics of the Content (naked man → person, rides → biking), maintaining logical consistency.
-6. The semantic overlap between the highlighted words in both sentences ensures the entailment holds.
-7. The Statement captures the essential elements (agent and action) from the Content without contradiction.

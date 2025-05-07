@@ -1,3 +1,0 @@
-1. Both "black t-shirt" in the content and "black shirt" in the statement refer to the same type of clothing, as a t-shirt is a type of shirt.
-2. The word "in" in both sentences indicates that the man is wearing the clothing item described, ensuring consistency between the content and the statement.
-3. The presence of "black" in both sentences confirms that the color of the shirt/t-shirt is the same, supporting the entailment.

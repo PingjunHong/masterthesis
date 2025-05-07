@@ -1,1 +1,0 @@
-- It is possible for people watching an event to look in various directions, depending on the nature of the event and their position in relation to it. The statement assumes a specific direction without confirmation.

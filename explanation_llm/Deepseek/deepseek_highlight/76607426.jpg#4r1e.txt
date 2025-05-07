@@ -1,7 +1,0 @@
-1. The highlighted words in the Content ("man", "playing", "billiards") directly correspond to the highlighted words in the Statement ("man", "playing", "billiards"), preserving the core meaning.
-2. The Content explicitly states that a man is engaged in the activity of playing billiards, which is exactly what the Statement asserts.
-3. The additional context in the Content ("at a bar") does not contradict or alter the truth of the Statement, as the Statement focuses only on the action of the man playing billiards.
-4. The grammatical structure of the Statement is a simplified but accurate paraphrase of the relevant parts of the Content.
-5. The Statement omits non-essential details (e.g., location) without changing the core proposition, which remains entailed by the Content.
-6. The verb "playing" in both sentences maintains the same tense and meaning, ensuring consistency in the action described.
-7. The subject ("a man") and object ("billiards") are identical in both sentences, with no semantic divergence.

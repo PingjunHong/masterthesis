@@ -1,6 +1,0 @@
-- The three girls mentioned in the statement refer to the three girls in the premise.
-- The cake mentioned in the statement refers to the cake made of Peeps in the premise.
-- The phrase "three girls" in the statement resolves to "three girls" in the premise.
-- The word "cake" in the statement resolves to "cake made of Peeps" in the premise.
-- "Three girls" in the statement and "three girls" in the premise are coreferential.
-- "A cake" in the statement and "a cake made of Peeps" in the premise are coreferential.

@@ -1,3 +1,0 @@
-- "Blue top" in the statement is synonymous with "blue shirt" in the content.
-- "Carries a pack" in the statement is equivalent to "carrying a blue backpack" in the content.
-- "Makes his way through snow" in the statement is equivalent to "treks through the snow" in the content.

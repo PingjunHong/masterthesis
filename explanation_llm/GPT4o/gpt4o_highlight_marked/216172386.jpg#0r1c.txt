@@ -1,4 +1,0 @@
-- **stands** contradicts **sitting** because standing and sitting are mutually exclusive physical actions.
-- **on** contradicts **in** because being on a motorbike implies placement atop it, while being in a car implies being inside the vehicle.
-- **his** contradicts **a** because "his motorbike" indicates ownership, while "a car" suggests an unspecified or general object without ownership.
-- **motorbike** contradicts **car** because a motorbike and a car are distinct types of vehicles.

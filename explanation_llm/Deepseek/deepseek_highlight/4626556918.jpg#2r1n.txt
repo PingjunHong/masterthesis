@@ -1,7 +1,0 @@
-1. The statement "A guy is going skateboarding today" implies future action ("going"), while the content only describes the man looking at the park, not actively skateboarding.
-2. The content does not specify the man's intentions or plans ("today"), so the statement assumes unconfirmed information.
-3. The statement generalizes the man's actions ("skateboarding"), while the content only shows him observing the park, not necessarily engaging in the activity.
-4. The highlighted words ("going skateboarding today") introduce new temporal and action-based details not present in the content.
-5. The content lacks evidence that the man is preparing to skateboard or that it is happening "today," making the statement neither entailed nor contradicted.
-6. The statement assumes a broader context (e.g., the man's plans) that is not explicitly supported by the content.
-7. The highlighted words introduce a predictive element ("going") that is not justified by the observational nature of the content.

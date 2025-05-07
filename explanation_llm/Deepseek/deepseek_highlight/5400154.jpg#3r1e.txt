@@ -1,7 +1,0 @@
-1. "Two men" implies at least two individuals, which satisfies "some people" (typically meaning at least one or more).
-2. The presence of "men" (a subset of "people") in the content confirms the existence of "people" in the statement.
-3. The shared phrase "in a boat" establishes the same location, making the scenario consistent.
-4. The quantifier "some" is non-specific and can encompass the explicit number "two" mentioned in the content.
-5. The statement does not contradict the content; it generalizes the specific information ("two men") to a broader category ("people").
-6. The highlighted word "men" (content) and "people" (statement) are semantically related, as "men" are a subset of "people."
-7. The statement’s claim is weaker (less specific) than the content, so the content’s specificity supports the statement’s generality.

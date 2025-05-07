@@ -1,2 +1,0 @@
-- A crowded city street with pedestrians does not necessarily mean there are motorcyclists present, as the crowd could be entirely made up of people on foot.
-- While both pedestrians and motorcyclists can be present on city streets, the presence of one does not guarantee the presence of the other.

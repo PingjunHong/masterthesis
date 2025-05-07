@@ -1,1 +1,0 @@
-- "Autumn" is a specific season and the premise does not explicitly mention the season, meaning the word "Autumn" in the hypothesis is not semantically linked to any specific word in the premise.

@@ -1,5 +1,0 @@
-1. The highlighted word "young" in the content ("Three **young** boys...") directly supports the statement "The boys are **young**."
-2. The highlighted word "boys" in the content ("Three young **boys**...") aligns with the subject "boys" in the statement, ensuring the statement refers to the same group.
-3. The combination of "young" and "boys" in the content ("Three **young boys**...") fully matches the meaning of the statement "The boys are **young**."
-4. The absence of contradictory information in the content ensures that the statement is entailed by the highlighted words.
-5. The grammatical structure of the content allows the highlighted words to logically imply the statement without ambiguity.

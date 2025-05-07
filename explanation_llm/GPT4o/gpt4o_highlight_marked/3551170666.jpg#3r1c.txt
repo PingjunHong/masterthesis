@@ -1,4 +1,0 @@
-- "Golden retriever" refers to a breed of dog, whereas "cat" refers to a different species entirely.
-- A "golden retriever" cannot simultaneously be a "cat".
-- The species "dog" (golden retriever) and "cat" are mutually exclusive.
-- The subject in the content is a "golden retriever," but the subject in the statement is a "cat," which creates a contradiction.

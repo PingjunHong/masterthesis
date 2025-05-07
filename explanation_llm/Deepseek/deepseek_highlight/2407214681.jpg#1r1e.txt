@@ -1,7 +1,0 @@
-1. The content explicitly mentions "Two small boys" (indices 0,2), which directly aligns with "Two boys" (indices 0,1) in the statement.
-2. The action "wash their hands" (indices 14,15,16) in the content matches "washing their hands" (indices 2,3,4) in the statement.
-3. The phrase "use a wooden set of steps to wash their hands" in the content implies the boys are engaged in the activity of handwashing, supporting the statement.
-4. The subject ("boys") and the action ("washing their hands") are the core elements in both the content and the statement, making the relationship an entailment.
-5. No contradictory information exists in the content that would negate the statement "Two boys washing their hands."
-6. The highlighted words in both the content and the statement form a coherent subset where the statement is a simplified summary of the content's key actions.
-7. The statement captures the main event described in the content without introducing additional or conflicting details.

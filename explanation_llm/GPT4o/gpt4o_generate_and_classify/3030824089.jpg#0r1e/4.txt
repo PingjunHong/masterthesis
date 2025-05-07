@@ -1,1 +1,0 @@
-- Running is an activity that inherently involves the use of legs, so if a dog is running, it is using its legs.

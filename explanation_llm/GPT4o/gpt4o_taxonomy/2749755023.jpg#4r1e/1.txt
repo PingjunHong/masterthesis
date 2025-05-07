@@ -1,7 +1,0 @@
-- "A woman" in both the premise and hypothesis refers to the same individual.
-- "Looking at" implies visual perception, synonymous with "sees" in the hypothesis.
-- "A bicycle" in the premise and hypothesis is the same object being referred to.
-- The action of seeing is inherent in the act of looking, establishing the entailment.
-- "A woman in a black shirt" specifies the same person as "a woman" who sees the bicycle.
-- The reference to "a bicycle" is consistent across the premise and hypothesis.
-- The premise's description of the woman implies her ability to see the bicycle she is looking at.

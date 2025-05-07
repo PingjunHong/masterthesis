@@ -1,5 +1,0 @@
-1. "A man cooking with fire in like 5 pots at the same time" refers to the same man as "A man is cooking dinner for his family in a bunch of pots," but it does not specify the purpose of cooking.
-2. The use of "a man" in both the premise and hypothesis refers to the same individual, but the premise does not specify that the cooking is for his family.
-3. "5 pots at the same time" resolves to "a bunch of pots," but the premise does not indicate that the cooking is for dinner or for family.
-4. The reference to "cooking with fire" in the premise aligns with "cooking" in the hypothesis, yet there is no indication that it is specifically dinner or involves his family.
-5. Both statements reference a man using multiple pots, but the premise lacks the contextual detail of cooking being for family dinner.

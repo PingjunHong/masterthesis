@@ -1,1 +1,0 @@
-- "A woman" is a type of "person," so if a woman is walking down the street, then a person is indeed outside.

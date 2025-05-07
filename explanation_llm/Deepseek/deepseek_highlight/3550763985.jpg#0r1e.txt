@@ -1,5 +1,0 @@
-1. The highlighted words "on a snowy day" in the Content imply an outdoor setting, as snow typically occurs outdoors.
-2. The highlighted word "outdoors" in the Statement is entailed by the context of a skateboarder performing a jump, which is an activity usually done outside.
-3. The phrase "at the top of a jump" suggests an open environment, reinforcing the outdoor setting.
-4. Snowy conditions are inherently associated with outdoor environments, supporting the entailment.
-5. Skateboarding, especially in snowy conditions, is an activity that cannot reasonably occur indoors, further confirming the entailment.

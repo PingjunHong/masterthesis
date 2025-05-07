@@ -1,4 +1,0 @@
-1. The content describes a man riding a bike, while the statement describes a man walking on a sidewalk.
-2. The content specifies the man is naked, whereas the statement specifies the man is in a suit.
-3. Riding indicates the man is on a bike, in contrast to walking, which indicates the man is on foot.
-4. The physical state of being naked directly opposes being dressed in a suit.

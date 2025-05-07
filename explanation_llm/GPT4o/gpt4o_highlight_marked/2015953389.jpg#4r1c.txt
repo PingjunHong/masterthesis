@@ -1,5 +1,0 @@
-- "Standing" contradicts "walk" as the actions are mutually exclusive.
-- "Lift" contradicts "home" since being on a lift implies being at a worksite or elevated location, not heading home.
-- The context of being on a "lift" contradicts walking "home" because the settings and activities do not align.
-- Workers "standing" suggests they are stationary, while "walk" implies movement, creating a contradiction.
-- The action of being on a "lift" is incompatible with the act of walking, particularly to a location like "home".

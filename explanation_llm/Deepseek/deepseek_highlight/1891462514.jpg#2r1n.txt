@@ -1,7 +1,0 @@
-1. The original content does not mention the purpose of digging (e.g., "for gold"), so the statement introduces new, unsupported information.
-2. The word "gold" in the statement is speculative and not implied or stated in the content, making the claim neither entailed nor contradicted.
-3. The content only describes the action of digging without specifying intent, so the statement’s added detail ("for gold") cannot be verified.
-4. The statement assumes a motive ("for gold") that is not present or inferable from the content, leaving it neutral.
-5. The highlighted word "gold" introduces an unsubstantiated goal, which the content neither confirms nor denies.
-6. The statement extends the content with an arbitrary reason for digging, which is not logically derivable from the given information.
-7. The content’s neutrality is preserved because the statement’s additional detail ("for gold") is neither explicitly supported nor contradicted.

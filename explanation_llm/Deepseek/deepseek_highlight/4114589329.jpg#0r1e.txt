@@ -1,6 +1,0 @@
-1. The highlighted words "3 males" in the Content correspond to "three pedestrians" in the Statement, as "males" can be interpreted as pedestrians in this context.
-2. The action "walking across the street behind the car" in the Content aligns with "cross behind it" in the Statement, confirming the spatial relationship.
-3. The phrase "A Ford car" in the Content is generalized to "A car" in the Statement, maintaining the core entity (a car) without specifying the brand.
-4. The action "making a right turn" is identical in both sentences, ensuring the entailment holds for the described event.
-5. The number "3" in the Content matches "three" in the Statement, preserving the quantitative detail.
-6. The temporal sequence of the car turning and the pedestrians walking is consistent in both sentences, reinforcing the entailment.

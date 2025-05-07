@@ -1,5 +1,0 @@
-- The content describes a woman wearing a colorful bikini, which aligns with the statement mentioning a woman in a bikini.
-- The phrase "rests laying down" in the content suggests a position similar to "lays" in the statement.
-- The content specifies the woman is "next to the blue water," which is consistent with "near the water" in the statement.
-- Both the content and the statement mention a single woman, ensuring subject consistency.
-- The details about the bikini and proximity to water in both the content and statement are semantically similar, supporting entailment.

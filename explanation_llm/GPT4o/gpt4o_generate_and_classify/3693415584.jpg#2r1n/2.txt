@@ -1,1 +1,0 @@
-- The premise states "a bright orange blouse" while the hypothesis mentions "a bright orange blouse and a green hat," which introduces additional information.

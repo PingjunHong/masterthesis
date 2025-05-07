@@ -1,2 +1,0 @@
-- The location conflict between "at a dock" and "in a canoe" creates a contradiction.
-- The activity conflict between preparing a fish and using fishing poles implies mutually exclusive actions.

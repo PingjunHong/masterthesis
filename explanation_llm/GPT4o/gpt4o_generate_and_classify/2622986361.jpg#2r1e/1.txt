@@ -1,2 +1,0 @@
-- The phrase "a crowd of people" in the content refers to "the crowd on the ground" in the statement.
-- The phrase "3 people on the edge of the roof of a building" in the content refers to "3 people on the roof's edge" in the statement.

@@ -1,5 +1,0 @@
-- The phrase "rests above a metro entrance" implies proximity to a metro station, which corresponds to "standing near a metro station."
-- "A person in orange clothing" and "someone" both refer to an unspecified individual, maintaining consistency across the content and statement.
-- Being "above a metro entrance" necessitates being close to the metro station itself, satisfying the condition of being "near" the station.
-- The term "rests" can include standing, as it does not specify the exact posture, aligning with the statement's use of "standing."
-- The content implies the presence of a metro station, aligning with the statement's reference to a "metro station."

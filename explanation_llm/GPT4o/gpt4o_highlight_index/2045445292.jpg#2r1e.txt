@@ -1,4 +1,0 @@
-- The words "Two strong men" in both the content and the statement directly match, indicating the same subjects are being referred to in both cases.
-- The word "work" in the content is synonymous with "are working" in the statement, suggesting ongoing action by the same individuals.
-- The context of "saw a log" in the content implies an activity that requires effort and strength, aligning with the presence of "strong men" and the action of "working" in the statement.
-- Both sentences describe an action involving the same agents (the men) and imply that the action is occurring in the present, reinforcing the entailment relationship.

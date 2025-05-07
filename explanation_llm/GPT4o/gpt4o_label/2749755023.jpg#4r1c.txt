@@ -1,3 +1,0 @@
-- The woman is wearing a black shirt, not a green shirt.
-- The woman is looking at a bicycle, not sleeping.
-- The woman is not on a couch; she is engaged in an activity involving a bicycle.

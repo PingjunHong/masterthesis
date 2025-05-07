@@ -1,1 +1,0 @@
-- No coreference resolution is required as the statements involve distinct scenarios and there are no pronouns or demonstratives to resolve.

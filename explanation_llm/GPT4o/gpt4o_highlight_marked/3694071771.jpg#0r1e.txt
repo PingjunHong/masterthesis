@@ -1,5 +1,0 @@
-- "A man" is synonymous with "a person."
-- "Riding" can be inferred as "using" in the context of operating a vehicle.
-- "A red racing bike" is a type of "nonmotorized vehicle."
-- "With numbers on his arm and leg" implies "wearing numbers."
-- "A red racing bike" being a bicycle, fits the category of "nonmotorized vehicle."

@@ -1,1 +1,0 @@
-- The action of kneeling in the street logically conflicts with the action of riding a bicycle, as these actions cannot occur at the same time or in the same context.

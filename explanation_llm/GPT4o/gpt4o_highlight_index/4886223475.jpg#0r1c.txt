@@ -1,3 +1,0 @@
-- The action of "riding a bike" contradicts the action of "driving a truck."
-- "Bike" and "truck" refer to two different types of vehicles, making the activities mutually exclusive.
-- The physical posture required for "riding a bike" does not align with the posture for "driving a truck."

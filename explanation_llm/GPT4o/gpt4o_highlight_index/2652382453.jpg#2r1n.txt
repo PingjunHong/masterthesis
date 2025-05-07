@@ -1,4 +1,0 @@
-1. "Everyone" in the content implies "people" in the statement, as "everyone" is a reference to all people present.
-2. "On the street in the city" in the content matches "in the city" in the statement, indicating the location is the same.
-3. "Seem to be busy" in the content suggests "conducting business" in the statement, as being busy often relates to engaging in activities or tasks that can be considered business.
-4. "Doing their own thing" in the content implies conducting individual activities, which can include business-related tasks.

@@ -1,9 +1,0 @@
-1. The type of headband the climber is wearing is not relevant to the action of pulling himself up rocks, so its absence in the statement doesn't affect the entailment.
-2. The color of the rocks is not mentioned in the statement, but it doesn't affect the truth of the action described.
-3. The presence of green foliage below the climber is not included in the statement, but it is not necessary to validate the climber's action.
-4. The altitude at which the climber is performing the action is not mentioned in the statement, but the action itself is still true regardless of height.
-5. The statement does not specify the color of the headband, which is additional information that does not alter the action described.
-6. The statement does not mention the color of the foliage or its presence, which does not impact the climber's action.
-7. The specific description of the rocks as gray is not included in the statement, but it doesn't affect the entailment of the action.
-8. The detailed description of the setting, such as "high above some green foliage," is omitted in the statement, but it doesn't negate the climber's action.
-These explanations demonstrate that the additional details present in the premise do not alter the core action described in the statement, maintaining the entailment.

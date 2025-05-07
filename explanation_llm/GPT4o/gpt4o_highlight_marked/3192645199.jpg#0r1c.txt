@@ -1,5 +1,0 @@
-1. The content describes **two people** (a standing man and a seated woman), whereas the statement claims **three people** are present.
-2. The content specifies the interaction between a **man** and a **woman**, while the statement refers to **three people**, implying at least one additional person not mentioned in the content.
-3. The content describes a **man standing** and a **woman seated**, whereas the statement suggests all **three people** are engaged in a meeting, which implies a shared activity or positioning not reflected in the content.
-4. The content takes place on **some sort of vehicle**, but the statement does not explicitly reference a vehicle, which may imply a different setting or context for the meeting.
-5. The content describes an interaction between a **man** and a **woman**, but the statement generalizes to **three people**, contradicting the specified individuals and their interaction.

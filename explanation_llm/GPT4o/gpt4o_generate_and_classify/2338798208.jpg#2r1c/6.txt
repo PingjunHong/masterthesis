@@ -1,1 +1,0 @@
-- The activities of making cupcakes and going to the spa are mutually exclusive events that cannot occur simultaneously in the same context.

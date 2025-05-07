@@ -1,1 +1,0 @@
-- If a dog is standing near snow and looking at water, it is reasonable to infer that the setting is outdoors.

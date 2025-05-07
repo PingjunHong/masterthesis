@@ -1,3 +1,0 @@
-1. "Icy" and "dry" describe mutually exclusive conditions, as an icy road cannot simultaneously be dry.
-2. The "icy road" and the "dry highway" refer to different physical surfaces, which cannot be the same location.
-3. Walking "down" a road and walking "near" a highway imply different spatial relationships to the path.

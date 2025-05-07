@@ -1,5 +1,0 @@
-1. The content does not specify the gender of the worker, so the statement assuming it is a "man" may not be accurate.
-2. The content describes a "worker," which could be any gender, making the statement's assumption about a "man" potentially incorrect.
-3. The statement generalizes the worker as a "man," while the content leaves the gender ambiguous.
-4. The content does not explicitly confirm or deny the gender of the worker, so the statement is neither entailed nor contradicted.
-5. The highlighted word "man" in the statement introduces information not present in the content, leading to neutrality.

@@ -1,2 +1,0 @@
-- "Males" in the content can be inferred as "pedestrians" in the statement since males crossing a street are pedestrians.
-- "Had three pedestrians cross behind it" in the statement is semantically equivalent to "3 males are walking across the street behind the car" in the content.

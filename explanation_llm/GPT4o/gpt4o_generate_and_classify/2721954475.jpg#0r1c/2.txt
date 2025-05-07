@@ -1,1 +1,0 @@
-- The statement describes a person lying on a couch, which semantically contradicts the premise where people are standing near and on a large black square on the ground.

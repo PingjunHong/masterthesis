@@ -1,5 +1,0 @@
-- A "land rover" is a type of "vehicle," which means the term "vehicle" can refer to a land rover.
-- "Being driven across" implies the action of "crossing" the river, indicating movement from one side to the other.
-- Both "a river" in the content and the statement refer to the same type of geographical feature, establishing that the river being crossed is the one mentioned.
-- The statement generalizes "land rover" to "vehicle," which is a broader category, thus maintaining the truth of the situation described in the content.
-- The action described in the content ("being driven across") sufficiently captures the essence of the action in the statement ("crossing").

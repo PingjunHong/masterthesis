@@ -1,6 +1,0 @@
-1. The highlighted word "Dog" in the Content corresponds to "dog" in the Statement, establishing the subject of the action.
-2. The action "running" in the Statement is implied by "running" in the Content, confirming the movement of the dog.
-3. The phrase "being chased by another dog" in the Statement is directly supported by "being chased by another dog" in the Content, validating the interaction between the dogs.
-4. The conjunction "and" in the Statement logically connects the two actions ("running" and "being chased"), both of which are present in the Content.
-5. The absence of conflicting information between the Content and the Statement ensures no contradictions, reinforcing the entailment.
-6. The semantic overlap between the Content and the Statement, particularly in the highlighted parts, ensures the Statement is fully supported by the Content.

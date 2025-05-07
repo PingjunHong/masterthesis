@@ -1,2 +1,0 @@
-- "Boots" and "shoe" refer to different types of footwear, creating a semantic mismatch.
-- "Father" and "mothers" imply different people, leading to semantic contradiction.

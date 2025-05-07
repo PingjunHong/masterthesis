@@ -1,3 +1,0 @@
-- "Eating outside at a table" and "eating at a table outside" are syntactic alternations that convey the same meaning.
-Pragmatic-level Inference:
-- Pointing at something is an additional detail that does not affect the main premise that people are eating outside at a table, so the statement can be inferred directly from the content.

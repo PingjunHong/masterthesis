@@ -1,6 +1,0 @@
-1. The content does not specify what the man is pointing at, so the statement introduces new information ("purse snatcher") that cannot be confirmed or denied.
-2. The word "man" in the statement is not explicitly mentioned in the content (only "he" is used), but it is a reasonable inference, making the relationship neutral.
-3. The content describes a general scene without any indication of criminal activity ("purse snatcher"), so the statement introduces an unsupported claim.
-4. The action of pointing is mentioned in both, but the target of the pointing ("something" vs. "purse snatcher") is too vague in the content to validate the statement.
-5. The statement assumes a specific scenario (a crime) that is not implied or contradicted by the content, leaving the relationship neutral.
-6. The highlighted words in the statement ("man," "purse snatcher") are either not present or not inferable from the content, making the statement neither entailed nor contradicted.

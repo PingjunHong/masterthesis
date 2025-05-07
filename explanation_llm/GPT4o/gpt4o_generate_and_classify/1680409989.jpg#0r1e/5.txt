@@ -1,2 +1,0 @@
-- The premise mentions a person with a purple shirt painting an image, but does not specify the gender of the person painting, nor does it mention a woman painting a portrait.
-- The premise does not provide evidence that the image being painted is a portrait, only that it is an image of a woman.

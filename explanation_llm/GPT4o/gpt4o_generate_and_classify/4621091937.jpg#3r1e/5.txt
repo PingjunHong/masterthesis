@@ -1,1 +1,0 @@
-- The statement does not specify the road is "brick," but this absence does not affect the entailment as a brick road is still a type of road.

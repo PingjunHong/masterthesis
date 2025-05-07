@@ -1,2 +1,0 @@
-- The premise states "an old woman in a jean jacket," which implies she is wearing a jean jacket, but does not specify its color.
-- The hypothesis mentions "a light jean jacket," introducing a specific color not mentioned in the premise, which is a semantic difference.

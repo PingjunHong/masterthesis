@@ -1,7 +1,0 @@
-- A street is a type of outside environment.
-- A baby stroller is a specific type of stroller.
-- Pushing a stroller includes the action of pushing.
-- Dressed in a dress with flowers is extra detail not affecting the core action of pushing a stroller.
-- The presence of a stuffed bee is additional detail that doesn't change the essence of pushing a stroller.
-- "A person" in the premise is equivalent to "a person" in the hypothesis.
-- Both the premise and hypothesis involve the action of pushing.

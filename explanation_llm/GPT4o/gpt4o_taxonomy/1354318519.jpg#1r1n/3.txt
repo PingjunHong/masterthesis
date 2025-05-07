@@ -1,5 +1,0 @@
-1. "The boy doesn't want to see his reflection" is not a syntactic rephrase of "a boy in a red hooded top is smiling whilst looking away from his reflection."
-2. The premise describes the physical action of looking away from the reflection, whereas the statement suggests an intentional desire not to see it, indicating different meanings.
-3. The premise uses "looking away" to describe the boy's action, which structurally does not imply a reason or intention like "doesn't want."
-4. There is no coordination or subordination in the premise that directly translates to the intention expressed in the statement.
-5. The premise focuses on the boy's action and appearance, while the statement infers a psychological state without rephrasing the premise's structure.

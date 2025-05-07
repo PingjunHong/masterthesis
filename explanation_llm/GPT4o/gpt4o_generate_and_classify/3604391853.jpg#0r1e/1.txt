@@ -1,1 +1,0 @@
-- "A man in a red shirt" in the content corresponds to "A man in red" in the statement.

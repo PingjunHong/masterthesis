@@ -1,2 +1,0 @@
-- "Green cape" in the content contradicts "red cape" in the statement.
-- "Two big feathers" in the content contradicts "three feathers" in the statement.

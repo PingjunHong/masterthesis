@@ -1,7 +1,0 @@
-A skateboard is a type of object that can be ridden.
-Riding a skateboard implies being on a skateboard.
-Being on a stone wall is consistent with riding on the stone wall.
-A green shirt is descriptive but doesn't alter the presence of riding a skateboard.
-The presence of graffiti on the stone wall does not affect the action of riding.
-A boy on a skateboard implies the boy is riding the skateboard.
-A stone wall is a type of surface that can be ridden on by a skateboard.

@@ -1,7 +1,0 @@
-The child referenced in the premise is the same child mentioned in the hypothesis.
-The swing being ridden by the child in the premise is the same swing referred to in the hypothesis.
-The premise indicates the sun is shining, which contradicts the implication of rain in the hypothesis.
-The reference to "the child" in both the premise and hypothesis pertains to the same individual.
-The environmental setting described in the premise (sunshine) is conflicting with the setting described in the hypothesis (rain).
-The premise establishes a sunny condition, which is incompatible with the rainy condition implied in the hypothesis.
-Both the premise and hypothesis involve a child riding a swing, yet the weather conditions described are incompatible.

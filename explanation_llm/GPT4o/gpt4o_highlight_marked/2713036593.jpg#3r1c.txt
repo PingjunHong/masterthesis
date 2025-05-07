@@ -1,3 +1,0 @@
-- **Sitting** and **lying down** describe different physical positions and cannot occur simultaneously.
-- **Sitting** requires the body to be upright, while **lying down** requires the body to be horizontal.
-- The act of **sitting** contradicts the act of **lying down**, as they denote mutually exclusive postures.

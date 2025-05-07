@@ -1,3 +1,0 @@
-- "Sit" implies that the men are passengers or not actively controlling the vehicle, whereas "drive" indicates they are actively operating the bus.
-- Being "on a bus" suggests the men are inside the vehicle, while "drive" suggests they are in control and possibly outside or in the driver's seat.
-- "Sit" typically denotes a passive action, not requiring control over the vehicle, contradicting "drive," which requires active control and responsibility for the bus's movement.

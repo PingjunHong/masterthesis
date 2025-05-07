@@ -1,4 +1,0 @@
-- The man is climbing a rock cliff, not swimming.
-- The setting is a rock cliff over greenery, not the ocean.
-- The action described involves climbing, which is different from swimming.
-- The environment involves a cliff and greenery, not an ocean.

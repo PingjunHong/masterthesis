@@ -1,5 +1,0 @@
-- **Legos** and **chess** are different activities and cannot be performed simultaneously.
-- Playing with **Legos** involves building objects, while **chess** is a strategic board game.
-- **Legos** are physical toys, whereas **chess** requires a chessboard and pieces.
-- The act of **playing** with **Legos** does not overlap with the act of **playing** chess.
-- The objects involved (Legos versus chess pieces) are distinct and used for different purposes.

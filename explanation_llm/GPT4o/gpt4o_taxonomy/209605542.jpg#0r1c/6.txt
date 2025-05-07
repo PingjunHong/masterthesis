@@ -1,7 +1,0 @@
-- The premise describes a climber, but does not specify the gender, while the hypothesis specifies "woman," creating a gender conflict.
-- The use of "attempts" in the hypothesis suggests uncertainty about succeeding, while the premise indicates the climber is actively pulling themselves up, implying success.
-- The color description "red headband" is missing in the hypothesis, suggesting a structural exclusivity if this is a distinguishing feature.
-- The premise mentions "gray rocks," while the hypothesis does not specify the location or type of rock, leading to a location conflict.
-- The premise describes the climber as "high above some green foliage," indicating a specific location and height, which is missing in the hypothesis, causing a location conflict.
-- The hypothesis specifies a singular climber, whereas the premise does not limit the number, creating a quantifier conflict.
-- The statement implies an ongoing action with "attempts to pull," while the premise describes an action already being performed, causing a temporal conflict.

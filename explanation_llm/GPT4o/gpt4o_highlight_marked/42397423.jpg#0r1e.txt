@@ -1,8 +1,0 @@
-1. The term "person" in the statement is a broader category that includes "young boy" in the content.
-2. The verb "balancing" in the statement is a rephrasing of "balances" in the content, referring to the same action.
-3. The action "balancing" in the statement is consistent with the description of "balances on a pipe" in the content, as balancing is required to perform that activity.
-4. The statement does not specify additional details about clothing or location, which are included in the content but not necessary for entailment.
-5. The term "person" in the statement generalizes "young boy" in the content, maintaining semantic consistency.
-6. The statement condenses the more detailed scene in the content by focusing only on the essential action of balancing.
-7. The modifier "a pipe" in the content provides context but does not contradict the simpler phrasing in the statement.
-8. The highlighted "on" in the content aligns with the concept of balancing in the statement, as balancing typically occurs on a surface.

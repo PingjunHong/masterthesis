@@ -1,5 +1,0 @@
-- The person cannot be wearing a **hat** and simultaneously have their **bald head exposed**, as the hat would cover their head.
-- The description of wearing a **hat** conflicts with the visual of a **bald head exposed**, as the hat would conceal the baldness.
-- The act of wearing a **hat** makes it impossible for the **bald head** to be visible or exposed.
-- If the individual is described as wearing a **hat**, their **bald head** would not be directly seen or exposed.
-- The **hat** on the person's head would prevent their **baldness** from being visible.

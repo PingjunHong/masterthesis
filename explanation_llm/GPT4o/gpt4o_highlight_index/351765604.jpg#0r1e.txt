@@ -1,3 +1,0 @@
-- "A woman" in the Content is equivalent to "A woman" in the Statement, both referring to the same person.
-- "wearing a ball cap" in the Content implies "wearing a hat" in the Statement, as a ball cap is a type of hat.
-- "touch the cracked earth" in the Content entails "touching the ground" in the Statement, as cracked earth is a form of ground.

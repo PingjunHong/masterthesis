@@ -1,3 +1,0 @@
-- The "little boy" mentioned in the content corresponds to the "little male" in the statement.
-- The "orange sweatshirt with red sleeves" in the content corresponds to "clothes" in the statement.
-- The "scissors" in the content corresponds to "pair of scissors" in the statement.

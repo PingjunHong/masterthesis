@@ -1,1 +1,0 @@
-- "woman" and "lady" are synonyms and can be used interchangeably, supporting the entailment between the content and the statement.

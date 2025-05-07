@@ -1,4 +1,0 @@
-- A horse-drawn buggy and a limousine are two entirely different modes of transportation.
-- A limousine is a motor vehicle, whereas a horse-drawn buggy is not.
-- Driving a horse-drawn buggy involves a horse and harness, unlike driving a limousine.
-- The presence of a horse in a horse-drawn buggy contradicts the modern, motorized nature of a limousine.

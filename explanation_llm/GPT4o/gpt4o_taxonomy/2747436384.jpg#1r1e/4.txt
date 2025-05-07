@@ -1,8 +1,0 @@
-1. If a wave is approaching, it is about to hit.
-2. If boys are about to be hit by a wave, then a wave is about to hit them.
-3. "Some" indicates an unspecified number, and four boys are included within that.
-4. "Approaching" implies that the wave is close enough to hit.
-5. The use of "about to be hit" implies imminence, as does "about to hit."
-6. "Four boys" includes "some boys," as four is a subset of "some."
-7. The structure of "about to be hit" directly maps onto "about to hit."
-8. The action of being hit by a wave implies the wave hitting them.

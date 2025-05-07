@@ -1,8 +1,0 @@
-1. "sits" in the content and "sitting" in the statement refer to the same action, differing only in grammatical tense or form.
-2. "in a room" in the statement refers to the same location described in the content as "in a room."
-3. The description "with other people" is explicitly present in both the content and the statement, confirming they refer to the same context.
-4. The detail "wearing glasses" in the content provides additional information about the woman but does not contradict or negate the statement, which omits specific details about her appearance.
-5. The phrase "red and white" in the content is an added detail about the woman’s attire and does not conflict with the statement, which does not mention clothing.
-6. Both the content and the statement describe the same subject, "a woman," engaging in the same action ("sits"/"sitting") in the same environment ("a room with other people").
-7. The content's use of "wearing glasses" does not introduce new actions or conditions that would change the core meaning of the statement.
-8. The content includes a comma after "glasses," but this punctuation does not affect the entailment of the statement.

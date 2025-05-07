@@ -1,8 +1,0 @@
-1. Children in uniforms climb a tower is a rephrase of Children in yellow sports uniforms climbing a tower.
-2. Climbing a tower in yellow sports uniforms is structurally similar to climbing a tower in uniforms.
-3. The phrase Children in yellow sports uniforms is rephrased to Children in uniforms while keeping the meaning intact.
-4. The syntactic structure Children in yellow sports uniforms climbing a tower is alternated to Children in uniforms climb a tower.
-5. Sports uniforms are a type of uniform, allowing for the structural rephrasing to Children in uniforms.
-6. The use of climbing a tower is syntactically similar in both the premise and hypothesis, maintaining the same meaning.
-7. The presence of yellow in sports uniforms is omitted but does not alter the overall meaning of the action of climbing a tower in uniforms.
-8. The premise and hypothesis both describe children engaging in the same activity, climbing a tower, with syntactic variation in describing their attire.

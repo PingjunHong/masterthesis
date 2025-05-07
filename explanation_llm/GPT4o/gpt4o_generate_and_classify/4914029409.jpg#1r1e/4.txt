@@ -1,1 +1,0 @@
-- The statement does not specify that all bicyclists are wearing helmets, which is additional information not required for the entailment.

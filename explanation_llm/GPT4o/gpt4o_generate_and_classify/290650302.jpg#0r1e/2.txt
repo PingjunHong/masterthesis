@@ -1,1 +1,0 @@
-- The phrase "sits in a room with other people" in the premise is semantically equivalent to "is sitting in a room with other people" in the statement.

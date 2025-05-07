@@ -1,1 +1,0 @@
-- Resting above a metro entrance logically implies the person is both above and near the metro station, supporting the statement's location description.

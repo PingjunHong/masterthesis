@@ -1,1 +1,0 @@
-- The premise mentions a man cooking over high flames but does not specify for whom he is cooking, thus the hypothesis introduces information that is not mentioned in the premise.

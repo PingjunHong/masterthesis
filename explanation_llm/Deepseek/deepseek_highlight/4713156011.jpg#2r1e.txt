@@ -1,8 +1,0 @@
-1. "A man" and "a guy" are synonymous in this context, both referring to a male individual.
-2. "Flung himself" and "hurled himself" convey the same action of throwing oneself forcefully.
-3. "Over a pole" implies movement "in the air," as going over a pole requires being airborne.
-4. The specific details about "people and canopies in the background" do not contradict the statement, as they are additional context not relevant to the core action.
-5. The core action (a man throwing himself into the air) is preserved in both sentences, making the entailment valid.
-6. The highlighted words in both sentences describe the same subject ("man"/"guy") and the same action ("flung"/"hurled").
-7. The spatial relationship ("over a pole") inherently involves being "in the air," reinforcing the entailment.
-8. No contradictory information exists between the content and the statement regarding the action or subject.

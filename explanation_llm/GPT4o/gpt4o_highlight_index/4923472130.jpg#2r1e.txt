@@ -1,3 +1,0 @@
-1. The word "wears" in the Statement implies that the person is dressed in a red shirt, which is consistent with the description in the Content where the person is "in" a red shirt.
-2. The phrase "a red shirt" in both the Content and the Statement refers to the same piece of clothing, indicating that the person mentioned is wearing a red shirt.
-3. The Statement's assertion that the person "wears a red shirt" is directly supported by the Content's description of the person being "in a red shirt," establishing a clear entailment.

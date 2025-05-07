@@ -1,6 +1,0 @@
-1. The content explicitly mentions "two...women," matching the statement.
-2. The content describes the women as "bald," directly aligning with the statement.
-3. The number "two" in the content corresponds to the same number in the statement.
-4. The statement is a simplified subset of the content, omitting non-conflicting details (e.g., "formally dressed," "older").
-5. No information in the content contradicts the statement.
-6. The core attributes (quantity, baldness, gender) in the statement are fully supported by the content.

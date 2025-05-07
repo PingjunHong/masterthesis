@@ -1,1 +1,0 @@
-- "Looking threw new medical manuals" is semantically similar to "looking at a book," as manuals are a type of book.

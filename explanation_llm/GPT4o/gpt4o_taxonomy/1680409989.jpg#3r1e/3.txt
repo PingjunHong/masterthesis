@@ -1,7 +1,0 @@
-1. The statement "There is a woman painting" is a rephrase of "A woman is painting a mural of a woman's face" by focusing on the action of painting.
-2. "A woman painting" is a syntactic reduction of "A woman is painting a mural of a woman's face," highlighting the act without specifying the object being painted.
-3. The hypothesis simplifies "A woman is painting a mural of a woman's face" to emphasize the presence of the woman engaged in painting.
-4. "There is a woman painting" omits details from "A woman is painting a mural of a woman's face" but retains the core subject and verb, maintaining the meaning.
-5. The statement restructures the original sentence by removing the object of the painting, keeping the same meaning as "A woman is painting a mural of a woman's face."
-6. By removing the specific object ("a mural of a woman's face"), the hypothesis "There is a woman painting" condenses the premise while preserving the essential activity described.
-7. "There is a woman painting" uses syntactic alternation to convey the same information as "A woman is painting a mural of a woman's face," focusing solely on the presence and action of the woman.

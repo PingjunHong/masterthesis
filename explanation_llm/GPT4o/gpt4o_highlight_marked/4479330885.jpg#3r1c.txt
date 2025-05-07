@@ -1,3 +1,0 @@
-- "In front of a statue" contradicts "in an auditorium" because the physical locations described are mutually exclusive.
-- "A statue" contradicts "an auditorium" because the objects or settings referenced differ.
-- "Front of" contradicts "auditorium" because the spatial preposition indicates a different location context.

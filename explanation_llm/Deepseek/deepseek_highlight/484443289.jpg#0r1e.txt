@@ -1,6 +1,0 @@
-1. The content explicitly states "an old woman in a jean jacket," which directly matches the statement "An old woman has a jean jacket."
-2. The phrase "in a jean jacket" in the content implies possession or wearing, equivalent to "has a jean jacket" in the statement.
-3. The highlighted words in the content ("old woman," "jean jacket") align semantically with the highlighted words in the statement ("old woman," "jean jacket"), confirming the entailment.
-4. The content describes the old woman as wearing the jean jacket, which logically entails that she possesses it.
-5. The statement is a simplified paraphrase of the relevant part of the content, preserving the core meaning.
-6. The presence of "an old woman" and "jean jacket" in the content, along with their contextual relationship, ensures the truth of the statement.

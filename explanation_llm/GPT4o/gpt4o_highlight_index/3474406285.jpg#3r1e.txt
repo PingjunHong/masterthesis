@@ -1,5 +1,0 @@
-1. For a dog to jump, it must be airborne, indicating it is in the air during the jump.
-2. The act of jumping inherently involves being in the air for a period of time.
-3. Jumping over an obstacle necessitates that the dog leaves the ground, meaning it is in the air.
-4. A jump implies a transition from ground to air and back, confirming the dog is in the air at some point.
-5. Being airborne is a necessary condition for the action described as jumping over an obstacle.

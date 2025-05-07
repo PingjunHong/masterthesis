@@ -1,4 +1,0 @@
-- The highlighted word "woman" in the content contradicts the highlighted word "man" in the statement because they refer to different genders.
-- The activity described in the content, "preparing food," contradicts the activity in the statement, "cleans," as these are two different actions.
-- The roles or activities performed by the individuals in the content and statement are different, suggesting they are not the same person.
-- The gender-specific terms "woman" and "man" imply two different people are being referred to in each sentence, leading to a contradiction.

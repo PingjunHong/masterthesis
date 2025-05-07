@@ -1,6 +1,0 @@
-1. The highlighted words "standing outside" in the Content indicate the people are not inside the building, which directly supports the Statement that "the group of people aren't inside of the building."
-2. The word "front" in the Content implies the people are positioned externally relative to the building, aligning with the Statement's claim about their location.
-3. The word "outside" in the Content explicitly contradicts being inside, reinforcing the entailment of the Statement.
-4. The word "aren't" in the Statement negates being inside, which is consistent with the Content's description of the people's location as external to the building.
-5. The word "inide" (assuming a typo for "inside") in the Statement is logically incompatible with "outside" in the Content, confirming the entailment.
-6. The combination of "standing outside" and "front" in the Content provides multiple cues that the people are not inside the building, supporting the Statement.

@@ -1,8 +1,0 @@
-1. "Dog" in the statement refers to the "dog" mentioned in the content.
-2. "Running" in the statement refers to the action of the "dog running" in the content.
-3. "Being chased by another dog" in the statement refers to the scenario in the content where one dog is being pursued by another.
-4. "Another dog" in the statement refers to the "another dog" mentioned in the content that is involved in the chase.
-5. The statement's "dog is running" corresponds to the "dog running" described in the content.
-6. The "pet toy" mentioned in the premise is not necessary for the coreference, as the relevant entities are the dogs involved in the chase.
-7. The phrase "being chased by another dog" aligns with the content's description of the activity between the two dogs.
-8. Both the content and the statement depict the same interaction between the dogs, reinforcing the coreference between them.

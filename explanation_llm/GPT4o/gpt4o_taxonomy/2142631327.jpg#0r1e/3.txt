@@ -1,5 +1,0 @@
-1. A woman stands with a child is a rephrase of, A woman in red blouse is standing with small blond child in front of a small folding chalkboard.
-2. The structure of a woman stands with a child is a syntactic simplification of the premise, A woman in red blouse is standing with small blond child in front of a small folding chalkboard.
-3. A woman stands with a child captures the essential action and participants described in A woman in red blouse is standing with small blond child in front of a small folding chalkboard.
-4. The phrase a woman stands with a child maintains the same core meaning as A woman in red blouse is standing with small blond child in front of a small folding chalkboard through syntactic reduction.
-5. A woman stands with a child retains the central elements of the premise, A woman in red blouse is standing with small blond child in front of a small folding chalkboard, by focusing on the presence and action of the woman and the child.

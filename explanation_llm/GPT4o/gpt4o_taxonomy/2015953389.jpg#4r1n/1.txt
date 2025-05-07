@@ -1,4 +1,0 @@
-1. "Workers" in the statement refers to the same "Workers" in the premise.
-2. "Lift" in the statement refers to the same "Lift" in the premise.
-3. "Standing on a lift" in the premise contradicts "walk off a lift" in the statement as they are mutually exclusive actions.
-4. The action of "standing on" in the premise refers to remaining on the lift, while "walk off" in the statement refers to leaving the lift.

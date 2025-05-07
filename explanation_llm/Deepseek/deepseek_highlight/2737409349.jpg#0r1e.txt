@@ -1,8 +1,0 @@
-1. The highlighted word "talking" in the Content implies that the man is engaged in a conversation, which aligns with the Statement's "on the phone."
-2. The phrase "talking on the phone" in the Content directly supports the Statement's claim that the man is on the phone.
-3. The action of "talking" (Content) is synonymous with being engaged in a phone call (Statement), justifying the entailment.
-4. The Content explicitly states the man is using the phone ("talking on the phone"), which matches the Statement's assertion.
-5. The highlighted words "talking on the phone" in the Content provide unambiguous evidence for the Statement's claim.
-6. The Statement's "on the phone" is a concise paraphrase of the Content's "talking on the phone," confirming entailment.
-7. The man's activity described in the Content ("talking on the phone") logically entails that he is on the phone (Statement).
-8. The Content's description of the man's actions includes phone usage, which is sufficient to infer the Statement's claim.

@@ -1,2 +1,0 @@
-- "Soccer team" refers to a group playing soccer, thus the team clad in blue playing soccer is semantically inferred.
-- "Plays soccer" and "began to counter down the field" both imply engaging in a soccer game.

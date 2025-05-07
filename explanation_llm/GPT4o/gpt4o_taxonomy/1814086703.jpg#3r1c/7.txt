@@ -1,9 +1,0 @@
-Dogs cannot be running and sleeping at the same time.
-Running is an active state, while sleeping is a passive state.
-Dogs need to be stationary to sleep, not moving or running.
-Running near leaves implies movement, which contradicts the stillness required for sleeping.
-Sleeping dogs typically do not engage in physical activity like running.
-Being near leaves while running does not imply being on a pile of leaves while sleeping.
-The physical activity of running contradicts the inactivity of sleeping.
-Dogs are awake when running, but asleep when sleeping.
-Running requires consciousness and alertness, which is absent in sleeping.

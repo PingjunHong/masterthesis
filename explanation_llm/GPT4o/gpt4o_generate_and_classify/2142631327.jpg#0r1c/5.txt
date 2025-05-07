@@ -1,1 +1,0 @@
-- The premise does not mention a dog or any sound, while the hypothesis introduces the idea of a dog barking loud, which is not supported by the premise.

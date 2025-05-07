@@ -1,7 +1,0 @@
-- A child in the ocean refers to the wet child in the ocean water.
-- The child in the statement refers to the wet child in the premise.
-- The ocean in the statement refers to the ocean water in the premise.
-- The child in the statement is the same as the child standing in the ocean water.
-- The child mentioned in both the statement and the premise is the same individual.
-- The location described as the ocean in the statement is the same as the ocean water in the premise.
-- The reference to ocean is consistent between the statement and premise, both indicating the same body of water.

@@ -1,6 +1,0 @@
-1. The **Content** does not specify the event as **St Patrick's Day**, so the **Statement** introduces an assumption not supported by the text.
-2. The **Statement** generalizes the workers as "Workers" without specifying they are "cleaners," which is less precise but not contradictory.
-3. The **Statement** omits details like "sweeping up animal feces" and "during a parade or festival," making it neither entailed nor contradicted by the **Content**.
-4. The **Content** describes a specific action ("sweeping up animal feces"), while the **Statement** vaguely refers to "cleaning up," leaving room for interpretation.
-5. The **Highlighted words** in the **Statement** ("Workers," "cleaning") are consistent with the **Content** but lack the specificity to establish entailment.
-6. The **Statement** could refer to any cleanup event, not necessarily the one described in the **Content**, making the relationship neutral.

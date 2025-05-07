@@ -1,2 +1,0 @@
-- The premise mentions a group of adults, but does not specify that one of them is the child's mom or that the group consists of her friends.
-- The premise does not mention the gender of the child, while the hypothesis specifies the child as a son.

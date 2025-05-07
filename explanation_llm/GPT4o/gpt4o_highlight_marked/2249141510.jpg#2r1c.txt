@@ -1,4 +1,0 @@
-- "Leaping" contradicts "does a cannonball" as the actions described are different.
-- "Sand" contradicts "pool" as the materials being entered are different.
-- "Playground" contradicts "pool" as the locations are different.
-- "A young boy in red" contradicts "a child" if the specific description of the boy's clothing is considered important and does not match.

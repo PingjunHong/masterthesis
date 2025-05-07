@@ -1,6 +1,0 @@
-- The advertisement in the content is not explicitly stated to be for beer.
-- The content mentions an advertisement but does not specify its purpose or product.
-- The content describes the man as old, while the statement does not specify his age.
-- The statement assumes the advertisement is for beer, which is not confirmed in the content.
-- The package mentioned in the content is absent in the statement, leaving its relevance unclear.
-- The type of advertisement (beer) in the statement adds information not present in the content.

@@ -1,6 +1,0 @@
-1. **"look at" (Content) and "viewing" (Statement)**: Both phrases describe the action of observing or examining something, indicating the same activity.
-2. **"fresh lettuce" (Content) and "produce" (Statement)**: "Fresh lettuce" is a specific example of "produce," which is a general term for agricultural products, including vegetables.
-3. **"local street market" (Content) and "market" (Statement)**: The "local street market" is a type of "market," so the statement generalizes the location mentioned in the content.
-4. **"A group of people" (Content) and "People" (Statement)**: The statement simplifies the subject by omitting "group," but the core meaning (people) remains the same.
-5. The actions and objects in the content (observing lettuce at a market) align with the broader description in the statement (viewing produce at a market).
-6. The highlighted words in both sentences contribute to the same semantic meaning, reinforcing the entailment relationship.

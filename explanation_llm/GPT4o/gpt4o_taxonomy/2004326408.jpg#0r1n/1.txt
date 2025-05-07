@@ -1,8 +1,0 @@
-1. "A woman" in both the premise and the hypothesis refers to the same individual.
-2. "Riding a bike" in the statement is coreferential with "riding a bike" in the premise.
-3. "A woman" in the statement and "A woman wearing bike shorts and a skirt" in the premise refer to the same person, but the statement lacks details about her attire.
-4. "Carrying a shoulder bag" in the premise provides additional information not addressed in the statement.
-5. The premise does not specify the purpose of riding, while the statement assumes commuting to work.
-6. The statement does not mention "wearing bike shorts and a skirt" as the premise does.
-7. The premise does not specify the destination or purpose of her bike ride, unlike the statement.
-8. "A woman" in both the premise and hypothesis refers to the same person, but the hypothesis introduces an additional assumption of a work destination.

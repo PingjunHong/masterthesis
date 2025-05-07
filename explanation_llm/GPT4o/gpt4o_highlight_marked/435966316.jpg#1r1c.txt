@@ -1,6 +1,0 @@
-1. The **number of individuals** in the content ("**Three** workers") contradicts the **number of individuals** in the statement ("**4** fishermen").
-2. The individuals in the content are described as **workers**, whereas the individuals in the statement are described as **fishermen**, which indicates a difference in roles or professions.
-3. The individuals in the content are **on a boat**, but in the statement, they are described as **hanging over the boat**, which is a conflicting spatial description.
-4. The content specifies that the individuals are equipped with **life vests and hard hats**, while the statement does not mention this equipment and suggests they are focused on **trying to pet the shark**, implying a different activity or behavior.
-5. The content does not mention any **shark**, while the statement explicitly introduces one, creating a contextual conflict.
-6. The content describes the boat as **hanging from cables over water**, while the statement does not acknowledge this setup and instead implies the individuals are directly interacting with a shark, suggesting a different setting or situation.

@@ -1,5 +1,0 @@
-1. The content only describes a hockey player wearing a helmet but does not explicitly show or state that they are currently playing hockey.
-2. The word "playing" in the statement introduces an action that is not confirmed or implied by the content, which is purely descriptive.
-3. The content could depict a hockey player in a non-game context (e.g., posing, practicing, or standing idle), making the statement neither entailed nor contradicted.
-4. The statement assumes an ongoing activity ("playing"), while the content provides no temporal or situational context to support this claim.
-5. The highlighted word "playing" is an inference not grounded in the content, which lacks any dynamic or active elements.

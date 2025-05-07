@@ -1,1 +1,0 @@
-- Being "on the library steps" in the content pragmatically implies being "on the steps" in general, as library steps are a type of steps.

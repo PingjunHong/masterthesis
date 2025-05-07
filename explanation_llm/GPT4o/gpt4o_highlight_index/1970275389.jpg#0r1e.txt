@@ -1,4 +1,0 @@
-- "A woman leans over" in Content implies "A woman is" in Statement because the action of leaning is performed by the woman, indicating her presence and ongoing activity.
-- "Leans over a small fence" in Content suggests the woman is actively engaged in an activity, aligning with "taking" in Statement, indicating an ongoing action.
-- "To take a picture" in Content directly supports "taking pictures" in Statement as both describe the act of capturing images.
-- "A yellow flower" in Content is the object being photographed, supporting the context of "pictures" in Statement, as it clarifies what is being photographed.

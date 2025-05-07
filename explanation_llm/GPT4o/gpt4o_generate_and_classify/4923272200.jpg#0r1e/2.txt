@@ -1,1 +1,0 @@
-- "Playing an instrument" in the statement semantically matches "playing the saxophone" in the content, as a saxophone is a type of instrument.

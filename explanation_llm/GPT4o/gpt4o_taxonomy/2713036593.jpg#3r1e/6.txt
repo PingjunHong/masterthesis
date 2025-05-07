@@ -1,5 +1,0 @@
-1. Sitting and sleeping do not conflict; one can sleep while sitting on the floor.
-2. The location "on the floor" is consistent in both premise and hypothesis.
-3. The quantifier "a man" indicates one individual, matching between premise and hypothesis.
-4. The action "sleeping" is explicitly stated in both the premise and hypothesis without any logical conflict.
-5. There is no structural exclusivity; the premise allows for the possibility of the man being both sitting and sleeping simultaneously.

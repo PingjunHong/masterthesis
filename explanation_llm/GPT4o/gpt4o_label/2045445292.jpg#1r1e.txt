@@ -1,5 +1,0 @@
-- The activity described involves sawing a log, which requires the use of a saw.
-- The presence of "busily sawing" implies the use of a tool designed for cutting, i.e., a saw.
-- Sawing is the act of cutting something with a saw, directly indicating the use of a saw.
-- The context of working on a log suggests the use of a saw, a common tool for cutting wood.
-- The statement specifies the action of using a saw, which aligns with the activity of sawing described in the content.

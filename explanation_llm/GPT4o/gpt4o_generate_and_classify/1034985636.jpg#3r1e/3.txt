@@ -1,1 +1,0 @@
-- The statement "A man playing guitar on stage" is structurally similar to "A man playing an electric guitar on stage," with "electric" being an additional descriptor that doesn't change the core meaning of the action.

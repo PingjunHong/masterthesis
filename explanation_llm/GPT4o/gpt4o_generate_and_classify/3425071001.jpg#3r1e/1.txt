@@ -1,2 +1,0 @@
-- "A boy" in the content refers to the same boy as "a boy" in the statement.
-- "A tennis ball" in the content is referred to simply as "a ball" in the statement.

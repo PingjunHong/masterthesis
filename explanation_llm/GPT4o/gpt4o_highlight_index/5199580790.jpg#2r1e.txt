@@ -1,4 +1,0 @@
-1. The word "Three" in the content implies "Some" in the statement because three is a subset of some, meaning the presence of three people satisfies the condition of having some people.
-2. The phrase "Three men" in the content refers to "Some people" in the statement because men are people, and three as a number fits within the vague quantity suggested by some.
-3. The action of "carrying a red bag into a boat" in the content can be interpreted as people putting "something in a boat" in the statement, since carrying into a boat implies placing or putting something into it.
-4. The presence of "another person and boat in the background" in the content suggests a place with "more than one boat" in the statement, as this indicates there is at least one additional boat besides the one into which the bag is being carried.

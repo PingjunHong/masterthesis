@@ -1,2 +1,0 @@
-- The word "three" in the content directly corresponds to the word "three" in the statement, indicating the number of boys is the same in both.
-- The word "boys" in the content directly matches the word "boys" in the statement, confirming the subject is the same in both sentences.

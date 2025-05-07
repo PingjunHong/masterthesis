@@ -1,4 +1,0 @@
-- Walking and sitting are mutually exclusive actions; one cannot be walking and sitting simultaneously.
-- The locations differ; one scenario involves a street while the other involves a bench.
-- The physical posture required for walking (upright, moving) contradicts the posture required for sitting (stationary, seated).
-- The activity differs; walking implies movement, whereas sitting implies rest or stillness.

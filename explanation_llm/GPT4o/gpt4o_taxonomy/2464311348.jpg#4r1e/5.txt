@@ -1,5 +1,0 @@
-1. Preparing a fish does not necessarily mean cleaning it, as preparation can include various tasks such as gutting, scaling, or filleting, none of which are explicitly mentioned.
-2. The premise does not specify that the fish belongs to the men, so the ownership of the fish cannot be inferred.
-3. The premise lacks mention of any cleaning activity; preparing a fish can involve other actions, such as seasoning or cooking.
-4. The description of the activity at the dock does not include cleaning tools or materials, so we cannot conclude cleaning is taking place.
-5. The premise does not provide details on the state of the fish, such as whether it requires cleaning, leaving the hypothesis unsupported.

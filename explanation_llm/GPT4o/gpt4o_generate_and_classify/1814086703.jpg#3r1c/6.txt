@@ -1,1 +1,0 @@
-- The presence of the action "run" in the premise and "sleeping" in the statement presents a temporal conflict since both actions cannot occur simultaneously.

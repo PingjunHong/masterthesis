@@ -1,3 +1,0 @@
-- "A bearded man" refers to a human, as a man is a type of human.
-- The action "jumps" in the content directly corresponds to the action "jumping" in the statement, indicating the same activity.
-- The content specifies "in the snow," but this detail does not contradict the statement "A human jumping," which focuses on the act of jumping itself, not the location or conditions.

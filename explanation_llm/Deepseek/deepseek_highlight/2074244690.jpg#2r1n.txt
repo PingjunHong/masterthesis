@@ -1,5 +1,0 @@
-1. The content does not specify that the group consists of "friends," only that they are "people," leaving the relationship between them ambiguous.
-2. The content does not mention a "music concert," only an unspecified "event," which could be any type of gathering or activity.
-3. The statement assumes a specific social context ("friends") and event type ("music concert"), while the content is more general and open-ended.
-4. The highlighted words in the statement ("friends," "music concert") introduce details not present or implied in the content, making the statement neither entailed nor contradicted by the content.
-5. The content’s vagueness about the group’s identity and the event’s nature means the statement’s specifics cannot be confirmed or denied, resulting in neutrality.

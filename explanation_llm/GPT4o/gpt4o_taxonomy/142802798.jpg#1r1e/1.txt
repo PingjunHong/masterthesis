@@ -1,6 +1,0 @@
-- A boy riding a skateboard refers to the boy in a green shirt on a skateboard.
-- The stone wall in the hypothesis refers to the stone wall with graffiti in the premise.
-- The phrase "a boy" in the hypothesis refers to "a boy in a green shirt" in the premise.
-- The skateboard in the hypothesis is the same skateboard mentioned in the premise.
-- The location "on a stone wall" in the hypothesis refers to the same "stone wall with graffiti" in the premise.
-- The subject "a boy" in the hypothesis is the same boy described as "in a green shirt" in the premise.

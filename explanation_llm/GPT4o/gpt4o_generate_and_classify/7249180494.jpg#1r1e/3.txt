@@ -1,2 +1,0 @@
-- The color of the wetsuit (black) and the specific mention of the wetsuit itself are not necessary for the entailment, as they do not change the meaning that someone is walking out of the water.
-These categories and explanations collectively support the entailment relationship between the content and the statement.

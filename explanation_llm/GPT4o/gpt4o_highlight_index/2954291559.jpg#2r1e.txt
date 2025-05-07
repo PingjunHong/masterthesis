@@ -1,4 +1,0 @@
-- "Worker" in the content is a specific type of "person," making the generalization valid.
-- "Peers out from atop" implies being "atop," consistent with the statement.
-- "A building under construction" is a type of "building," aligning with the statement's reference to a "building."
-- The location "atop a building" in both the content and statement confirms the spatial context is the same.

@@ -1,5 +1,0 @@
-1. "A young man" in the content can be generalized to "a man" in the statement, as a young man is a specific type of man.
-2. "In a blue hoodie" is additional descriptive information and does not affect the core action of "a man" doing a flip.
-3. "Doing a flip" in the content directly corresponds to "does a flip" in the statement, indicating the same action.
-4. "Off of a half-wall" can be generalized to "off a wall," as a half-wall is a type of wall.
-5. The presence of "graffiti" on the wall is additional detail that does not change the action or the fact that it is a wall.

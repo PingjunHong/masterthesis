@@ -1,1 +1,0 @@
-- Soccer is played with a soccer ball, while baseball is played with a baseball, indicating that the sports mentioned in the premise and hypothesis are distinct and incompatible in the same context.

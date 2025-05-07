@@ -1,4 +1,0 @@
-- The statement describes a person laying at home, while the content describes a person sitting in front of a graffiti-covered wall, indicating different actions and locations.
-- The content specifies the presence of a graffiti-covered wall, suggesting an outdoor or public setting, not typically associated with being at home.
-- "Sitting" and "laying" describe different physical positions, creating a contradiction between the content and the statement.
-- The term "at home" implies an indoor, private setting, which contrasts with being in front of a graffiti-covered wall, often found in outdoor or urban environments.

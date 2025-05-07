@@ -1,4 +1,0 @@
-- The statement assumes that the men are drinking beer, but the content only mentions them watching a sports game, not what they are drinking.
-- The content mentions a bar, but it does not specify that it is a sports bar, unlike the statement.
-- The statement introduces the action of drinking, which is not confirmed or denied in the content.
-- The content focuses on the activity of watching a sports game, while the statement adds the detail of drinking beer, which is an additional assumption.

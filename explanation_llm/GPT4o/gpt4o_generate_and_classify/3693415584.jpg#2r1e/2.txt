@@ -1,1 +1,0 @@
-- The statement "A woman is weaving" is semantically entailed by the content "A woman wearing a bright orange blouse is weaving" because the action of weaving is mentioned in both, and the additional detail of the blouse's color does not affect the core meaning.

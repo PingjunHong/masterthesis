@@ -1,1 +1,0 @@
-- Real-world scenarios allow for multiple outcomes of a race, including winning, losing, or not finishing, hence the statement "The biker loses the race" is a possible but not certain outcome.

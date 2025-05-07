@@ -1,5 +1,0 @@
-1. **"wearing a brown jacket"** contradicts **"eating pasta"** because clothing-related activities in snow differ from dining activities in a restaurant.
-2. **"walking in snow"** contradicts **"in a restaurant"**, as the physical locations are incompatible.
-3. **"The girl"** contradicts **"A woman"** if age or identity distinctions are implied.
-4. **"The girl"** contradicts **"A woman"** if the sentence assumes different individuals.
-5. **"snow"** contradicts **"restaurant"**, as the environments are mutually exclusive.

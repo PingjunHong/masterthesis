@@ -1,6 +1,0 @@
-1. "A young man in a blue hoodie" in both the premise and the hypothesis refers to the same individual.
-2. "Half-wall" in both the premise and hypothesis refers to the same structure.
-3. "Covered in graffiti" in the premise is coreferentially linked to "painted nicely" in the hypothesis, and the descriptions contradict each other.
-4. "Doing a flip" in the premise contradicts "falls off" in the hypothesis for the same person.
-5. The activity described for "a young man in a blue hoodie" conflicts through coreference: flipping versus falling.
-6. The description of the wall as being "covered in graffiti" is in direct contradiction with "painted nicely" as they refer to the same wall.

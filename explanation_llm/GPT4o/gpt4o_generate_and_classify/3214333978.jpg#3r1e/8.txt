@@ -1,1 +1,0 @@
-- It is reasonable to infer that an icy road could be dangerous based on real-world knowledge about ice increasing the risk of slipping, but this reasoning is not explicitly stated in the premise, making the hypothesis neutral.

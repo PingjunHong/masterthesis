@@ -1,4 +1,0 @@
-- The statement asserts that the man is wearing a red shirt, which directly contradicts the content that specifies the man is wearing a black shirt.
-- The color description in the statement and the content regarding the man's shirt do not match, indicating a contradiction.
-- The content specifies a specific color (black) for the shirt, while the statement indicates a different color (red), leading to a logical inconsistency.
-- The statement and the content cannot both be true simultaneously because they describe the same man's shirt with different colors.

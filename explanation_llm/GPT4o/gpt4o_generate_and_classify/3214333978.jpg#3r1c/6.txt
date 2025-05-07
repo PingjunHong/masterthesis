@@ -1,1 +1,0 @@
-- The condition of the road being "icy" in the premise contradicts the condition of the highway being "dry" in the statement.

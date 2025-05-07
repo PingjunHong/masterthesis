@@ -1,1 +1,0 @@
-- The action of working with a pickaxe on an Earthen structure is logically exclusive from being in an office building.

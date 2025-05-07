@@ -1,5 +1,0 @@
-- The content explicitly mentions a man, which aligns with the statement referring to the person as a man.
-- There is only one individual mentioned in the content, and it specifies that this individual is a man.
-- The description in the content does not suggest any other gender for the person behind the counter.
-- The phrase "stands behind a counter" in the content directly corresponds to "the person behind the counter" in the statement, confirming that both refer to the same individual.
-- No evidence in the content contradicts the identification of the person as a man, supporting the entailment.

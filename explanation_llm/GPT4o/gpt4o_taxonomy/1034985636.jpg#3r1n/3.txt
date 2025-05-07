@@ -1,8 +1,0 @@
-1. The statement "A man is performing for cash" introduces new information about the purpose of the performance which is not inherently implied by "A man playing an electric guitar on stage."
-2. The premise "A man playing an electric guitar on stage" does not specify the motivation or intention behind the performance, unlike the statement which suggests a financial motive.
-3. The premise focuses on the act of playing an electric guitar on stage, whereas the statement suggests a reason behind the action, which is not contained in the premise.
-4. "A man is performing for cash" implies an economic transaction not mentioned in "A man playing an electric guitar on stage."
-5. The structure of the statement introduces a causal or purpose-driven element that is absent in the syntactic structure of the premise.
-6. The premise simply describes the action and setting without mentioning any monetary goals, unlike the statement which adds an inferred intention.
-7. The phrase "on stage" describes the location of the activity, whereas "for cash" describes the purpose, which alters the meaning in a way not captured by the premise.
-8. The sentence structures differ in that the premise describes a scene, while the statement implies a personal motivation.

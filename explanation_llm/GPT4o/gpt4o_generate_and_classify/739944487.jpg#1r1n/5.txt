@@ -1,2 +1,0 @@
-- The premise does not mention any islands or rowing towards them, so the direction or destination of the rowboat is not supported.
-- The premise does not mention anyone fishing, so the activity of fishing is not supported.

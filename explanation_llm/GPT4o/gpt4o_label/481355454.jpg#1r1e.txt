@@ -1,5 +1,0 @@
-- The statement directly describes an activity involving children, which is also mentioned in the content.
-- The content specifies that children are engaged in playing soccer, which necessarily involves the act of playing.
-- Both the content and the statement mention the same number of children: five.
-- The activity of playing soccer inherently includes the broader activity of playing.
-- The content provides a specific context (playing soccer) that implies the general action described in the statement (playing).

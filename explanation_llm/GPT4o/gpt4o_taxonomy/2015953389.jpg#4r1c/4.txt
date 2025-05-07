@@ -1,4 +1,0 @@
-1. Standing on a lift implies that the workers are stationary, while walking home implies movement, creating a contradiction.
-2. If the workers are currently standing on a lift, they cannot be simultaneously walking home, as these are mutually exclusive states.
-3. The action of standing on a lift and walking home from work cannot occur at the same time, as one involves being elevated and stationary, and the other involves movement towards a destination.
-4. The semantics of "standing on a lift" suggest a current activity, which contradicts the action of walking home, an activity indicating departure from the work site.

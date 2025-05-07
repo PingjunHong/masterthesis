@@ -1,1 +1,0 @@
-- The action of running on grass outdoors contradicts the action of sleeping in a basement, as they cannot occur simultaneously.

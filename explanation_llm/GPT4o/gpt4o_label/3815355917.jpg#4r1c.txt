@@ -1,5 +1,0 @@
-- Convertibles typically have retractable roofs, making it impractical to securely load items on top.
-- The structural design of convertibles generally lacks the necessary support to safely carry items on the roof.
-- Items loaded on top could obstruct the functioning of a convertible's retractable roof mechanism.
-- Convertible roofs are usually not designed to support the added weight of items on top.
-- Loading items on top of a convertible could potentially damage the roof or its mechanism.

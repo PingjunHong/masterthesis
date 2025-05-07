@@ -1,1 +1,0 @@
-- "Fresh lettuce" in the content is a general term, whereas "fresh romaine lettuce" in the statement is more specific. The semantic relationship of hypernym ("lettuce") and hyponym ("romaine lettuce") does not establish entailment.

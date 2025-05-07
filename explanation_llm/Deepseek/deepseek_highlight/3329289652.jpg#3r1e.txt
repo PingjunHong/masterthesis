@@ -1,6 +1,0 @@
-1. The word "playing" in the statement is directly supported by the word "playing" in the content, confirming the action described.
-2. The word "boys" in the statement is entailed by "the boys" in the content, establishing the subject of the action.
-3. The statement generalizes the specific activity ("playing with Legos") in the content to the broader action "playing," which is logically consistent.
-4. The absence of additional constraints in the statement (e.g., "with Legos") means the core claim ("boys are playing") is fully supported by the content.
-5. The highlighted words in both sentences ("playing" and "boys") form a subset of the information in the content, ensuring entailment.
-6. The statement captures the main proposition of the content (boys engaging in play) without contradicting or adding unsupported details.

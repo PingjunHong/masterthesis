@@ -1,2 +1,0 @@
-- "3 ladies" implies "ladies," as "3" is a subset of the general category "ladies."
-- "Running" in the content supports "running" in the statement, as they share the same verb meaning.

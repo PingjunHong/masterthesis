@@ -1,4 +1,0 @@
-- The presence of "men sitting" implies that the side of the road is not empty, contradicting the statement that it is empty.
-- "Men" being present on the side of the road means there is occupancy, which directly opposes the claim of the road being empty.
-- The action of "sitting" by the men indicates that there is something on the side of the road, contradicting the description of it being empty.
-- "Men sitting" suggests that there are people on the side of the road, which is inconsistent with the statement that it is devoid of people or objects.

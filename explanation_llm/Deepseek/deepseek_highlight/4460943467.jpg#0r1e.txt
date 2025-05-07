@@ -1,8 +1,0 @@
-1. "3 young man" in the content corresponds to "Three hood wearing people" in the statement, where "three" and "people" generalize "3 young man."
-2. "in hoods" in the content aligns with "hood wearing" in the statement, both describing the attire of the individuals.
-3. "standing in the middle of a quiet street" in the content is paraphrased as "stand in a street" in the statement, omitting "middle" and "quiet" but preserving the core spatial relationship.
-4. The statement simplifies the content by removing details like "young," "facing the camera," and "quiet," while retaining the essential meaning.
-5. The core action ("standing"/"stand") and location ("street") are preserved between the two sentences.
-6. The plural subject ("man" as "people") and their description ("hoods"/"hood wearing") are logically equivalent in context.
-7. The statement generalizes "young man" to "people," which is valid since "young man" is a subset of "people."
-8. The spatial preposition "in" (content) and "in" (statement) maintain the same locative relationship.

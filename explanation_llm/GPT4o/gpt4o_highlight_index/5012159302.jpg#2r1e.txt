@@ -1,4 +1,0 @@
-- The highlighted word "farmers" in the content can be inferred to refer to "people" in the statement, as farmers are people.
-- The word "overall" in the statement refers to the clothing worn by the farmers, which is highlighted in "overalls" in the content.
-- "Working" in the statement is supported by "working hard" in the content, indicating that the farmers are engaged in labor.
-- "Fix a tractor" in the statement aligns with "the machine is almost fixed" in the content, where "the machine" refers to the tractor.

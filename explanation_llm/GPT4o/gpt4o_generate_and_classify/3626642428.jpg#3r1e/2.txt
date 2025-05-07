@@ -1,1 +1,0 @@
-- Swimming in a river implies being outdoors because a river is an outdoor location.

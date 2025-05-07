@@ -1,6 +1,0 @@
-- The phrase "sitting on the floor" implies being on the floor, which matches "on the floor."
-- The word "sleeping" in both the premise and hypothesis refers to the same action, indicating a rest state.
-- The order of actions described does not affect the truth of the statement; both involve the man sleeping on the floor.
-- The word "sitting" implies a position that can naturally occur while sleeping, confirming the location.
-- "A man is sitting on the floor, sleeping" describes the same situation as "A man is sleeping on the floor," focusing on the sleeping action.
-- Both sentences convey that the man is on the floor while sleeping, with no change in meaning.

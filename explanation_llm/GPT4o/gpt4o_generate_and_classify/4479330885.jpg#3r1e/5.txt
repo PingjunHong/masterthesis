@@ -1,2 +1,0 @@
-- The premise mentions people sitting "in front of a statue," but the hypothesis does not mention the statue, creating a gap in specific details.
-- The premise specifies "a statue," but the statement does not mention any specific landmark or structure, thus lacking specific evidence from the premise.

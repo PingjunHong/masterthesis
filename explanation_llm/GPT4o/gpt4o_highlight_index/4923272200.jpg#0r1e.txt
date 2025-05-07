@@ -1,3 +1,0 @@
-- "Saxophone" is a type of "instrument," so if a man is playing a saxophone, he is playing an instrument.
-- "In the street" and "on the street" convey the same location context, indicating that the man is performing in a public outdoor area, making them interchangeable in this context.
-- "Some people are sitting on the curb next to the street by him" implies that the people are near the man, which aligns with "near other people" in the statement, as both indicate proximity to the man.

@@ -1,1 +1,0 @@
-- The presence of a person sitting suggests the availability of a place to sit near the wall.

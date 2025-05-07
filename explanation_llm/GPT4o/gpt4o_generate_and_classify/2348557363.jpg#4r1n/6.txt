@@ -1,1 +1,0 @@
-- There is a location conflict between being "on the library steps" and "on the steps inside the library," as the premise does not specify the steps are inside.

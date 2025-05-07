@@ -1,9 +1,0 @@
-1. A young man in a blue hoodie implies that he is a man.
-2. Doing a flip off a half-wall is a specific instance of doing a flip off a wall.
-3. A half-wall is a type of wall, so flipping off a half-wall means flipping off a wall.
-4. The presence of graffiti on the wall does not negate the action of doing a flip off the wall.
-5. The description of the action as "doing a flip" indicates that a flip was performed, satisfying the condition of the hypothesis.
-6. The inclusion of "a young man" in the premise implies "a man" in the hypothesis, as a young man is a subset of men.
-7. The act of doing a flip inherently involves the action of flipping, which is consistent with the hypothesis stating that a man does a flip.
-8. The phrase "doing a flip" suggests completion of the action, aligning with the hypothesis that states the action was done.
-9. The use of "off of" in the premise specifies the point of origin for the flip, which is consistent with the hypothesis indicating the action was executed off a wall.

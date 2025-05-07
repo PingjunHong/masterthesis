@@ -1,8 +1,0 @@
-1. The highlighted words in the Content ("people," "loitering," "waiting," "steps," "building") directly support the Statement ("several people outside of a building") by indicating the presence of people near a building.
-2. The phrase "people are loitering or waiting on the steps of said building" in the Content aligns with "several people outside of a building" in the Statement, as steps are typically outside a building.
-3. The Content mentions a "large building," which corresponds to "building" in the Statement, confirming the location of the people.
-4. The word "several" in the Statement is justified by "people" (plural) in the Content, implying multiple individuals.
-5. The term "outside" in the Statement is entailed by "steps of said building" in the Content, as steps are usually exterior features of a building.
-6. The highlighted words in the Content collectively describe a scene where people are gathered near a building, which matches the generalized claim in the Statement.
-7. The absence of contradictory information in the Content ensures that the Statement's claim about people outside a building remains valid.
-8. The spatial relationship between "people" and "building" in the Content (on the steps) logically implies they are outside the building, as stated.

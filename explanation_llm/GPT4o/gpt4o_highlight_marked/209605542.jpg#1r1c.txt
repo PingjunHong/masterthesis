@@ -1,5 +1,0 @@
-- "Climbing" contradicts "swimming" because the actions are fundamentally different.
-- "A rock cliff" contradicts "the ocean" because they describe entirely different physical environments.
-- "Climbing a rock cliff" contradicts "swimming in the ocean" because the activity described occurs on land versus in water.
-- "A rock cliff" contradicts "the ocean" because a cliff is a solid structure, whereas the ocean is a body of water.
-- "Looming over greenery" contradicts "swimming in the ocean" because greenery suggests a land-based environment, not an aquatic one.

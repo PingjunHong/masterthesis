@@ -1,3 +1,0 @@
-- Running and riding bikes are mutually exclusive activities; one cannot perform both simultaneously.
-- Running involves moving on foot, whereas riding bikes requires being on a bicycle, which are fundamentally different modes of movement.
-- The physical action described (running) cannot occur while operating a bicycle, which is implied by the term "riding bikes."

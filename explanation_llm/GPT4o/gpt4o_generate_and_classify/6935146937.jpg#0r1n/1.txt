@@ -1,1 +1,0 @@
-- The phrase "a basketball player with green shoes" in the content does not resolve to "a famous NBA player" in the statement.

@@ -1,2 +1,0 @@
-- The premise describes the boy outdoors, while the statement describes him indoors, which is a location conflict.
-- The premise involves physical activity of throwing a toy plane, whereas the statement involves playing video games, which are contrasting activities.

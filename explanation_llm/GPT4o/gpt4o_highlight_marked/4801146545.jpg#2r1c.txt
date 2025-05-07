@@ -1,5 +1,0 @@
-- The **color** "white and red" in the content contradicts the **color** "black" in the statement.
-- The **phrase** "only white and red" in the content excludes the possibility of wearing **black**, leading to a contradiction.
-- The **presence** of two colors ("white and red") in the content conflicts with the **single color** ("black") mentioned in the statement.
-- The **description** of clothing colors in the content does not match the **description** in the statement.
-- The **word** "only" in the content explicitly restricts clothing to "white and red," which contradicts the **statement** claiming "black."

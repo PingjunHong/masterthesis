@@ -1,5 +1,0 @@
-- No one in the group is wearing a purple shirt.
-- Everyone in the group, including the driver, is wearing a black shirt.
-- The description specifies that all individuals, potentially including the driver, are wearing black shirts, leaving no room for a purple shirt.
-- The content implies uniformity in attire (black shirts) among the group, conflicting with the statement about a purple shirt.
-- The specification of black shirts in the content directly opposes the claim of a purple shirt worn by the driver.

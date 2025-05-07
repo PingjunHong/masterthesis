@@ -1,1 +1,0 @@
-- Not all brown dogs are chihuahuas; many dog breeds can be brown, so the breed of the dog cannot be determined solely from the description given in the premise.

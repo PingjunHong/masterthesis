@@ -1,1 +1,0 @@
-- The hypothesis introduces a potential conflict by specifying the boat's size and color, which are not addressed in the premise.

@@ -1,9 +1,0 @@
-1. "Men wearing blue uniforms" in the premise does not specify that these men are going to work, whereas the hypothesis refers to men going to work.
-2. "Men sit on the bus" in the hypothesis does not specify the color of the uniforms, whereas the premise specifies "blue uniforms."
-3. The premise mentions "a bus" without specifying the destination, while the hypothesis mentions the bus is "going to work."
-4. The hypothesis refers generally to "men" without confirming they are the same as the "men wearing blue uniforms" in the premise.
-5. The premise includes a detail about the uniforms being blue, which is not resolved in the hypothesis.
-6. While both statements mention men sitting on a bus, the hypothesis introduces a new detail about the bus's purpose, which is not referenced in the premise.
-7. The premise does not establish that the men are "going to work," a detail present in the hypothesis that requires resolution.
-8. Coreference between "men wearing blue uniforms" and "men going to work" is not directly established, as the purpose of the trip is not mentioned in the premise.
-9. The statement "going to work" in the hypothesis adds a new context not addressed in the premise, creating a need for coreference resolution.

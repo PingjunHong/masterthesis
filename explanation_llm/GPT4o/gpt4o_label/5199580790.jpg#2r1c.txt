@@ -1,5 +1,0 @@
-- The statement mentions a vehicle (winnebago) that is not present in the content.
-- The content specifies an activity involving a boat, whereas the statement involves a vehicle on land.
-- The content involves multiple people and a boat, while the statement refers to a single person in a winnebago.
-- The action in the content is related to carrying a bag into a boat, not driving a vehicle.
-- The scene in the content does not indicate any departure or movement away from the location, unlike the statement.

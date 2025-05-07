@@ -1,6 +1,0 @@
-1. Falls off a half-wall is a structural rephrase of doing a flip off of a half-wall, but they convey opposite actions.
-2. Covered in graffiti is a structural rephrase of painted nicely, but they describe opposite conditions.
-3. Doing a flip off suggests intentional action, whereas falls off suggests accidental action, showing contradiction in intent.
-4. A half-wall that is covered in graffiti and a half-wall that is painted nicely are syntactically similar but describe contrasting appearances.
-5. The action of doing a flip implies successful completion of a trick, while falls off implies a lack of control, providing a structural contradiction.
-6. The phrase covered in graffiti and painted nicely both describe the wall's appearance, but in opposing ways, leading to a contradiction in description.

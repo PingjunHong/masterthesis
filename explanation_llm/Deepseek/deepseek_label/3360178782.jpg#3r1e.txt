@@ -1,7 +1,0 @@
-1. "A group of people" in the content corresponds to "People" in the statement.
-2. "Look at" in the content aligns with "viewing" in the statement.
-3. "Fresh lettuce" in the content is a specific example of "produce" in the statement.
-4. "Local street market" in the content is a type of "market" in the statement.
-5. The actions and subjects in the content (people looking at lettuce) are fully captured by the broader terms in the statement (people viewing produce).
-6. The statement generalizes the specifics of the content without contradicting or omitting key elements.
-7. All elements of the statement are supported by the content, making the relationship one of entailment.

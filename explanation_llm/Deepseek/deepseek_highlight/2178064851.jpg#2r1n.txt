@@ -1,5 +1,0 @@
-1. The content does not specify the gender of the child, so the statement introduces new information not implied or contradicted by the content.
-2. The word "child" is gender-neutral, and the highlighted word "boy" in the statement is neither supported nor contradicted by the content.
-3. The statement makes an assumption (the child's gender) that is irrelevant to the described scenario (a wet child in the ocean), leaving the relationship neutral.
-4. The content provides no visual or contextual clues (e.g., clothing, pronouns) to confirm or deny the child's gender, making the statement neither entailed nor contradicted.
-5. The highlighted word "boy" in the statement is an arbitrary detail unrelated to the core information in the content (the child's location and state), resulting in neutrality.

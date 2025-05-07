@@ -1,3 +1,0 @@
-- The content states there are five children, while the statement claims there are ten, leading to a numerical discrepancy.
-- The number of children mentioned in the content (five) directly contradicts the number mentioned in the statement (ten).
-- The highlighted number of children in the content (five) is inconsistent with the highlighted number in the statement (ten), as they refer to the same group of children.

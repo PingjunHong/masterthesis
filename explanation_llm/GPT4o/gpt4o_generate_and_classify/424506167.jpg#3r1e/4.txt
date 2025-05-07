@@ -1,1 +1,0 @@
-- The arrangement of the words in the premise and statement logically implies the same situation without any contradiction.

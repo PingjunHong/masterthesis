@@ -1,1 +1,0 @@
-- A "taxi cab" is a type of "car," so a child in a "taxi cab" is also in a "car."

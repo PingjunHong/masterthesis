@@ -1,1 +1,0 @@
-- The premise states a volleyball game involving women, while the hypothesis states a cricket game involving boys, which logically conflicts with the premise.

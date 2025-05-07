@@ -1,8 +1,0 @@
-- A woman riding a bike implies that there is a woman on a bike.
-- The act of riding a bike means that the woman must be on the bike.
-- If a woman is riding a bike, she is necessarily on the bike.
-- Being described as riding a bike entails that the woman is on a bike.
-- The description of a woman riding inherently includes her being on the bike.
-- Riding a bike involves the woman being positioned on the bike.
-- A woman cannot ride a bike without being on the bike.
-- The structure of the statement "riding a bike" logically implies the presence of the woman on the bike.

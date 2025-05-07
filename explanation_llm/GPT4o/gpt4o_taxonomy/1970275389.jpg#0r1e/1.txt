@@ -1,7 +1,0 @@
-- A woman taking pictures refers to the woman leaning over a small fence to take a picture of a yellow flower.
-- The act of taking pictures refers to the action described as leaning over a small fence to capture an image of a yellow flower.
-- The woman mentioned in the statement is the same woman described as leaning over a small fence.
-- Taking pictures relates to the action of taking a picture of a yellow flower.
-- The woman in the hypothesis is the same individual who is taking a picture of a yellow flower in the premise.
-- The action of taking pictures is the same as taking a picture of a yellow flower.
-- The reference to a woman in the statement is resolved as the woman leaning over a small fence in the premise.

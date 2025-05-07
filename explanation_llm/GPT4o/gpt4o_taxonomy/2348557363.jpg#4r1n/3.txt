@@ -1,7 +1,0 @@
-1. "On the library steps" can refer to the steps outside the library, while "on the steps inside the library" explicitly refers to the steps within the building.
-2. The premise does not specify whether the steps are inside or outside the library, whereas the hypothesis specifies that the steps are inside.
-3. "Library steps" in the premise can be interpreted as the exterior steps, while the hypothesis specifies the interior steps.
-4. The premise mentions the child is "on the library steps," which does not inherently indicate the location as inside or outside, while the hypothesis specifies "inside the library."
-5. "Library steps" can imply either interior or exterior stairs, but the hypothesis limits the location to inside.
-6. The premise describes the child on the steps associated with the library, but does not specify their location, whereas the hypothesis specifies the steps are inside the library.
-7. The phrase "on the library steps" does not explicitly convey the interior location, as stated in the hypothesis.

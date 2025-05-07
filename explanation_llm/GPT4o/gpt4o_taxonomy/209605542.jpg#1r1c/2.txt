@@ -1,7 +1,0 @@
-- Swimming and climbing are activities typically performed in different environments; swimming occurs in water while climbing occurs on solid surfaces like rock cliffs.
-- A cliff looming over greenery is a terrestrial setting, not an aquatic environment where swimming would take place.
-- The action of climbing a rock cliff is incompatible with the action of swimming, as these activities require different physical conditions and equipment.
-- A headband is typically worn for activities involving physical exertion on land, like climbing, whereas swimming in the ocean commonly involves swimwear.
-- The presence of greenery suggests a land-based setting, which contradicts the oceanic environment required for swimming.
-- The semantic meaning of "ocean" implies a large body of water, which is antithetical to the described setting of a rock cliff.
-- Climbing and swimming are antonyms in terms of activity type and location, as one involves scaling heights on land and the other involves moving through water.

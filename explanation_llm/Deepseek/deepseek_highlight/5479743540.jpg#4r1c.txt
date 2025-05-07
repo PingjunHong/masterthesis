@@ -1,8 +1,0 @@
-1. The content describes a **skateboarding youth** performing a trick, while the statement mentions a **man painting**, which are entirely different actions.
-2. The content involves a **trick on a rail** (a skateboarding activity), whereas the statement describes **painting a tree**, which are unrelated scenarios.
-3. The subject in the content is a **youth**, while the subject in the statement is a **man**, implying different age groups.
-4. The action in the content (**does a trick**) is dynamic and sport-related, while the action in the statement (**painting**) is stationary and artistic.
-5. The objects involved differ: **rail** (in content) vs. **tree** (in statement), indicating distinct settings.
-6. The content implies movement and physical activity, while the statement suggests a static, creative task.
-7. The roles of the subjects are contradictory—one is an athlete (skateboarder), the other is an artist (painter).
-8. The highlighted words in the content (**skateboarding, trick, rail**) and statement (**painting, tree**) belong to entirely different semantic domains.

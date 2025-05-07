@@ -1,6 +1,0 @@
-1. A red coat is not the same as a black coat.
-2. Being outdoors making a snow angel contradicts staying indoors.
-3. A person cannot be both outdoors and indoors at the same time.
-4. The activity of making a snow angel requires being in the snow, not away from it.
-5. Color description of the coat in the premise and hypothesis do not match.
-6. The premise describes someone actively engaging with snow, contradicting the hypothesis description of avoiding snow.

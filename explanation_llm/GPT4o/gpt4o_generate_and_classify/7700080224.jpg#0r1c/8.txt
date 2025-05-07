@@ -1,1 +1,0 @@
-- The premise describes an ongoing volleyball game, while the hypothesis introduces a cricket game, which cannot be happening concurrently at the same location and under the same context.

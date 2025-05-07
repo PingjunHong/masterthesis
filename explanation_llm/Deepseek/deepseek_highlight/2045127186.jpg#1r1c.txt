@@ -1,5 +1,0 @@
-1. The **color of the coat** differs ("red" vs. "black").
-2. The **location** differs ("making a snow angel" implies outdoors vs. "stays indoors").
-3. The **activity** differs ("making a snow angel" vs. "stays indoors away from the snow").
-4. The **description of the coat** implies different outfits ("red coat" vs. "black coat").
-5. The **engagement with snow** is opposite (actively playing in snow vs. avoiding it).

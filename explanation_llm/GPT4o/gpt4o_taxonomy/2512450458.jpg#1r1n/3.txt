@@ -1,5 +1,0 @@
-1. "Two guys are on a lake" does not structurally rephrase "A man wearing a snorkel and goggles gives a thumbs up as he and another person speed through the water."
-2. The premise does not specify that the water body is a lake, thus "Two guys are on a lake" cannot be derived through structural rephrasing.
-3. "A man wearing a snorkel and goggles gives a thumbs up as he and another person speed through the water" does not syntactically alternate to "Two guys are on a lake."
-4. There is no coordination in the premise that suggests the location is a lake, preventing a syntactic-level inference to the hypothesis.
-5. The premise does not subordinate any information that confirms the setting as a lake, which is necessary for syntactic-level inference to the hypothesis.

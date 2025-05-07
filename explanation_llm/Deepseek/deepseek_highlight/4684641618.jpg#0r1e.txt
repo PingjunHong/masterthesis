@@ -1,8 +1,0 @@
-1. The highlighted word "women" in the Content (index 2) corresponds to "women" in the Statement (index 3), establishing the subject of the action.
-2. The highlighted word "walk" in the Content (index 12) aligns with "walking" in the Statement (index 4), confirming the action being performed.
-3. The highlighted word "downtown" in the Content (index 1) matches "downtown" in the Statement (index 1), specifying the location of the action.
-4. The combination of "walk" and "downtown" in the Content logically implies "walking downtown" in the Statement.
-5. The plural form "women" in both sentences ensures consistency in the number of subjects performing the action.
-6. The progressive tense "walking" in the Statement is inferred from the present tense "walk" in the Content, as both describe an ongoing action.
-7. The phrase "along a busy street in a downtown area" in the Content provides contextual support for the location being "downtown" in the Statement.
-8. The absence of contradictory information in the Content and Statement reinforces the entailment relationship.

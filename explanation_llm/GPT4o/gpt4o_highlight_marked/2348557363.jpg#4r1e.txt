@@ -1,8 +1,0 @@
-1. "Library steps" implies "steps," as the library steps are a subset of steps.
-2. The location being specified as "library" does not contradict the general statement about steps.
-3. Removing "library" from the description does not affect the truth of the child being on steps.
-4. "Steps" in both sentences refer to the same physical structure, ensuring consistency.
-5. The statement generalizes the location by omitting "library," which still aligns with the description.
-6. The child being on "library steps" inherently means the child is on "steps."
-7. The term "steps" remains valid regardless of additional context like "library."
-8. The highlighted "steps" in both sentences denote the same object, making the entailment direct.

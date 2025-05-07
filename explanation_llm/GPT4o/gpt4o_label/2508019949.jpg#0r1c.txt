@@ -1,4 +1,0 @@
-- The statement describes a person sitting, whereas the content describes a person pushing a stroller, which involves standing and moving.
-- The statement indicates the person is in a park, while the content specifies they are on a street.
-- The statement refers to a lady on a bench, but the content does not mention a bench or any sitting position.
-- The content describes the person as being dressed in a dress with flowers and a stuffed bee, whereas the statement provides no details about the person's attire or any accessories, implying a different context.

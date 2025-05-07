@@ -1,5 +1,0 @@
-1. "Three young boys" (indices 0,2 in Content) implies "The boys" (indices 1,2 in Statement), establishing the subject.
-2. "enjoying a day at the beach" (indices 7,6,8 in Content) implies "are in the beach" (indices 5,1,2 in Statement), as being at the beach is necessary for enjoying a day there.
-3. The plural "boys" (index 2 in Content and 2 in Statement) aligns in number, supporting the entailment.
-4. The location "beach" (index 8 in Content and 2 in Statement) is explicitly mentioned in both, confirming the spatial context.
-5. The verb "enjoying" (index 7 in Content) implies presence ("are" in Statement), as one cannot enjoy the beach without being there.

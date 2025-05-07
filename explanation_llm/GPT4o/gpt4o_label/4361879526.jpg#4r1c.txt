@@ -1,3 +1,0 @@
-- The genders differ between the content and the statement; the content mentions men, while the statement mentions women.
-- The presence of men in the content directly contradicts the presence of women in the statement, as they cannot simultaneously be both genders in the same scenario.
-- The content specifies "two men," whereas the statement specifies "two women," indicating a direct conflict in the gender of the individuals involved.

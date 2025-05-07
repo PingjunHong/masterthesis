@@ -1,5 +1,0 @@
-- The content describes a specific flight attendant's actions, while the statement refers to any flight attendant.
-- The content specifies the demonstration of life vest usage, whereas the statement broadly refers to safety procedures which may include life vest usage but is not limited to it.
-- The content mentions the attire of the flight attendant, which is not addressed in the statement.
-- The timing of the demonstration is implied to be pre-takeoff in the statement, but the content does not specify this timing.
-- The statement generalizes the activity as part of safety procedures, while the content focuses specifically on life vest usage.

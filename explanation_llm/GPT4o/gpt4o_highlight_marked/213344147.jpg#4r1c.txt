@@ -1,4 +1,0 @@
-1. The first sentence describes **two people**, while the second sentence refers to **women**, implying a mismatch in subjects.
-2. The activity in the first sentence is **talking**, whereas the second sentence describes **shopping**, indicating a contradiction in actions.
-3. The location in the first sentence is **on a dock**, while the second sentence specifies **at the mall**, showing a conflict in settings.
-4. The first sentence does not specify gender for the **two people**, but the second sentence explicitly mentions **women**, creating an inconsistency.

@@ -1,1 +1,0 @@
-- A dock is typically an outdoor location, suggesting that people on a dock are outside.

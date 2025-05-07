@@ -1,3 +1,0 @@
-- The road is described as icy in the content, while the statement describes the highway as dry, which are contradictory conditions.
-- The content indicates the women are walking on a road, whereas the statement specifies they are near a highway, suggesting different locations.
-- "Taking a walk down" implies the women are on the road itself, contrasting with "walking near" the highway, indicating they are not on it.

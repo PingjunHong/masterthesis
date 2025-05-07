@@ -1,8 +1,0 @@
-1. The statement generalizes "players" without specifying that it refers to the hockey player in the content, making it neither entailed nor contradicted.
-2. The highlighted word "helmet" in the statement is singular, while the content does not specify the number of helmets, leaving room for ambiguity.
-3. The content only describes one hockey player wearing a helmet, while the statement could imply multiple players, making it neither confirmed nor denied.
-4. The statement does not provide additional information that aligns with or contradicts the content, maintaining neutrality.
-5. The word "helmet" in the statement is not explicitly linked to the hockey player in the content, preventing a definitive entailment or contradiction.
-6. The statement could refer to players in general, not necessarily the specific hockey player mentioned in the content.
-7. The content does not confirm whether all players (if there are multiple) are wearing helmets, leaving the statement neutral.
-8. The statement lacks contextual details (e.g., sport, number of players) that would align it more closely with the content.

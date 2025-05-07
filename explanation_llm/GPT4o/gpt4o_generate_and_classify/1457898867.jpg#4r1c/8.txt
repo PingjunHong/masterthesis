@@ -1,1 +1,0 @@
-- Real-world understanding indicates that if one is "between" two cows, then neither cow can be alone, contradicting the statement.

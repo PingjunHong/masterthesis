@@ -1,6 +1,0 @@
-1. The **"young man"** in the content is a subset of **"man"** in the statement, satisfying the requirement of a male individual performing the action.
-2. The **"blue hoodie"** is irrelevant to the statement's claim about the man's action, so its absence does not affect entailment.
-3. The **"half-wall"** in the content is a specific type of **"wall"** in the statement, making the statement's broader term compatible with the content's detail.
-4. The **"doing a flip"** in the content directly matches **"does a flip"** in the statement, confirming the action.
-5. The **"covered in graffiti"** is an additional detail in the content but does not contradict or negate the statement's claim about the wall.
-6. The core actions (**flip off a wall**) and subject (**man**) align exactly between the content and statement, ensuring entailment despite extra details.

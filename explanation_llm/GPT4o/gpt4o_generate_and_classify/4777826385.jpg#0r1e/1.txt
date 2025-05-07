@@ -1,1 +1,0 @@
-- "A building" in the statement refers to the "ornate building" in the content.

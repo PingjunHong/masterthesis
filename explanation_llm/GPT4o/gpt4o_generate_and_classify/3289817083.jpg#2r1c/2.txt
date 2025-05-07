@@ -1,2 +1,0 @@
-- The premise describes a man holding a baby, while the hypothesis introduces the concept of kidnapping, which is not semantically equivalent to holding.
-- The premise uses "holding," which implies care or support, whereas "kidnap" in the hypothesis implies taking someone away unlawfully, showing a difference in word meaning.

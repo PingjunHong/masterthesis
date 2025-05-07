@@ -1,4 +1,0 @@
-- Warming up is a typical activity that is part of getting ready for a competition.
-- The term "gymnasts" in the statement is a generalization of "female gymnasts" in the content, which is acceptable since all female gymnasts are also gymnasts.
-- The action of getting ready for a competition inherently includes warming up as a preparatory activity.
-- The act of warming up is a subset of the broader concept of getting ready, making the statement a logical implication of the content.

@@ -1,1 +1,0 @@
-- "Two men are standing in a boat" can be rephrased to "Some people are in a boat" since "two men" are indeed "some people".

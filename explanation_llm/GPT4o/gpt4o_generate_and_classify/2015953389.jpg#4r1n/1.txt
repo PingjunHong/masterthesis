@@ -1,1 +1,0 @@
-- There are no coreference issues to resolve between the premise and the hypothesis.

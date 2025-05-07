@@ -1,1 +1,0 @@
-- Walking down the street implies being outside, as streets are typically located outdoors.

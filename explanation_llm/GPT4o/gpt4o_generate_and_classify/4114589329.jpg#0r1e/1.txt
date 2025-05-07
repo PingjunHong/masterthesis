@@ -1,1 +1,0 @@
-- The "Ford car" in the content refers to the "car" in the statement, and "3 males" in the content refers to "three pedestrians" in the statement.

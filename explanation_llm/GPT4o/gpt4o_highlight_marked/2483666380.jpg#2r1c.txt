@@ -1,5 +1,0 @@
-1. **"A comb in her hand"** contradicts **"empty hands"** because having a comb in her hand implies that her hands are not empty.
-2. **"Her hand"** contradicts **"empty hands"** because the presence of any object in her hand means her hands cannot be empty.
-3. **"Weaving"** contradicts **"sitting"** because weaving typically involves active movement, whereas sitting suggests a more passive or stationary state.
-4. **"Weaving with a comb"** contradicts **"empty hands"** because weaving with a tool requires holding it, which means her hands cannot be empty.
-5. **"Her hand"** contradicts the plural **"hands"** because the statement implies both hands are empty, while the content suggests at least one hand is occupied.

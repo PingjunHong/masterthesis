@@ -1,1 +1,0 @@
-- The statement "Nobody is jumping" contradicts the content which states "A bearded man jumps" as "nobody" implies that no person is performing the action of jumping, whereas the content clearly mentions a person doing so.

@@ -1,7 +1,0 @@
-- Black is not green.
-- Looking at a bicycle is not sleeping on a couch.
-- Standing is not sleeping.
-- Being awake is not sleeping.
-- Bicycle is not couch.
-- Green is not black.
-- A couch is not a bicycle.

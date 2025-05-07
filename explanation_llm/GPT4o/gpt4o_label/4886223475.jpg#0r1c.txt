@@ -1,5 +1,0 @@
-- Riding a bike is not the same as driving a truck; they are different activities.
-- A bike is not a truck; they are different types of vehicles.
-- The description specifies the man is riding a bike, which directly contradicts the statement that he is driving a truck.
-- The context does not mention any truck being present, only a bike.
-- The setting involves a man on a bike, making it impossible for him to simultaneously drive a truck.

@@ -1,5 +1,0 @@
-1. The term "man" in the content directly corresponds to "person" in the statement, indicating that the person behind the counter is identified as a man.
-2. Both the content and the statement refer to the same individual behind the counter, confirming his identity as a man.
-3. The use of "man" in the content provides specific gender information that fulfills the generic reference to "person" in the statement, establishing an entailment.
-4. The highlighted term "man" in the content specifies the gender of the person, which inherently supports the statement that describes the individual simply as a person.
-5. The content explicitly mentions "a man," which logically supports the statement's reference to the person as a man behind the counter.

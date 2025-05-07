@@ -1,1 +1,0 @@
-- "About to be hit" in the content is semantically equivalent to "about hit" in the statement.

@@ -1,1 +1,0 @@
-- Without additional information, the gender of a person cannot be determined solely from the description of clothing.

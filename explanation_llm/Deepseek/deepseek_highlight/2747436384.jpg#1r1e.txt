@@ -1,6 +1,0 @@
-1. "Four boys" in the content implies "some boys" in the statement, as "some" is a general term that can include "four."
-2. "Are about to be hit" in the content aligns with "is about to hit" in the statement, both indicating imminent action.
-3. "An approaching wave" in the content corresponds to "a wave" in the statement, as "approaching" is implied by "about to hit."
-4. The action described ("hit") is the same in both sentences, confirming the entailment.
-5. The subject ("wave") and object ("boys") relationships are preserved in both sentences.
-6. The temporal aspect ("about to") is consistent in both, reinforcing the entailment.

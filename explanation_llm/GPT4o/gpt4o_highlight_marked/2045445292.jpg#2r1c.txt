@@ -1,7 +1,0 @@
-1. **"work"** in the content implies active labor, while **"having"** in the statement implies relaxation or leisure.
-2. **"to saw"** in the content indicates a specific task being performed, whereas the statement does not involve any task.
-3. **"a log"** in the content specifies an object being acted upon, but the statement does not mention any object related to work.
-4. **"to"** in the content connects the men to the action of sawing, but the statement does not describe any action of that nature.
-5. The statement focuses on **"beer"**, which is unrelated to the activity of sawing or working described in the content.
-6. **"work"** in the content denotes effort, whereas **"having a beer"** in the statement suggests a lack of effort or relaxation.
-7. The temporal state implied by **"work"** and **"to saw"** is incompatible with the simultaneous state of **"having a beer"**.

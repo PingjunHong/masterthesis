@@ -1,4 +1,0 @@
-- The content specifies a man and a woman, whereas the statement specifies a man and his family.
-- The content mentions eating a hotdog, while the statement mentions eating pizza.
-- The content does not indicate the presence of additional family members besides a man and a woman.
-- The statement implies a familial relationship, which is not specified in the content.

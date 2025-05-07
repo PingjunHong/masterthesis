@@ -1,3 +1,0 @@
-- A taxi cab is a type of car, so if the child is sticking her head out of the taxi cab, she must be inside the car.
-- Being inside a taxi cab implies being inside a vehicle, and since a taxi cab is a car, the child is inside a car.
-- The act of sticking her head out suggests the child is within the confines of the vehicle, confirming she is inside the car.

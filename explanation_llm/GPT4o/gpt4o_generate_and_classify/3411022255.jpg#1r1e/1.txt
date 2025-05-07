@@ -1,1 +1,0 @@
-- The term "people" in the statement refers to "four people" in the content, resolving the reference between the two.

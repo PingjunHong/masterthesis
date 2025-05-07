@@ -1,1 +1,0 @@
-- The statement "Some dogs are running" pragmatically implies there are multiple dogs present since "some" typically indicates a quantity greater than one.

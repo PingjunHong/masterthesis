@@ -1,3 +1,0 @@
-1. "Gray" in the content matches "gray" in the statement, confirming the color of the cap.
-2. "Ball cap" in the content is a type of "cap," aligning with the statement.
-3. The man described as wearing the "gray ball cap" in the content is the same individual referenced in the statement.

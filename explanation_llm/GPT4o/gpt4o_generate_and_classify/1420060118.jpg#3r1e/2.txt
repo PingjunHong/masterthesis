@@ -1,1 +1,0 @@
-- A ninja outfit is additional information that does not alter the core action of doing a jumping kick.

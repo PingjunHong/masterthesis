@@ -1,4 +1,0 @@
-- The phrase "a man wearing a red vest" directly implies that the man is indeed wearing a vest, as the color descriptor "red" specifies the type of vest.
-- The statement "A man is wearing a vest" is a generalized version of the more specific information given in the content, fulfilling the requirements for entailment.
-- The presence of the word "vest" in both the content and the statement indicates a direct semantic relationship, confirming that the statement necessarily follows from the content.
-- The statement omits specific details (such as color) but retains the core information that a vest is being worn, which is explicitly stated in the content.

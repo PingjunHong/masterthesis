@@ -1,5 +1,0 @@
-- The act of hitting a tennis ball implies that a ball is being hit.
-- The subject "a boy" in both the content and statement indicates the same person is involved in the action.
-- Hitting a tennis ball is a specific instance of the broader action described as hitting a ball.
-- The present continuous tense "is hitting" in the statement aligns with the action described in the content.
-- The type of ball (tennis ball) specified in the content is a subset of the general term "ball" used in the statement.

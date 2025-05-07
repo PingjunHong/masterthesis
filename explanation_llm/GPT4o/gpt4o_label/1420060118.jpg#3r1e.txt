@@ -1,5 +1,0 @@
-1. The statement is a generalization of the content, maintaining the essential action without specifying the outfit.
-2. The content contains all the critical elements of the statement: a child and a jumping kick.
-3. The statement is a subset of the content, focusing on the action performed by the child.
-4. The additional detail in the content (ninja outfit) does not alter the truth of the statement.
-5. Both the content and the statement describe the same event involving a child performing a jumping kick.

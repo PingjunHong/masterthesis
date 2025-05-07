@@ -1,6 +1,0 @@
-1. The content describes a scenario involving **football**, while the statement refers to **basketball**, creating a mismatch in the type of sport.
-2. The content refers to **football players**, who are typically associated with male athletes, while the statement specifies **girls**, implying female athletes.
-3. The content involves a **quarterback** and actions specific to football, such as throwing the ball and sacking, which are unrelated to **basketball**.
-4. The setting described in the content is a **football field**, whereas the statement implies a basketball court or setting, which are fundamentally different.
-5. The actions in the content (e.g., battling outdoors, sacking the quarterback) are incompatible with the sport of **basketball**, as described in the statement.
-6. The content specifies it is **game day** for football, with no indication of basketball being played, contradicting the statement.

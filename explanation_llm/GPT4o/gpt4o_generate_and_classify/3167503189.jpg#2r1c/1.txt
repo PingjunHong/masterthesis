@@ -1,1 +1,0 @@
-- The premise refers to a boy, while the hypothesis refers to a girl; these are different entities.

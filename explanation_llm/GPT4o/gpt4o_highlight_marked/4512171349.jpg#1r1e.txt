@@ -1,5 +1,0 @@
-1. "2" and "Two" refer to the same quantity, indicating there are two kids.
-2. "Kids" in the content matches "kids" in the statement, referring to the same group of individuals.
-3. The act of "hugging the other" implies that the two kids are engaged in hugging, aligning with the statement.
-4. "Very emotional" suggests closeness or affection, which supports the action of hugging.
-5. The description of "hanging out" does not contradict the physical act of hugging, allowing for entailment.

@@ -1,4 +1,0 @@
-- The content describes people sitting, while the statement describes people running, which are contradictory actions.
-- The number of people involved is different; the content mentions three people, whereas the statement implies more than three by using "people" without specifying a number.
-- The content specifies the actions of individuals (sitting, looking, twiddling hair), while the statement implies a collective action (running together), indicating different activities.
-- The context of the situation differs; the content is set at a station with people not engaging in movement, whereas the statement implies active and coordinated movement.

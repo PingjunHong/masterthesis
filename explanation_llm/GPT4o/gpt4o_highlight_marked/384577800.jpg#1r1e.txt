@@ -1,3 +1,0 @@
-- "A brown dog" in the content implies "a dog" in the statement since all brown dogs are dogs.
-- "Carries an object in its mouth" in the content entails "is carrying something" in the statement because carrying an object is a specific instance of carrying something.
-- "On a snowy hillside" in the content provides additional context but does not contradict or negate the statement.

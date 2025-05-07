@@ -1,5 +1,0 @@
-1. The highlighted words "women" (index 3 in Content) and "rollerskating" (index 6 in Content) are present in the Statement, confirming the core subject and action.
-2. The Statement captures the main elements of the Content ("women" and "rollerskating") while omitting less critical details ("four," "competitively," "area" vs. "are").
-3. The Statement is a simplified version of the Content, retaining the essential meaning despite minor grammatical or typographical variations ("an are" likely intended as "an area").
-4. The semantic overlap between the highlighted words in the Content and the Statement's terms ensures the entailment, as the Statement's claims are fully supported by the Content.
-5. Even with the typo ("are"), the Statement's meaning aligns with the Content, as "rollerskating around an [area]" is inferable from the original context.

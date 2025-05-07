@@ -1,2 +1,0 @@
-- The hypothesis introduces "a woman climber," which conflicts with the unspecified gender of the "climber" in the premise.
-- The premise describes the climber as "pulling himself up," indicating a male climber, while the hypothesis specifies "a woman," creating a gender conflict.

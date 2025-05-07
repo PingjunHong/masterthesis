@@ -1,1 +1,0 @@
-- The word "between" implies there are two entities (cows) on either side of the boy, contradicting the word "alone" which implies there is only one cow with no other cows present.

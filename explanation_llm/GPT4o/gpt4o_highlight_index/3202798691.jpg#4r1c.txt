@@ -1,3 +1,0 @@
-- "Bike" and "horse" refer to two different modes of transportation; a man cannot be riding both simultaneously.
-- "Along a dirt trail" suggests a setting where a bike is used, which contradicts "riding a horse" as the activity being described.
-- The vehicle mentioned in the content is a "bike," while the vehicle in the statement is a "horse," which are mutually exclusive in this context.

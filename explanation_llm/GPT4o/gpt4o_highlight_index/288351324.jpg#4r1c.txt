@@ -1,3 +1,0 @@
-- The word "group" in the content indicates multiple people, whereas "no one" in the statement suggests the absence of people.
-- "Dancing" in the content directly contradicts "no one is dancing" in the statement, as dancing implies activity, and the statement implies inactivity.
-- The presence of people in a "group" dancing contradicts the assertion that there is "no one" doing any activity.

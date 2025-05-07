@@ -1,5 +1,0 @@
-1. Workers cannot be both standing and walking at the same time.
-2. Standing implies being stationary, while walking implies movement.
-3. Being on a lift suggests they are not moving away from it.
-4. Standing on a lift is a static position, contradicting the action of walking off.
-5. If workers are standing, they are not engaging in the action of walking.

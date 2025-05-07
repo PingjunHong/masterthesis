@@ -1,5 +1,0 @@
-1. The content describes a **tan girl** running, while the statement refers to a **boy** running, creating a contradiction in gender.
-2. The content mentions the girl is **leaning over an object**, whereas the statement says the boy **runs into a wall**, which are different actions.
-3. The content involves **another person sitting on the ground**, while the statement only describes a single person (the boy), contradicting the presence of multiple individuals.
-4. The content specifies the girl is wearing a **wool hat**, while the statement provides no detail about the boy’s attire, leaving an inconsistency in description.
-5. The content describes the girl as **running and leaning**, implying controlled motion, while the statement’s **runs into a wall** suggests an uncontrolled collision, conflicting with the nature of movement.

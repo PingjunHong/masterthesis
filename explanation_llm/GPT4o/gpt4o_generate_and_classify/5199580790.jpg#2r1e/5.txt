@@ -1,1 +1,0 @@
-- The statement does not specify the number of boats, whereas the content shows only one explicitly and implies another, but does not explicitly contradict the presence of more than one boat.

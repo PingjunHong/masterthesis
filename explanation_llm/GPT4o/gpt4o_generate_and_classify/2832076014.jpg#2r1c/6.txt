@@ -1,2 +1,0 @@
-- The statement claims a sedan is stuck, while the premise describes a land rover being driven, indicating different situations.
-```

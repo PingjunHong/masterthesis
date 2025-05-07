@@ -1,1 +1,0 @@
-- The premise states that a child is in a taxi cab, which contradicts the hypothesis that the child is at home, as being in a taxi cab and being at home are mutually exclusive locations.

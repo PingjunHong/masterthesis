@@ -1,8 +1,0 @@
-1. The content does not specify the gender of the child, so the statement introduces new information not implied by the content.
-2. The word "girl" in the statement is an assumption not supported by any details in the content.
-3. The content describes a generic child, making the statement's gender-specific claim neither confirmed nor contradicted.
-4. The highlighted word "girl" in the statement is an independent assertion unrelated to the neutral description in the content.
-5. The statement adds a subjective detail (gender) that is absent in the content, resulting in neutrality.
-6. The content's lack of gender information means the statement cannot be inferred as true or false.
-7. The statement introduces a specific attribute (being a girl) that is not derivable from the content's general description.
-8. The neutrality arises because the content neither supports nor opposes the claim about the child's gender.

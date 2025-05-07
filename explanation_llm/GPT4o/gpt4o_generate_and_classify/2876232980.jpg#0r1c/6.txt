@@ -1,1 +1,0 @@
-- The spatial relationship described in the content ("behind") logically conflicts with the spatial relationship described in the statement ("on top of"), making both scenarios mutually exclusive.

@@ -1,8 +1,0 @@
-1. The highlighted words "wearing a" in the Content and Statement directly match, establishing a clear connection.
-2. The word "vest" appears in both the Content and Statement, confirming the presence of the garment.
-3. The phrase "a man" in the Content implies the existence of a man, which aligns with the subject in the Statement.
-4. The action "wearing" in the Content is explicitly stated in the Statement, reinforcing the entailment.
-5. The absence of contradictory information in the Content supports the truth of the Statement.
-6. The specificity of "red vest" in the Content includes the general "vest" mentioned in the Statement, satisfying the entailment.
-7. The grammatical structure of both sentences allows for a logical inference from the Content to the Statement.
-8. The highlighted words in both sentences form a coherent subset relationship, where the Statement is a simpler version of the Content.

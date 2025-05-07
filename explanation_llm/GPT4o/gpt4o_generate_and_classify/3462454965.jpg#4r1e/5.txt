@@ -1,1 +1,0 @@
-- The phrase "running" in the statement does not specify the location, which is not necessary for the action of running to be true.

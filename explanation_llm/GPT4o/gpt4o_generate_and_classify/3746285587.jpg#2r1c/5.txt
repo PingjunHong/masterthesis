@@ -1,1 +1,0 @@
-- The premise does not mention any bicycle or riding activity, which is introduced in the hypothesis without support from the premise.

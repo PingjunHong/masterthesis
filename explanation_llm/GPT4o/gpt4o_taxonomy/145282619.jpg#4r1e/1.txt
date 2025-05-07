@@ -1,6 +1,0 @@
-- A person refers to a man in the context of cooking.
-- Preparing some food involves the act of cooking, linking the man cooking to a person preparing food.
-- The man and a person are coreferential, both indicating the same individual involved in cooking.
-- Cooking over high flames implies preparing food, connecting the man's action to the person's preparation.
-- The subject 'a man' in the premise is the same as 'a person' in the statement, both performing a cooking-related activity.
-- The action of cooking by the man corresponds to the action of preparing food by the person, establishing coreference.

@@ -1,5 +1,0 @@
-1. The number of people, **six** or **seven**, is identical in both the content and the statement.
-2. The action of **standing** is mentioned in both the content and the statement, showing consistency.
-3. The location, a **pier**, is explicitly stated in both the content and the statement.
-4. The additional details in the content, such as the table and pair of glasses in the foreground, do not contradict or negate the statement and are therefore irrelevant to the entailment.
-5. The statement is a simplification of the content, which preserves all the essential information about the **six** or **seven** **people** **standing** on the **pier**.

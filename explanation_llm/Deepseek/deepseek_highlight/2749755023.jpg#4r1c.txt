@@ -1,5 +1,0 @@
-1. The **black shirt** in the content contradicts the **green** in the statement.
-2. The **looking at a bicycle** in the content contradicts the **sleeps on a couch** in the statement.
-3. The **woman in a black shirt** in the content contradicts the **woman in green** in the statement.
-4. The **woman...looking at a bicycle** in the content contradicts the **woman...sleeps on a couch** in the statement.
-5. The **black shirt** and **looking at a bicycle** in the content together contradict the **green** and **sleeps on a couch** in the statement.

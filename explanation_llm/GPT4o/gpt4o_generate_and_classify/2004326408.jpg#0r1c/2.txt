@@ -1,1 +1,0 @@
-- "Riding a bike" and "driving a car" are semantically different activities.

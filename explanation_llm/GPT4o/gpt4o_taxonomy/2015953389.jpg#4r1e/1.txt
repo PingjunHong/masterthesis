@@ -1,5 +1,0 @@
-- The workers standing on a lift refers to the workers standing on a lift.
-- The action of standing on a lift by workers is the same in both the premise and statement.
-- The premise's "standing" and the statement's "stand" refer to the workers' actions on the lift.
-- "Workers" in both the premise and statement refer to the same group of people.
-- "On a lift" in both the premise and statement refers to the location of the workers.

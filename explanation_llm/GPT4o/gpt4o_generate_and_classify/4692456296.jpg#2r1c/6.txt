@@ -1,2 +1,0 @@
-- The activities of walking and eating are mutually exclusive within the same timeframe.
-- The location of a bridge and a kitchen are logically distinct and cannot be the same place at the same time.

@@ -1,1 +1,0 @@
-- The premise describes a "man in a black shirt and brown pants" and "a man in a red shirt and black hat," while the hypothesis introduces new entities by labeling them as "actors" and assigning roles of "good guy" and "bad guy," without clear reference to the premise.

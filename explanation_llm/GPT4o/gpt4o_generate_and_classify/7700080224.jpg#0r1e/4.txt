@@ -1,1 +1,0 @@
-- The presence of a "referee" implies that a formal match is occurring, supporting the statement that a match is in progress.

@@ -1,5 +1,0 @@
-1. The word "jumps" (index 3 in Content) implies the dog is in motion and leaves the ground, which entails it is "in the air" (indices 3,4,5 in Statement).
-2. The action "jumps over" (implied by "jumps" at index 3 in Content) necessarily involves being airborne, supporting "in the air" (indices 3,4,5 in Statement).
-3. The word "dog" (index 2 in Statement) is the subject performing the jump, linking the action to the entity described as "in the air."
-4. The phrase "in the air" (indices 3,4,5 in Statement) is a direct consequence of the verb "jumps" (index 3 in Content), as jumping requires temporary suspension above the ground.
-5. The highlighted words in the Statement ("the," "is," "in," "air") collectively describe a state caused by the highlighted action "jumps" (index 3 in Content).

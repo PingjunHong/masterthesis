@@ -1,1 +1,0 @@
-- The premise states the flower is yellow, while the hypothesis states the flower is blue, which are contradictory color descriptions.

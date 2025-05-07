@@ -1,3 +1,0 @@
-- Dunking the ball is an action associated with playing basketball.
-- A basketball player is someone who plays basketball.
-- The context of being about to dunk a basketball implies participation in a basketball game or practice.

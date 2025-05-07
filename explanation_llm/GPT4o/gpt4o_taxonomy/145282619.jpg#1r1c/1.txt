@@ -1,6 +1,0 @@
-1. The term "fire in like 5 pots" in the premise refers to cooking with pots, not ovens, as mentioned in the hypothesis.
-2. The reference to "5 pots" in the premise indicates the use of pots rather than ovens in the hypothesis.
-3. The phrase "cooking with fire in like 5 pots" in the premise implies using pots, contradicting the hypothesis's reference to ovens.
-4. "Fire in like 5 pots" and "a bunch of ovens" are referring to different cooking methods.
-5. The phrase "5 pots" in the premise is inconsistent with "a bunch of ovens" in the hypothesis, as they refer to different equipment.
-6. The term "pots" in the premise contradicts "ovens" in the hypothesis as they resolve to different cooking apparatus.

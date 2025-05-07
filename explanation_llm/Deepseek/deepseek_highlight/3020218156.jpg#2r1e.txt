@@ -1,7 +1,0 @@
-1. The word "man" in the content corresponds to "guy" in the statement, both referring to a male individual.
-2. "Standing in front of a building" in the content aligns with "near a building" in the statement, indicating proximity.
-3. "Two men to the side" in the content matches "two other men" in the statement, confirming the presence of additional males.
-4. The action of standing ("standing" in the content and "stands" in the statement) is consistent in both sentences.
-5. The spatial relationship between the man and the other men is preserved ("to the side" in the content and "by" in the statement).
-6. Both sentences describe a scene involving a man and two other men near a building, with no contradictory details.
-7. The highlighted word indices (1) in both sentences refer to the same entity (the man/guy), reinforcing the alignment.

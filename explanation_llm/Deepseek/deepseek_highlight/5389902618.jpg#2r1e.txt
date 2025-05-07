@@ -1,6 +1,0 @@
-1. "Women of India" (highlighted in Content) directly corresponds to "indian women" (highlighted in Statement), confirming the nationality and gender of the performers.
-2. "performing" (Content) aligns with "perform" (Statement), indicating the same action.
-3. "together" (Statement) is implied by the group performance described in the Content.
-4. "beautiful blue costumes" (Content) matches "gorgeous costumes" (Statement), as both describe the attire positively.
-5. The absence of conflicting information between the Content and Statement ensures no contradictions.
-6. The general context of performance and attire in the Content fully supports the Statement.

@@ -1,5 +1,0 @@
-- "**playing**" contradicts "**washing**" as they describe different actions.
-- "**a violin**" contradicts "**a load of laundry**" as they refer to entirely different objects.
-- "**violin**" contradicts "**laundry**" since the two are unrelated in purpose or function.
-- "**playing a violin**" contradicts "**washing a load of laundry**" because engaging in music and doing household chores are incompatible in the context.
-- "**group of people**" is omitted in the statement, suggesting a contradiction of social context.

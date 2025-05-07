@@ -1,3 +1,0 @@
-- The statement explicitly denies the action described in the content, as the woman is **not walking**, contradicting the assertion that she **walks**.
-- The statement denies the destination described in the content, as the woman is **not going to work**, contradicting her walking **to work**.
-- The statement negates the entire scenario in the content, implying the woman is neither **walking** nor heading **to work**, directly opposing the highlighted details.

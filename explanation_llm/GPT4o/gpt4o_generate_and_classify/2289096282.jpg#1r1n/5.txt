@@ -1,1 +1,0 @@
-- The premise does not specify the age of the person in the wagon, whereas the hypothesis specifies that it is a child, which is new information not supported by the premise.

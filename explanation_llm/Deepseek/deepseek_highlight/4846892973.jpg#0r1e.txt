@@ -1,8 +1,0 @@
-1. The highlighted words in the **Content** ("Six", "or", "seven", "people", "standing") and the **Statement** ("Six", "or", "seven", "people", "standing") are identical, confirming the same core information.
-2. The **Statement** is a subset of the **Content**, as it omits additional details (e.g., "with a table and a pair of glasses in the foreground") without contradicting the core claim.
-3. The presence of "Six or seven people are standing on a pier" in the **Content** directly supports the truth of the **Statement**, as the latter is a verbatim partial match.
-4. The omitted words in the **Statement** (e.g., "with a table...") do not affect the truth of the core assertion about the people standing on the pier.
-5. The **Statement** captures the primary subject ("people") and action ("standing") from the **Content**, which are sufficient for entailment.
-6. The highlighted words in both sentences form a coherent and consistent proposition, with no conflicting or negating terms.
-7. The **Content** provides more context but does not introduce any information that undermines the **Statement**'s validity.
-8. The **Statement** is a strict simplification of the **Content**, preserving all necessary elements for logical entailment.

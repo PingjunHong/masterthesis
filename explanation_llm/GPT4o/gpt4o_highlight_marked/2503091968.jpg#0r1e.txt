@@ -1,4 +1,0 @@
-1. A **taxi cab** is a type of **car**, so the **cab** mentioned in the content is encompassed by the term **car** in the statement.
-2. The **child** in both the content and statement refers to the same individual, ensuring consistency.
-3. **Sticking her head out** implies the **child** is physically located **inside** the vehicle, as one must start inside to stick their head out.
-4. The **head** being **out** of the **taxi cab** does not contradict the **child** being **inside** the **car** overall.

@@ -1,5 +1,0 @@
-A person wearing a red shirt can be described as a person in red.
-Mowing the grass involves cutting the grass.
-The use of a riding mower implies performing the activity of mowing on the mower.
-Being on a green riding mower means using a riding mower for the task.
-The statement is logically derived from the premise based on the description of activities and attire.

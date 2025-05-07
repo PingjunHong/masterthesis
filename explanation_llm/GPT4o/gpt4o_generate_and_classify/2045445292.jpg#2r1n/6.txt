@@ -1,1 +1,0 @@
-- The premise states "a log," which implies it could be any type of log, while the hypothesis specifies "the oak log," indicating a specific type not mentioned in the premise.

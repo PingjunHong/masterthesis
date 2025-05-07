@@ -1,4 +1,0 @@
-- **Wearing** a straw hat contradicts **burning** a straw hat, as the hat cannot be both worn and burned simultaneously.
-- **Wearing** a straw hat implies the hat is intact, while **burning** a straw hat implies it is being destroyed by fire.
-- The action of **burning** a straw hat is inconsistent with the context of the person standing and working with coconuts, where the hat serves a functional purpose rather than being destroyed.
-- The context of **wearing** a straw hat suggests the person is using it for protection or shade, which directly conflicts with the action of **burning** the same hat.

@@ -1,1 +1,0 @@
-- The word "shopping" in the statement directly matches the activity described in the content as "shopping at a street market," indicating that the crowd's activity is consistent across both the premise and the hypothesis.

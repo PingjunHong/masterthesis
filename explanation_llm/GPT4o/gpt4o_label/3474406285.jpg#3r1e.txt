@@ -1,3 +1,0 @@
-- The act of jumping implies that the dog is temporarily airborne.
-- For the dog to be in the process of jumping over an obstacle, it must be in the air at some point during the jump.
-- Jumping involves a phase where the dog is lifted off the ground, suggesting that it is in the air.

@@ -1,6 +1,0 @@
-1. A dog that is **jumping** over an obstacle cannot simultaneously be in a **pool**.
-2. Being in a **pool** implies the dog is in water, which contradicts the act of **jumping** over an obstacle.
-3. **Jumping** over an obstacle typically occurs on land, whereas being in a **pool** implies a water-based activity.
-4. The described action (**jumps**) and the location (**pool**) are incompatible, as they suggest mutually exclusive scenarios.
-5. A dog in a **pool** would not have the physical space or conditions to **jump** over an obstacle.
-6. The concept of being in a **pool** conflicts with the imagery of **jumping** over an obstacle, as pools generally lack obstacles suitable for such actions.

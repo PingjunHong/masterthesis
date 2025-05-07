@@ -1,4 +1,0 @@
-- Superhero books are a type of literature.
-- Reading superhero books involves the act of reading literature.
-- The term "piece of literature" is a broader category that includes superhero books.
-- The statement uses more general language that encompasses the specifics of the content.

@@ -1,4 +1,0 @@
-1. The content specifies **four girls**, while the statement introduces **boys**, contradicting the absence of boys in the content.
-2. The content describes **young girls**, but the statement refers to a single **girl**, which contradicts the plurality indicated in the content.
-3. The content refers exclusively to **girls**, while the statement mentions both **boys and girl**, contradicting the absence of boys in the content.
-4. The statement uses **and** to imply the presence of both boys and girl, contradicting the content that mentions only **girls**.

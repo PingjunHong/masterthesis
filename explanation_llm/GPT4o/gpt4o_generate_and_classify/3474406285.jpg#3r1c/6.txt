@@ -1,1 +1,0 @@
-- The scenario of a dog jumping over an obstacle cannot logically occur in a pool, which implies a contradiction in the physical setting described in the statement versus the content.

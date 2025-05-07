@@ -1,5 +1,0 @@
-1. "Female gymnasts" implies "gymnasts" (a subset relation), so the statement generalizes the content.
-2. "Warm up" is a specific way to "get ready," so the statement broadens the action described in the content.
-3. The highlighted "gymnasts" in the statement aligns with the highlighted "Female gymnasts" in the content, preserving the core subject.
-4. The phrase "before a competition" in the content matches the intent of "for a competition" in the statement, both indicating preparation for an event.
-5. The entailment holds because the statement captures the essential elements (subject and purpose) of the content without contradiction.

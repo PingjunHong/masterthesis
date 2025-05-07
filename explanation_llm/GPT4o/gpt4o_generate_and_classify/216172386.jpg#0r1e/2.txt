@@ -1,1 +1,0 @@
-- "Man" and "person" are synonyms, allowing for entailment of the statement from the content.

@@ -1,1 +1,0 @@
-- The actions of walking and sitting cannot happen simultaneously, as they are mutually exclusive states.

@@ -1,6 +1,0 @@
-1. The highlighted words in the Content ("sits in a room") directly correspond to the highlighted words in the Statement ("sitting in a room"), confirming the action and location.
-2. The presence of "a woman" in both sentences establishes the subject, and the additional details in the Content (e.g., clothing, glasses) do not contradict the Statement.
-3. The phrase "with other people" in both sentences matches, confirming the social context.
-4. The action "sits" in the Content implies the ongoing state "is sitting" in the Statement, maintaining temporal consistency.
-5. The additional descriptors in the Content ("red and white," "wearing glasses") are irrelevant to the truth of the Statement, which focuses only on the woman's presence and action.
-6. The core proposition of the Statement (a woman sitting in a room with others) is fully supported by the Content, regardless of the extra details.

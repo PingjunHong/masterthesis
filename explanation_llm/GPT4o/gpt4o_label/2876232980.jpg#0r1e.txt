@@ -1,5 +1,0 @@
-- The statement directly describes a part of the scene depicted in the content.
-- The positional relationship between the two children is consistent in both the content and the statement.
-- The detail about the wheelbarrow in the content is additional information and does not contradict the statement.
-- Both the content and the statement mention a child wearing a red top and a blond-headed child, ensuring the subjects are the same.
-- The statement simplifies the scene by omitting the wheelbarrow, which is not necessary for the entailment.

@@ -1,5 +1,0 @@
-- "Run" implies active movement, while "sleeping" implies being at rest, which are mutually exclusive states.
-- The action of "running" cannot occur simultaneously with the state of "sleeping."
-- "Run together" suggests motion and activity, whereas "sleeping" suggests inactivity and stillness.
-- The phrase "near the leaves" indicates proximity to the leaves, while "on the pile of leaves" specifies a different spatial relationship.
-- Running near the leaves does not align with the act of sleeping on a pile of leaves.

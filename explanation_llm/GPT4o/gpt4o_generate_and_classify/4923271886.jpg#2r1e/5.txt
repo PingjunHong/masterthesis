@@ -1,1 +1,0 @@
-- The statement specifies "green grass," which is not explicitly mentioned in the content, but the grass's color does not affect the entailment.

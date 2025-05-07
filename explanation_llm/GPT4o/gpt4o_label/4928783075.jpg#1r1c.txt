@@ -1,3 +1,0 @@
-- The boy is in a field, not indoors.
-- The boy is throwing a toy plane, not playing video games.
-- The boy is engaged in an outdoor activity, not an indoor one.

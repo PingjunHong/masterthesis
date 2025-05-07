@@ -1,1 +1,0 @@
-- The phrase "The flight attendant" in the content refers to "A flight attendant" in the statement.

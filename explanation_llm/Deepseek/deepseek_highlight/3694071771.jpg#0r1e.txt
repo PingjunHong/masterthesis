@@ -1,7 +1,0 @@
-1. The highlighted word "numbers" in the statement corresponds to "numbers" in the content, indicating the person is wearing numbers.
-2. The phrase "nonmotorized vehicle" in the statement aligns with "racing bike" in the content, as a bike is a nonmotorized vehicle.
-3. The word "person" in the statement is entailed by "man" in the content, as a man is a person.
-4. The term "wearing" in the statement is supported by "with" in the content, as "with a red helmet and numbers" implies wearing.
-5. The highlighted indices in the content ("numbers on his arm and leg") explicitly show the person is wearing numbers, fulfilling the statement's condition.
-6. The absence of any mention of a motor in the content ("racing bike") implies the vehicle is nonmotorized, matching the statement.
-7. The word "using" in the statement is entailed by "riding" in the content, as riding a bike is a form of using it.

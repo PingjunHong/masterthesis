@@ -1,5 +1,0 @@
-1. The statement "The two dogs are running to play in the leaves" introduces a purpose for the running, which is not expressed in the premise "Two dogs run together near the leaves."
-2. The premise describes the location of the dogs as "near the leaves," whereas the statement suggests a destination or intention of reaching the leaves for play.
-3. The premise focuses on the action "run together," but the statement adds a motive "to play in the leaves," which is not a syntactic alternation of the original sentence.
-4. The statement changes the role of the leaves from a location to an intended area for play, which is structurally different from the premise's description.
-5. The premise expresses a simple action, while the statement adds a layer of causality or intention, altering the syntactic structure.

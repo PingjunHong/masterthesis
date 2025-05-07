@@ -1,5 +1,0 @@
-1. "**Snowy**" and "**grassy**" describe two different types of terrain, which cannot coexist in the same physical setting at the same time.
-2. "**Hillside**" and "**side**" refer to different geographical features, with "hillside" implying a sloped area and "side" being more ambiguous or not necessarily sloped.
-3. A "**snowy hillside**" suggests a specific environment covered in snow on a hill, while a "**grassy side**" suggests an environment covered in grass, creating a direct conflict in the description of the location.
-4. The presence of "**snow**" in the first statement contradicts the presence of "**grass**" in the second statement since snow typically covers grass and makes it invisible.
-5. A "**hillside**" implies a specific type of terrain (a slope of a hill), whereas a "**side**" may or may not refer to a hill, creating ambiguity and contradiction.

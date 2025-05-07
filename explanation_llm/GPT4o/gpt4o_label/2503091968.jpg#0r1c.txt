@@ -1,4 +1,0 @@
-- The child is described as being in a taxi cab, indicating she is not at home.
-- The action of screaming suggests the child is not resting.
-- Being in a moving vehicle implies travel or activity, contrasting with being at home.
-- The setting of the taxi cab implies a public or outdoor location, not the private setting of a home.

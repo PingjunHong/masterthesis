@@ -1,4 +1,0 @@
-- The **number of participants** in the content and the statement differs: **two** in the content versus **ten** in the statement.
-- The **gender** of the participants in the content and the statement differs: **women** in the content versus **boys** in the statement.
-- The **activity** being performed in the content and the statement differs: **volleyball** in the content versus **cricket** in the statement.
-- The **setting** described in the content and the statement differs: a **salmon-colored and turquoise court** in the content versus an unspecified cricket field in the statement.

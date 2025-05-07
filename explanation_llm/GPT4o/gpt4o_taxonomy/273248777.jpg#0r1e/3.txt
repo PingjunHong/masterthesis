@@ -1,6 +1,0 @@
-1. The statement is a rephrase of the premise with "whilst" changed to "while" for the same meaning.
-2. The premise uses "payer," which is corrected to "player" in the statement, without altering the meaning.
-3. The premise's phrase "under pressure from the payer in white" is structurally similar to "under pressure from the player in white" in the statement.
-4. "Catches the ball whilst under pressure" in the premise is syntactically altered to "catches the ball while under pressure" in the statement, maintaining the meaning.
-5. The premise's use of "whilst" is syntactically alternated to "while" in the statement, preserving the original meaning.
-6. The structural alignment of "catches the ball whilst under pressure" in the premise is mirrored as "catches the ball while under pressure" in the statement.

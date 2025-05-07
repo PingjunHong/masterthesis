@@ -1,6 +1,0 @@
-1. "Some people" in the statement refers to "three girls" in the content.
-2. "Blowing out candles" in the statement corresponds to "blow out the candles" in the content.
-3. "People" in the statement resolves to "girls" in the content.
-4. The act of "blowing out" in the statement is the same action as "blow out" in the content.
-5. The unspecified "candles" in the statement are the same as the "candles" mentioned in the content.
-6. "Some people" implies at least one person, which is satisfied by "three girls" in the content.

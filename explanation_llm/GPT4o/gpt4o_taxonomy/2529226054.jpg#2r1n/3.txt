@@ -1,8 +1,0 @@
-1. The man wearing the vest is walking down the street does not structurally rephrase a man wearing a red vest is walking past a black and green fence.
-2. Walking past a black and green fence may not necessarily mean walking down the street due to different spatial or directional implications.
-3. The structural detail of "a red vest" is missing in the statement, altering the meaning from the premise.
-4. The premise specifies "a black and green fence," whereas the statement generalizes the location to "the street."
-5. The statement does not account for the specific color of the vest mentioned in the premise, resulting in a different meaning.
-6. The structural rephrasing in the statement omits "black and green fence," a key detail present in the premise.
-7. The premise includes specific visual details that are not syntactically rephrased or included in the statement.
-8. The action described in the premise includes more specific locational details than the statement, leading to a neutral inference.

@@ -1,5 +1,0 @@
-- The statement mentions a boy, while the content refers to a tan girl and another person, but not a boy.
-- The statement describes a boy running into a wall, whereas the content involves a girl running and leaning over an object, with no mention of a wall.
-- The actions described in the statement and the content are different: running into a wall versus running and leaning over an object.
-- The statement implies a collision with a wall, which is not depicted in the content where no wall is mentioned.
-- The content indicates a person sitting on the ground, which does not align with the activity of running into a wall described in the statement.

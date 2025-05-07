@@ -1,3 +1,0 @@
-- The golfer is actively participating in the game, as indicated by getting ready to putt, rather than having retired.
-- The presence of a crowd watching suggests the golfer is still involved in the event.
-- The statement implies the golfer has ceased all play for the day, whereas the content shows the golfer preparing to continue playing.

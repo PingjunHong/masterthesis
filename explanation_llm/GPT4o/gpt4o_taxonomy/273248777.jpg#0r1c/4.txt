@@ -1,5 +1,0 @@
-1. The premise describes an American football scenario, whereas the hypothesis describes a basketball scenario, leading to a contradiction as they involve different sports.
-2. The premise mentions a player catching a ball, which is characteristic of football, whereas the hypothesis discusses shooting a three-pointer, a basketball term, creating a contradiction.
-3. The premise involves a football player in yellow catching a ball, while the hypothesis involves a basketball player shooting, which contradicts the sport and actions described.
-4. The mention of a footballer in the premise contradicts the mention of a basketball player in the hypothesis, as they are different types of athletes.
-5. The action of catching a ball under pressure, as described in the premise, is specific to football, which contradicts the basketball action of shooting a three-pointer in the hypothesis.

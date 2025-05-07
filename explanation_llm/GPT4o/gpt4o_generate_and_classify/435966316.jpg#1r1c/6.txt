@@ -1,1 +1,0 @@
-- The number of people mentioned is different: the content states "three workers" and the statement claims "4 fisherman".

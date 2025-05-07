@@ -1,5 +1,0 @@
-1. A man is not an elderly woman.
-2. Preparing food is not the same as cleaning.
-3. Only one person is mentioned in the premise, but two different people are mentioned across the premise and hypothesis.
-4. The roles of preparing food and cleaning the kitchen are assigned to different genders.
-5. The actions of preparing and cleaning are mutually exclusive activities occurring simultaneously with different agents.

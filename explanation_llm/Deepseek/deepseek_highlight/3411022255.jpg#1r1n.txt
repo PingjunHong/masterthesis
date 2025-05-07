@@ -1,6 +1,0 @@
-1. The addition of "to get home" introduces new information not present in the content, making the statement neither entailed nor contradicted by the content.
-2. The content does not specify the purpose of crossing the street, so the goal ("to get home") cannot be confirmed or denied.
-3. The highlighted part ("to get home") is an assumption or inference that goes beyond the factual description in the content.
-4. The statement adds a subjective motive (crossing to get home) that is not implied or stated in the content.
-5. The content is purely descriptive, while the statement includes an unsupported explanatory detail, making the relationship neutral.
-6. The highlighted phrase introduces a possible but unverifiable reason for the action described in the content.

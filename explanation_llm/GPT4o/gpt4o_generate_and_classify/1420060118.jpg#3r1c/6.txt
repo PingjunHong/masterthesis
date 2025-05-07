@@ -1,2 +1,0 @@
-- The actions of performing a jumping kick and wrestling with bears are logically exclusive activities happening at the same time.
-- Wrestling with bears is a specific activity that contradicts the action of doing a jumping kick, which is more aligned with a martial arts move than wrestling.

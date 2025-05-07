@@ -1,1 +1,0 @@
-- The premise does not mention a duck or a lake, which are introduced in the hypothesis without support from the premise.

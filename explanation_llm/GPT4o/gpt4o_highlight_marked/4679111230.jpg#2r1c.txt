@@ -1,4 +1,0 @@
-- "Out" contradicts "inside" because the firefighters are described as being outside versus inside.
-- "Subway station" contradicts "fire station" because the locations differ entirely.
-- "Of" contradicts "a" because "of" indicates they are emerging from a specific location, while "a" suggests they are inside a general location.
-- "Playing cards" contradicts "come" because playing cards implies a stationary activity, whereas coming out indicates movement.

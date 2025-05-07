@@ -1,1 +1,0 @@
-- Playing a violin is a different activity from washing laundry, creating a conflict between the activities mentioned in the premise and the hypothesis.

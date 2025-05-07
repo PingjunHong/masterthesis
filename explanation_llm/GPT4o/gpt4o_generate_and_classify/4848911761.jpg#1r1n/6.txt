@@ -1,1 +1,0 @@
-- There is no logical structure conflict; both content and statement support the same scenario.

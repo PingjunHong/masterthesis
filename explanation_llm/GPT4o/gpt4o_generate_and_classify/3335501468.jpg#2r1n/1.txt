@@ -1,1 +1,0 @@
-- The premise mentions "a bird," but the hypothesis refers to "the duck," which are not coreferential.

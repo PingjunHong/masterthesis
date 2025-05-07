@@ -1,5 +1,0 @@
-- "Child" in both sentences refers to the same individual, maintaining consistency in the subject.
-- "Sticking" implies that the child is partially inside, confirming the child's presence within the vehicle.
-- "Head" indicates that part of the child is extending from within the space, supporting the notion of being inside.
-- "Taxi cab" is a type of "car," establishing that the vehicle mentioned is indeed a car.
-- "Screaming" does not contradict the child's location inside the car; it is an additional action that can occur within the car.

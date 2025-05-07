@@ -1,7 +1,0 @@
-1. "A woman" is a subset of "a person," satisfying the subject requirement.
-2. "Walking down the street" implies being "outside," as streets are typically outdoor spaces.
-3. The action of walking inherently occurs in an outdoor or public setting, aligning with "outside."
-4. No contradictory information in the content negates the statement (e.g., no indication the woman is indoors).
-5. The generality of "a person" is broad enough to encompass "a woman," and the activity is consistent with being outside.
-6. The absence of qualifiers (e.g., "inside," "at home") in the content supports the default interpretation of "outside."
-7. Social and physical norms associate "walking down the street" with an outdoor context.

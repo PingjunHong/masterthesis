@@ -1,1 +1,0 @@
-- The activity of playing billiards in the content supports the logical implication that the statement "A man is playing billiards" is true, regardless of additional context like location.

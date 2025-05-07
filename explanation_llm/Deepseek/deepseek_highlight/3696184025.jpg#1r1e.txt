@@ -1,7 +1,0 @@
-1. The highlighted word "girl" in the Statement corresponds to "young girl" in the Content, confirming the subject.
-2. The highlighted word "standing" in the Statement matches "is standing" in the Content, confirming the action.
-3. The Content explicitly states the girl is standing, which directly supports the Statement.
-4. The Statement is a simplified version of the Content, retaining only the essential information about the girl standing.
-5. The highlighted words in both sentences align semantically, ensuring the Statement is entailed by the Content.
-6. No contradictory information in the Content negates the Statement, preserving the entailment.
-7. The Statement's meaning is fully contained within the broader description provided in the Content.

@@ -1,5 +1,0 @@
-- "Sit against a wall" and "lean against a wall" both suggest a similar posture where the men are in contact with the wall for support, implying a sense of resting.
-- "Sleeping dog on a purple leash" implies the presence of a dog, which directly aligns with the mention of "a dog" in the statement.
-- The phrase "Two homeless men" is directly matched in both the content and the statement, indicating the same subjects.
-- The presence of a "wall" in both the content and the statement confirms a shared location element.
-- The specific actions and conditions ("sit" and "lean") are variations of the same general activity of resting or being stationary, supporting the inference of entailment.

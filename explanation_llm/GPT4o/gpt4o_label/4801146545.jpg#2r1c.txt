@@ -1,3 +1,0 @@
-- The content specifies that people are wearing only white and red, which excludes the possibility of anyone wearing black.
-- The presence of people wearing black contradicts the content's description of attire limited to white and red.
-- The statement introduces black clothing that is not mentioned in the content, creating a contradiction about the colors worn by the people.

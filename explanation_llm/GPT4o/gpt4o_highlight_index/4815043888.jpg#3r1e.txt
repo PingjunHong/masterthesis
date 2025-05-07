@@ -1,4 +1,0 @@
-1. "A man and a child" in the content are examples of "People" in the statement.
-2. "Purchasing" in the content is synonymous with "buying" in the statement.
-3. "Ice cream" in the content is a type of "food" mentioned in the statement.
-4. "A man with a hand pushed ice cream cart" in the content is a specific example of a "street vendor" in the statement.

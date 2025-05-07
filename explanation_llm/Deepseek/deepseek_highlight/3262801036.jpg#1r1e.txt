@@ -1,6 +1,0 @@
-1. The highlighted word "rescuers" in the Content implies individuals performing a rescue action, which aligns with "people act together" in the Statement, as both refer to a group collaborating.
-2. "Rescuers" (Content) and "people" (Statement) both denote a group of individuals, supporting the entailment.
-3. The action of "cooperate" (Content) is synonymous with "act together" (Statement), reinforcing the entailment.
-4. The phrase "to place an injured man on a transport device" (Content) is semantically equivalent to "to get another, injured man on a transport" (Statement), confirming the entailment.
-5. The shared context of "snowy, mountainous terrain" (Content) and "snowy terrain" (Statement) further supports the entailment, as the latter is a subset of the former.
-6. The numerical agreement ("six" in both sentences) strengthens the entailment by matching the quantity of individuals involved.

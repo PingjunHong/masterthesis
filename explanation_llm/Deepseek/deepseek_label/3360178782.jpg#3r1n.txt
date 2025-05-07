@@ -1,8 +1,0 @@
-1. The statement adds specificity ("romaine") not present in the content, but this detail doesn’t contradict or entail the original.
-2. The statement specifies gender ("men, and women") where the content only mentions "people," but this doesn’t create contradiction or entailment.
-3. Both texts describe the same core scenario (people observing lettuce at a market), with minor variations that don’t affect logical relationship.
-4. The addition of "romaine" is an elaboration, not a contradiction, as romaine is a type of lettuce.
-5. The content’s "group of people" could include men and women, making the statement’s gender specification consistent but not entailed.
-6. Neither text implies negation or mutual exclusivity; they describe overlapping situations.
-7. The statement’s extra details don’t introduce information that conflicts with the content.
-8. Neutrality holds because the statement neither logically follows from nor opposes the content.

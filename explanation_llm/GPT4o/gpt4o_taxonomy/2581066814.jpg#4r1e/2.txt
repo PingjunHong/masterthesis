@@ -1,7 +1,0 @@
-1. A naked man is a specific type of person.
-2. Riding a bike is synonymous with biking.
-3. Biking is a more general term for the act of riding a bike.
-4. A man is a type of person.
-5. The word "rides" is a specific instance of "biking."
-6. "A naked man" implies "a person" because a man is included in the category of people.
-7. The action of riding a bike confirms the action of biking.

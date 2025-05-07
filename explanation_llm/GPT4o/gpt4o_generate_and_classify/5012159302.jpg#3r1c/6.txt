@@ -1,1 +1,0 @@
-- The content specifies that the equipment is being pulled by horses, which logically excludes the possibility of it being pulled by sheep simultaneously, creating a contradiction.

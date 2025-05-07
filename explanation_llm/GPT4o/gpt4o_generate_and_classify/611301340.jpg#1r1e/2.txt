@@ -1,1 +1,0 @@
-- Wearing orange in both the content and the statement indicates the same action and color, supporting entailment.

@@ -1,1 +1,0 @@
-- The phrase "a man in a black shirt" in the content semantically entails "a man in a shirt" in the statement as a black shirt is a type of shirt.

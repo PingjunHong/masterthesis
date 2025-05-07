@@ -1,2 +1,0 @@
-- The highlighted word "rover" in the content refers to a type of vehicle, while the highlighted word "sedan" in the statement refers to a different type of vehicle, indicating they are not the same vehicle.
-- The content describes the vehicle as "being driven," implying movement across the river, whereas the statement describes the vehicle as "stuck," implying it is not moving.

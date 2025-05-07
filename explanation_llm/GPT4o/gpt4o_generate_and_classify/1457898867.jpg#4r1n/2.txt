@@ -1,2 +1,0 @@
-- The premise mentions a boy "riding down the road," which does not specify what he is riding, whereas the hypothesis specifies a "horse," indicating a difference in meaning between the two.
-- The verb "rides" in the hypothesis and "riding" in the premise are synonyms, but the subject of riding is different in terms of what is being ridden.

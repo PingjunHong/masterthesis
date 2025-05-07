@@ -1,8 +1,0 @@
-1. A man is wearing a vest is a structural rephrasing of A man wearing a red vest.
-2. A man wearing a vest is a syntactic simplification of A man wearing a red vest.
-3. The phrase A man is wearing a vest captures the main subject and action from A man wearing a red vest.
-4. The structure of A man wearing a vest maintains the core meaning of A man wearing a red vest by omitting specific color details.
-5. A man is wearing a vest is a syntactic rephrasing that generalizes A man wearing a red vest by excluding the color.
-6. The statement A man is wearing a vest is a syntactic reduction of A man wearing a red vest, retaining the essential information.
-7. A man is wearing a vest is derived from A man wearing a red vest through the omission of color adjectives, preserving the meaning.
-8. A man is wearing a vest rephrases A man wearing a red vest by simplifying the description of the man's attire.

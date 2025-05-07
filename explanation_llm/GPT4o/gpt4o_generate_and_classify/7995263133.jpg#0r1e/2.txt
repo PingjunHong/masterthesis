@@ -1,1 +1,0 @@
-- "Pillow" in the statement is semantically equivalent to "colorful striped pillow" in the content, supporting the claim that the boy is sleeping on a pillow.

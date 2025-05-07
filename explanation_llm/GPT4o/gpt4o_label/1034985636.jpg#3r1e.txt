@@ -1,5 +1,0 @@
-- The statement "A man playing guitar on stage" is a more general description that includes the specific situation described in the content.
-- The term "electric guitar" in the content is a specific type of guitar, and the statement does not specify the type, so it encompasses electric guitars.
-- Both the content and the statement describe a man engaged in a musical performance on stage, maintaining the core meaning.
-- The statement omits specific details (e.g., "electric") present in the content, but these details do not contradict the statement's broader description.
-- The activity ("playing guitar") and the location ("on stage") are the same in both the content and the statement, ensuring consistency in the core event described.

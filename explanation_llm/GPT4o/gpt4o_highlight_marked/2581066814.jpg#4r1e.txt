@@ -1,7 +1,0 @@
-1. "Man" in the content is a subset of "person" in the statement, as all men are people.
-2. "Bike" in the content implies the act of "biking" in the statement, as riding a bike is synonymous with biking.
-3. The adjective "naked" in the content does not contradict or impact the entailment because the statement does not specify clothing or appearance.
-4. The statement uses a more general description ("person biking") compared to the detailed description in the content ("naked man rides a bike"), which aligns with the concept of entailment.
-5. Both sentences describe the same action ("riding a bike" is equivalent to "biking").
-6. The specific subject in the content ("man") satisfies the more general subject in the statement ("person").
-7. The activity described in the statement ("biking") is fully encompassed by the action described in the content ("rides a bike").

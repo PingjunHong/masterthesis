@@ -1,5 +1,0 @@
-1. "A large group of people" in the content implies the presence of "people" in the statement, as a group consists of multiple individuals.
-2. "Walking" in both the content and the statement directly corresponds, indicating the same action is being described.
-3. "In a busy city" suggests that the people are indeed "in a city" as stated, since a busy city is a kind of city.
-4. The content specifies "at night," but the time of day does not alter the core activity, so the statement remains accurate regarding the location and activity.
-5. The presence of "a city" in both the content and the statement confirms that the location is consistent, even if the descriptor "busy" is omitted in the statement.

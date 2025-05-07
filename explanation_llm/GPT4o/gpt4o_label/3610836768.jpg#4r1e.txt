@@ -1,5 +1,0 @@
-- "Villagers" implies "people," so the presence of villagers means there are people.
-- "Pulling in the fish boat" implies that there is a boat being pulled.
-- The action "pulling" in both the content and statement is consistent, indicating the same activity.
-- The presence of a boat in the content supports the statement’s mention of a boat.
-- The statement generalizes the specific scenario in the content, maintaining logical consistency.

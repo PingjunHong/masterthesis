@@ -1,1 +1,0 @@
-- Basketball players dunking a ball logically implies they are playing basketball, not football.

@@ -1,1 +1,0 @@
-- The premise mentions "women" while the hypothesis mentions "men," indicating a gender-based semantic conflict between the two statements.

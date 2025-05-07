@@ -1,7 +1,0 @@
-1. The statement describes the same woman mentioned in the content.
-2. The "ball cap" in the content is referred to as a "hat" in the statement, which is a valid generalization.
-3. "Squats down" in the content is paraphrased as "squatting" in the statement.
-4. "Touch the cracked earth" in the content is simplified to "touching the ground" in the statement, where "ground" is a broader term for "earth."
-5. All key actions (wearing headgear, squatting, touching the surface) are preserved in the statement.
-6. No contradictory or unsupported details are introduced in the statement.
-7. The statement captures the core meaning of the content without altering the factual relationships.

@@ -1,6 +1,0 @@
-1. The word **"dog"** in the statement is entailed by **"dog"** in the content, establishing the subject.
-2. The phrase **"is going to"** in the statement is entailed by **"is jumping"** in the content, indicating an imminent action.
-3. The word **"get"** in the statement is entailed by the action **"jumping into the water"**, as entering water implies getting wet.
-4. The word **"wet"** in the statement is entailed by **"water"** in the content, as contact with water typically results in wetness.
-5. The combination **"black dog"** in the content supports **"dog"** in the statement, as the color does not contradict the general claim.
-6. The action **"jumping into the water"** in the content logically leads to **"going to get wet"** in the statement, as the outcome is predictable.

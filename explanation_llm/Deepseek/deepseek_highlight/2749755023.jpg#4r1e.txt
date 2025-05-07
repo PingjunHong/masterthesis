@@ -1,8 +1,0 @@
-1. The phrase "looking at" in the content implies visual attention, which aligns with the meaning of "sees" in the statement.
-2. The word "woman" in the content corresponds to "woman" in the statement, establishing the same subject.
-3. The word "bicycle" in the content matches "bicycle" in the statement, confirming the same object of observation.
-4. The action of "looking at" in the content is a direct synonym or near-synonym for "sees" in the statement, indicating the same perceptual event.
-5. The grammatical structure of the content and statement supports the entailment, as both describe a woman performing an action involving a bicycle.
-6. The highlighted word "looking" (index 6 in content) and "sees" (index 2 in statement) share a semantic relationship of visual perception, reinforcing the entailment.
-7. The absence of contradictory or conflicting information between the content and statement ensures the entailment holds.
-8. The context provided by the content (a woman observing a bicycle) logically supports the statement (a woman sees a bicycle).

@@ -1,1 +1,0 @@
-- The premise states that workers are standing on the lift, which logically conflicts with the statement that they are walking off it, as one cannot be standing on and walking off simultaneously.

@@ -1,3 +1,0 @@
-- "Some dogs" implies the presence of multiple dogs, whereas "only one dog" indicates the presence of a single dog.
-- "Some" suggests more than one dog is present, conflicting with "only one," which specifies a singular dog.
-- The plural form "dogs" denotes more than one, contrasting with "one dog," which is singular and refers to just one.

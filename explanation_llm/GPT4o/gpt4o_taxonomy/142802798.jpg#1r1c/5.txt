@@ -1,8 +1,0 @@
-1. The premise describes a boy on a skateboard, but the hypothesis introduces rollerblading, which is not mentioned in the premise.
-2. The premise specifies the boy is on a stone wall, while the hypothesis mentions a tunnel, which is absent from the premise.
-3. The premise includes graffiti on the stone wall, but the hypothesis does not mention graffiti or the stone wall.
-4. The activity described in the premise is skateboarding, which differs from rollerblading in the hypothesis.
-5. The premise does not mention any movement through a tunnel, which is a key part of the hypothesis narrative.
-6. The setting in the premise is a stone wall with graffiti, not a tunnel, which suggests a different environment.
-7. The hypothesis suggests a different mode of transportation (rollerblading) than what is specified in the premise (skateboarding).
-8. The article "the tunnel" in the hypothesis implies a specific location not referenced in the premise.

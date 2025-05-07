@@ -1,8 +1,0 @@
-1. The premise discusses the choir's singing and does not mention any structural details of the church, leaving the existence of ceiling cracks uncertain.
-2. The term "church" in both the premise and hypothesis refers to the same place but does not imply anything about its physical condition.
-3. The premise focuses on the activity of singing, which is unrelated to the architectural state of the church ceiling.
-4. The hypothesis introduces new information about cracks, which is not addressed or contradicted by the premise.
-5. The word "church" in the premise is used in a context of worship, while the hypothesis uses it in a context of structural integrity, which are different aspects.
-6. The premise does not provide any information about the condition of the church, including the ceiling, so the hypothesis about cracks is neither confirmed nor denied.
-7. The word "ceiling" does not appear in the premise, so its condition is outside the scope of the given information.
-8. The semantic focus of the premise is on the choir and their actions, not on the physical attributes of the church building.

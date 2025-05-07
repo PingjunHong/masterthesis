@@ -1,8 +1,0 @@
-1. The bird in the content is not explicitly identified as a duck, so it could be a different type of bird.
-2. Flapping wings on water does not necessarily imply swimming, as the bird might just be stationary or taking off.
-3. The content does not specify the location as a lake, so the bird might be on a different body of water.
-4. The content does not confirm whether the bird is actively moving in water, while the statement assumes swimming.
-5. The content lacks any mention of a duck or specific species, creating uncertainty about the species of the bird.
-6. The content does not indicate the presence of a lake, leaving open the possibility that the bird is on another type of water body, such as a pond or river.
-7. The action of flapping wings does not necessarily correlate with swimming; the bird could be preparing to fly.
-8. The content and statement describe different actions and contexts, with no direct contradiction or entailment.

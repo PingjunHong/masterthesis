@@ -1,3 +1,0 @@
-- The location described in the statement differs from the content; lockers are mentioned in the content, while toilets are mentioned in the statement.
-- The context of the conversation is different; the content implies a school or hallway setting, whereas the statement implies a restroom setting.
-- The specific objects or landmarks mentioned (lockers vs. toilets) are incompatible and indicate different places.

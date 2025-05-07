@@ -1,5 +1,0 @@
-1. "A guy and a girl" (highlighted in Content) refers to "the people" (highlighted in Statement), as both phrases denote multiple individuals.
-2. "Look down a mountain range" (implied by the highlighted words in Content) entails "look at the mountains," as a mountain range consists of mountains, and "look down" implies observing or directing attention toward them.
-3. The action of looking (implied by "look" in both sentences) is preserved, confirming the same activity is described.
-4. The objects of observation ("a mountain range" in Content and "the mountains" in Statement) are semantically equivalent in this context, as a range is a collection of mountains.
-5. The absence of contradictory elements ensures the Statement logically follows from the Content.

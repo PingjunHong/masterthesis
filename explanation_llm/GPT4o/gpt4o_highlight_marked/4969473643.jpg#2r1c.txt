@@ -1,5 +1,0 @@
-- **Camera** refers to a device used for capturing images or videos, while **computer** refers to an electronic device used for processing data, indicating different objects being interacted with.
-- **Camera** implies a focus on photography or videography, whereas **computer** suggests activities related to computing or digital tasks.
-- **Camera** typically requires visual engagement, whereas **computer** usually involves interaction through input devices like keyboards or mice.
-- **Camera** involves being physically present in front of the lens, while **computer** implies sitting at or using a computing device, suggesting different physical settings.
-- **Camera** indicates an object used for capturing visual content, whereas **computer** is used for tasks such as internet browsing, document creation, or gaming, highlighting different purposes or activities.

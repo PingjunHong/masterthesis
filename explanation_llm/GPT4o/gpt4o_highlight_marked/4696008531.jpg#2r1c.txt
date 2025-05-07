@@ -1,5 +1,0 @@
-1. "Trying to throw something" contradicts "walking away," as throwing requires staying in place or facing the target.
-2. "Trying to throw something" indicates an action focused on using hands, while "walking away" suggests disengaging and moving in the opposite direction.
-3. "Is trying to throw" implies an active attempt to perform an action, whereas "is walking away" implies leaving the scene without engaging in that action.
-4. "Throw something" suggests interaction with an object, whereas "walking away" suggests no direct interaction with objects in the vicinity.
-5. "Is" indicates a current state of attempting to throw, while "is walking away" indicates a current state of moving away, making both actions mutually exclusive.

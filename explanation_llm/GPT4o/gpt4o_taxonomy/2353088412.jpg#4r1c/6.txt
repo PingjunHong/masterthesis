@@ -1,8 +1,0 @@
-1. Dogs and cats are different species.
-2. The premise involves two dogs, not a dog and a cat.
-3. The premise specifies that another dog is doing the chasing.
-4. No mention of a cat is made in the premise.
-5. The presence of a cat is incompatible with the information given.
-6. The premise describes dogs, implying a lack of cats in the scenario.
-7. A cat is not involved in the described activity.
-8. The chasing animal in the premise is explicitly a dog.

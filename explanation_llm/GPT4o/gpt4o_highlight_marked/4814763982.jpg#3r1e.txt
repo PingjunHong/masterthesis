@@ -1,7 +1,0 @@
-1. "Man" in both the content and the statement refers to the same subject and aligns semantically.
-2. "Baton" in both the content and the statement refers to the same object and indicates consistency in meaning.
-3. "Performing" in the content implies the act of "doing" in the statement, as both describe an action or activity.
-4. "Things" in the statement is a general term encompassing the specific action of "performing" mentioned in the content.
-5. The statement does not contradict the content, as it generalizes the specific scenario described in the content.
-6. Both the content and the statement describe the same individual engaging in an activity involving a baton.
-7. The statement simplifies and abstracts the specific details in the content without altering its meaning.

@@ -1,3 +1,0 @@
-- The man in the statement is wearing a suit, while the content specifies that the man is naked.
-- The man in the statement is walking, whereas the content describes the man as riding a bike.
-- The statement indicates the man is on a sidewalk, but the content implies he is on a bike, which would typically not be on a sidewalk.

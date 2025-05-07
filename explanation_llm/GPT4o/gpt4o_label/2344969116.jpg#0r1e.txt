@@ -1,5 +1,0 @@
-- "Young boy" in the content corresponds to "small boy" in the statement, as "young" often implies small in age or stature.
-- "Holding a black kettle" in the content matches "holding a kettle" in the statement, with the color detail being non-essential to the core meaning.
-- "Someone is about to pour something in it" in the content implies the kettle "will soon be filled" in the statement, as the act of pouring suggests the kettle will receive contents.
-- The content provides details such as the boy's appearance and attire, which do not contradict the statement and therefore do not affect the entailment.
-- Temporal implication in the content with "about to pour" aligns with "soon be filled" in the statement, establishing a future action related to the kettle.

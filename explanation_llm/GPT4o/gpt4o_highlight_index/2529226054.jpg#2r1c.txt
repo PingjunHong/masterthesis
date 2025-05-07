@@ -1,3 +1,0 @@
-1. "Walking" in the content implies movement, whereas "sitting" in the statement implies a lack of movement.
-2. "Past a black and green fence" in the content indicates an outdoor setting, while "on the sofa" in the statement suggests an indoor setting.
-3. The actions described ("walking" vs. "sitting") are mutually exclusive at the same time.

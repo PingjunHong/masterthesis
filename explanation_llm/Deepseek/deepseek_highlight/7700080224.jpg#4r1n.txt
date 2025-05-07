@@ -1,8 +1,0 @@
-1. "Several women" (Content) implies a group of female individuals, which aligns with "They women" (Statement), indicating the same group.
-2. "are playing" (Content) suggests an ongoing activity involving physical interaction, consistent with "are hitting" (Statement), which describes a specific action within that activity.
-3. "volleyball" (Content) inherently involves hitting a ball with arms, directly supporting "hitting a ball with their arms" (Statement).
-4. The word "volleyball" (Content) implies the use of a ball, matching "a ball" (Statement).
-5. The action of playing volleyball (Content) typically involves arm movements, justifying "with their arms" (Statement).
-6. The plural "women" (Content) and "their" (Statement) agree in number, reinforcing the collective action described.
-7. The progressive tense "are playing" (Content) aligns with "are hitting" (Statement), both indicating current, dynamic actions.
-8. The general activity of volleyball (Content) subsumes the specific action of hitting a ball (Statement), making the latter a necessary component of the former.

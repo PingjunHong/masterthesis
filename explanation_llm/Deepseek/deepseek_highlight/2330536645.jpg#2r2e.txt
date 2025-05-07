@@ -1,8 +1,0 @@
-1. The highlighted words "splash in the water" introduce a specific action ("splash") not mentioned in the content, which only states "play in the water."
-2. The highlighted words "interact with each other" add new information about social behavior that is not implied or stated in the content.
-3. The content does not specify how children play, so the statement's details about splashing and interacting are neither supported nor contradicted.
-4. The statement narrows the scope of "play" to specific actions (splashing and interacting), which may or may not be true given the broader description in the content.
-5. The content's generality ("play") does not provide enough information to confirm or deny the statement's specifics ("splash," "interact").
-6. The statement introduces additional context (social interaction) that is not addressed in the content, making it neither entailed nor contradicted.
-7. The highlighted words describe a possible subset of activities ("splash," "interact") that could fall under "play," but the content does not confirm this.
-8. The statement's details are plausible but not necessary interpretations of the content, leaving the relationship neutral.

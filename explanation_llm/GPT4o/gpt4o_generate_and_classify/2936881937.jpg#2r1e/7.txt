@@ -1,1 +1,0 @@
-- It is a common understanding that if a man is described as being in a black shirt in a specific context, he indeed is wearing that shirt in that context, supporting the entailment.

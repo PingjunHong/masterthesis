@@ -1,7 +1,0 @@
-- The girls in the premise refers to the girls in the hypothesis.
-- The word "girls" in the hypothesis refers to "the girls" mentioned in the premise.
-- The group referred to as "the girls" in the premise is the same as "girls" in the hypothesis.
-- Both the premise and the hypothesis refer to the same group of girls walking down the street.
-- The definite article "the" in the premise specifies the same group as the general term "girls" in the hypothesis.
-- The girls mentioned in the premise are the same individuals as those referred to by "girls" in the hypothesis.
-- The action performed by "the girls" in the premise is the same action performed by "girls" in the hypothesis.

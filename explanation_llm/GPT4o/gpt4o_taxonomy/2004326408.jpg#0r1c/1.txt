@@ -1,5 +1,0 @@
-- The woman referred to in the statement is the same woman in the premise who is riding a bike, not driving a car.
-- The reference to "A woman" in both the premise and statement is the same individual, but her actions contradict each other: riding a bike versus driving a car.
-- "A woman" in the statement is identified with the woman wearing bike shorts and a skirt in the premise, which is inconsistent with driving a car.
-- The woman carrying a shoulder bag while riding a bike in the premise cannot be the same woman driving a car as stated.
-- The coreference of "A woman" links to the woman riding a bike, making it impossible for her to simultaneously be driving a car.

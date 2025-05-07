@@ -1,4 +1,0 @@
-- The content describes people riding bicycles, which implies a group of bicyclists.
-- The content specifies the activity taking place in the street, aligning with the statement's mention of a street.
-- The phrase "people are riding bicycles" suggests multiple individuals, fitting the description of a group.
-- "In the street" from the content confirms the location as outside.

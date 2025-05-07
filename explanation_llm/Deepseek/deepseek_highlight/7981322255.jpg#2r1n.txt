@@ -1,8 +1,0 @@
-1. The highlighted word "pitcher" in the Statement is directly supported by "pro-baseball pitcher" in the Content, confirming the role of the individual.
-2. The action "playing baseball" in the Statement is entailed by "sends a curve ball to his opponent" in the Content, as pitching is a key part of baseball gameplay.
-3. The phrase "at a stadium" in the Statement is implied by "many fans relax and enjoy the game" in the Content, as fans typically watch games in stadiums.
-4. The Content explicitly mentions "pro-baseball," which aligns with "playing baseball" in the Statement, reinforcing the sport's context.
-5. The term "pitcher" in the Statement is a subset of the more specific "pro-baseball pitcher" in the Content, preserving the entailment relationship.
-6. The presence of "fans" in the Content suggests a public setting like a stadium, supporting the Statement's "at a stadium."
-7. The action of pitching ("sends a curve ball") in the Content inherently involves "playing baseball," as stated in the Statement.
-8. The Content's description of a competitive scenario ("opponent") aligns with the Statement's assertion of "playing," indicating active participation in the sport.

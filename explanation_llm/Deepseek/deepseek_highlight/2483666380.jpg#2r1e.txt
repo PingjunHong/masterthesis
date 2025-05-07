@@ -1,5 +1,0 @@
-1. The word "weaving" (index 3 in Content) implies an action performed with hands, which aligns with "doing something with her hands" (indices 5,6,7 in Statement).
-2. The phrase "with a comb in her hand" (implied by index 3 in Content) suggests the woman is using her hands, supporting "doing something with her hands" (indices 5,6,7 in Statement).
-3. Weaving is an activity that inherently involves manual manipulation, directly entailing "doing something with her hands" (indices 5,6,7 in Statement).
-4. The action of holding a comb (implied by index 3 in Content) requires hand use, which matches "doing something with her hands" (indices 5,6,7 in Statement).
-5. The entire context of "weaving with a comb" (index 3 in Content) involves hand movements, making "doing something with her hands" (indices 5,6,7 in Statement) necessarily true.

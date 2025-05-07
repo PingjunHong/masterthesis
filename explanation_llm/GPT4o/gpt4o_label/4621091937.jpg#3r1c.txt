@@ -1,3 +1,0 @@
-- There are men present on the side of the road, so it cannot be empty.
-- The presence of men contradicts the idea of emptiness on the side of the road.
-- The statement "the side of the road is empty" directly opposes the content indicating that men are sitting there.

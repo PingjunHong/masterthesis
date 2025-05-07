@@ -1,1 +1,0 @@
-- The premise refers to "a person" and "another" without specifying any age, while the hypothesis specifies "a child," which is not directly mentioned in the premise.

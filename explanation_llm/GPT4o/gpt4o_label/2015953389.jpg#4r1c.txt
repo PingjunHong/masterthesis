@@ -1,6 +1,0 @@
-- The workers are currently on a lift, indicating they are not walking.
-- The setting described involves workers on a lift, suggesting they are engaged in an activity that is not walking.
-- Being on a lift typically implies being elevated or stationary, not in motion on foot.
-- The scenario does not mention any transition from the lift to walking, making the statement inconsistent with the content.
-- The context lacks any indication of movement necessary for walking home.
-- The workers' position on a lift contradicts the notion of them being in transit on foot.

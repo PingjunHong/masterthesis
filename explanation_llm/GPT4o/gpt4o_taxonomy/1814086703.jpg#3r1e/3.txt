@@ -1,8 +1,0 @@
-1. Two dogs are running is a rephrase of, Two dogs run together near the leaves.
-2. The phrase "Two dogs run" in the premise is equivalent to "Two dogs are running" in the hypothesis.
-3. "Running" in the hypothesis is a continuous form of "run" in the premise, maintaining the same meaning.
-4. "Together near the leaves" is additional information in the premise that does not change the action of the dogs running.
-5. The core action of "running" is the same in both the premise and hypothesis.
-6. The premise uses a simple present tense while the hypothesis uses a present continuous tense, but both describe the same action.
-7. Structural rephrasing from "run" to "are running" maintains the entailment relationship without altering meaning.
-8. The action of the dogs running is preserved in both statements despite different grammatical structures.

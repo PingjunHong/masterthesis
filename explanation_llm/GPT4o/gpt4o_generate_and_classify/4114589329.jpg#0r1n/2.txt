@@ -1,2 +1,0 @@
-- "Right turn" in the premise is not semantically identical to "turning a corner" in the statement, as these can imply different types of turns.
-- The term "Ford car" in the premise does not explicitly equate to "sedan" in the statement, as not all Ford cars are sedans.

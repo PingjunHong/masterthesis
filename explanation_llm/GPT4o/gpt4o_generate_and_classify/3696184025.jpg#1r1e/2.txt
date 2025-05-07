@@ -1,1 +1,0 @@
-- The phrase "A young girl" in the content semantically entails "A girl" in the statement, as "young" is an additional attribute that does not negate the presence of the girl.

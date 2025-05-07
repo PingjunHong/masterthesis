@@ -1,1 +1,0 @@
-- It is logically assumed that walking across the street is synonymous with crossing behind the car due to real-world understanding of street navigation and vehicle movement.

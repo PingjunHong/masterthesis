@@ -1,3 +1,0 @@
-- The locations are conflicting; the premise mentions a stadium, while the hypothesis mentions a street.
-- The activities are conflicting; the premise involves cheering in a stadium, whereas the hypothesis involves walking down a street.
-- The subjects are conflicting; the premise involves a crowd wearing orange, while the hypothesis involves a group of drag queens.

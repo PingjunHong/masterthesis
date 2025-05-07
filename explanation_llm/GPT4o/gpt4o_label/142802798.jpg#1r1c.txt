@@ -1,4 +1,0 @@
-- The boy is using a skateboard, not rollerblades.
-- The boy is on a stone wall, not in a tunnel.
-- The setting involves graffiti, while the statement does not mention any graffiti in the tunnel.
-- The activity of skateboarding is different from rollerblading.

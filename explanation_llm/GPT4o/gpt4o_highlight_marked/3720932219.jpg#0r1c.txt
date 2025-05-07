@@ -1,5 +1,0 @@
-1. The content describes a **woman**, while the statement refers to a **man**, creating a gender mismatch.
-2. The content states that the **woman speaks** with others, whereas the statement claims **a man hits** on a woman, implying a completely different action.
-3. The content involves a **group interaction** (speaking with female students), while the statement implies a **one-on-one romantic or flirtatious interaction**.
-4. The content specifies **young dark-haired female students**, but the statement introduces a new subject (a man) with no reference to these individuals.
-5. The action of **speaking** in the content does not align with the action of **hitting on** someone in the statement, suggesting a contradiction in the type of interaction described.

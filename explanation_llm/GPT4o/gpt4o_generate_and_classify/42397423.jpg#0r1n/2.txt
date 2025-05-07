@@ -1,2 +1,0 @@
-- "Young boy" and "clever person" are not synonymous; being clever is not necessarily implied by being a young boy.
-- "Balancing" in the statement and "balances" in the content are semantically linked, but the statement introduces an additional attribute of cleverness not found in the content.

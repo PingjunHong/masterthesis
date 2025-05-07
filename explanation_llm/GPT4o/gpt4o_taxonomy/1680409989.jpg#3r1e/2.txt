@@ -1,8 +1,0 @@
-- The action of painting a mural implies that someone is painting.
-- The phrase "painting a mural of a woman's face" includes the action of painting, which directly supports the statement that there is a woman painting.
-- "A woman is painting a mural" explicitly states that a woman is engaged in the act of painting.
-- The presence of a woman painting a mural indicates that painting is occurring.
-- The word "painting" in the premise confirms the act of painting mentioned in the hypothesis.
-- "A woman is painting" is a simplified version of "a woman is painting a mural."
-- The activity of creating a mural involves painting, which aligns with the hypothesis that there is painting being done.
-- The premise specifies the subject as a woman, which matches the hypothesis that states a woman is painting.

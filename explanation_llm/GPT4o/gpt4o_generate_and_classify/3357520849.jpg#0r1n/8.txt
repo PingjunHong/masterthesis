@@ -1,1 +1,0 @@
-- While schools are buildings, not all buildings with words written on them are schools, and no additional context is provided to infer that the building is a school.

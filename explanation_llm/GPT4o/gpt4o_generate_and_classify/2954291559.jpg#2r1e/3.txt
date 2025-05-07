@@ -1,1 +1,0 @@
-- "Peers out from atop a building under construction" in the content is syntactically similar to "is atop of a building" in the statement, indicating the location of the person.

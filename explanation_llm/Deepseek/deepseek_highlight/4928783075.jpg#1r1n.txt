@@ -1,7 +1,0 @@
-1. The statement introduces new information ("his mother kicked him out of the house") that is not present or implied in the content, making it neither supported nor contradicted.
-2. The highlighted words ("because," "kicked") introduce a causal explanation that is entirely unrelated to the observed actions in the content.
-3. The content describes the boy's actions (standing, throwing a toy plane) but provides no context or motivation for why he is in the field, leaving the statement's claim unverifiable.
-4. The statement assumes a specific reason for the boy being in the field, while the content only neutrally describes his actions without any explanatory context.
-5. The highlighted parts of the statement introduce subjective interpretation (e.g., "kicked him out"), which cannot be inferred from the objective description in the content.
-6. The content and statement discuss the same scenario (boy in a field) but the statement adds unsupported speculation, making the relationship neutral.
-7. The statement's causal claim ("because") is an external assumption, while the content merely reports observable facts without causation.

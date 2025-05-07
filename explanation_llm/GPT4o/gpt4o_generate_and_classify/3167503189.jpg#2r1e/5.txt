@@ -1,1 +1,0 @@
-- The premise specifies "an old brick house" which is not necessary for the hypothesis; the hypothesis is true regardless of the house's age or material.

@@ -1,2 +1,0 @@
-- "A basketball player" in the content refers to "someone" in the statement.
-- "The arena crowd" in the content corresponds to "a crowd" in the statement.

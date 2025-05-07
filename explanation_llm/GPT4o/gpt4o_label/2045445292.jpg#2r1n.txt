@@ -1,4 +1,0 @@
-- The content does not specify the type of log being sawed.
-- The statement introduces the detail that the log is made of oak, which is not mentioned in the content.
-- The additional detail about the log being oak does not contradict the content but is not supported by it either.
-- The statement could be true or false based on the information given in the content, as the type of wood is unspecified.

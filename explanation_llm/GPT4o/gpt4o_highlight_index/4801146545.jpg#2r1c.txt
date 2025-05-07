@@ -1,3 +1,0 @@
-- The people in the Content are described as wearing only white and red, while in the Statement, they are described as wearing black.
-- The use of "only" in the Content explicitly excludes the possibility of them wearing any other color, including black, which is mentioned in the Statement.
-- The color black in the Statement directly contradicts the specific colors white and red mentioned in the Content.

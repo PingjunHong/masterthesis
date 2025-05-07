@@ -1,2 +1,0 @@
-- "A young man" in the content and "A guy" in the statement refer to the same person.
-- "Skateboard park" in the content and "park to skateboard" in the statement refer to the same location.

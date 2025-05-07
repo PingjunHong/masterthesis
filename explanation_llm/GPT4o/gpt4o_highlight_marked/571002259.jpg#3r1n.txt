@@ -1,5 +1,0 @@
-- The content mentions a tree worker cutting down a branch, which does not necessarily imply that the tree is **dead**.
-- The presence of a tree worker cutting a branch does not provide information about the **health** status of the entire tree.
-- The activity of cutting a branch can occur regardless of whether the tree is **alive** or **dead**, so the statement about the tree being dead is not directly supported or contradicted.
-- The hard hat worn by the tree worker indicates safety precautions, but it does not indicate anything about the tree's **condition**.
-- The content does not provide visual or descriptive evidence that confirms the tree is **dead**; it only describes an action being performed on a branch.

@@ -1,6 +1,0 @@
-1. The statement introduces "a group of friends," which is not mentioned or implied in the content (the content only refers to "people").
-2. The statement specifies "biking through a street," while the content uses "riding bicycles in the street," which could be interpreted differently (e.g., "through" vs. "in").
-3. The statement uses "their helmets," which implies ownership, while the content simply states "wearing helmets" without implying possession.
-4. The statement is more specific (e.g., "friends") where the content is general ("people"), making the statement neither entailed nor contradicted by the content.
-5. The phrasing differences ("riding bicycles" vs. "biking") do not create a contradiction but also do not establish entailment.
-6. The statement does not add or contradict any critical information from the content, maintaining neutrality.

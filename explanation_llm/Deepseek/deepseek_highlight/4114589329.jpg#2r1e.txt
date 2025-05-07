@@ -1,6 +1,0 @@
-1. The word "three" in the statement corresponds to the word "Three" in the content, confirming the quantity.
-2. The word "boys" in the statement matches the word "boys" in the content, confirming the subject.
-3. The phrase "three boys" in the statement is directly supported by the phrase "Three boys" in the content, establishing entailment.
-4. The highlighted words in both the content and the statement align semantically, ensuring the statement is true based on the content.
-5. The content explicitly mentions "Three boys," which logically entails the statement "there are three boys."
-6. The numerical and noun components of the statement are fully present and unmodified in the content, validating the entailment.

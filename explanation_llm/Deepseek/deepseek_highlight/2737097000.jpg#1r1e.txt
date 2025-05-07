@@ -1,8 +1,0 @@
-1. The highlighted word "young" in the Content ("young adults") directly matches the word "young" in the Statement ("The adults are young"), confirming the age attribute.
-2. The highlighted word "adults" in the Content ("young adults") corresponds to the word "adults" in the Statement ("The adults are young"), establishing the subject of the statement.
-3. The phrase "young adults" in the Content logically entails that the adults are young, as the Statement asserts.
-4. The semantic relationship between "young" and "adults" in the Content is preserved in the Statement, where "young" is predicated of "adults."
-5. The Statement is a paraphrase or simplification of the Content's description, retaining the key information about the adults' age.
-6. The highlighted words in both sentences form a coherent and consistent pair ("young adults" → "adults are young"), supporting the entailment.
-7. The Content provides sufficient evidence (the modifier "young") to conclude that the adults are young, as stated in the Statement.
-8. No contradiction exists between the highlighted parts; the Statement's claim is fully supported by the Content.

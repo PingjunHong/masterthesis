@@ -1,7 +1,0 @@
-1. The highlighted words "swimming pool" introduce a new element (a swimming pool) not mentioned in the content, making the statement neither entailed nor contradicted by the content.
-2. The content describes people at a "house party," while the statement refers to a "swimming pool partying," which are distinct settings with no clear connection.
-3. The statement does not confirm or deny the presence of people getting drunk, leaving the relationship between the two sentences unresolved.
-4. The activity of "partying" is vague and could occur in various contexts, so its mention does not directly relate to the specific scenario of "getting drunk at a house party."
-5. The content focuses on the action of "getting drunk," while the statement only mentions "partying," which is a broader and less specific term.
-6. There is no overlap between the highlighted words in the statement ("swimming pool") and any words in the content, preventing a direct inference.
-7. The statement could describe a completely different event or location, making it independent of the content.

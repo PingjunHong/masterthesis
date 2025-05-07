@@ -1,2 +1,0 @@
-1. "**Dog**" in the content contradicts "**cat**" in the statement, as they refer to different animals.
-2. "**Standing near snow looking at water**" in the content contradicts "**laying on the couch**" in the statement, as they describe completely different actions and locations.

@@ -1,4 +1,0 @@
-1. "Three men" in the content implies "some people" in the statement, as three is a subset of "some."
-2. "Men" in the content is a subset of "people" in the statement.
-3. "Carrying a red bag into a boat" in the content implies "put something in a boat" in the statement, as carrying a bag into a boat involves placing it there.
-4. "Another person and boat in the background" in the content implies "a place with more than one boat" in the statement, as the presence of another boat confirms multiple boats.

@@ -1,5 +1,0 @@
-- "A woman" in the statement refers to "A woman in red blouse" in the content.
-- "A child" in the statement refers to "small blond child" in the content.
-- The mention of "stands with a child" resolves to "standing with small blond child" in the content.
-- The phrase "a woman stands with a child" resolves the references "A woman in red blouse" and "small blond child" in the content.
-- "A woman" and "a child" in the statement are coreferential with "A woman in red blouse" and "small blond child" in the content.

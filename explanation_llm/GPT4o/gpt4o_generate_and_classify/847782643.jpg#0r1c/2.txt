@@ -1,2 +1,0 @@
-- The premise describes children laying on a rug, which implies a stationary activity, whereas the hypothesis describes playing catch, which implies a dynamic, active game.
-- The term "rug" in the premise does not match the location "park" in the hypothesis.

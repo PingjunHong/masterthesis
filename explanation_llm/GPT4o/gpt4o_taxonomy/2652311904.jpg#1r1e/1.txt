@@ -1,5 +1,0 @@
-- The street refers to the busy street with numerous people.
-- Alive with activity refers to numerous people interacting and going about their lives.
-- Activity refers to people interacting and going about their lives.
-- The street being alive refers to the busy street having numerous people interacting.
-- Alive refers to the state of numerous people going about their lives.

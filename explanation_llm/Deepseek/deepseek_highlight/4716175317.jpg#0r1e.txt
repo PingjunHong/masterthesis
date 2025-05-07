@@ -1,5 +1,0 @@
-1. The word "shopping" in the statement directly corresponds to the word "shopping" in the content (index 8), confirming the action described.
-2. The phrase "crowd of people" in the statement (index 3) aligns with "crowd of people" in the content (index 4), establishing the subject of the action.
-3. The action "are shopping" in the statement is fully supported by the description "shopping at a street market" in the content, leaving no ambiguity.
-4. The highlighted words in both sentences collectively reinforce the entailment by matching the subject ("crowd of people") and the action ("shopping").
-5. No contradictory information exists between the highlighted words or the broader context, ensuring the statement logically follows from the content.

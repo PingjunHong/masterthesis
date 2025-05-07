@@ -1,5 +1,0 @@
-- **City** and **park** refer to fundamentally different locations, making the two contexts incompatible.
-- A **busy city** implies an urban environment, while a **park** typically suggests a natural or green space.
-- Walking in a **city** contrasts with being in a **park**, as the two settings are distinct and cannot overlap in the described context.
-- The description of a **busy city** implies human-made structures and urban activity, whereas a **park** suggests a quieter, open, and green area.
-- The scene happening at **night** in a **city** does not align with the typical characteristics of being in a **park**, as parks are generally less populated or closed at night.

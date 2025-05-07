@@ -1,1 +1,0 @@
-- "Sitting" and "sleeping" can occur simultaneously, allowing the statement "A man is sleeping on the floor" to be true when the man is described as "sitting and sleeping."

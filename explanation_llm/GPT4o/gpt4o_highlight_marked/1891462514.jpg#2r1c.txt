@@ -1,4 +1,0 @@
-- "A woman" contradicts "the pigs" because a woman is a human being, while pigs are animals.
-- "A woman" contradicts "the pigs" as the subject of the action differs; a woman is a singular human subject, whereas pigs are plural animal subjects.
-- "digs" contradicts "eat" because digging is an action involving moving earth, while eating involves consuming food.
-- "into the ground" contradicts "dogs" as the object of the action; digging involves interacting with the earth, whereas eating dogs involves consuming animals.

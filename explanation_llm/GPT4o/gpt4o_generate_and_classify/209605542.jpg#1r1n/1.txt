@@ -1,1 +1,0 @@
-- No coreference resolution is needed as there are no pronouns or demonstratives to resolve between the content and statement.

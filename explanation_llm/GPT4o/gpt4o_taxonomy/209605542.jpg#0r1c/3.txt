@@ -1,9 +1,0 @@
-- "A woman climber attempts to pull herself up" is a rephrase of "a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage," indicating a shift from male to female climber.
-- The statement "A woman climber attempts to pull herself up" structurally alters the premise by changing the gender from male to female.
-- "A woman climber attempts to pull herself up" syntactically rephrases "a climber wearing a red headband is pulling himself up some gray rocks" with a contradiction in the gender of the climber.
-- The premise describes a male climber, whereas the statement describes a female climber, making it a contradiction through structural rephrasing.
-- The gender-specific term "himself" in the premise contradicts the gender-specific term "herself" in the statement through syntactic alternation.
-- The pronoun shift from "himself" to "herself" in the premise and statement respectively exemplifies a contradiction through structural rephrasing.
-- "A woman climber attempts to pull herself up" introduces a contradiction by changing the subject's gender from male to female in a syntactic rephrase of the premise.
-- The structural coordination of "a climber wearing a red headband" in the premise conflicts with "a woman climber" in the statement due to gender alteration.
-- The premise uses "himself," while the statement uses "herself," creating a contradiction through syntactic subordination involving gender pronouns.

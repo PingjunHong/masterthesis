@@ -1,6 +1,0 @@
-- Ovens and pots are different cooking implements.
-- Cooking with pots does not imply cooking with ovens.
-- Pots are used on stovetops or open flames, not inside ovens.
-- Cooking with fire typically involves open pots, not ovens.
-- Pots are used for boiling or frying, while ovens are used for baking or roasting.
-- The premise specifies pots, not ovens, indicating different cooking methods.

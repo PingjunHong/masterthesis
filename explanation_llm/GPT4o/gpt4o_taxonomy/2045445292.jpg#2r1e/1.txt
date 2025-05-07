@@ -1,7 +1,0 @@
-1. The "two strong men" in the statement refers to the "Two strong men" in the content.
-2. The action "are working" in the statement refers to the action "work" in the content.
-3. The reference to "two strong men" in the statement is coreferential with "Two strong men" mentioned in the content.
-4. The phrase "are working" in the statement corresponds to "work" in the content, indicating the same ongoing action.
-5. The statement's reference to "two strong men" is resolved by the same phrase in the content, confirming their identity.
-6. The word "working" in the statement is a reference to the activity described as "work" in the content, performed by the same individuals.
-7. The statement and the content both refer to the same "two strong men" performing an action, resolving the coreference.

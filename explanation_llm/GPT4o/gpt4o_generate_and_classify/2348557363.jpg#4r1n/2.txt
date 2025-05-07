@@ -1,1 +1,0 @@
-- The meaning of "on the library steps" does not necessarily imply being "inside the library." The term "library steps" could refer to steps that are outside the library.

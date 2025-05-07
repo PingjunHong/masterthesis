@@ -1,7 +1,0 @@
-- The woman painting a mural and the man tying his shoes are distinct individuals, indicating a contradiction due to differing subjects in the statements.
-- The premise refers to a woman as the subject, while the hypothesis mentions a man, creating a contradiction in gender reference.
-- The premise's focus on a woman painting does not resolve to the hypothesis's mention of a man, leading to a contradiction.
-- The hypothesis introduces a different subject, "man," which does not corefer with the "woman" described in the premise, resulting in a contradiction.
-- Coreference resolution fails as the premise describes actions of a woman, while the hypothesis describes actions of a man, contradicting each other.
-- The subject in the premise, "a woman," cannot be the same as the subject in the hypothesis, "a man," creating a contradiction through incorrect coreference.
-- The premise and hypothesis refer to different individuals, with no coreferential link between "woman" and "man," leading to a contradiction.

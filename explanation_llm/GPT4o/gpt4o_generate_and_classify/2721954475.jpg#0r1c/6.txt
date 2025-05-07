@@ -1,1 +1,0 @@
-- The actions of standing and lying are mutually exclusive, creating a logical conflict between the premise and the statement.

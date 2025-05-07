@@ -1,4 +1,0 @@
-- The content indicates the dogs are standing, not sitting.
-- The content specifies the location as the yard, not the porch.
-- The statement implies a different activity (sitting vs. standing).
-- The location in the statement does not match the location in the content.

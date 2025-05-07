@@ -1,2 +1,0 @@
-- "A young child" in the content refers to "a child" in the statement.
-- "A decorated box" in the content is equivalent to "a fancy box" in the statement.

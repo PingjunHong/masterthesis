@@ -1,1 +1,0 @@
-- While nurse-work could involve orders from a doctor, the premise does not explicitly mention this scenario, leading to the neutral label.

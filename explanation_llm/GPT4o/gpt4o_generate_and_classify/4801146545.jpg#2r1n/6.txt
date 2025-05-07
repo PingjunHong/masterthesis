@@ -1,1 +1,0 @@
-- The premise and the hypothesis differ in the specification of gender, with the hypothesis asserting "men," which introduces a conflict with the unspecified gender in the premise.

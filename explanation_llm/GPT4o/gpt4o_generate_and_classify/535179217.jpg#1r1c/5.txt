@@ -1,1 +1,0 @@
-- The premise mentions people standing near water with a boat, while the hypothesis introduces new information about a line at a restaurant that is not mentioned in the premise.

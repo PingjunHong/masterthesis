@@ -1,4 +1,0 @@
-- The object being held is explicitly described as a torch of fire, not a bag.
-- There is no mention of a bag in the description.
-- The presence of a torch implies that the man's hands are occupied, leaving no indication or possibility of holding a bag simultaneously.
-- The description focuses solely on a torch, suggesting the absence of other objects being held.

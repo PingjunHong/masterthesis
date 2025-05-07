@@ -1,2 +1,0 @@
-- The premise describes a man holding a pink comb, while the hypothesis mentions a green hair comb, creating a color conflict.
-- The premise describes a man wearing a down jacket, while the hypothesis mentions someone wearing a cotton shirt, creating a clothing material conflict.

@@ -1,2 +1,0 @@
-- "Street" and "block" can be inferred as similar locations where people walk.
-- "Men in suits" can be understood as "well dressed people."

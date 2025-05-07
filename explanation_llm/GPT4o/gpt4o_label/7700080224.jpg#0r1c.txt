@@ -1,6 +1,0 @@
-- The content describes a volleyball game, while the statement refers to a cricket game.
-- The content involves women, whereas the statement mentions boys.
-- The content specifies volleyball teams, but the statement is about playing cricket.
-- The court described in the content is for volleyball, not a cricket field.
-- The referee in the content is overseeing a volleyball match, not a cricket game.
-- The content does not mention the number ten, whereas the statement specifies ten boys.

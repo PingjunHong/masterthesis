@@ -1,1 +1,0 @@
-- The premise mentions "2 kids" and the hypothesis refers to "a couple of child relatives," which could imply the same individuals but does not explicitly resolve this reference.

@@ -1,4 +1,0 @@
-- "A group of people" in the content entails "People" in the statement because a group consists of multiple individuals, which are people.
-- "Look at" in the content entails "viewing" in the statement because both terms describe the action of observing or examining something visually.
-- "Fresh lettuce" in the content entails "produce" in the statement because lettuce is a type of produce, which refers to fresh fruits and vegetables.
-- "Local street market" in the content entails "market" in the statement because a street market is a specific type of market, and thus falls under the broader category of a market.

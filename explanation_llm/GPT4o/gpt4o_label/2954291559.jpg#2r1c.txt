@@ -1,3 +1,0 @@
-- The statement describes an "unemployed person," while the content specifies a "worker," implying employment.
-- The content mentions the person is "atop a building under construction," not merely "near" it.
-- The term "worker" inherently suggests employment, which contradicts the term "unemployed person" in the statement.

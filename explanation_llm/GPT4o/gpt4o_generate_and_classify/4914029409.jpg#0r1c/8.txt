@@ -1,1 +1,0 @@
-- People who are riding bikes cannot simultaneously be changing a bike tire, as these are distinct activities requiring different conditions (one being active riding and the other requiring stopping and mechanical work), thus creating a contradiction.

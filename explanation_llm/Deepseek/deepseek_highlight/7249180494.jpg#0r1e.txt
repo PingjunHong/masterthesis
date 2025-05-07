@@ -1,7 +1,0 @@
-1. The highlighted word "professional" in the content implies that the subject is a swimmer, which aligns with the statement "A person is swimming."
-2. The highlighted word "swimmer" in the content directly indicates that the subject is engaged in swimming, supporting the statement.
-3. The action described in the content (spitting water after surfacing) is typically associated with swimming, reinforcing the statement.
-4. The highlighted word "person" in the statement is a general term that includes "professional swimmer," making the entailment valid.
-5. The context of the content (grabbing a hand after surfacing) suggests the subject was recently in water, consistent with swimming.
-6. The term "swimmer" inherently involves the act of swimming, making the statement a logical entailment.
-7. The content describes an activity (surfacing) that occurs during swimming, further validating the statement.

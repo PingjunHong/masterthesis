@@ -1,5 +1,0 @@
-- People who are asleep cannot actively watch an event.
-- Being gathered at night to watch an event implies they are awake and attentive.
-- The act of watching requires consciousness, which is not possible if they are asleep.
-- The context of watching an event suggests engagement, incompatible with being asleep.
-- If they are asleep, they cannot simultaneously participate in or observe an event.

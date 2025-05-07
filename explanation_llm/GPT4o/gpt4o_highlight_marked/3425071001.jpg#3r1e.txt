@@ -1,5 +1,0 @@
-1. "Hits" and "is hitting" refer to the same action, with "is hitting" emphasizing the ongoing nature of the action.
-2. "Tennis ball" is a specific type of "ball," and the statement generalizes this to "ball."
-3. "A boy" is present in both the content and the statement, maintaining the subject's identity.
-4. The action is described as occurring in both sentences, ensuring consistency in the event.
-5. The court detail in the content is not contradictory to the statement and can be omitted without affecting the entailment.

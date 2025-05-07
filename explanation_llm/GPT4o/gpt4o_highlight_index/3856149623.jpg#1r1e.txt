@@ -1,3 +1,0 @@
-- "A blond-haired doctor" in the content refers to "A doctor" in the statement, indicating they are the same person.
-- "Looking threw new medical manuals" in the content is synonymous with "looking at a book" in the statement, as medical manuals are a type of book.
-- The mention of "her African American assistant" in the content does not contradict the statement, as it provides additional context but does not affect the core fact that the doctor is looking at a book.

@@ -1,8 +1,0 @@
-1. The football player refers to the American footballer in yellow.
-2. Under duress refers to being under pressure from the player in white.
-3. The player in white is the source of the pressure mentioned in both the premise and hypothesis.
-4. Catches the ball whilst under pressure implies being under duress.
-5. The American footballer is the football player mentioned in the hypothesis.
-6. The player in yellow experiencing pressure corresponds to being under duress.
-7. The term under pressure is synonymous with under duress in this context.
-8. The football player under duress refers to the same individual as the American footballer in yellow.

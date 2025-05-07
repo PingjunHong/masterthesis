@@ -1,6 +1,0 @@
-- The content specifies "three boys," while the statement claims "three girls," directly contradicting the gender mentioned.
-- The highlighted word "boys" in the content explicitly refers to males, whereas the statement refers to females ("girls").
-- The subject in the content is male ("boys"), but the statement incorrectly identifies them as female ("girls").
-- The count ("three") matches, but the gender ("boys" vs. "girls") is incorrect, creating a contradiction.
-- The content describes a group of male individuals, while the statement mislabels them as female.
-- The entities in the content and statement are numerically identical but differ in gender, leading to a contradiction.

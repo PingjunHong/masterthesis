@@ -1,5 +1,0 @@
-1. "Forest" (Content) and "highway" (Statement) describe different locations, leading to a contradiction.
-2. A "biker" (Content) is not necessarily a "man" (Statement), introducing a possible mismatch in the subject.
-3. "Riding through" (Content) implies off-road or natural terrain, while "on highway" (Statement) suggests a paved road, creating a contradiction in the riding context.
-4. The mode of transportation is ambiguous in the Content ("biker" could imply a bicycle), while the Statement specifies a "motorcycle," leading to a potential contradiction.
-5. The absence of "motorcycle" in the Content contrasts with its explicit mention in the Statement, creating inconsistency in the vehicle type.

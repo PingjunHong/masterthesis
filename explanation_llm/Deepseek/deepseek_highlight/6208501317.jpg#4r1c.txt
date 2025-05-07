@@ -1,5 +1,0 @@
-- "Playing a game" implies active engagement, which contradicts "sleeping" as they are mutually exclusive states.
-- "Kid" (active in a game) cannot simultaneously be a "child" who is sleeping.
-- The activity "playing" directly conflicts with the state of "sleeping."
-- The Derby is a game requiring participation, which is incompatible with being asleep.
-- A person cannot be engaged in a physical or mental activity (playing) while asleep.

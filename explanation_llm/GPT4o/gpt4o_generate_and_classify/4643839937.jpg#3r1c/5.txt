@@ -1,1 +1,0 @@
-- The premise does not mention a black shirt, which is introduced solely in the hypothesis, leading to a contradiction.

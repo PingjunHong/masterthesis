@@ -1,7 +1,0 @@
-- Climbing a rock cliff and swimming in the ocean are mutually exclusive activities because they occur in completely different environments and conditions.
-- The presence of a rock cliff and greenery suggests a terrestrial, non-aquatic setting, which contradicts the marine setting required for swimming in the ocean.
-- A red headband worn during rock climbing is inconsistent with swimming in the ocean, where such gear is unnecessary and unlikely.
-- The action of climbing a rock cliff makes being in an ocean physically impossible at the same moment.
-- The term "swimming" implies being in water, while "climbing a rock cliff" implies being on land, creating a direct contradiction in location.
-- Climbing indicates vertical movement and engagement with a solid surface, whereas swimming suggests horizontal movement through water, which are incompatible activities.
-- The mention of "greenery" in the premise indicates a land-based environment, contrasting with the ocean environment implied by the hypothesis.

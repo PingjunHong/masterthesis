@@ -1,2 +1,0 @@
-- Benches are usually found outdoors, and sitting on one while looking at the coast suggests an outdoor setting.
-- The activity of looking out at the coast typically occurs outdoors, as coasts are natural landscapes.

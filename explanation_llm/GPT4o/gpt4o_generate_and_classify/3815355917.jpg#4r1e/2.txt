@@ -1,1 +1,0 @@
-- "Items" and "stuff" are synonyms, indicating that both refer to the same concept in this context, supporting the entailment.

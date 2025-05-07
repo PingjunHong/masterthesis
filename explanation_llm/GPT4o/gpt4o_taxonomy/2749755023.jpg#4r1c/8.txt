@@ -1,6 +1,0 @@
-- The woman described is wearing a black shirt, which contradicts the statement that she is wearing green.
-- Observing a bicycle does not imply sleeping on a couch, suggesting different activities are occurring.
-- The color of clothing is a specific detail that is inconsistent between the premise and hypothesis.
-- The premise does not mention any context involving sleeping or a couch, making the hypothesis inconsistent with observed actions.
-- Real-world understanding suggests that clothing color is unlikely to change spontaneously, supporting the contradiction in attire description.
-- The premise involves active engagement with a bicycle, while the hypothesis suggests a passive state, leading to a contradiction in actions.

@@ -1,8 +1,0 @@
-1. **"young man" (Content) and "guy" (Statement)**: Both refer to a male individual, making the terms interchangeable in this context.
-2. **"waring black" (Content) and "with a skateboard" (Statement)**: While the clothing detail is omitted in the Statement, the focus shifts to the skateboard, which is explicitly mentioned in both.
-3. **"carrying a skateboard" (Content) and "with a skateboard" (Statement)**: Both phrases indicate possession of a skateboard, reinforcing the entailment.
-4. **"looks at" (Content) and "is looking at" (Statement)**: Both describe the same visual action, confirming the subject's attention is directed toward the park.
-5. **"outdoor skateboard park" (Content) and "park to skateboard" (Statement)**: Both refer to a location designed for skateboarding, with the Statement simplifying the description.
-6. The core elements (subject, object, action) align between the two sentences, preserving the logical relationship despite minor phrasing differences.
-7. The Statement generalizes some details (e.g., omitting "young" and "black clothing") but retains the essential meaning of the Content.
-8. The skateboard's presence and the act of looking at a skateboarding location are preserved, ensuring the Statement logically follows from the Content.

@@ -1,7 +1,0 @@
-1. The word **"girl"** in both sentences refers to the same person, establishing a coreference link.
-2. The phrase **"walking in snow"** in the content implies that the girl is **"walking"**, which directly supports the statement.
-3. The phrase **"walking in snow"** also implies an outdoor setting, confirming **"outside"** in the statement.
-4. The highlighted words **"walking"** (content) and **"walking"** (statement) are identical, reinforcing the action described.
-5. The word **"girl"** (statement) aligns with **"girl"** (content), ensuring the subject remains consistent.
-6. The context of **"snow"** inherently suggests an outdoor environment, further supporting **"outside"** in the statement.
-7. The action **"walking"** (content) and the location **"in snow"** together logically entail **"walking outside"** (statement).

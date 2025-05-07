@@ -1,8 +1,0 @@
-1. The content describes "a guy" which is synonymous with "a man."
-2. The content states the guy is "crouching on a handrail," matching the statement.
-3. The additional details (wearing jeans and a hat, concrete embankment) do not contradict the statement.
-4. The statement is a simplified version of the content, retaining the core action and subject.
-5. The action ("crouching on a handrail") and subject ("a man") are directly supported by the content.
-6. No information in the content negates or conflicts with the statement.
-7. The statement is a strict subset of the information provided in the content.
-8. The content provides sufficient evidence to conclude the statement is true.

@@ -1,2 +1,0 @@
-- The premise does not specify the gender of the child on the swing.
-- There is no information in the premise indicating the child is a girl.

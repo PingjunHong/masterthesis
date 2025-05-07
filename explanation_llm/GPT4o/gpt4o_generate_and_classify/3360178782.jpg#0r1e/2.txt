@@ -1,2 +1,0 @@
-- "Consumers" can be semantically inferred to mean "shoppers" as they both refer to people buying goods.
-- "Walking through a public market to purchase vegetables" semantically aligns with "purchasing vegetables at a busy public market" as both describe the action of buying vegetables in a public market setting.

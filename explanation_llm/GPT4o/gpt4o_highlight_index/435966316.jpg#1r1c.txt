@@ -1,4 +1,0 @@
-- The number of individuals mentioned is different; "Three workers" contradicts "4 fisherman."
-- The roles or occupations differ; "workers" contradicts "fisherman."
-- The location or activity is inconsistent; being "on a boat" contradicts "hanging over the boat."
-- The activity described is different; "on a boat hanging from cables over water" contradicts "trying to pet the shark."

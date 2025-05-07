@@ -1,2 +1,0 @@
-- Being in a rowboat in the ocean does not necessarily imply that the group is rowing towards islands, as there could be many possible destinations or none at all.
-- The presence of seagulls does not imply fishing activity, as seagulls could be nearby for various reasons unrelated to fishing.

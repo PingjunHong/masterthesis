@@ -1,5 +1,0 @@
-- Riding down the road implies being on a road.
-- Between two cows implies the presence of two cows.
-- A boy riding indicates the presence of a boy.
-- The road mentioned in the premise refers to the same road in the statement.
-- "Between two cows" confirms there are two cows involved.

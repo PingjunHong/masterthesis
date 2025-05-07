@@ -1,4 +1,0 @@
-1. The highlighted word "Men" in both the content and the statement refers to the same group of individuals.
-2. The action "sit" is common in both the content and the statement, indicating that the men are seated in both scenarios.
-3. The location "on a bus" in the content and "on the bus" in the statement suggests the same setting, implying the men are on the same bus.
-4. The expression "wearing blue uniforms" in the content provides additional descriptive detail about the men but does not contradict the statement, hence it is not necessary for the entailment.

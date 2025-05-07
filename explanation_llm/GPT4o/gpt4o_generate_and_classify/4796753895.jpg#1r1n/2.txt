@@ -1,2 +1,0 @@
-- "Walking to work" in the content is semantically equivalent to "walking to his job" in the statement.
-- "Long sleeves white collared shirt and a tie" is semantically related to "work attire" as both imply formal clothing suitable for a professional environment.

@@ -1,5 +1,0 @@
-1. The content states the woman is **kneeling**, which contradicts the statement that she is **riding** (a bicycle requires movement, not kneeling).
-2. The content describes the woman as being **in the street**, which implies she is stationary, while the statement claims she is **riding** (a bicycle implies motion).
-3. **Kneeling** and **riding a bicycle** are physically incompatible actions (one requires being upright and moving, the other involves being on the ground).
-4. The statement introduces an object (**bicycle**) not mentioned or implied in the content, creating a contradiction with the described scene.
-5. The action **riding a bicycle** would typically involve a different posture (e.g., sitting or standing) than **kneeling**, making the two descriptions mutually exclusive.

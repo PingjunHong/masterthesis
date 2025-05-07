@@ -1,7 +1,0 @@
-- "A boy" in the hypothesis refers to the same boy mentioned in the premise, but the premise describes him as on a skateboard, not rollerblading.
-- "In a green shirt" in both the premise and hypothesis refers to the same boy, but their activities differ, with the premise describing skateboarding and the hypothesis describing rollerblading.
-- "A boy in a green shirt" is the same individual in both statements, yet the premise explicitly states he is on a stone wall, whereas the hypothesis states he is rollerblading through a tunnel, which are contradictory locations and activities.
-- The boy referenced in the premise with "on a skateboard" contradicts the rollerblading action in the hypothesis.
-- "Stone wall with graffiti" in the premise specifies the location, which contradicts "through the tunnel" in the hypothesis for the same boy in a green shirt.
-- The boy in the premise and hypothesis is wearing a green shirt, yet his action changes from skateboarding in the premise to rollerblading in the hypothesis, which is contradictory.
-- Coreference of "a boy" in both statements reveals contradictory details about his environment and activity: "on a stone wall with graffiti" versus "through the tunnel" and "on a skateboard" versus "rollerblading."

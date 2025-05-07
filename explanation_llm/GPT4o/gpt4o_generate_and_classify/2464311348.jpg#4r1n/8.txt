@@ -1,2 +1,0 @@
-- Preparing a fish at a dock can occur without the men having been fishing all day.
-- Men at a dock preparing fish might have obtained the fish by means other than fishing themselves.

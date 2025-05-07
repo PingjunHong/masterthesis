@@ -1,4 +1,0 @@
-1. The highlighted word "shirt" in the Statement is a more general term that is entailed by "black shirt" in the Content, as all black shirts are a subset of shirts.
-2. The presence of the adjective "black" in "black shirt" specifies the color of the shirt, but does not change the fundamental fact that it is a shirt, maintaining the truth of the Statement.
-3. The Statement makes a less specific claim about the shirt's color, which is consistent with the more specific claim in the Content, hence it is entailed.
-4. The removal of the color adjective "black" in the Statement does not alter the truth conditions regarding the presence of a shirt, allowing the entailment to hold.

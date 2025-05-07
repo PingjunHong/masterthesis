@@ -1,1 +1,0 @@
-- The statement "Some men are watching TV at a bar" does not introduce any information absent in the content "Several men at a bar watch a sports game on the television."

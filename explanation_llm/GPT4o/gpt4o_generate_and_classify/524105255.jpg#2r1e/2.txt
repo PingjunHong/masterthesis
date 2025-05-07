@@ -1,2 +1,0 @@
-- "Overlooking" and "taking in" are synonymous in the context of observing a scene.
-- "Blond woman" can be generalized to "someone," as the specific identity is not crucial for the entailment of observing the scene.

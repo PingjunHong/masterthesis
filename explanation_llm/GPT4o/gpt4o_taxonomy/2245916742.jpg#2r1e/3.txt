@@ -1,9 +1,0 @@
-- A man on Easter Island is a rephrase of A man stands by two face structures on Easter Island.
-- The phrase A man stands by two face structures can be reduced to A man on Easter Island while maintaining the same meaning.
-- The primary location mentioned, Easter Island, is present in both the premise and the hypothesis, indicating structural equivalence.
-- The premise includes A man and Easter Island, both of which are directly reflected in the hypothesis, showing syntactic alternation.
-- By omitting the detail of two face structures, the hypothesis simplifies the premise without altering the meaning.
-- The statement A man on Easter Island is a concise version of the premise A man stands by two face structures on Easter Island.
-- The concept of being on Easter Island is inherent in both the premise and hypothesis, facilitating the entailment through syntactic simplification.
-- The hypothesis captures the central idea of the premise by focusing on the location and the presence of a man, without additional specifics.
-- The hypothesis effectively summarizes the premise by highlighting the essential elements: a man and Easter Island.

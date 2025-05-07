@@ -1,7 +1,0 @@
-- If a group of football players is standing, then there are multiple individuals present.
-- The term "group" implies more than one person, contradicting the statement of only one person being present.
-- Football players in plural form indicates that there is more than one player, which contradicts the claim of a single person.
-- The presence of a coaching official in addition to the group inherently means there is more than one person.
-- "Standing behind a coaching official" implies at least two separate entities, the group and the official, contradicting the notion of only one person.
-- The use of "players" suggests a minimum of two people, conflicting with the assertion of a singular presence.
-- The combination of a group and an official by definition involves multiple people, contradicting the statement.

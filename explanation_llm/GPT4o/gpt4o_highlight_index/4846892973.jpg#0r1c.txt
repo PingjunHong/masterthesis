@@ -1,4 +1,0 @@
-1. People standing on a pier are not in a boat.
-2. A pier is a structure extending into the water, separate from boats.
-3. Being on a pier and being in a boat are mutually exclusive locations.
-4. The physical presence on a pier indicates not being in a boat.

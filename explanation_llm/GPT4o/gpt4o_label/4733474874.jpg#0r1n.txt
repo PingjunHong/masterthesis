@@ -1,5 +1,0 @@
-- "Open top vehicle" can be synonymous with "convertible," as both refer to vehicles without a fixed roof.
-- The phrase "riding in" implies that the group of people is traveling, which aligns with "go down the road."
-- The term "group of people" is consistent in both the content and the statement, indicating the same subject.
-- The presence of "black shirts" does not conflict with the statement, as clothing color is not a factor in the entailment.
-- The action described ("riding" and "go down the road") suggests movement, which is a shared concept in both the content and the statement.

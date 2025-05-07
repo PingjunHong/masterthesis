@@ -1,3 +1,0 @@
-- The number of women (three) is greater than the number of men (two).
-- The term "females" in the statement refers to "women" in the content, and "males" refers to "men."
-- The numerical comparison between three and two indicates that females outnumber males.

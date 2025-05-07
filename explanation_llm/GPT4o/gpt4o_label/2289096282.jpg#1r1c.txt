@@ -1,4 +1,0 @@
-- The hill is not empty because there is a person on it riding a wagon.
-- Another person is present, watching the event, indicating the hill is not empty.
-- The presence of the wagon contradicts the statement of the hill being empty.
-- Activity is occurring on the hill, which contradicts the notion of it being empty.

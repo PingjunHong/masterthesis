@@ -1,6 +1,0 @@
-- The action of driving a land rover across a river implies interaction with water, which can lead to splashing.
-- The process of crossing a river with a vehicle typically involves movement through water, causing splashes.
-- The use of "Land Rover" in both the content and the statement suggests the same vehicle and context, reinforcing the entailment.
-- The word "across" in the content and "crosses" in the statement describe the same action, indicating continuity.
-- The presence of a river in both the content and the statement implies the presence of water, supporting the possibility of splashing.
-- The dynamic nature of driving across a river suggests a disturbance in the water, consistent with splashing.

@@ -1,5 +1,0 @@
-1. "A child" in the premise refers to the same "child" in the statement, indicating she is in the taxi cab, not at home.
-2. The pronoun "her" in the premise refers to "a child," confirming she is in the taxi cab and not at home.
-3. "The 0095 taxi cab" in the premise indicates the child's location, contradicting the location "at home" in the statement.
-4. The action "sticking her head out" in context with "the 0095 taxi cab" resolves to the child's presence in the taxi, not at home.
-5. The description "screaming" applies to the child in the taxi, contradicting the restful state of "resting" at home in the statement.

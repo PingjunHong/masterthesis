@@ -1,1 +1,0 @@
-- The number of children playing mentioned in the premise is five, while the hypothesis claims there are ten, which creates a numerical conflict.

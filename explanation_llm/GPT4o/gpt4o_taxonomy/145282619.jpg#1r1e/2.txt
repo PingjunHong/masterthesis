@@ -1,5 +1,0 @@
-1. "A lot of pots" is a synonymous expression for "like 5 pots."
-2. "Cooking with fire" implies cooking, which matches the action described in both the premise and hypothesis.
-3. The premise specifies the number of pots as approximately five, which is encompassed by the phrase "a lot of pots" in the hypothesis.
-4. The use of "a lot" does not negate the estimated number described in the premise.
-5. "Cooking with fire" inherently includes the action of cooking, supporting the entailment.

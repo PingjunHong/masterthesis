@@ -1,6 +1,0 @@
-1. "Escalator" (Content) and "elevator" (Statement) refer to different modes of transportation—one is a moving staircase, the other is a closed cabin that moves vertically.
-2. The Content describes people using an escalator (implied to be moving continuously), while the Statement claims they are using an elevator (which operates differently).
-3. The highlighted words "escalator" and "elevator" are mutually exclusive in this context—people cannot simultaneously be on both.
-4. The action of "waiting to get to their destination" on an escalator contradicts the idea of "taking the elevator," as elevators typically involve entering and exiting a confined space.
-5. The visual context (looking outside through glass walls) is more consistent with an escalator's open structure than an elevator's enclosed design.
-6. The Statement misrepresents the mode of transport described in the Content, creating a direct contradiction.

@@ -1,1 +1,0 @@
-- "A man wearing a red vest" implies "A man is wearing a vest" because the word "red" specifies the color of the vest, but the essential information that the man is wearing a vest remains the same.

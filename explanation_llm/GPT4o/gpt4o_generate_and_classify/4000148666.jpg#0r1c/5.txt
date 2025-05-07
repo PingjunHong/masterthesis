@@ -1,1 +1,0 @@
-- The premise mentions "soccer games" and "soccer ball," while the hypothesis introduces "baseball" and "baseball field," which are not mentioned in the premise.

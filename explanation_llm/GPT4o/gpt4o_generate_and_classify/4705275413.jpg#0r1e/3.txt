@@ -1,1 +1,0 @@
-- The phrase 'pose on a muddy beach' can be rephrased as 'pose on a beach', maintaining the same meaning and supporting the entailment.

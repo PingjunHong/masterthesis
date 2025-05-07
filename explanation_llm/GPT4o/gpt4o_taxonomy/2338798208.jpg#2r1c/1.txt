@@ -1,8 +1,0 @@
-1. "Three women" in the statement refers to the same "three women" in the content, but their actions are different (making cupcakes vs. going to the spa).
-2. "Three women" in both the content and the statement are the same individuals, but the activities described are contradictory.
-3. The "three women" mentioned in both the content and the statement are the same, but the actions they are involved in (making cupcakes versus going to the spa) cannot occur simultaneously.
-4. The reference to "three women" in both the content and the statement is identical, yet the activities described (making cupcakes and going to the spa) are mutually exclusive.
-5. The pronoun reference to "three women" is consistent across content and statement, but the described actions are conflicting (making cupcakes versus going to the spa).
-6. "Three women" in the content and the statement refer to the same group, but the highlighted activities (making cupcakes vs. going to the spa) are incompatible.
-7. The coreference of "three women" in both content and statement is the same, yet their depicted actions (making cupcakes and going to the spa) contradict each other.
-8. The reference to "three women" is resolved as the same individuals in both content and statement, but they are described as doing different activities (making cupcakes vs. going to the spa).

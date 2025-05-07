@@ -1,4 +1,0 @@
-- The statement "A person is standing outdoors" is directly supported by the content, which specifies that the individual is outdoors.
-- The content explicitly describes a person who is part of a crowd, indicating the presence of at least one person.
-- The action of standing is directly mentioned in the content as "stands outdoors."
-- The location "outdoors" in the statement is consistent with the setting described in the content.

@@ -1,1 +1,0 @@
-- A pickaxe is a type of tool, and the presence of a pickaxe implies the man has tools.

@@ -1,1 +1,0 @@
-- The presence of a person rolling down the hill in the content logically conflicts with the claim of an "empty hill" in the statement.

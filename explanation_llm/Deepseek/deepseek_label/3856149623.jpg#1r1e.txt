@@ -1,8 +1,0 @@
-1. The content mentions a "blond-haired doctor," which is a specific instance of a doctor, satisfying the general category in the statement.
-2. The doctor and her assistant are "looking through new medical manuals," which implies the doctor is engaged in the act of looking at a book (a medical manual being a type of book).
-3. The statement does not specify the type of book, and "medical manuals" fall under the broader category of "book."
-4. The action "looking through" includes the possibility of "looking at," as one must look at a book to look through it.
-5. The statement does not require the assistant to be involved, so the presence of the assistant does not contradict the entailment.
-6. The statement is general and does not specify hair color or ethnicity, which are irrelevant details for the entailment.
-7. The term "new medical manuals" implies the books are being examined, aligning with "looking at a book."
-8. The statement is a simplified version of the content, capturing the core action (doctor looking at a book) without additional details.

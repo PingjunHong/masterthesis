@@ -1,5 +1,0 @@
-1. The word "bald" in the statement (index 1) directly matches the word "bald" in the content (index 4), confirming the attribute of the women.
-2. The word "women" in the statement (index 2) aligns with the word "women" in the content (index 3), establishing the subject of the description.
-3. The word "Two" in the statement (index 0) corresponds to the word "Two" in the content (index 0), ensuring the quantity is consistent.
-4. The statement omits non-essential details ("formally dressed," "older") but retains the core information ("Two bald women"), which is fully supported by the content.
-5. The highlighted words in the statement collectively capture the key elements of the content (quantity, attribute, and subject), making the entailment valid.

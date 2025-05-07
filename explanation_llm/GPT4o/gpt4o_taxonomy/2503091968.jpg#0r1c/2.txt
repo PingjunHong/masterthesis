@@ -1,9 +1,0 @@
-- "At home" and "in a taxi cab" refer to different locations, making them antonyms in this context.
-- "Resting" implies a state of calm and inactivity, whereas "screaming" suggests active and loud behavior, which are antonyms.
-- "Sticking her head out of a taxi cab" indicates being in a moving vehicle, which is contradictory to the stationary state implied by "at home."
-- "Screaming" conveys an action that suggests alertness or disturbance, which is the opposite of the tranquil state suggested by "resting."
-- The action of "sticking her head out" suggests movement and activity, which is contradictory to the stationary implication of "resting."
-- The presence of "taxi cab" suggests being outside the home environment, contradicting the notion of being "at home."
-- "Resting" is synonymous with relaxing or sleeping, which cannot be happening simultaneously with "screaming."
-- The location "0095 taxi cab" indicates a specific setting away from home, which contradicts "at home."
-- The concept of "screaming" suggests emotional excitement or distress, which is antonymous to the calmness associated with "resting."

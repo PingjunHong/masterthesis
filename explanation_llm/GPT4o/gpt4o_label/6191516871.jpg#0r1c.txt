@@ -1,3 +1,0 @@
-- The content specifies that all the men are wearing blue, indicating that the statement of a man wearing nothing contradicts the description of attire.
-- The presence of clothing is explicitly mentioned for each man in the content, conflicting with the statement that a man is not wearing anything.
-- The contradiction arises from the explicit mention of clothing (blue) for all individuals, whereas the statement implies a lack of clothing.

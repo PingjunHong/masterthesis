@@ -1,6 +1,0 @@
-- It is not raining when the sun is shining.
-- The presence of sunlight indicates clear weather, not rain.
-- Rain typically obscures sunlight, making it unlikely for the sun to break through.
-- Sunlight breaking through trees suggests dry conditions, not rain.
-- Sunlight implies a dry environment, incompatible with rain.
-- A sunny sky does not accompany rain.

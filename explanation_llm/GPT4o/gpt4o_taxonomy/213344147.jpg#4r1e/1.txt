@@ -1,6 +1,0 @@
-- "People" in the statement refers to the "two people" mentioned in the content.
-- The term "outside" in the statement corresponds to the location "on a dock" in the content.
-- "People" is a reference to "two people" in the content, both indicating individuals.
-- "Outside" resolves to "on a dock," which is an outdoor setting.
-- The statement's "people" links to the "two people" described in the premise.
-- "Outside" in the statement is clarified by the setting "on a dock," confirming an outdoor scenario.

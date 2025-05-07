@@ -1,7 +1,0 @@
-1. The statement assumes the presence of an owner, which is not mentioned or implied in the content (the dog could be jumping for the Frisbee alone).
-2. The word "enjoying" (highlighted index 10) introduces a subjective emotional state (the dog's enjoyment) that is not confirmed or observable in the content.
-3. The content describes a dog jumping for a Frisbee, but it does not explicitly state that this constitutes a "game of fetch" (which implies interaction with an owner).
-4. The term "pet" generalizes the dog's relationship to a human, while the content only describes the dog's action without context of ownership.
-5. The statement adds details (owner, game of fetch, enjoyment) that are not supported by the content, making it an extrapolation rather than an entailment.
-6. The action in the content (jumping for a Frisbee) could be interpreted in multiple ways (e.g., training, play, or instinct), not exclusively as a game with an owner.
-7. The content is purely descriptive, while the statement introduces inferred elements (ownership, intent, emotion) that go beyond the given information.

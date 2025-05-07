@@ -1,9 +1,0 @@
-1. "Electric guitar" is a type of guitar.
-2. Playing an electric guitar implies playing a guitar.
-3. An electric guitar is still considered a guitar in musical contexts.
-4. The presence of "electric" specifies the type of guitar but does not negate its identity as a guitar.
-5. All electric guitars are guitars by definition.
-6. Structural articulation suggests that "electric guitar" is a subset of "guitar."
-7. The logical structure of musical instruments categorizes electric guitars as guitars.
-8. The term "electric" modifies "guitar" without conflicting with the basic premise of it being a guitar.
-9. Quantifier exclusivity does not apply, as "electric" is a non-exclusive modifier to "guitar."

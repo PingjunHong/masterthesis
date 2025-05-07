@@ -1,6 +1,0 @@
-1. The highlighted words "People" and "escalator" in the Content and Statement directly match, establishing a clear connection between the two sentences.
-2. The action "are on" in the Content implies that people are riding the escalator, which aligns with "are riding" in the Statement.
-3. The phrase "waiting to get to their destination" in the Content suggests movement, which is consistent with the idea of riding an escalator in the Statement.
-4. The highlighted word "escalator" in both sentences serves as a shared context, reinforcing the entailment.
-5. The absence of contradictory information in the Content supports the interpretation that people are indeed riding the escalator as stated.
-6. The general scenario described in the Content (people on an escalator) logically entails the specific action of riding it in the Statement.

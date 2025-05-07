@@ -1,3 +1,0 @@
-- "Young man" can be semantically inferred to mean "people" as they are humans.
-- "Standing facing the camera" can be interpreted as "pose for a picture" as it implies an intentional position for capturing images.
-- "Hoods" can be inferred to mean "hood wearing" as it describes the clothing being worn.

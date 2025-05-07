@@ -1,1 +1,0 @@
-- The phrase "crossing the street" in the statement directly corresponds to "crossing the street at a crosswalk" in the content, with "crosswalk" being a specific type of street crossing, thus supporting the entailment.

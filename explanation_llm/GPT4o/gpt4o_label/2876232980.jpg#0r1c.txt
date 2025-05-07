@@ -1,3 +1,0 @@
-- The child wearing a red top is behind the blond headed child, not on top of them.
-- The blond headed child is sitting in a wheelbarrow, which makes it unlikely for someone to stand on top of them.
-- The spatial relationship described in the content is different from the one in the statement, where "behind" contradicts "on top of."

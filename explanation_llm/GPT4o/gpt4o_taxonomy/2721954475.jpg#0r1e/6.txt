@@ -1,6 +1,0 @@
-1. The premise specifies "a large black square on the ground with some yellow writing on it," whereas the hypothesis does not mention any specific location or details about the ground, leading to a lack of specificity conflict.
-2. The premise mentions "a group of people" standing "near and on" a specific object, while the hypothesis simply states "a group of people stand," which introduces a structural exclusivity conflict due to omitted details.
-3. The premise describes a specific location involving "a large black square on the ground," but the hypothesis does not specify any location, resulting in a location conflict.
-4. The premise involves a particular setting with "yellow writing," whereas the hypothesis makes a general claim without any contextual details, leading to a logical structure conflict due to lack of context.
-5. The term "near and on" in the premise implies a particular spatial arrangement that the hypothesis does not address, causing a spatial conflict.
-6. The premise's emphasis on "near and on a large black square" suggests a precise configuration, whereas the hypothesis's generality creates a logical structure conflict due to lack of elaboration.

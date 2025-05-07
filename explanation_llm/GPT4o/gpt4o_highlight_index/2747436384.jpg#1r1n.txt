@@ -1,4 +1,0 @@
-- "Approaching wave" in the content is synonymous with "giant wave" in the statement, as both imply a large wave moving towards the boys.
-- "Four boys" in the content can be referred to as "some boys" in the statement, as "some" is a non-specific term that can include four.
-- The phrase "about to be hit" in the content is equivalent to "about to crash on" in the statement, both indicating an imminent impact.
-- The context of an impending event involving boys and a wave is maintained in both sentences, ensuring the entailment.

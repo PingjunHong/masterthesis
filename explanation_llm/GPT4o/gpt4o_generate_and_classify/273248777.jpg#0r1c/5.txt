@@ -1,1 +1,0 @@
-- The premise describes an American football player catching a ball, while the hypothesis talks about a basketball player shooting a three-pointer, which is not mentioned or supported by the premise.

@@ -1,1 +1,0 @@
-- The presence of people walking together with one holding a sign logically implies a group activity, supporting the statement about a group walking with one holding a sign.

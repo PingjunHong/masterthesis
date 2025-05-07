@@ -1,4 +1,0 @@
-1. The content mentions a **group**, which implies multiple individuals, while the statement asserts there is only **one** person present.
-2. The content specifies **football players**, which inherently refers to more than one individual, contradicting the statement that claims only **one person** is present.
-3. The content describes a **coaching official**, suggesting at least one additional person beyond the **group**, further contradicting the statement's claim of only **one** person present.
-4. The term **group** inherently conflicts with the singular notion of **one person** in the statement.

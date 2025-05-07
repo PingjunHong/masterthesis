@@ -1,6 +1,0 @@
-- "Sweatshirt" and "tank top" refer to different types of clothing, indicating a contradiction in attire.
-- A sweatshirt is a long-sleeved garment, while a tank top is sleeveless, contradicting the garment description.
-- Wearing a sweatshirt negates the possibility of simultaneously wearing a tank top.
-- "Sweatshirt" inherently contradicts "tank top" due to differing garment types.
-- The presence of a sweatshirt implies covering the torso, contrary to the exposure typical of a tank top.
-- "Tank top" suggests a sleeveless garment, whereas "sweatshirt" suggests a garment with sleeves, contradicting each other.

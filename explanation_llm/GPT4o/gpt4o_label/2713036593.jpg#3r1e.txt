@@ -1,5 +1,0 @@
-- The location where the man is sleeping, which is the floor, is consistent in both the content and the statement.
-- The action of sleeping is directly mentioned in both the content and the statement.
-- The order of the words does not affect the meaning, as both convey the same situation.
-- Both the content and the statement involve only one man, ensuring the subject is identical.
-- The additional detail of "sitting" in the content does not negate the fact that the man is sleeping on the floor, which is the focus of the statement.

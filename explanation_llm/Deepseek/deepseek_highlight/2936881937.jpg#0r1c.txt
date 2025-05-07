@@ -1,5 +1,0 @@
-1. The content states the man is **inside** the maintenance garage, while the statement claims he is **outside** the garage.
-2. The content describes the man **looking over a bicycle's rear wheel**, implying he is actively engaged in maintenance, whereas the statement says he is **waiting**, which suggests inactivity.
-3. The content mentions **various tools visible in the background**, indicating the man is in a workspace, while the statement implies he is not in a workspace but **outside** it.
-4. The highlighted parts in the content ("maintenance garage") and statement ("outside a garage") directly contradict each other in terms of location.
-5. The action in the content (inspecting a bicycle) contradicts the inaction implied by "waits" in the statement.

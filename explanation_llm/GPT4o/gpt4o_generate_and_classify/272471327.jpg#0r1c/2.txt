@@ -1,1 +1,0 @@
-- "Pokes a frying donut" implies cooking, which is semantically different from "washing his car."

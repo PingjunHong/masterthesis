@@ -1,5 +1,0 @@
-- A child refers to the child in the ninja outfit.
-- The child in a ninja outfit is the same child referenced as a child.
-- The phrase a child in the premise is the same entity as the child in the statement.
-- The reference to a child in the hypothesis is identified as the child in the ninja outfit.
-- The child mentioned in both the premise and the statement is the same individual.

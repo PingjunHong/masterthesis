@@ -1,8 +1,0 @@
-1. The statement "a black dog with a toy is being chased by a brown dog" rephrases the premise "Dog running with pet toy being chased by another dog" without altering the meaning.
-2. The premise describes a scene where a dog with a toy is being pursued by another dog, which is structurally similar to the statement.
-3. The statement and the premise both describe a dog with a toy being chased by another dog, but they use different phrasing.
-4. In the premise, "Dog running with pet toy being chased by another dog" is structurally rephrased in the statement as "a black dog with a toy is being chased by a brown dog."
-5. The syntactic structure of the premise and the statement differ, yet both convey the same scenario of a dog with a toy being chased.
-6. The premise is rephrased in the statement by specifying the colors of the dogs, but the overall meaning remains unchanged.
-7. The statement rephrases the premise by detailing the color of the dogs, maintaining the underlying event of one dog chasing another.
-8. The core meaning of a dog with a toy being chased by another dog is preserved across the syntactic variation between the premise and the statement.

@@ -1,1 +1,0 @@
-- The premise describes an action at a playground, while the hypothesis suggests an action involving a pool, which are mutually exclusive locations in this context.

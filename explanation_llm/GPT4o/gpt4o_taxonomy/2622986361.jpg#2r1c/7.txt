@@ -1,9 +1,0 @@
-1. Being on the edge of a roof does not imply climbing down a ladder.
-2. Climbing down a ladder is not possible while standing on the edge of a roof.
-3. People on the edge of a roof are not necessarily using a ladder.
-4. The action of being on the edge of a roof contradicts the action of climbing down.
-5. The premise mentions nothing about a ladder being present.
-6. Standing on the edge and climbing down are mutually exclusive actions.
-7. The position described in the premise does not match using a ladder.
-8. People positioned on the edge implies they are not currently climbing down.
-9. There is no mention of a ladder or climbing equipment in the premise.

@@ -1,7 +1,0 @@
-1. The highlighted words "hits" (Content) and "hitting" (Statement) convey the same action, indicating the boy is performing the act of striking the ball.
-2. The highlighted word "boy" (Content and Statement) refers to the same subject in both sentences.
-3. The highlighted word "ball" (Content and Statement) refers to the same object being acted upon.
-4. The phrase "a tennis ball on a court" (Content) implies a specific instance of "a ball" (Statement), making the latter a generalizable subset of the former.
-5. The action "hits" (Content) is a present-tense verb that aligns with the progressive action "is hitting" (Statement), both describing an ongoing event.
-6. The omission of "tennis" and "on a court" (Content) in the Statement does not contradict the core action of hitting a ball, preserving entailment.
-7. The Statement captures the essential elements (boy, hitting, ball) from the Content, disregarding non-essential details.

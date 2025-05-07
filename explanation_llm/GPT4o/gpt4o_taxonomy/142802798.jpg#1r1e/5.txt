@@ -1,5 +1,0 @@
-- The premise mentions a boy in a green shirt on a skateboard, but it does not specify whether he is riding the skateboard or simply standing on it.
-- The action of riding is not explicitly stated in the premise, so we cannot assume the boy is moving on the skateboard.
-- The premise describes a boy on a skateboard, but it does not provide any details about motion or movement associated with riding.
-- The hypothesis introduces the action of riding, which is not mentioned or supported by the premise.
-- Being on a skateboard does not necessarily imply that the boy is actively riding it; he could be stationary.

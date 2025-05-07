@@ -1,4 +1,0 @@
-1. The word "Legos" in the content is a specific example of what the boys are playing with, but the statement implies that the boys are engaged in playing, without specifying with what, thus the specific detail is not necessary for the entailment.
-2. The verb "are playing" is shared between both the content and the statement, maintaining the core action of the boys engaging in play.
-3. The plural noun "boys" in both the content and the statement refers to the same group of children, ensuring consistency in the subject of the activity.
-4. The omission of "Legos" in the statement does not contradict the action described in the content, as it still indicates that the boys are involved in a playing activity.

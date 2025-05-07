@@ -1,1 +1,0 @@
-- The action of kneeling in a street logically implies that the woman is on the ground, and since streets are outdoor spaces, she is outside.

@@ -1,4 +1,0 @@
-- The content describes individuals standing, while the statement describes individuals sitting.
-- The content mentions a quiet street, whereas the statement refers to a busy street.
-- The content specifies young men in hoods, while the statement describes people who are bareheaded.
-- The content includes three young men, implying a specific demographic, whereas the statement uses a more general term, "people," with a different activity and setting.

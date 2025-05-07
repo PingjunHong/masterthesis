@@ -1,6 +1,0 @@
-- "**Sit**" implies the men are passengers, while "**drive**" implies they are operating the bus.
-- The roles described by "**sit**" and "**drive**" are mutually exclusive in this context.
-- Men who are seated cannot simultaneously be in control of the bus as described by "**drive**."
-- The action of "**sit**" suggests inactivity, while "**drive**" requires active engagement.
-- The men being seated on the bus contradicts the idea that they are responsible for the bus being driven into the ocean.
-- The statement "**sit**" does not align with the physical position required to "**drive**" the bus.

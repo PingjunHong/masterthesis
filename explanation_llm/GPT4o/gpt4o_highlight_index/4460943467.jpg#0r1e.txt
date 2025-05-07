@@ -1,4 +1,0 @@
-- The term "3 young man" in the content is equivalent to "Three people" in the statement, indicating the same number of individuals.
-- "in hoods" in the content corresponds to "hood wearing" in the statement, describing the same clothing attribute.
-- "standing in the middle of a quiet street" from the content aligns with "stand in a street" in the statement, capturing the action and location.
-- The concept of "facing the camera" in the content implies they are stationary and visible, which is consistent with "stand" in the statement.

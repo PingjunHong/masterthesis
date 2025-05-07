@@ -1,4 +1,0 @@
-1. The statement provides a more general description by omitting the specific color of the shirt, which does not affect the truth of the statement.
-2. The context and actions described in the content (being in a commercial kitchen and holding up meat) are identical in the statement.
-3. The content's details about the setting and the man's actions are preserved in the statement, making the statement a less specific but accurate representation of the content.
-4. Removing the adjective "black" from "black shirt" does not alter the fundamental activity or setting described, allowing the statement to be logically inferred from the content.

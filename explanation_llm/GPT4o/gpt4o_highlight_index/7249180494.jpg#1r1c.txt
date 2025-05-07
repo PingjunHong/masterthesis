@@ -1,4 +1,0 @@
-- "Walking out of the water" implies movement and being in the water, whereas "laying on the beach" implies being stationary and on land.
-- "The man in the black wetsuit" suggests he is likely engaged in a water activity, while "laying on the beach" suggests he is resting or sunbathing away from the water.
-- "Walking" indicates an active, upright position, while "laying" indicates a passive, horizontal position.
-- "Out of the water" specifies the man's location as being in or near the water, conflicting with "on the beach," which specifies a different location.

@@ -1,3 +1,0 @@
-1. "On" indicates the workers are positioned on the lift, while "off" implies they are not on it.
-2. "Standing" suggests the workers are stationary, while "walk" implies movement.
-3. "On a lift" denotes the workers are physically on the lift, whereas "off a lift" indicates they are no longer on it.
