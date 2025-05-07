@@ -1,8 +1,0 @@
-- Performing is a specific type of doing things.
-- "No shirt on" does not affect the action of performing with a baton.
-- Performing implies engaging in actions or activities, which encompasses doing things.
-- The presence of a baton in both statements confirms the action involves a baton.
-- "With a baton" specifies the object involved in both performing and doing things.
-- The phrase "is doing things" is a general description that includes performing.
-- The negation of having a shirt does not alter the core activity with the baton.
-- The word "performing" inherently involves doing something, which aligns with the statement.

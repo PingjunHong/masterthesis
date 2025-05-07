@@ -1,9 +1,0 @@
-The premise mentions a crowded city street but does not specify any event or reason for the gathering of pedestrians, such as a parade.
-The hypothesis assumes that there is a parade, which is not mentioned or implied in the premise.
-The premise only describes the presence of pedestrians on a crowded street, without indicating what they are doing or why they are there.
-The hypothesis introduces the idea of a parade, which is additional information not supported by the premise.
-The premise provides no evidence or context that suggests the pedestrians are waiting for a specific event like a parade.
-The scene described in the premise could occur without any parade; pedestrians might simply be navigating a busy street.
-The premise lacks any mention of a parade, leaving the possibility of various other reasons for the presence of pedestrians.
-Without explicit details in the premise, the hypothesis's mention of a parade is speculative and not entailed by the premise.
-The premise does not provide any indication of the pedestrians' intentions or actions, making the parade scenario in the hypothesis unsubstantiated.

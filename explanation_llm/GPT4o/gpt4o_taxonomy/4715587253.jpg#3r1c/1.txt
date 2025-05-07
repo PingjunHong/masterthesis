@@ -1,8 +1,0 @@
-1. "A woman" in the statement refers to "a goofy looking woman" in the content, and singing contradicts reciting poetry.
-2. The reference to "the stage" is the same in both the premise and the hypothesis, but the activities described are different and incompatible.
-3. The activity of "singing" by the goofy looking woman contradicts the activity of "reciting poetry" by the woman.
-4. The woman who is identified as "goofy looking" in the premise is the same woman being referred to in the statement, but the actions described do not match.
-5. The premise describes the woman as "singing," whereas the statement describes the same woman as "reciting poetry," which are distinct activities.
-6. Both the premise and the statement refer to the same location "on stage," but the woman cannot be both singing and reciting poetry at the same time.
-7. The identity of "a goofy looking woman" in the premise is coreferential with "a woman" in the statement, but her actions are contradictory.
-8. The description of the activity "singing" in the premise is incompatible with the activity "reciting poetry" referred to in the statement, despite the reference to the same woman.

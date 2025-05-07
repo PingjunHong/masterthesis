@@ -1,5 +1,0 @@
-1. The people refers to the many people standing outside of a place.
-2. The hotel lobby refers to the inside of the building, not outside.
-3. The people talking to each other are outside, not sitting.
-4. The word outside in the premise contradicts sitting in the hotel lobby in the hypothesis.
-5. The location described in the premise is outside, which contradicts the idea of a hotel lobby.

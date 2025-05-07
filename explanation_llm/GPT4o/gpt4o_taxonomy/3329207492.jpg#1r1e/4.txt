@@ -1,5 +1,0 @@
-- Three children holding the boy's arms plus the other boy shooting the water gun plus the boy being shot at equals five children.
-- The description involves four children actively participating in the scenario and one child being the target, totaling five children.
-- Three children are specified as holding the boy, one is specified as shooting the water gun, and the boy being targeted is another child, making five children in total.
-- The premise mentions four distinct roles: holding, shooting, and being shot, and implies a fifth child by counting each role individually.
-- If there are three children restraining, one child shooting, and one child being targeted, the total number of distinct individuals involved is five.

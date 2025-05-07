@@ -1,7 +1,0 @@
-1. A guy refers to the man mentioned in the premise.
-2. Himself refers to the man who has flung himself over a pole in the premise.
-3. Hurled himself in the air refers to the action described as flung himself over a pole in the premise.
-4. The premise's man is the same individual as the hypothesis's guy, performing the action.
-5. The action of flinging over a pole includes being in the air, fulfilling the hypothesis's description.
-6. The reference to people and canopies in the background in the premise does not alter the identity of the man/guy mentioned.
-7. The premise's description of the man in the air is synonymous with the hypothesis's description of hurled himself in the air.

@@ -1,8 +1,0 @@
-1. Firefighters cannot come out of a subway station and be inside a fire station at the same time.
-2. Being inside a fire station is a different location from coming out of a subway station.
-3. A subway station and a fire station are distinct places.
-4. Playing cards is an activity that cannot occur while exiting a subway station.
-5. Coming out of a subway station indicates movement, while playing cards suggests a stationary activity.
-6. The act of coming out implies being outside, whereas playing cards in a fire station implies being inside.
-7. Firefighters coming out of a subway station and playing cards in a fire station are mutually exclusive activities due to location.
-8. Three people cannot simultaneously be in two separate locations (subway station and fire station).

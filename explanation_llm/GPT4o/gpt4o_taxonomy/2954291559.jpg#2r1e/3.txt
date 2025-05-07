@@ -1,6 +1,0 @@
-- A person is atop of a building is a structural rephrase of A worker peers out from atop a building under construction.
-- The statement A person is atop of a building conveys the same meaning as the premise by focusing on the location of the individual.
-- The syntactic structure of the statement A person is atop of a building is a simplified version of the premise A worker peers out from atop a building under construction.
-- The location aspect in the premise A worker peers out from atop a building under construction is captured by the statement A person is atop of a building.
-- Both the premise and the statement describe an individual being on top of a building, indicating equivalent meanings.
-- The statement A person is atop of a building substitutes 'worker' with 'person' while maintaining the core meaning of the premise.

@@ -1,5 +1,0 @@
-- Gymnasts refers to female gymnasts in the premise.
-- Get ready for a competition refers to warm up before a competition.
-- The act of warming up is implied in getting ready for a competition.
-- The female gymnasts in the premise are the same gymnasts mentioned in the hypothesis.
-- Warming up is part of the process that gymnasts go through to get ready for a competition, connecting the premise to the hypothesis.

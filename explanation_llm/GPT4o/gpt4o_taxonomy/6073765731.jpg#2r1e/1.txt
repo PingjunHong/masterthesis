@@ -1,6 +1,0 @@
-1. A lady in the statement refers to the lady mentioned in the premise who is helping another woman.
-2. Another woman in the statement refers to another woman mentioned in the premise.
-3. Work in the statement refers to the work being done in the silver compartment mentioned in the premise.
-4. A lady helping in the statement refers to the action described in the premise where a lady is helping another woman.
-5. The helping action in the statement refers to the helping described in the premise.
-6. The activity of working in the statement corresponds to the activity taking place in the silver compartment as described in the premise.

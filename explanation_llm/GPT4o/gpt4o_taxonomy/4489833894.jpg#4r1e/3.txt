@@ -1,7 +1,0 @@
-1. Two people are playing softball is a rephrase of A softball player throws the ball to her teammate.
-2. The action of throwing the ball and the mention of a teammate imply that there are two people involved in playing softball.
-3. The phrase "throws the ball to her teammate" structurally implies coordination between two players, affirming that two people are playing softball.
-4. The premise's mention of "a softball player" and "her teammate" indicates two individuals engaged in the activity, which matches the hypothesis of two people playing softball.
-5. The coordination between the player and teammate in the premise structurally supports the idea that two people are engaged in the game of softball.
-6. The syntactic structure of "throws the ball to her teammate" involves two people, which is directly rephrased as two people playing softball.
-7. The premise structurally describes an interaction between a player and her teammate, inherently supporting the hypothesis that two people are playing softball.

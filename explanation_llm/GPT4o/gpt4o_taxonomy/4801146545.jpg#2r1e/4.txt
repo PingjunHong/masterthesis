@@ -1,8 +1,0 @@
-1. If people are walking on a street, then a number of people are walking on a street.
-2. If a group is wearing only white and red, they are still described as a large number of people.
-3. Removing the description of clothing from the premise still leaves a valid statement that a large number of people are walking.
-4. The mention of clothing colors does not impact the core fact that people are walking on a street.
-5. The presence of specific clothing colors is not necessary to confirm the action of walking on a street.
-6. The action of walking on a street by a large group is explicitly stated in both the premise and hypothesis.
-7. The hypothesis is a simplification of the premise, retaining the essential action of walking on a street.
-8. The core activity described in both the premise and hypothesis is the walking of people on a street.

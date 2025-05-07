@@ -1,5 +1,0 @@
-1. Riding a bike is synonymous with bike riding.
-2. A dirt trail is a specific type of trail, which supports the activity of bike riding.
-3. The verb "riding" implies the action "bike riding" in the context of a bike.
-4. "The man" in the premise refers to the same individual as "The man" in the statement.
-5. The activity described as "riding a bike" inherently includes the action described as "bike riding."

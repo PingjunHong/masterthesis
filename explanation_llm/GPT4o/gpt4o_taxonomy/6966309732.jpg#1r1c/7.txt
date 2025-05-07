@@ -1,5 +1,0 @@
-- A soccer team on the field is not in the locker room.
-- The team is described as being on the field, not in the locker room.
-- Players cannot be in two places at once; being on the field means they are not in the locker room.
-- Soccer matches occur on the field, not in the locker room.
-- The presence of players on the field contradicts the idea of them being in the locker room.

@@ -1,7 +1,0 @@
-1. Shooting a gun is syntactically and semantically distinct from shooting a bow and arrow.
-2. Outdoors on a beautiful sunny day is syntactically and semantically distinct from a rainy day.
-3. The structural rephrasing of "a beautiful sunny day" to "a rainy day" changes the meaning.
-4. The transformation of "shooting a gun" into "shooting a bow and arrow" alters the activity being described.
-5. The premise's description of weather contrasts syntactically with the hypothesis's description, changing the meaning.
-6. The use of "gun" in the premise versus "bow and arrow" in the hypothesis represents a structural shift with different meanings.
-7. Describing an event as occurring "outdoors on a beautiful sunny day" versus "on a rainy day" involves a syntactic alteration that contradicts the original meaning.

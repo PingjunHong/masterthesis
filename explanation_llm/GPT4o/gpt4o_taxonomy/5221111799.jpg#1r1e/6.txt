@@ -1,9 +1,0 @@
-1. "A carpenter" is a type of workman.
-2. "Working on a roof at a house" aligns with "helping put a roof on a house."
-3. The action of "working on a roof" is logically consistent with "helping put a roof on."
-4. The setting of "a house being built" matches "put a roof on a house."
-5. The term "carpenter" implies involvement in construction, consistent with a "workman" role.
-6. The activity described in the premise entails the same location as the hypothesis, which is "a house."
-7. The logical structure of the premise supports the inclusion of a "workman" role in the hypothesis.
-8. Both the premise and hypothesis describe activities that occur during the construction phase of a house.
-9. The premise's description of "a carpenter" is inclusive of the role "a workman" in the hypothesis.

@@ -1,8 +1,0 @@
-1. The number six matches in both the premise and the statement, ensuring no conflict in count.
-2. The term "rescuers" in the premise conveys the same group as "people" in the statement, indicating structural equivalence.
-3. The action "cooperate to place an injured man" in the premise aligns with "act to save" in the statement, showing logical consistency in the actions described.
-4. The "injured man" in the premise is equivalent to the "seventh who is injured" in the statement, ensuring no discrepancy in the identity or status of the individual.
-5. Both the premise and the statement imply the same temporal context, with the actions occurring concurrently within the scenario.
-6. The location described as "snowy, mountainous terrain" in the premise does not conflict with the statement, which does not specify a different location.
-7. No gender conflict exists, as both the premise and statement refer to the injured individual as a "man."
-8. The use of "six" in both the premise and statement confirms that there is no quantifier conflict.

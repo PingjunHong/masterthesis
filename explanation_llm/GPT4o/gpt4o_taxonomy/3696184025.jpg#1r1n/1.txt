@@ -1,9 +1,0 @@
-- "A girl" in the statement refers to "a young girl in a yellow top and a flowered skirt" in the content, but the content does not specify if she is outside.
-- The "young girl" mentioned in the content is the same as "a girl" in the statement, but the content lacks details about the location being outside.
-- "A girl" and "a young girl in a yellow top and a flowered skirt" are coreferential, but there is no information in the content confirming the location as outside.
-- The girl referenced in both the content and the statement is the same person, but the content does not confirm the setting as outside.
-- The pronoun "a girl" in the statement matches "a young girl" in the content, yet the content does not describe her being outside.
-- Both "a young girl" and "a girl" refer to the same individual, but there is no evidence in the content to support the location being outdoors.
-- Coreference between "a girl" and "a young girl in a yellow top and a flowered skirt" exists, but the content doesn't specify her being outside.
-- The content and statement both refer to the same girl, but the statement assumes she is outside without verification from the content.
-- The identity of "a girl" is resolved to the same individual in the content, however, the outdoor setting is not mentioned in the content.

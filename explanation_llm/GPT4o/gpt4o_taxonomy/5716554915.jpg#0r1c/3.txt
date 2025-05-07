@@ -1,7 +1,0 @@
-1. The statement describes a woman asleep while the moonlight filters in, whereas the content describes a woman lying face first on a yoga mat during the day with sunlight shining through the window, indicating contradictory times of day.
-2. The premise mentions sunlight shining through a window, suggesting daytime, while the hypothesis claims moonlight, suggesting nighttime, which is structurally contradictory.
-3. The content involves a woman lying awake or at least not asleep on a yoga mat, while the statement claims she is asleep, directly contradicting the activity described.
-4. The premise sets the scene with sunlight, while the hypothesis sets it with moonlight, which is a structural contradiction in terms of lighting.
-5. The hypothesis suggests a tranquil, sleeping scene under moonlight, while the content presents an active scene with sunlight, structurally altering the time and activity.
-6. The rephrasing from sunlight in the premise to moonlight in the hypothesis changes the time of day, creating a contradiction.
-7. The structure of the premise, indicating an awake woman, conflicts with the hypothesis’s structure implying sleep, creating contradiction through syntactic alternation.

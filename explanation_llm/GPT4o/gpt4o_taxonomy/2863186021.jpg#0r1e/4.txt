@@ -1,8 +1,0 @@
-- If a woman is walking towards a flock of birds, then the birds are near her.
-- A flock of birds implies the presence of multiple birds, which means there are some birds.
-- The presence of a woman walking towards birds implies there are birds near her.
-- Walking towards something means that the object is in proximity, so the birds are near the woman.
-- The description of a woman approaching a flock indicates the birds are within her vicinity.
-- "Flock of birds" implies a group, confirming the existence of some birds near the woman.
-- The action of walking towards implies movement into an area where birds are present, thus they are near.
-- The spatial relationship described implies proximity, meaning some birds are near the woman.

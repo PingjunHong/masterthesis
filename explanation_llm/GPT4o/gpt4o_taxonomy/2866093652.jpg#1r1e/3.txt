@@ -1,9 +1,0 @@
-1. Women rollerskating around an area is a syntactic rephrasing of Four women competitively rollerskating around an area.
-2. The statement Women rollerskating around an area maintains the same meaning as the premise by omitting non-essential details.
-3. Women rollerskating around an area is a simplified version of the premise Four women competitively rollerskating around an area, focusing on the core activity.
-4. The core activity in both the premise and statement is the same: rollerskating around an area, making the statement a structural rephrasing.
-5. The statement Women rollerskating around an area structurally rephrases the premise by dropping the word "competitively" and specifying the number "four," which does not change the fundamental activity described.
-6. Both the premise and the statement describe the activity of women rollerskating, making the statement a reworded version of the premise.
-7. The statement is a shortened form of the premise, focusing on the main activity and location, thus preserving the original meaning.
-8. The statement Women rollerskating around an area is a concise restatement of Four women competitively rollerskating around an area, with the same underlying meaning.
-9. The structural focus on the action and location in both the premise and statement demonstrates syntactic-level inference by rephrasing.

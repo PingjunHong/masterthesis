@@ -1,8 +1,0 @@
-1. A group of well dressed people walk down a block with one of them holding a sign is a rephrase of, A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.
-2. The statement rephrases the premise by describing "a group of men in suits with briefcases" as "well dressed people."
-3. The premise mentions "a woman holding a sign," which is described in the statement as "one of them holding a sign."
-4. The description of "walk in formation down the street" in the premise is syntactically rephrased in the statement as "walk down a block."
-5. The term "led by a woman holding a sign" in the premise is rephrased as "with one of them holding a sign" in the statement.
-6. The phrase "a group of men in suits with briefcases" is syntactically altered to "a group of well dressed people."
-7. The premise's "walk in formation down the street" is structurally rephrased as "walk down a block."
-8. The concept of a "crowd watching" is omitted in the rephrase but does not affect the entailment since the focus is on the walking group.

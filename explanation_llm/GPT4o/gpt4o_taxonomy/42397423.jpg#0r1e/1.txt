@@ -1,9 +1,0 @@
-A person refers to the young boy in green shorts.
-Balancing refers to the action of the young boy balancing on a pipe.
-The young boy balancing on a pipe is the person balancing.
-A person balancing refers to the young boy who is balancing on a pipe above a river.
-The young boy is the person mentioned in the statement.
-The person balancing is the same individual as the young boy in the premise.
-The reference to "a person" is resolved by identifying the young boy in green shorts as the one balancing.
-The action of balancing on a pipe is attributed to the young boy, aligning with the description of a person balancing.
-The young boy performing the action described in the premise is the person balancing in the hypothesis.

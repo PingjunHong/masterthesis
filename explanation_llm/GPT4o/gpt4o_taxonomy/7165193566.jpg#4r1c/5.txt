@@ -1,8 +1,0 @@
-1. The premise does not provide information about the location of the girl, so the statement that she is in the bathtub is unsupported.
-2. There is no mention of a bathtub in the context, thus the statement introduces an unsupported detail.
-3. The setting described in the premise does not include a bathtub, making the statement's claim about the girl's location contradictory.
-4. The premise lacks any indication of the girl's whereabouts being in a bathtub.
-5. No evidence in the premise supports the claim that the girl is in a bathtub, contradicting the given information.
-6. The context does not mention any bathroom or bathtub-related details, making the statement unsupported.
-7. The hypothesis introduces the idea of a bathtub, which is absent from the premise.
-8. There is no contextual basis in the premise for concluding that the girl is in a bathtub.

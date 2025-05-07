@@ -1,9 +1,0 @@
-- Biker refers to a person who rides a bike.
-- Racing typically involves riding a bike.
-- A person must be present to ride a bike.
-- Biking requires a rider, who is a person.
-- Biker implies an individual engaged in biking activities.
-- Racing on a bike necessitates a person to operate it.
-- Biking is an activity performed by people.
-- The concept of a biker inherently includes a human rider.
-- A person is required to race a bike.

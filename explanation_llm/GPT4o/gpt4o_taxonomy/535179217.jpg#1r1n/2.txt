@@ -1,9 +1,0 @@
-1. The premise mentions a boat, but does not specify its size or color, while the hypothesis describes a "large blue boat," adding specific details not found in the premise.
-2. The word "large" in the hypothesis introduces a size attribute that is not mentioned in the premise.
-3. The color "blue" in the hypothesis adds a detail that is absent from the premise.
-4. The premise refers to a "boat" without descriptors, whereas the hypothesis describes the boat as "large" and "blue," which are not semantically implied by the premise.
-5. The hypothesis introduces additional semantic elements (size and color) that are not inferred from the premise.
-6. The premise allows for any boat, regardless of size or color, while the hypothesis specifies attributes that are not covered by the premise's semantics.
-7. The hypothesis's adjectives "large" and "blue" do not have corresponding terms in the premise, leading to a neutral label in regards to specific semantic details.
-8. The premise and hypothesis share the concept of "boat," but differ in semantic specificity regarding the boat's characteristics.
-9. The semantic content of "large blue boat" in the hypothesis extends beyond the general mention of "boat" in the premise, resulting in a neutral relationship.

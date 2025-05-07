@@ -1,8 +1,0 @@
-1. The premise describes a volleyball match, while the statement describes a cricket match, which involves different sports and activities.
-2. The premise mentions women's volleyball teams, whereas the statement refers to boys playing cricket, indicating a contradiction in both participants' gender and the sport.
-3. The premise involves two teams in a volleyball setting, while the statement involves ten boys in a cricket game, showing a contradiction in the number of participants and the type of game.
-4. The setting in the premise is a volleyball court described as salmon-colored and turquoise, which contradicts the cricket field implied in the statement.
-5. The presence of a referee in black is relevant to the volleyball game described but has no relevance to the cricket game mentioned in the statement.
-6. Volleyball and cricket are fundamentally different sports, making the activities described in the premise incompatible with those in the statement.
-7. The premise's focus is on an indoor volleyball court, while the statement suggests an outdoor cricket field, contradicting the venue settings.
-8. The teams in the premise are clearly identified as women's volleyball teams, which contradicts the statement's focus on boys playing cricket.

@@ -1,8 +1,0 @@
-- "Street market" indicates an outdoor setting, whereas "inside a mall" implies an indoor environment.
-- "Urban area with buildings and a statue" suggests an open space, contrasting with the enclosed space of a mall.
-- "Shopping at a street market" involves being outdoors, which contradicts being inside a mall.
-- The term "street market" is antonymous to the concept of a "mall" as one is typically outdoors and the other indoors.
-- "Street market" and "inside a mall" are mutually exclusive environments based on their definitions.
-- A "statue in background" indicates an outdoor setting that contrasts with an indoor mall environment.
-- The meaning of "street market" is inherently different from the meaning of "mall," leading to a contradiction in location.
-- The word "inside" implies an enclosed space, which contradicts the open-air setting of a "street market."

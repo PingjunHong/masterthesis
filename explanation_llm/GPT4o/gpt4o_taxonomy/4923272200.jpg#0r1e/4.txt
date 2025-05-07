@@ -1,8 +1,0 @@
-- A man playing the saxophone implies he is playing an instrument.
-- Playing the saxophone in the street means the man is playing on the street.
-- If people are sitting on the curb next to the street by him, then they are near him.
-- The presence of people on the curb next to the street indicates they are other people.
-- The saxophone, as a musical device, qualifies as an instrument.
-- The use of "some people" suggests the presence of other people near the man.
-- The conjunction "by him" signifies proximity to the man playing the instrument.
-- Playing in the street inherently means being on the street.

@@ -1,5 +1,0 @@
-1. A snowboarder on a wide plain of snow refers to a snow field with a snowboarder on it.
-2. The wide plain of snow is referenced as a snow field in the hypothesis.
-3. The snowboarder mentioned in the premise is the same snowboarder mentioned in the hypothesis.
-4. The phrase "a wide plain of snow" in the premise is resolved to "a snow field" in the hypothesis.
-5. The term "snowboarder" in the hypothesis is the same individual as the "snowboarder" in the premise.

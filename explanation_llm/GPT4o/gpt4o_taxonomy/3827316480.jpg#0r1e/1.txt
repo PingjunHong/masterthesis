@@ -1,4 +1,0 @@
-- "A tan girl" in the statement refers to "one tan girl with a wool hat" in the content.
-- "Runs" in the statement corresponds to "is running" in the content.
-- "Leans over an object" in the statement matches "leaning over an object" in the content.
-- The wool hat mentioned in the statement is the same wool hat worn by the tan girl in the content.

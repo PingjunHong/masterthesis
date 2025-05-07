@@ -1,5 +1,0 @@
-- The man in "The man is bike riding" refers to the man mentioned in "A man is riding a bike along a dirt trail."
-- "Bike riding" in the statement corresponds to "riding a bike" in the premise, indicating the same activity.
-- The subject "A man" in the premise is the same individual as "The man" in the statement.
-- The action "is riding a bike" in the premise is the same as "is bike riding" in the statement.
-- The determiner "A" in the premise aligns with "The" in the statement, referring to the same person.

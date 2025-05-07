@@ -1,7 +1,0 @@
-- The premise describes people walking in a city at night, while the hypothesis introduces the concept of eating lunch, which typically occurs during the day.
-- There is no mention of any restaurant in the premise where people might be eating, as described in the hypothesis.
-- The activity described in the premise is walking, whereas the hypothesis introduces a different activity, eating, which is not supported by the premise.
-- The premise lacks any mention of food or dining settings that would support the hypothesis of people eating lunch.
-- The premise does not specify the whereabouts or activities of the people beyond walking, leaving the hypothesis unsupported in its claim of dining at a restaurant.
-- Eating lunch is not mentioned or implied in the context of the premise, which focuses on nighttime walking.
-- The hypothesis introduces a scenario of people eating, which is not present or entailed in the nighttime walking narrative of the premise.

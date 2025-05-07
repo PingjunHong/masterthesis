@@ -1,6 +1,0 @@
-- The young man carrying a skateboard refers to a male, contradicting the statement that mentions a girl with a ponytail.
-- The premise specifies a young man, which does not resolve to the girl mentioned in the hypothesis.
-- The skateboard park in the premise refers to a location for skateboarding, whereas the hypothesis refers to a different activity, riding a bike.
-- The carrying of a skateboard in the premise refers to the young man, not a girl riding a bike.
-- The outdoor skateboard park in the premise does not resolve to the park mentioned in the hypothesis, which involves biking.
-- The young man is the only person mentioned in the premise, contradicting the hypothesis that refers to a girl with a ponytail.

@@ -1,5 +1,0 @@
-The hypothesis does not introduce any new information that is unsupported by the premise; both mention a man riding a bike.
-The premise explicitly states a man is riding a bike, which directly supports the statement that he is bike riding.
-The premise provides direct evidence of the action described in the hypothesis, confirming the entailment.
-The activity of bike riding is mentioned in both the premise and hypothesis, without introducing unsupported information.
-There is no absence of mention in the premise regarding the man riding a bike, as it is clearly stated.

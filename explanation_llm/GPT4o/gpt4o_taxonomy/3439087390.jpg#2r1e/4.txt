@@ -1,7 +1,0 @@
-- If dogs are taking a nap, then they are asleep, and dogs are animals.
-- The statement that dogs take a nap implies that at least some animals (the dogs) are asleep.
-- The phrase "a bunch of dogs take a nap" indicates that the dogs are sleeping, and since dogs are animals, it follows that some animals are asleep.
-- The premise describes dogs napping, which means they are asleep. Since dogs are animals, it logically follows that some animals are asleep.
-- The presence of napping dogs in the scenario indicates that they are asleep, fulfilling the condition that some animals are asleep.
-- The act of taking a nap by the dogs ensures that they are asleep, and as dogs belong to the category of animals, it confirms that some animals are asleep.
-- The description of dogs napping directly leads to the conclusion that they are asleep, making the statement about animals being asleep true.

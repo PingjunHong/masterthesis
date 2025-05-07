@@ -1,8 +1,0 @@
-1. Racing does not guarantee a win or a loss, so a biker racing does not imply that the biker loses the race.
-2. The outcome of a race is uncertain, and simply stating that a biker races does not provide enough information to conclude whether they win or lose.
-3. Bikers can race without necessarily losing; the premise does not specify the result of the race.
-4. The premise lacks details about the race's outcome, so it's unclear whether the biker wins or loses.
-5. The statement that a biker races is neutral regarding success or failure in the race, as racing does not inherently lead to losing.
-6. Without additional context, a racing biker could win, lose, or even not finish the race, making the hypothesis equally likely.
-7. There is no causal link in the premise that implies the biker's performance or position at the end of the race.
-8. The premise does not include information about the other competitors or the biker’s skill level, which could affect the race's outcome.

@@ -1,9 +1,0 @@
-1. The statement 'Three dogs are running' refers to the same three dogs mentioned in 'Three dogs running through a field.'
-2. The three dogs in the statement are the same as the three dogs in the premise.
-3. 'Three dogs' in both the premise and the statement refer to the same group of dogs.
-4. The action of 'running' in the statement is the same action described in the premise.
-5. The subject 'Three dogs' in the statement corresponds to 'Three dogs' in the premise.
-6. The reference to 'running' in both the premise and the statement indicates the same activity performed by the dogs.
-7. The statement specifies the same dogs and the same action as described in the premise.
-8. The mention of 'three dogs' in the premise resolves to 'three dogs' in the statement, indicating the same entities.
-9. The activity described in the statement is a partial description of the scene in the premise.

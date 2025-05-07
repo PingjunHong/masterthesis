@@ -1,8 +1,0 @@
-1. Five children cannot simultaneously be ten children.
-2. The premise mentions only five children, not ten.
-3. If there are five children, there cannot be ten children.
-4. Ten children are not possible when only five are mentioned.
-5. Five children is less than ten children.
-6. Five does not equal ten.
-7. The number of children playing is explicitly stated as five, not ten.
-8. The premise specifies five children, contradicting the hypothesis of ten.

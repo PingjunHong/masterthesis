@@ -1,8 +1,0 @@
-- The older man in the premise cannot be the young man in the hypothesis.
-- The older man leaning against a pedestal is not the young man who is jogging.
-- The person described as an older man cannot be the same individual as the young man mentioned.
-- The reference to an older man in the premise contradicts the reference to a young man in the hypothesis.
-- The older man and the young man are distinct individuals based on age descriptors.
-- The premise’s older man is not engaged in jogging, unlike the young man in the hypothesis.
-- The description of an older man does not match the description of a young man.
-- The older man leaning implies inactivity, contrasting with the young man’s action of jogging.

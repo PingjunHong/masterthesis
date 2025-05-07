@@ -1,8 +1,0 @@
-1. The statement about the color of the horses does not rephrase or alter the structural meaning of the premise about men working on farm equipment pulled by horses.
-2. The premise does not provide any detail regarding the color of the horses, so the hypothesis introduces new information that is not a structural rephrasing of the premise.
-3. The hypothesis about the horses being brown is an addition rather than a syntactic rephrasing of the premise involving men working on farm equipment.
-4. The structural rephrasing of the premise would involve details about the men, equipment, or the act of pulling, not the color of the horses.
-5. The statement about the horses' color is a new detail and does not reflect a syntactic alternation of the premise concerning farm work and horses.
-6. Coordination between the premise and hypothesis is absent since the color detail is neither implied nor structurally rephrased in the premise.
-7. Subordination in the premise would involve details about the farm equipment or horses but would not extend to specifying their color, thus making the hypothesis neutral.
-8. The statement introduces an attribute of the horses not mentioned or structurally rephrased from the premise, maintaining neutrality.

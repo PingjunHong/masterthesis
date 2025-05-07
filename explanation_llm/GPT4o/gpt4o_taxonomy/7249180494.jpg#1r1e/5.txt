@@ -1,6 +1,0 @@
-- The premise specifies that the person is a man, but the hypothesis only mentions a person without specifying gender.
-- The hypothesis does not mention the wetsuit, which is specified in the premise, potentially altering the context.
-- The hypothesis provides less detail about the attire of the individual, which is described in the premise as a black wetsuit.
-- The premise specifies that the individual is a man, whereas the hypothesis uses the more general term "person," which could refer to anyone.
-- The hypothesis omits the color of the wetsuit, which is specified in the premise, potentially changing the scenario.
-- The hypothesis lacks the detail about the wetsuit and its color, which could be relevant to understanding the full context of the premise.

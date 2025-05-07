@@ -1,7 +1,0 @@
-- Fresh lettuce is a type of produce.
-- A street market is a type of market.
-- Looking at is synonymous with viewing.
-- The term "group of people" implies "people."
-- The phrase "local street market" encompasses the concept of a market.
-- Viewing fresh lettuce is an instance of viewing produce.
-- The activity of looking at produce occurs at a market.

@@ -1,4 +1,0 @@
-- If men are sitting on the side of a brick road, then they are sitting on the side of a road because a brick road is a type of road.
-- The word "men" implies multiple individuals, which is consistent with the plural "me" in the statement.
-- The action of sitting on the side of a brick road logically implies sitting on the side of a road because a brick road is inherently a road.
-- The structure of the premise implies that the location is a road, which matches the statement that identifies the location as a road.

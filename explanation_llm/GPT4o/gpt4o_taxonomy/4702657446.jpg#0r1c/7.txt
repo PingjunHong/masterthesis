@@ -1,6 +1,0 @@
-- A woman is drying clothes.
-- Someone is actively using the dryer to dry clothes.
-- The act of putting clothes in the dryer indicates they will be or are being dried.
-- Clothes are being placed in a dryer, which is used for drying clothes.
-- Dryers are machines specifically designed for drying clothes.
-- The presence of clothes in a dryer implies the drying process is occurring.

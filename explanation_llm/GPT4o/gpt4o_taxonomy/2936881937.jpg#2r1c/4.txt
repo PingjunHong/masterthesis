@@ -1,5 +1,0 @@
-1. If a man is wearing a black shirt, then he cannot simultaneously be wearing a red shirt.
-2. The color of the shirt described in the premise is black, which contradicts the description of the man wearing a red shirt in the statement.
-3. A single individual cannot wear two shirts of different colors at the same time, hence the premise and statement are contradictory.
-4. The premise specifies the shirt color as black, which inherently contradicts any statement claiming the shirt is red.
-5. The logical implication of wearing a black shirt excludes the possibility of wearing a red shirt concurrently.

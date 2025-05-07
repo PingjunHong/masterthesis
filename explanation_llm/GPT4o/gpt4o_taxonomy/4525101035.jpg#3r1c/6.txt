@@ -1,8 +1,0 @@
-1. A down jacket and a cotton shirt are different types of clothing.
-2. A pink comb and a green hair comb are different colors.
-3. The statement involves someone looking at a comb, while the premise involves someone holding a comb, which implies different actions.
-4. The premise specifies a black man, while the statement does not specify any particular individual, leading to a potential mismatch.
-5. The temporal aspect in the premise suggests an action (holding), whereas the statement implies a different action (looking), potentially occurring at a different time.
-6. The premise describes a specific individual with arms spread, which does not correspond with the action of looking as described in the statement.
-7. The presence of a pink comb in the premise contradicts the presence of a green hair comb in the statement due to color exclusivity.
-8. The premise's description of the action (arms spread) conflicts with the statement's implication of a different posture (looking).

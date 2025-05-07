@@ -1,5 +1,0 @@
-1. "Two softball players are sitting on a bench" describes a scenario where the players are stationary, whereas "A softball player throws the ball to her teammate" describes an action taking place, indicating movement.
-2. "A softball player throws the ball to her teammate" implies at least one player is active and standing, while "Two softball players are sitting on a bench" implies both players are inactive and seated.
-3. The action of throwing a ball cannot occur if both players are described as sitting, as in "Two softball players are sitting on a bench."
-4. "A softball player throws the ball to her teammate" suggests a dynamic interaction involving a throw, which contradicts the static nature of "Two softball players are sitting on a bench."
-5. The premise implies that at least one player is engaged in the act of throwing, which cannot be true if both players are described as merely sitting, as stated in the hypothesis.

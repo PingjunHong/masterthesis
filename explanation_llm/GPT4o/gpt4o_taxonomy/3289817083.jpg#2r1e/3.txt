@@ -1,5 +1,0 @@
-- A man with a baby is petting a pony is a rephrase of A man holding a baby who is petting a pony.
-- The phrase "holding a baby" can be structurally rephrased as "with a baby," conveying the same meaning.
-- The action "who is petting a pony" can be syntactically alternated to "is petting a pony" without altering the meaning.
-- Coordination of "holding a baby" and "petting a pony" is maintained by restructuring it to "with a baby is petting a pony."
-- Subordination in the phrase "who is petting a pony" is simplified to "is petting a pony," maintaining the original intent.

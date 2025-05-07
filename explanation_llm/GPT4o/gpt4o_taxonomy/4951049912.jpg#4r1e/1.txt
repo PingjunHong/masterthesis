@@ -1,4 +1,0 @@
-1. A person sitting implies there is a place to sit.
-2. The graffiti covered wall is the wall referred to in the statement.
-3. The wall in the statement refers to the graffiti covered wall in the content.
-4. The place to sit in the statement corresponds to where the person is sitting in the content.

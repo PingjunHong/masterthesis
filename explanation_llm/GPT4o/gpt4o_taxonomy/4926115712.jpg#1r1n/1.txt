@@ -1,6 +1,0 @@
-- An elderly female refers to the old woman.
-- A male refers to the man.
-- Stalking does not resolve to watching, as watching does not imply stalking.
-- The premise describes the old woman watching, not stalking, so the reference to stalking cannot be resolved in the premise.
-- The man looking at balls does not imply he is being stalked by the old woman, just watched.
-- The reference to the old woman watching does not resolve to the elderly female stalking, as these actions are distinct.

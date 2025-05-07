@@ -1,8 +1,0 @@
-1. The statement "A boy is in danger of falling into water" is a possible scenario based on the premise "A young boy walks on a pipe that stretches over water," but it is not directly rephrased from it.
-2. Walking on a pipe over water implies a risk, but the premise does not explicitly state the boy is in danger.
-3. The premise describes the boy's action and location; the statement adds an interpretation of potential danger, which is not a syntactic rephrasing.
-4. The premise provides a factual situation, while the statement introduces an additional judgment about the situation, not a structural rephrasing.
-5. The structural information in the premise about the boy walking on a pipe over water does not confirm the assumption of danger in the statement.
-6. The premise and the statement use different syntactic structures; the premise is a description, while the statement is an inference about potential consequences.
-7. While the premise gives a scenario that could involve danger, it does not syntactically transform into the statement about being in danger.
-8. The premise details a physical action and setting, whereas the statement implies a potential outcome, which is not syntactically derived from the premise.

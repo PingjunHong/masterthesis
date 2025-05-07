@@ -1,7 +1,0 @@
-- "A boy" in the statement refers to "a young boy" in the content.
-- "Water" in the statement refers to the water over which the pipe stretches in the content.
-- "A pipe" in the content is the structure on which "a boy" is walking, but does not imply danger.
-- "A young boy" from the content is the same as "a boy" in the statement, but his actions don't explicitly suggest he is in danger.
-- "Walks on a pipe" in the content involves the same boy as the one who might fall into water, but it does not specify risk.
-- "Stretches over water" refers to the location of the pipe, without indicating that the boy is in danger.
-- "In danger of falling into water" in the statement is a potential consequence not explicitly mentioned in the content.

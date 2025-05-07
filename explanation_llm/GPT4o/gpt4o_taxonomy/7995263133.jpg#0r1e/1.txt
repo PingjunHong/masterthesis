@@ -1,5 +1,0 @@
-The young boy in pajamas is the same individual as the young boy sleeping on a pillow.
-The pillow in the statement refers to the colorful striped pillow mentioned in the content.
-The young boy lying down in bed is the same young boy sleeping on a pillow.
-The reference to "a pillow" in the statement is resolved by "a colorful striped pillow" in the content.
-The young boy mentioned in the hypothesis is the same young boy described in the premise.

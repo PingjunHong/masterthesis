@@ -1,5 +1,0 @@
-- A dog is an animal, so if a dog is jumping, then an animal is jumping.
-- Jumping for a Frisbee implies that the dog is playing with the Frisbee.
-- A Frisbee is a type of plastic toy, so the dog is playing with a plastic toy.
-- If the activity is happening in the snow, then it is occurring outside.
-- Snow implies cold weather, so if the dog is in the snow, it is in cold weather.

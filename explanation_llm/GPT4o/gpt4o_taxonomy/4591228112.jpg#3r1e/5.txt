@@ -1,9 +1,0 @@
-1. The premise mentions an old man looking over a sculpture, which directly supports the statement that the man is old.
-2. The description specifies the man as old, which confirms the statement without introducing unsupported information.
-3. There is no additional information needed beyond the premise to verify the statement that the man is old.
-4. The premise provides clear evidence of the man's age, aligning with the statement without any unsupported claims.
-5. The statement that the man is old is explicitly supported by the premise, as it directly identifies the man as old.
-6. No new or unmentioned details are introduced in the statement, so the premise fully supports it.
-7. The age of the man is directly mentioned in the premise, so the statement is entailed without the need for further evidence.
-8. The premise and statement both refer to the man as old, ensuring there is no contradiction or lack of support.
-9. The premise already establishes the fact that the man is old, making the statement fully entailed.

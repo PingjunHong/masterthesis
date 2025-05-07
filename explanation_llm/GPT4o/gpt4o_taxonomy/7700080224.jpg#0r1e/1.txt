@@ -1,8 +1,0 @@
-- The term "volleyball match" in the hypothesis refers to the "women's volleyball teams competing" in the premise.
-- "Ladies" in the hypothesis corresponds to "women" mentioned in the premise.
-- The action "competing against each other" in the premise implies that the "volleyball match is in progress" in the hypothesis.
-- The "court" described in the premise provides context for the "volleyball match" mentioned in the hypothesis.
-- The referee "watches" in the premise indicates an ongoing "match" referenced in the hypothesis.
-- The "teams" in the premise are implied to be "ladies" in the hypothesis, given the context of women's volleyball.
-- The presence of a "referee" in the premise suggests the organization of a "volleyball match" stated in the hypothesis.
-- "Competing against each other" in the premise resolves to the concept of a "match" in the hypothesis.

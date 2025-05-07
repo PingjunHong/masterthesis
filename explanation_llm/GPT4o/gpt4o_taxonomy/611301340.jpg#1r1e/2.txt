@@ -1,8 +1,0 @@
-- "Crowd" implies a group of "people."
-- "Wearing orange" describes the color of clothing, which matches "people wearing orange."
-- "Cheering for their team" suggests the people are engaged in an activity, but does not negate the fact they are wearing orange.
-- "In a stadium" specifies a location, but does not alter the description of attire as "wearing orange."
-- "A crowd wearing orange" contains the subset "people wearing orange."
-- "Cheering" is an activity, unrelated to the clothing color, which remains orange.
-- "Orange" in the premise matches the color reference in the hypothesis.
-- "Stadium" is an additional context that does not affect the clothing description.

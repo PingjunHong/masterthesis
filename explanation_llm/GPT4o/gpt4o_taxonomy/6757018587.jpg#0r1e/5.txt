@@ -1,9 +1,0 @@
-1. The premise provides details about the player being a female softball player wearing blue and red, but it does not specifically mention the gender of the player in the hypothesis.
-2. The premise describes the player crouching in the infield, which implies waiting for the next play, confirming that a player is indeed waiting, as stated in the hypothesis.
-3. The premise specifies the location as the infield, but the hypothesis simply states "a player is waiting," which does not introduce any new unsupported information from the premise.
-4. The premise includes specific details about the player's actions and attire, but these details do not contradict the hypothesis, which only asserts that a player is waiting.
-5. The hypothesis does not introduce any new information that is absent from the premise, as the action of waiting is clearly implied by the player crouching for the next play.
-6. The premise does not specifically state that the player is not waiting, meaning there is no information in the premise that negates the hypothesis.
-7. The fact that the player is waiting for the next play is within the logical conclusion derived from the player crouching in the infield, thus there is no unsupported information in the hypothesis.
-8. The premise and hypothesis both refer to the same player, and the action of waiting is implicit in the player's described position and situation, aligning them without introducing unmentioned elements.
-9. The hypothesis does not state any specific context or timeframe that is not already encompassed or implied by the premise.

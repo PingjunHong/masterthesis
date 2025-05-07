@@ -1,6 +1,0 @@
-A marketplace contains multiple stores, and a middle eastern marketplace is composed of middle eastern stores.
-A store is a component of a marketplace, so a middle eastern marketplace includes at least one middle eastern store.
-The term "marketplace" implies the presence of stores, and since the marketplace is specified as middle eastern, it follows the store is middle eastern.
-A marketplace is a collection of stores, and the attribute "middle eastern" applies to both the marketplace and its constituent stores.
-The semantic structure of "marketplace" naturally includes stores, and being middle eastern applies to both the larger marketplace and individual stores within it.
-A marketplace is defined by the stores it contains, hence a middle eastern marketplace must have middle eastern stores.

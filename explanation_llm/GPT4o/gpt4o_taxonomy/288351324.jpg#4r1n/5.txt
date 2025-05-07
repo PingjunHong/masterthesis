@@ -1,8 +1,0 @@
-1. The type of dance is not specified in the premise, so it is unclear whether they are doing the tango.
-2. The premise merely mentions dancing, but does not mention tango or any specific dance style.
-3. There are many types of dances that a group of people might be performing, and tango is just one possibility among others.
-4. The premise lacks information about the style of dance, thus not supporting the hypothesis of them doing the tango.
-5. No details in the premise indicate that the dance being performed is the tango.
-6. The hypothesis introduces specific information about the dance style that is absent from the premise.
-7. The premise does not provide evidence to suggest that the dance is the tango rather than any other style.
-8. The group could be dancing any number of dances, and without more information, the tango cannot be confirmed.

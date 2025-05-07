@@ -1,8 +1,0 @@
-- A man in a black shirt in the statement refers to the man in a black shirt mentioned in the premise.
-- The phrase "a man in a black shirt" in both the premise and the statement refers to the same individual.
-- The reference to "a man in a black shirt" is resolved by identifying the same man in both the premise and the statement.
-- The man mentioned in the statement is the same man described as being in a black shirt in the premise.
-- The statement's reference to "a man in a black shirt" is the same entity as in the premise.
-- Both the premise and the statement are referring to the same man wearing a black shirt.
-- The individual described as "a man in a black shirt" in the statement matches the reference to the same man in the premise.
-- The coreference of "a man in a black shirt" in both the premise and the statement confirms they denote the same person.

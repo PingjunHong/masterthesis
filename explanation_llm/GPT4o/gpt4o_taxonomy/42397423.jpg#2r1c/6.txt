@@ -1,9 +1,0 @@
-- A sub sandwich is not made on a pipe over water.
-- The act of walking on a pipe is structurally exclusive to the location of a kitchen.
-- The activity of making a sub sandwich is exclusive to kitchen environments, not a pipe over water.
-- Walking on a pipe does not occur simultaneously with making a sandwich in a kitchen.
-- The location described in the premise and the location described in the hypothesis do not overlap.
-- The premise describes an outdoor activity, while the hypothesis describes an indoor activity.
-- The structural exclusivity of a pipe over water excludes the presence of kitchen appliances needed for making a sub sandwich.
-- The setting in the premise is incompatible with the setting required for sandwich preparation.
-- A boy cannot be in two places at the same time: on a pipe over water and in a kitchen.

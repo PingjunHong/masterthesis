@@ -1,6 +1,0 @@
-- "Young woman" is a specific type of "person."
-- "Putting her clothes in the dryer" implies "drying clothes."
-- "Double stacked washer and dryer unit" includes a "dryer."
-- "Clothes in the dryer" means the clothes are being dried.
-- "Dryer portion" refers to the part that dries clothes.
-- "Putting clothes in the dryer" is synonymous with "drying clothes."

@@ -1,6 +1,0 @@
-1. The word "boy" in the premise contradicts "girl" in the statement as they refer to different genders.
-2. The use of "microscope" in the premise contradicts "telescope" in the statement as they are different instruments used for different purposes.
-3. "Field microscope" implies a close examination of a small specimen, which contradicts the distant viewing implied by "telescope."
-4. "Young boy" directly contrasts with "young girl" due to their gender-specific meanings.
-5. "Using a field microscope" cannot be equated with "looks through the telescope" due to the semantic difference between a microscope and a telescope.
-6. "Identifying a field specimen" suggests a biological or earth science activity, unlike "looking through the telescope," which suggests an astronomical activity.

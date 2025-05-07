@@ -1,8 +1,0 @@
-1. "Three men" in the statement refers to the same "three men" described in the content, but their activities differ.
-2. The "men" in the statement are sleeping, whereas the "men" in the content are looking at the camera.
-3. "Three men" is a consistent reference across both content and statement, yet their actions—sleeping vs. looking—contradict.
-4. The reference to "three men" is resolved as the same group, but the premise shows them awake and active, whereas the statement describes them as asleep.
-5. "Three men" in both the premise and statement refer to the same individuals, but they are depicted in different states: awake and engaged versus asleep.
-6. The phrase "three men" aligns across the content and the statement, yet their described activities—resting against a pipe bed versus sleeping in a tent—are contradictory.
-7. The coreference of "three men" is maintained, but their described scenarios (awake and interacting vs. asleep) do not align.
-8. The reference to "three men" is resolved, showing a contradiction in their states of consciousness between the premise and the statement.

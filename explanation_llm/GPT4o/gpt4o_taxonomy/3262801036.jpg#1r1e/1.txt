@@ -1,7 +1,0 @@
-1. Six people in the statement refers to the six rescuers in the content.
-2. The phrase "an injured man" in both the content and the statement refers to the same individual.
-3. "A transport device" in the content is referred to as "a transport" in the statement.
-4. "Snowy, mountainous terrain" in the content is resolved to "snowy terrain" in the statement, with the snowiness being the core feature.
-5. "Cooperate to place" in the content is resolved as "act together to get" in the statement, where the cooperation involves the same action of placing the injured man on the transport.
-6. "An injured man on a transport device" in the content corresponds to "another, injured man on a transport" in the statement, indicating the same action and individual.
-7. "Six rescuers" in the content are referred to simply as "six people" in the statement, with rescuers being understood as people.

@@ -1,8 +1,0 @@
-1. The premise describes an action involving a softball player throwing a ball, but does not mention any players sitting, nor does it mention a bench.
-2. The premise does not provide any information about the location or activity of sitting; it only describes the act of throwing.
-3. The presence of a bench and players sitting is not mentioned or implied in the premise.
-4. While the premise involves a softball player and a teammate, it lacks any mention of a bench or of players sitting.
-5. The premise focuses on a softball player actively engaging in the game, whereas the hypothesis introduces a scenario of inactivity and seating that is unsupported.
-6. The premise gives no indication of the number of players involved beyond the player and her teammate, nor does it specify their actions beyond throwing a ball.
-7. The hypothesis introduces new elements such as sitting and a bench, which are not present in, suggested by, or entailed by the premise.
-8. There is no evidence in the premise to support the idea that any players are seated or resting; it solely describes a play action.

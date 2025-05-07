@@ -1,8 +1,0 @@
-1. Nude contradicts shirtless because shirtless implies wearing a bathing suit.
-2. Bathing suit contradicts nude, as wearing a bathing suit means not being nude.
-3. Sits on the sand contradicts eats his peanut butter sandwich, as the seagull is not eating.
-4. Temporal conflict: The seagull is sitting, not eating, indicating two different actions at the same time.
-5. Quantifier conflict: A black and red bathing suit implies some clothing, while nude implies no clothing.
-6. Structural logical exclusivity: Wearing a bathing suit and being nude are mutually exclusive states.
-7. Location conflict: The premise describes the seagull sitting on the sand, whereas the hypothesis implies the seagull is eating elsewhere.
-8. Either-or conflict: The boy can either be swimming shirtless, as stated in the premise, or swimming nude, as stated in the hypothesis, but not both.

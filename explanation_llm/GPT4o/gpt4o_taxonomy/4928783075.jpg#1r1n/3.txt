@@ -1,9 +1,0 @@
-1. The premise describes a scene without providing any causal information, while the hypothesis introduces a reason for the boy's action, which is not present in the premise.
-2. The structure of the hypothesis adds causal subordination ("because his mother kicked him out of the house") that is absent in the premise.
-3. The premise focuses on the action of the boy throwing a toy plane, whereas the hypothesis includes an additional clause explaining his presence in the field.
-4. The premise and hypothesis differ syntactically as the hypothesis includes a causal relationship not implied or stated in the premise.
-5. The hypothesis rephrases the premise by turning the description of the boy's action into an explanation of his situation, altering its meaning.
-6. The premise states the boy's activity without any mention of external motivations or circumstances, whereas the hypothesis syntactically alters the premise by adding context.
-7. The causal element introduced in the hypothesis ("because his mother kicked him out of the house") changes the structural meaning, which is not aligned with the neutral stance of the premise.
-8. The hypothesis uses coordination to link the boy's action with a supposed motivation, which is structurally different from the straightforward description in the premise.
-9. The syntactic alternation in the hypothesis ("because his mother kicked him out") is not a rephrase of any part of the premise but introduces new information, rendering the statement neutral.

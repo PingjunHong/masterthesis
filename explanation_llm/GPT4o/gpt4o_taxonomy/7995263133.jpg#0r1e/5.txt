@@ -1,8 +1,0 @@
-- The premise describes a young boy lying down and sleeping on a colorful striped pillow, which directly supports the hypothesis that a young boy is sleeping on a pillow.
-- There is no additional information in the hypothesis that is not already supported by the premise.
-- The premise explicitly mentions that the boy is lying down in bed and sleeping, which includes the action of sleeping on a pillow.
-- The premise provides clear evidence that the young boy is already on a pillow, supporting the hypothesis fully.
-- The information in the hypothesis is entirely contained within the description provided by the premise.
-- There is no missing or unsupported detail in the hypothesis; it is a direct restatement of part of the premise.
-- All elements of the hypothesis are explicitly or implicitly described in the premise.
-- The premise does not introduce any elements that contradict or are absent in the hypothesis related to the boy sleeping on a pillow.

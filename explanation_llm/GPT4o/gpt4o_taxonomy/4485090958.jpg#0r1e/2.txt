@@ -1,9 +1,0 @@
-- The phrase "people are loitering or waiting on the steps" implies the presence of several people outside.
-- "People" in the premise implies "several people" in the hypothesis due to "several" meaning more than one, which is synonymous with "people."
-- "Outside of a building" in the hypothesis aligns with "on the steps of said building" in the premise, as steps are part of the exterior.
-- "A large building" implies it is a structure which people are outside of, matching the hypothesis.
-- "Loitering or waiting" suggests people are not inside, supporting the idea of them being outside.
-- The presence of "a large building" in the premise entails that the people mentioned are outside of it.
-- The term "people" in the premise is synonymous with "several people" in the hypothesis, as both indicate a group.
-- "A large white colored pillar that is part of a large building" situates the scene outside of the building, consistent with the hypothesis.
-- "Loitering or waiting on the steps" indicates the individuals are external to the building.

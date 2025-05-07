@@ -1,8 +1,0 @@
-1. "Some" includes two, so the presence of two men satisfies the requirement of "some people."
-2. "Some people" implies at least one person, and two men qualify as some.
-3. The word "some" is compatible with having two individuals, as it does not specify an exact number.
-4. The scenario of two men standing in a boat meets the condition of having "some people" in the boat.
-5. The quantifier "some" is satisfied with any number greater than zero, which includes two.
-6. The presence of two men in the boat ensures that the boat contains "some people."
-7. "Some" denotes an indefinite, non-zero quantity, which is accurately represented by two.
-8. The term "some" does not conflict with the presence of two men, as it does not specify a minimum beyond one.

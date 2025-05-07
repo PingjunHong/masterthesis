@@ -1,5 +1,0 @@
-1. A lady is helping another woman work is a rephrase of, A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.
-2. The statement A lady is helping another woman work is structurally a part of the premise A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.
-3. The core structure of the statement, A lady is helping another woman work, is embedded within the premise A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.
-4. The clause A lady is helping another woman work within the premise is syntactically equivalent to the entire hypothesis.
-5. Removing the additional context about the silver compartment and nurse-work from the premise yields the hypothesis A lady is helping another woman work.

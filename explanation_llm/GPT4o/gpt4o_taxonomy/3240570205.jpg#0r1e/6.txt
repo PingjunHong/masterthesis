@@ -1,7 +1,0 @@
-1. The presence of an adult operating a video camera in the premise confirms the existence of an adult using a video camera in the statement.
-2. Since one adult is mentioned as operating a video camera, the statement that an adult is using a video camera logically follows.
-3. The premise explicitly describes an adult with a video camera, which entails the statement that an adult is using a video camera.
-4. The action of operating a video camera by an adult in the premise directly supports the statement about an adult using a video camera.
-5. The premise's depiction of an adult using a video camera ensures that the statement is true.
-6. One of the five adults is specifically noted to be operating a video camera, aligning with the statement about an adult using the device.
-7. The structural description in the premise of an adult and a video camera usage satisfies the condition set by the statement.

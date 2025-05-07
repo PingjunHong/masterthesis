@@ -1,8 +1,0 @@
-1. The statement about a big dog playing with a toy does not structurally rephrase the content about a brown and black dog running on the grass.
-2. The syntactic structure of the statement introduces new elements, such as "big" and "toy," which are not present in the premise.
-3. The statement employs coordination that introduces different actions and objects, which are not included in the premise's description.
-4. The structural setup of the premise focuses on location and activity without mentioning the size or play behavior of the dog.
-5. The statement uses subordination to describe an activity involving a toy, which is absent in the premise's description.
-6. The premise details the dog's color and location, whereas the statement adds different information, making it structurally distinct.
-7. The syntactic alternation in the statement shifts the focus from the dog's location and color to its size and activity, which is not inferred from the premise.
-8. The premise discusses a dog running on grass, while the statement describes a different scenario, structurally altering the scene without rephrasing the original content.

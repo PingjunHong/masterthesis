@@ -1,5 +1,0 @@
-1. The premise specifies that the man is playing a saxophone, while the hypothesis only mentions an instrument, which is a more general term. The hypothesis does not introduce unsupported information but omits specific details.
-2. The premise includes that people are sitting on the curb next to the street, but the hypothesis generalizes this to "near other people," which doesn't introduce new information but rather omits specific positioning details.
-3. The premise does not specify any interaction between the man playing the saxophone and the people sitting on the curb, and the hypothesis doesn't add any additional claims about their interaction, thus doesn't add unsupported content.
-4. The hypothesis does not specify the type of instrument, which is aligned with the premise that mentions a saxophone, so there is no unsupported introduction of a different instrument.
-5. The premise mentions people sitting on the curb, but the hypothesis only specifies "near other people," which can be inferred but lacks the precise detail of sitting on the curb, not introducing unsupported information.

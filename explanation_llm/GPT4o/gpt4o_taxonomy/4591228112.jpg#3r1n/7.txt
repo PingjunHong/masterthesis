@@ -1,7 +1,0 @@
-1. Not all sculptures are displayed in art galleries.
-2. An old man looking at a sculpture doesn't guarantee he is in an art gallery.
-3. Sculptures can be found in places other than art galleries, such as parks or private collections.
-4. The presence of a sculpture alone does not imply the setting is an art gallery.
-5. Old men can look at sculptures in various locations, not exclusively in art galleries.
-6. The activity of looking at a sculpture is not limited to an art gallery environment.
-7. Art galleries are not the only venues where sculptures are displayed.

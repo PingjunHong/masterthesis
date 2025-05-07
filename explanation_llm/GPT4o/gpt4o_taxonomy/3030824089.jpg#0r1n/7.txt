@@ -1,9 +1,0 @@
-1. Not all brown and black dogs are big.
-2. Not all dogs play with toys when they run.
-3. Running on grass does not imply playing with a toy.
-4. The dog being outdoors does not specify it has a toy.
-5. Size of the dog is not mentioned in the premise.
-6. Dogs can run without playing.
-7. The premise does not mention any toys.
-8. Not all dogs outdoors are playing.
-9. The dog's activity is not specified beyond running.

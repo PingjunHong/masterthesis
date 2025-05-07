@@ -1,5 +1,0 @@
-1. A blond refers to the blond woman.
-2. Woman refers to young dark-haired female students.
-3. Female students refers to woman students.
-4. Pieces of paper refers to pieces of paper in both the premise and hypothesis.
-5. Group of young dark-haired female students refers to group of young dark-haired woman students.

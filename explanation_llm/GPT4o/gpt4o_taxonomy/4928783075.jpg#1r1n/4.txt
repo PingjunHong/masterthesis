@@ -1,8 +1,0 @@
-1. The premise mentions a young boy standing in a field and throwing a toy plane, but it does not specify his reason for being there, such as being kicked out of the house by his mother.
-2. The action of a boy playing in a field with a toy plane does not logically imply that he was forced to be there by his mother; he could be there for various other reasons.
-3. The premise provides details about the boy's activities and attire but lacks any indication of familial conflict or expulsion from the house.
-4. There is no explicit or implicit suggestion in the premise that relates to the boy's relationship with his mother or her actions towards him.
-5. The hypothesis introduces an external reason for the boy's activity that is not inherently connected to the activities described in the premise.
-6. The premise and hypothesis describe different aspects of the situation: one is factual about current actions, and the other suggests a motivation not derived from the text.
-7. The premise describes a scene of play, while the hypothesis adds a causal relationship that is neither confirmed nor negated by the premise's content.
-8. The statement about the mother kicking the boy out is an additional narrative element not present or implied within the structural or semantic elements of the premise itself.

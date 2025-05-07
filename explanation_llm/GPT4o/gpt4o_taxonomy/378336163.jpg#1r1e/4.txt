@@ -1,9 +1,0 @@
-1. A bearded man is a human, and if he jumps, it implies a human is jumping.
-2. The action of jumping performed by a man implies that a human is engaged in the action of jumping.
-3. The premise describes a man performing the action of jumping, which directly indicates that a human is jumping.
-4. Since a man is a type of human, the act of the man jumping logically implies that a human is jumping.
-5. The description of a man jumping in the premise directly entails the concept of a human jumping due to the definition of "man" as a human.
-6. The premise's event involving a man jumping ensures that a human is involved in the act of jumping.
-7. The term "man" inherently refers to a human, ensuring that the action attributed to the man is attributable to a human.
-8. The simple act of jumping described in the premise by a man confirms the hypothesis of a human jumping through the identity of a man as a human.
-9. The direct reference to a man in the act of jumping serves as a logical confirmation that a human is performing the jump.

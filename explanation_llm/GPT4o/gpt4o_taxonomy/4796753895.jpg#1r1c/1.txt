@@ -1,8 +1,0 @@
-- "The man" in the statement refers to "a black man" in the premise, whose clothing is described differently.
-- "The man" is resolved to the same individual in both premise and statement, but the clothing description in the statement contradicts the premise.
-- The premise describes "a black man" wearing "a long sleeves white collared shirt and a tie," which conflicts with "shorts and a t-shirt" in the statement.
-- "The man" in both premise and statement refers to the same person, but the premise specifies formal attire, while the statement mentions casual attire.
-- "A black man" in the premise is identified as "the man" in the statement, but the attire described in the statement contradicts the attire in the premise.
-- Resolving "the man" to "a black man" from the premise highlights a contradiction in clothing description between the two texts.
-- The clothing of "the man" in the statement does not match the clothing of "a black man" in the premise, indicating a contradiction upon resolving the reference.
-- "The man" mentioned in both texts is understood to be the same person, but the attire mismatch creates a contradiction.

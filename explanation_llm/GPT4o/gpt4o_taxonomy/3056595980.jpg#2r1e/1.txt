@@ -1,9 +1,0 @@
-1. The women in the statement refers to the three women mentioned in the premise.
-2. The women sitting on a green bench are the same women referred to in the statement.
-3. The reference to the women outdoors in the statement is about the three women in the premise.
-4. The women are outdoors because the three women are sitting on a bench looking out at the coast.
-5. The phrase "the women" in the statement is coreferential with "three women" in the premise.
-6. "The women" in the hypothesis is the same group as "three women" who are sitting in the premise.
-7. The statement refers to the same women as in the premise, establishing that they are outdoors.
-8. The location of the women on a bench looking out at the coast implies they are outdoors, matching the statement.
-9. The coreference of "the women" and "three women" connects the premise and statement.

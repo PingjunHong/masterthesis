@@ -1,8 +1,0 @@
-1. People cannot be simultaneously in a rowboat in the ocean and inside watching a hockey game.
-2. Being in a rowboat in the ocean implies being outside, not inside.
-3. Watching a hockey game typically implies being in a location where a hockey game is being played or broadcast, which is not the ocean.
-4. A rowboat in the ocean is not a suitable environment for watching a hockey game.
-5. The environment described in the premise (ocean, seagulls) is incompatible with the indoor setting described in the statement.
-6. Rowboats do not have facilities for watching hockey games.
-7. Seagulls and ocean settings are not associated with watching indoor sports like hockey.
-8. The context of being surrounded by seagulls suggests an outdoor setting, conflicting with the indoor activity of watching a hockey game.

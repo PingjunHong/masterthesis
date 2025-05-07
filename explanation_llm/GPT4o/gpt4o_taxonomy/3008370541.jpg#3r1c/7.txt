@@ -1,5 +1,0 @@
-- Dogs that are jumping into the water are not avoiding it.
-- A dog cannot be jumping into the water and avoiding it at the same time.
-- Jumping into the water indicates the dog is engaging with it, not avoiding it.
-- If a dog is in the process of jumping into the water, it shows no signs of avoidance.
-- The act of jumping into the water contradicts the notion of avoiding it.

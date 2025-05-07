@@ -1,5 +1,0 @@
-1. The three children in the premise are coreferential with the three girls in the statement, creating a contradiction since the premise does not specify the children as girls.
-2. The boy being held down in both the premise and the statement is the same, but the actions differ, as in the statement, a girlfriend is mentioned, which is not referenced in the premise.
-3. The boy in a hat shooting a water gun in the premise is coreferentially mismatched with the girlfriend shooting water in the statement, leading to a contradiction.
-4. The children in the premise do not specify gender, while the statement specifies three girls, creating a coreferential discrepancy.
-5. The premise does not mention a girlfriend, while the statement specifies his girlfriend, indicating a coreference error and contradiction.

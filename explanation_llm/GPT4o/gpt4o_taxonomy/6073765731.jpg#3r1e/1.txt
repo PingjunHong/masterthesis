@@ -1,9 +1,0 @@
-1. A woman helping the girl with an experiment refers to a woman helping a girl.
-2. The woman, standing behind the girl, is the same woman helping the girl.
-3. The woman referred to in the statement is the woman standing behind the girl in the premise.
-4. Helping the girl with an experiment indicates that the woman is helping a girl.
-5. The girl being helped in the experiment is the same girl being referenced in the statement.
-6. The woman mentioned in both the premise and the statement is the same individual.
-7. The act of helping in the premise directly corresponds to the act of helping in the statement.
-8. The girl referred to in the statement is the same girl being helped by the woman in the premise.
-9. The woman in the premise is the one referred to in the statement as helping.

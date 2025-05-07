@@ -1,8 +1,0 @@
-- A bikini and a prom dress are different types of clothing.
-- A bikini is typically worn at the beach or pool, while a prom dress is formal attire worn at a dance or special event.
-- Wearing a bikini implies casual or swimwear, which is the opposite of formalwear like a prom dress.
-- The term "colorful bikini" suggests swimwear, whereas "prom dress" suggests formal evening wear.
-- The material and design of a bikini differ significantly from those of a prom dress.
-- The function of a bikini is for swimming or sunbathing, whereas a prom dress is designed for attending a formal event.
-- Semantic meaning of "bikini" contradicts the semantic meaning of "prom dress" in terms of clothing type.
-- The word "bikini" denotes minimal coverage, contrasting with the typically full coverage of a prom dress.

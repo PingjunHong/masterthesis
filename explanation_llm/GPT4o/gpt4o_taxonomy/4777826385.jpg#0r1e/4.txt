@@ -1,7 +1,0 @@
-1. If a man leans against a pedestal, he is also leaning.
-2. If a man is outside of a building, then he is outside.
-3. An ornate building is a type of building, so being outside an ornate building means being outside a building.
-4. The presence of "an older man" is consistent in both the premise and the hypothesis.
-5. Leaning against something implies the action of leaning, which is stated in the hypothesis.
-6. The action of leaning outside of a building in the premise directly supports the statement that the man leans outside a building.
-7. The semantic structure of "outside of an ornate building" encompasses "outside a building."

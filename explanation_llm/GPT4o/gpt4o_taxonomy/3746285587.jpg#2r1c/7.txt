@@ -1,7 +1,0 @@
-- Kneeling and riding a bicycle are mutually exclusive actions.
-- A person cannot kneel and ride a bicycle simultaneously.
-- The act of kneeling does not involve a bicycle.
-- Riding a bicycle requires being seated or standing on the bicycle, not kneeling.
-- Kneeling occurs on the ground, whereas riding a bicycle involves being on a vehicle.
-- A woman in a brown shirt cannot be kneeling and riding a bicycle at the same time.
-- The description of kneeling implies the absence of a bicycle.

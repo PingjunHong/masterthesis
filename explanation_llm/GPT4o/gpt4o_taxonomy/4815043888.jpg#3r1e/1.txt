@@ -1,6 +1,0 @@
-- A man and a child are purchasing ice cream refers to people buying food.
-- A man with a hand pushed ice cream cart refers to a street vendor.
-- Ice cream is a type of food, thus resolving the reference to the food being purchased.
-- Purchasing refers to buying, resolving the action described in both the premise and hypothesis.
-- The reference to a man and a child collectively refers to people in the statement.
-- The hand pushed ice cream cart is a type of street vending, resolving the reference to a street vendor.

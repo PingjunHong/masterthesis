@@ -1,9 +1,0 @@
-Fans cheering on their team at the big game is a rephrase of, A crowd wearing orange cheering for their team in a stadium.
-The statement rephrases the premise by using "fans" instead of "crowd" and "big game" instead of "stadium," which conveys the same meaning.
-The premise syntactically alternates "wearing orange" with "at the big game," maintaining the notion that the crowd is unified in support of their team.
-The hypothesis employs subordination by implying that the cheering occurs during a significant event, synonymous with the "stadium" in the premise.
-Both sentences describe people who are supporting their team, with the statement simplifying the location from "stadium" to "big game."
-The structural rephrasing involves substituting "in a stadium" with "at the big game," both indicating a large sports event setting.
-The coordination of ideas from the premise to the statement involves substituting "crowd" with "fans," both indicating a group of people united for a common purpose.
-The rephrasing from "wearing orange" to "cheering on their team" suggests fan enthusiasm, with both conveying the same enthusiasm and support for the team.
-The premise's "stadium" is structurally rephrased to "big game" in the hypothesis, maintaining the context of a sporting event.

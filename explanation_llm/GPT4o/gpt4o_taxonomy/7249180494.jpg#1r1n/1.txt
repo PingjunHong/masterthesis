@@ -1,4 +1,0 @@
-- A man in a wetsuit refers to the man in the black wetsuit, but the premise does not mention anything about carrying a surfboard.
-- The man in the black wetsuit is walking out of the water is consistent with a man in a wetsuit walks out of the water, but carrying a surfboard is not addressed in the premise.
-- Both the premise and hypothesis refer to a man in a wetsuit walking out of the water, but the premise does not mention the surfboard.
-- The reference to a man in a wetsuit in both statements is resolved to the same individual, but the action of carrying a surfboard is only present in the hypothesis.

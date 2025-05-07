@@ -1,8 +1,0 @@
-1. Being in the bathtub and pointing at a painting are mutually exclusive activities.
-2. A bathtub is not a typical location for pointing at paintings.
-3. A person pointing at a painting is likely standing, not in a bathtub.
-4. Holding a beverage and being in a bathtub implies a different context than pointing at a painting.
-5. The setting described by the premise does not include a bathtub.
-6. The activity of pointing at a painting suggests a location with paintings, not a bathroom.
-7. The premise describes an action incompatible with being in a bathtub.
-8. Semantic meanings of "bathtub" and "painting" imply different environments.

@@ -1,8 +1,0 @@
-- If a man is in the maintenance garage, then a person is in a garage.
-- A maintenance garage is a type of garage, so being in a maintenance garage implies being in a garage.
-- The presence of a man over a bicycle's rear wheel in the garage implies that a person is present in the garage.
-- The use of "a man" implies "a person," so the presence of a man entails the presence of a person.
-- The description includes a garage setting, which logically means a garage is involved, satisfying the condition of a person being in a garage.
-- The visibility of tools in the maintenance garage implies it is a functional garage space, supporting the statement of being in a garage.
-- The action of looking over a bicycle's rear wheel occurs within the garage environment, confirming the person's presence in a garage.
-- A maintenance garage contains the word "garage," thus confirming the location as a garage.

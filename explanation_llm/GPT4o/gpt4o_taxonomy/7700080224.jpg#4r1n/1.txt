@@ -1,4 +1,0 @@
-- They refers to the women playing volleyball.
-- They women refers to the same group of women mentioned in the premise.
-- The pronoun They is used to refer to the women in the premise.
-- The women in the hypothesis are the same women mentioned in the premise.

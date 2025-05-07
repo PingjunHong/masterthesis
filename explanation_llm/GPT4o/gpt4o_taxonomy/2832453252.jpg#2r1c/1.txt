@@ -1,8 +1,0 @@
-1. The term "girls" in the premise refers to "young girls" playing in the water, while "boys" in the statement introduces a new, conflicting element not present in the premise.
-2. The reference to "girls" in the premise does not match the "boys" mentioned in the statement, creating a contradiction.
-3. The premise specifies "four young girls" which conflicts with the statement's reference to "boys," as no boys are mentioned in the premise.
-4. The premise only describes "girls," so the presence of "boys" in the statement contradicts the given information.
-5. The coreference of "girls" in the premise to "girls" in the statement is consistent, but the additional reference to "boys" in the statement lacks support from the premise.
-6. The statement's use of "boys" contradicts the gender-specific reference to "girls" in the premise.
-7. The reference to "girls" in the premise is clear and exclusive, whereas the statement includes "boys," which is not accounted for in the premise.
-8. "Girls" in the premise implies the absence of "boys," conflicting with the statement that includes both "boys and girl."

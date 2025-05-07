@@ -1,8 +1,0 @@
-- "Two men" indicates at least two people, which satisfies "some people."
-- "Standing in a boat" implies being physically present in the boat.
-- "Men" are a subset of "people," which makes the statement inclusive.
-- "Two" is a quantifier that aligns with "some," meaning more than one.
-- "Men" are human beings, thus falling under the broader category of "people."
-- "Boat" in both the premise and hypothesis confirms the location is the same.
-- Presence of "two men" inherently implies "some people" due to the numeric expression.
-- The word "people" encompasses "men," as men are members of the human population.

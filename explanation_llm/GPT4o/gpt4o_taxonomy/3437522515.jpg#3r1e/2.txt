@@ -1,7 +1,0 @@
-- "Tending to" implies possession or responsibility, suggesting the garden belongs to the lady.
-- "Older woman" and "lady" are synonymous terms, indicating the same person.
-- "Tending to a garden" necessitates the existence of a garden, affirming the lady has one.
-- The act of "tending" suggests taking care of, which implies ownership or access to the garden.
-- "Garden" in the premise confirms the presence of a garden in the hypothesis.
-- "An older woman" refers to the same individual as "the lady" through synonymous language.
-- The verb "tending" signifies involvement with the garden, supporting that the garden is hers.

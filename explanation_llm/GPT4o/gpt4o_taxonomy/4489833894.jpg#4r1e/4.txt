@@ -1,7 +1,0 @@
-- A softball player and a teammate indicate the presence of at least two people.
-- Throwing the ball to a teammate implies participation in the game by at least two people.
-- The act of throwing the ball in softball involves two individuals: the thrower and the receiver.
-- The term "teammate" necessitates the existence of another person in the context of playing a team sport like softball.
-- Playing softball requires interaction between players, confirming the presence of two people.
-- A player and her teammate both engaged in an activity signify two individuals involved in playing.
-- The use of "throws the ball to her teammate" logically implies that two individuals are present and participating in softball.

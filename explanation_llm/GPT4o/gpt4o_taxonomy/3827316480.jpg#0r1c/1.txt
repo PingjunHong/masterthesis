@@ -1,7 +1,0 @@
-1. The statement refers to a boy, but the premise only mentions a tan girl and another person, neither of whom is identified as a boy.
-2. The statement mentions a boy, but the premise involves a girl and another person, contradicting the gender reference.
-3. The statement includes "a boy," while the premise only describes "one tan girl" and "another person."
-4. The premise describes "one tan girl" and does not mention a boy, contradicting the reference to a boy in the statement.
-5. The premise involves a girl running, but the statement refers to a boy running, which contradicts the gender-specific reference.
-6. The premise involves a girl and another person in a wool hat, not a boy, contradicting the statement.
-7. The statement involves a boy running into a wall, whereas the premise mentions a girl running and leaning over an object, not running into a wall.

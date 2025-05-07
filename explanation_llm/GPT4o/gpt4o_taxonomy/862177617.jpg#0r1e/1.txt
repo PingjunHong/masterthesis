@@ -1,8 +1,0 @@
-1. A person in the statement refers to a person with blue hair, a baseball cap, and a hood on in the premise.
-2. Standing outdoors in the statement refers to stands outdoors in the premise.
-3. The person mentioned in the statement is the same person described in the premise as having blue hair, a baseball cap, and a hood.
-4. The outdoors location in the statement matches the outdoors setting described in the premise.
-5. In both the premise and the statement, the individual being referred to is outside.
-6. The person standing outdoors in the statement is the individual with distinctive features mentioned in the premise.
-7. The reference to a person in the statement resolves to the person described with specific attire in the premise.
-8. The act of standing outdoors in the statement is the same situation described in the premise with the crowd.

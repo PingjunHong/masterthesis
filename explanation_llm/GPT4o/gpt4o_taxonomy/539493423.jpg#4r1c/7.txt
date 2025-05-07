@@ -1,8 +1,0 @@
-- A torch of fire is not a bag.
-- Holding a torch does not imply holding a bag.
-- A person cannot hold a torch and a bag simultaneously without indication.
-- There is no mention of a bag in the description.
-- The premise specifies a torch, not a bag.
-- Being described as holding a torch contradicts holding a bag if only one object is mentioned.
-- A torch and a bag are distinct objects.
-- The premise lacks any reference to a bag.

@@ -1,6 +1,0 @@
-1. "Working long hours" implies working, but "working" does not necessarily imply "working long hours," so there is no contradiction.
-2. If a woman is working long hours, she must be working, satisfying the condition set by the hypothesis.
-3. The temporal aspect of "working long hours" includes "working" as a subset, ensuring the hypothesis is true.
-4. The quantifier "long hours" in the premise does not exclude the possibility of "working" in the hypothesis.
-5. The premise’s detail of "long hours" encompasses the simpler state of "working," confirming the hypothesis.
-6. There is no logical conflict between "working long hours" and "working," as the latter is inherently part of the former.

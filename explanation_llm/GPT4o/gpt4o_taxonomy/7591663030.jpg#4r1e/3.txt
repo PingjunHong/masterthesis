@@ -1,8 +1,0 @@
-1. A man is riding a motorcycle is a rephrase of A guy riding a motorcycle.
-2. The presence of near junk cars does not change the fact that a man is riding a motorcycle.
-3. A guy is equivalent to a man in this context.
-4. Near junk cars is additional information that does not affect the core action of riding a motorcycle.
-5. The core action of riding a motorcycle is present in both the premise and the hypothesis.
-6. The phrase A guy riding a motorcycle structurally rephrases to A man is riding a motorcycle by changing "guy" to "man."
-7. The removal of near junk cars in the hypothesis does not affect the primary activity described in the premise.
-8. The premise can be syntactically altered to emphasize the subject and action, aligning with the hypothesis.

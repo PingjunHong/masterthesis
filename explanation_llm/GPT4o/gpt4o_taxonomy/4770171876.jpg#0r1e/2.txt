@@ -1,8 +1,0 @@
-1. A little boy is a specific instance of a boy.
-2. Playground equipment is typically found on a playground.
-3. Playing on a piece of playground equipment implies being on a playground.
-4. A gray and white striped sweater and tan pants are specific clothing details that do not change the fact he is a boy.
-5. The action of playing is commonly associated with being on a playground.
-6. A piece of playground equipment is a part of a playground.
-7. The presence of a boy implies the presence of a child, who is likely to be found on a playground.
-8. The term "on a piece of playground equipment" suggests the boy is physically located on the playground.

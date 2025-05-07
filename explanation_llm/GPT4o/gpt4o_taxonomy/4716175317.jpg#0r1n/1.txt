@@ -1,7 +1,0 @@
-- The crowd of people mentioned in the statement does not specify what the street market sells, whereas the premise does not mention fruits.
-- The reference to the street market in the statement does not clarify what items are being sold, and the premise does not provide this detail either.
-- The street market in the premise is not described with any specific items for sale, leaving the hypothesis about selling fruits unresolved.
-- The premise describes a street market without specifying what is being sold, so the reference to selling fruits in the hypothesis does not align with any details from the premise.
-- The urban street market mentioned in both the premise and hypothesis lacks specific information about the goods being sold, making the mention of fruits neutral.
-- The premise does not resolve what the market sells, so the hypothesis about selling fruits remains unsupported by any additional information.
-- The reference to a street market in the premise does not include any mention of fruits, making the hypothesis about a fruit market neutral.

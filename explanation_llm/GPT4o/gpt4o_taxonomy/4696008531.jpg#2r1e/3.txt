@@ -1,5 +1,0 @@
-1. The man is in a black shirt is a rephrase of, The man in the black t-shirt is trying to throw something.
-2. The reference to a black shirt in the statement matches the description of a black t-shirt in the content.
-3. The statement simplifies the description of the man's clothing provided in the content.
-4. The core subject "the man" and descriptor "black shirt" are consistent across both the content and the statement.
-5. The structural rephrasing involves omitting additional actions (trying to throw something) without altering the clothing description.

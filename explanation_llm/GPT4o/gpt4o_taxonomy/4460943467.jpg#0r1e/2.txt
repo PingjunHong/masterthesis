@@ -1,7 +1,0 @@
-1. "Young man in hoods" implies "hood wearing people" since wearing hoods is synonymous with hood wearing.
-2. "Standing in the middle of a quiet street" encompasses "stand in a street" because a quiet street is a type of street.
-3. "3 young man" translates numerically to "Three people."
-4. "Facing the camera" is irrelevant to the entailment, allowing the focus on the presence and location of the individuals.
-5. "Hoods" and "hood wearing" are synonymous, indicating the same clothing style.
-6. "Quiet street" does not negate "street," as it describes a specific condition of the street without altering its basic definition.
-7. The word "young" does not alter the fact they are "people," allowing the inference from "young man" to "people."

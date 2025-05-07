@@ -1,5 +1,0 @@
-1. The statement "Bruce Springsteen is gay" does not structurally rephrase or alter the premise "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall."
-2. There is no syntactic alternation between the premise and the statement; the premise describes an action, while the statement asserts an identity.
-3. The statement lacks any coordination or subordination that would tie it directly to the premise; it introduces a separate piece of information about Bruce Springsteen.
-4. The structural elements of the premise focus on Bruce Springsteen's performance, while the statement shifts to personal identity without syntactic linkage.
-5. The statement does not provide a rephrased version or structural modification of the premise; it presents unrelated content.

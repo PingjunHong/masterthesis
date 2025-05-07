@@ -1,8 +1,0 @@
-1. The premise describes the boy's sweatshirt as orange with red sleeves, but the hypothesis does not mention the colors of the clothing, leaving out specific details.
-2. The hypothesis refers to a "little male," which is consistent with the premise's description of a "blond little boy," but it does not introduce new information.
-3. The hypothesis states that the boy has "a pair of scissors in his hands," which is consistent with the premise's description of him "using scissors to cut something," but does not provide additional information.
-4. The premise does not specify what the boy is cutting, and the hypothesis does not introduce any assumption about what is being cut.
-5. The hypothesis lacks mention of the boy's hair color, which is specified as "blond" in the premise, but this absence does not affect the entailment status.
-6. The premise does not mention any characteristics of the scissors, and the hypothesis does not introduce any new details about them.
-7. Both the premise and the hypothesis agree that the boy is wearing clothes, but the hypothesis does not specify the type or color, which is mentioned in the premise.
-8. The hypothesis is general enough to be supported by the premise without introducing any unsupported elements.

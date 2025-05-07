@@ -1,7 +1,0 @@
-- The pronoun "another" in the statement implies a second individual, but the premise only mentions two roadside workers, not a woman.
-- The premise refers to "workers" who are wearing "lime green safety jackets, white hard hats and gloves," which do not suggest the presence of a woman as described in the statement.
-- The term "roadside workers" in the premise does not co-refer with "a woman" in the statement, leading to a contradiction.
-- The premise does not include any mention or implication of a woman, making it impossible for "a woman" in the statement to refer to someone in the premise.
-- "Two roadside workers" in the premise are co-referred to as "workers," but "a woman" in the statement does not resolve to either of the workers described.
-- The safety gear described in the premise, including "lime green safety jackets" and "white hard hats," is resolved to the workers, which does not include a woman as the statement suggests.
-- The premise establishes the identity of the individuals as workers, contradicting the coreference with "a woman" in the statement.

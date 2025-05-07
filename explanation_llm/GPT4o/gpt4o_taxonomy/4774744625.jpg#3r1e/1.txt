@@ -1,5 +1,0 @@
-Men in the statement refers to the three men in the premise.
-Outside in the statement refers to sitting outside in the premise.
-Sitting in the statement refers to men sitting in the premise.
-Men sitting in the statement refers to the three men sitting in the premise.
-Sitting outside in the statement resolves to sitting outside in the premise.

@@ -1,8 +1,0 @@
-- The premise mentions a table and a pair of glasses in the foreground, but the hypothesis does not include this detail, so there is no conflict or additional unsupported information in the hypothesis.
-- The hypothesis does not introduce any new information beyond what is already stated in the premise, as the presence of people standing on a pier is already mentioned.
-- There is no contradiction or unsupported detail present in the hypothesis; it simply reiterates part of the information from the premise without adding anything new.
-- The hypothesis does not suggest any scenario or detail that is not already explicitly described in the premise.
-- Since the hypothesis only repeats the information about the number of people and their location on the pier, it does not introduce any unsupported claims.
-- The hypothesis is a subset of the information given in the premise, and it does not introduce elements that are absent from the premise.
-- Both the premise and hypothesis agree on the number of people and their location, with no extra details in the hypothesis needing verification from the premise.
-- The statement does not suggest any other activities or characteristics of the people on the pier that would require additional support from the premise.

@@ -1,8 +1,0 @@
-1. "Climbing up the stairs" is consistent with "climb up the stairs."
-2. "Two children" and "a woman" match "two children and a woman."
-3. The premise and hypothesis describe the same action of climbing.
-4. The number and identity of individuals involved are the same in both premise and hypothesis.
-5. "Metal electric pole-like structure" does not change the action of climbing stairs.
-6. The premise's description includes all entities mentioned in the hypothesis.
-7. The sequence of participants in the premise corresponds to those in the hypothesis.
-8. The action of climbing stairs can occur on different structures, including a metal electric pole-like structure.

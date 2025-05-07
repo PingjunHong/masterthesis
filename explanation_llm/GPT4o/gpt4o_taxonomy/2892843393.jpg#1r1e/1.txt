@@ -1,5 +1,0 @@
-- A person in the statement refers to the person wearing a straw hat in the content.
-- The pile of coconuts in the statement refers to the pile of coconuts on the ground in the content.
-- Near in the statement implies proximity, which is consistent with standing outside working a steel apparatus with a pile of coconuts on the ground in the content.
-- The person working a steel apparatus is the same person referred to as "a person" in the statement.
-- The person described as wearing a straw hat is the same person indicated in the statement as being near the pile of coconuts.

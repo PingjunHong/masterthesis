@@ -1,5 +1,0 @@
-- A couple in the statement refers to the couple mentioned in the premise.
-- Walking together in the statement refers to walking hand in hand down a street in the premise.
-- The couple walking hand in hand in the premise is the same couple referred to in the statement.
-- Walking in the statement is synonymous with walk hand in hand in the premise.
-- Hand in hand in the premise implies together, which is referred to in the statement.

@@ -1,8 +1,0 @@
-1. Dogs cannot run and sleep simultaneously.
-2. An outdoor location does not match with being in a basement.
-3. A dog running contradicts the idea of it being asleep.
-4. The grass and sidewalk outdoors are not located in a basement.
-5. An animal outdoors cannot be in a basement at the same time.
-6. Running is an active state, while sleeping is a passive state.
-7. The description of a dog running conflicts with the description of a dog sleeping.
-8. The premise specifies "outdoors," which is inconsistent with the enclosed space of a "basement."

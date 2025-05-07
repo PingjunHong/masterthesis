@@ -1,8 +1,0 @@
-1. The statement "There are three girls" is a structural rephrasing of "There are three boys" with a change in gender, which results in a contradiction.
-2. The hypothesis "There are three girls" syntactically alters the subject of the premise from "boys" to "girls," leading to a contradiction.
-3. The premise describes "three boys," whereas the statement rephrases this to "three girls," which is a contradiction due to the change in gender.
-4. The statement rephrases "three boys" from the premise as "three girls," contradicting the gender reference.
-5. The premise's "boys" is structurally replaced by "girls" in the statement, resulting in a contradiction.
-6. The hypothesis rephrases the subject from "boys" to "girls," which contradicts the gender specified in the premise.
-7. The rephrasing of "boys" as "girls" in the statement directly contradicts the premise's gender specification.
-8. The structural rephrasing of "three boys" to "three girls" in the hypothesis creates a contradiction.

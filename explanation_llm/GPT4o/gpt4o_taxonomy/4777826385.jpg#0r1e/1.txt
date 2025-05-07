@@ -1,5 +1,0 @@
-- The phrase "An older man" in the statement refers to the same "older man" mentioned in the content.
-- The word "outside" in the statement corresponds to "outside of an ornate building" in the content, resolving the location reference.
-- The statement's "a building" resolves to the "ornate building" mentioned in the content, as they both refer to the building where the man is located.
-- The action "leans" is performed by the same "older man" in both the content and the statement, resolving the subject's action reference.
-- The demonstrative "a" in "a building" in the statement refers to the specific "ornate building" in the content, resolving the ambiguity of which building is being referenced.

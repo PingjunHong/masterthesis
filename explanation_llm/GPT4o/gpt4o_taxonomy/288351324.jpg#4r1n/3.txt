@@ -1,6 +1,0 @@
-1. The statement "They are doing the tango" specifies a type of dance not explicitly mentioned in the content "a group of people dancing together."
-2. The content "a group of people dancing together" does not specify the type of dance, whereas the statement "They are doing the tango" introduces a specific dance style.
-3. The hypothesis "They are doing the tango" suggests a specific dance form, while the premise "a group of people dancing together" is a general description without specifying the dance type.
-4. The content "a group of people dancing together" implies dancing in general, while the statement "They are doing the tango" implies a specific dance style, which is not confirmed by the premise.
-5. The premise describes a scene of dancing without indicating any particular style, whereas the hypothesis specifies "the tango," which is additional information not present in the premise.
-6. The statement "They are doing the tango" introduces a specific detail that is not present in the general description of "a group of people dancing together."

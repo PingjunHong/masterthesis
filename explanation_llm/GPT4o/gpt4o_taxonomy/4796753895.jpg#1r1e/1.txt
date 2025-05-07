@@ -1,8 +1,0 @@
-1. The man in the statement refers to the black man in a long sleeves white collared shirt and a tie.
-2. Moving in the statement refers to walking in the premise.
-3. The reference to "the man" in the statement is the same individual described as "a black man" in the premise.
-4. The action "is moving" in the statement refers to the action "is walking" in the premise.
-5. The man in both the statement and the premise is the person described as walking to work.
-6. The statement's mention of "the man" is a coreference to "a black man" in the premise.
-7. The activity described by "is moving" in the statement is identical to the activity "is walking" in the premise.
-8. The use of "the man" in the statement refers to the same person as "the black man" in the premise.

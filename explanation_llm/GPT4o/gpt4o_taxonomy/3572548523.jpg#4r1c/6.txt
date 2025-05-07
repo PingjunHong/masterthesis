@@ -1,9 +1,0 @@
-- Walking is not sitting.
-- The location conflict between walking down a street and sitting on a bench.
-- Temporal conflict: walking indicates movement, while sitting indicates being stationary.
-- Structural logical exclusivity: one cannot simultaneously walk and sit.
-- A couple in motion cannot be simultaneously stationary.
-- The act of walking hand in hand does not align with sitting on a bench.
-- The physical posture of sitting is incompatible with the action of walking.
-- "Down a street" implies a different location than "on a bench."
-- Sitting requires a stationary state, which contradicts the dynamic action of walking.

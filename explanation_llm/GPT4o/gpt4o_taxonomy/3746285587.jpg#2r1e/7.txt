@@ -1,7 +1,0 @@
-- Kneeling involves being on the ground.
-- Streets are located outside.
-- A woman wearing a brown shirt is still a woman.
-- Being on the street means being on the ground.
-- The action of kneeling takes place on the ground.
-- The street is part of the outdoor environment.
-- A person described as a woman is a woman.

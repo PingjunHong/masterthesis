@@ -1,9 +1,0 @@
-1. If a man is sitting, then he is not standing.
-2. Sitting implies a position lower to the ground than standing, contradicting the statement that he is standing.
-3. Sitting involves bending the legs and resting on a surface, which is incompatible with standing.
-4. The action of sitting is mutually exclusive with the action of standing.
-5. Being seated indicates a resting position, which contradicts the upright position implied by standing.
-6. The posture of sitting inherently negates the posture of standing.
-7. The description of the man as sitting directly contradicts the description of him as standing.
-8. Sitting denotes a state of resting, whereas standing denotes a state of being upright and active.
-9. The physical posture described (sitting) is logically inconsistent with the hypothesis posture (standing).

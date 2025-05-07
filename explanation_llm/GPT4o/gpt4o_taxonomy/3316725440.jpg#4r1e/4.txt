@@ -1,6 +1,0 @@
-- If someone is racing on a bike, then they must be riding a bike, which implies the person is on the bike.
-- "Biker" refers to a person who rides a bike, so if a biker is racing, the biker is riding a bike.
-- The action of racing typically involves the use of a vehicle or object, such as a bike, which requires someone to ride it, confirming that a person is riding a bike.
-- The term "biker" inherently includes the action of riding a bike, so a biker racing indicates that there is a person riding a bike.
-- Racing as a biker logically entails being on a bike, and since a person is needed to perform the action, a person must be riding a bike.
-- The structure of the sentence implies that the activity associated with a biker involves riding a bike, so the activity of racing confirms the presence of a person on a bike.

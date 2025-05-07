@@ -1,5 +1,0 @@
-- The premise mentions a woman standing behind a girl and helping her with an experiment, which directly supports the hypothesis that a woman is helping a girl.
-- The premise explicitly describes the woman's action as helping the girl, which is exactly what the hypothesis states.
-- The premise contains the necessary information that a woman is helping the girl, confirming the hypothesis is entailed.
-- The premise provides clear evidence of the woman assisting the girl, matching the hypothesis without introducing unsupported information.
-- The premise specifies the woman's action of helping the girl, leaving no room for doubt about the entailment of the hypothesis.

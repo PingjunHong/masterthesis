@@ -1,7 +1,0 @@
-- The phrase "a dog" in the statement refers to "a black dog with a blue collar" in the content.
-- "The dog" in the statement is the same as "the black dog" mentioned in the content.
-- The reference to "a dog" getting wet is resolved by identifying "a black dog with a blue collar" as the subject in the content.
-- "The dog" in the statement is the same entity as "a black dog" described in the content.
-- The dog mentioned in the statement is the black dog described as jumping into the water in the content.
-- The reference to "a dog" in the statement is the dog that is jumping into the water in the content.
-- "A dog" in the statement is the same dog that is performing the action in the content.

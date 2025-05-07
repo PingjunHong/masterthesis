@@ -1,8 +1,0 @@
-"Man" in the premise directly matches "man" in the hypothesis.
-"Man holding torch of fire" implies the presence of a "man."
-The word "man" in the premise semantically includes the word "man" in the hypothesis.
-The presence of a "man" is explicitly mentioned in both the premise and the hypothesis.
-"Man" is a synonym for "man," maintaining semantic consistency.
-The premise specifies "man," satisfying the hypothesis's requirement for "man."
-The premise does not negate the existence of a "man," supporting the hypothesis.
-The premise includes the concept of "man," which is semantically equivalent to the hypothesis.

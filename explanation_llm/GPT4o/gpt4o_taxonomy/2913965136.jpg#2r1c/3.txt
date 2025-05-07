@@ -1,7 +1,0 @@
-1. The boy is sleeping at home implies he is not actively involved in any physical activity, such as getting ready to kick a soccer ball.
-2. Getting ready to kick the soccer ball requires the boy to be awake and physically present, which contradicts the idea of him sleeping at home.
-3. Sleeping at home suggests inactivity and rest, whereas getting ready to kick a soccer ball suggests activity and engagement.
-4. The statement the boy is sleeping at home suggests the boy is in a state of rest, which is incompatible with the action described in the premise.
-5. The premise indicates that the boy is preparing for a physical action, while the hypothesis indicates he is in a state of rest, which cannot occur simultaneously.
-6. The physical preparation involved in getting ready to kick a soccer ball contradicts the state of being asleep mentioned in the hypothesis.
-7. Engaging in a physical activity like kicking a soccer ball cannot occur if the boy is in a state of sleep at home.

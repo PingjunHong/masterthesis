@@ -1,8 +1,0 @@
-- "The statue" in the statement refers to "A statue" in the content.
-- The reference "people" in the statement is not resolved in the content, as the content does not mention any people.
-- "A statue" in the content is not specified as offensive, so the reference to "The statue" being offensive in the statement is not resolved.
-- The content does not establish a link between "A statue" and any negative reactions, leaving "people are mad" unresolved.
-- The pronoun "it" in the statement is intended to refer to the statue mentioned in the content, but without context to support the claim of offensiveness.
-- The reference to "museum" in the content does not provide any details about people's reactions, leaving the reference to "people are mad" unresolved.
-- The statement introduces "offensive" and "mad" references that are not supported or clarified by the content, leading to unresolved coreferences.
-- "No one" in the content implies a lack of attention, but it does not resolve why people would be mad, leaving the pronoun "people" in the statement unresolved.

@@ -1,8 +1,0 @@
-1. The statement "A person is talking to a child while another person watches" is a syntactic rephrasing of the premise "A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps."
-2. "A person is talking to a child while another person watches" captures the same event as described in the premise "A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps."
-3. The structure "A person is talking to a child while another person watches" is a simplified rephrasing of the premise's detailed description.
-4. The premise's "A woman talking to a little boy sitting on concrete steps" and "a woman in a black jacket and a black and white striped skirt is watching" is rephrased in the hypothesis as "A person is talking to a child while another person watches."
-5. The sentence "A person is talking to a child while another person watches" uses coordination to summarize "A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps."
-6. "Another person watches" is the syntactic alternation of "a woman in a black jacket and a black and white striped skirt is watching" from the premise.
-7. The subordination in "while another person watches" reflects the premise's description of one woman observing the interaction between the other woman and the child.
-8. The hypothesis "A person is talking to a child while another person watches" essentially rephrases the premise content by focusing on the key actions and roles involved.

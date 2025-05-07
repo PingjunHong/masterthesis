@@ -1,8 +1,0 @@
-The premise does not specify the material of the rowboat, so it is unclear whether it is wooden or made of another material.
-The premise does not mention the number of people, so "a bunch" could be more or fewer than actually present.
-The premise specifies the location as the ocean, whereas the hypothesis only mentions "on the water," which could be any body of water.
-The premise does not confirm the type of object as just "wooden," leaving room for ambiguity about the boat's construction.
-The presence of seagulls is mentioned in the premise but not in the hypothesis, which introduces a lack of detail about the surroundings.
-The term "bunch of people" is vague and lacks the precision provided by the premise, which simply states "a group."
-The hypothesis does not provide any supporting evidence for the claim that the object is specifically wooden.
-The premise describes the setting as the ocean, but the hypothesis does not explicitly support or contradict this, leaving it neutral.

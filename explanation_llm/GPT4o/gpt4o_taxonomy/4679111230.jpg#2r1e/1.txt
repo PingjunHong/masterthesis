@@ -1,6 +1,0 @@
-- The three firefighters coming up from a subway station refers to the same firefighters who come out of the subway station.
-- The phrase "coming up from" in the statement refers to the action of "come out of" in the premise.
-- The term "firefighters" in the statement corefers with "firefighter" in the premise, indicating they are the same individuals.
-- The statement uses "coming up from a subway station" to refer to the action described as "come out of subway station" in the premise.
-- The numeral "three" in both the premise and statement refers to the same group of firefighters.
-- The word "station" in the statement is a reference to the "subway station" mentioned in the premise.

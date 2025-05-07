@@ -1,8 +1,0 @@
-1. A gray ball cap is a type of cap.
-2. The description specifies that the man is wearing a gray ball cap.
-3. A gray ball cap is a gray cap.
-4. The color gray in "gray ball cap" indicates the cap is gray.
-5. A "ball cap" is commonly understood to be a type of cap.
-6. The term "wearing" implies the man has the cap on his head.
-7. The premise explicitly states the man is wearing a gray ball cap, which includes a cap.
-8. A cap is a type of hat, and the man is wearing it.

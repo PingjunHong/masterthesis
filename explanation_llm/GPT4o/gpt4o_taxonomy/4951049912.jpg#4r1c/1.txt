@@ -1,5 +1,0 @@
-- "A person" in the hypothesis refers to the same individual mentioned in the premise, but their location and activity contradict each other.
-- The reference to "a person" in both the premise and hypothesis identifies the same individual, yet the setting and action ("sitting in front of a graffiti covered wall" vs. "laying at home") are inconsistent with each other.
-- Both "a person" in the premise and hypothesis refer to the same person; however, the described locations ("in front of a graffiti covered wall" vs. "at home") contradict each other.
-- The pronoun "a person" is coreferential in both statements, but the premise describes them as "sitting" while the hypothesis describes them as "laying," which presents a contradiction in action and setting.
-- The same individual is referred to by "a person" in both the premise and hypothesis, yet the premise places them outdoors, while the hypothesis places them indoors, leading to a contradiction.

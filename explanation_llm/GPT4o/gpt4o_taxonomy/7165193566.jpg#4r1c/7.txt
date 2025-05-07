@@ -1,6 +1,0 @@
-- A bathtub is a fixture typically found in a bathroom, not a location where paintings are commonly displayed.
-- People generally do not hold beverages while in a bathtub.
-- Pointing at a painting requires being in proximity to the painting, which is unlikely while being in a bathtub.
-- Bathtubs do not typically contain paintings for viewing or pointing at.
-- It is uncommon to point at something while inside a bathtub.
-- A bathtub is not an environment conducive to holding beverages and pointing at paintings simultaneously.

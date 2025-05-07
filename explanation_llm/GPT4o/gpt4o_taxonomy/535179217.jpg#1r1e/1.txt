@@ -1,5 +1,0 @@
-- The people in the statement refers to the people standing near water in the premise.
-- The people are standing in the statement refers to those standing near water in the premise.
-- People standing in the statement is the same group mentioned as standing near water in the premise.
-- The reference to people in the statement is resolved by the mention of people standing near water in the premise.
-- The standing action in the statement is performed by the people referred to in the premise.

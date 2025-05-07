@@ -1,5 +1,0 @@
-1. "A man" in both the premise and the hypothesis refers to the same individual, but the actions described are different: shooting a gun versus shooting a bow and arrow.
-2. "Outdoors" in the premise and "on a rainy day" in the hypothesis both refer to the location of the activity, but the weather conditions described are contradictory: sunny versus rainy.
-3. "A beautiful sunny day" from the premise refers to the same timeframe as "on a rainy day" in the hypothesis, but the weather descriptions contradict each other.
-4. "Shooting a gun" in the premise and "shooting a bow and arrow" in the hypothesis refer to the same activity by the same man, but the equipment used is contradictory.
-5. The "man" mentioned in both the premise and hypothesis is the same individual, but the premise describes the weather as sunny, while the hypothesis describes it as rainy, which is a contradiction.

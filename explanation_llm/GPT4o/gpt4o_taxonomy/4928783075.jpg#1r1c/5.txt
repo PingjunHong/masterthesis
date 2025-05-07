@@ -1,5 +1,0 @@
-- The premise describes the boy as being outdoors in a field, which contradicts the hypothesis that he is indoors.
-- The hypothesis introduces the activity of playing video games, which is not mentioned or supported by the premise.
-- The premise states that the boy is throwing a toy plane, which contradicts the hypothesis that he is playing video games.
-- The environment described in the premise is a field, which contradicts the indoor setting implied by the hypothesis.
-- The hypothesis suggests an indoor activity, whereas the premise provides evidence of an outdoor activity.

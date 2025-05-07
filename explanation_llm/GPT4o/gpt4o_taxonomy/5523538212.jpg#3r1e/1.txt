@@ -1,7 +1,0 @@
-1. "A skier preparing a trick" refers to the skier who is ski-jumping.
-2. "His act" in the premise indicates the skier's actions, which include preparing a trick.
-3. The skier performing the ski-jump is the one preparing a trick, as implied by the act.
-4. The act being watched by two other skiers is the trick the skier is preparing.
-5. The skier mentioned in the hypothesis is the same individual performing the ski-jump in the premise.
-6. The premise's description of a ski-jump implies that the skier is preparing a trick, aligning with the hypothesis.
-7. The skier whose actions are being observed is the one preparing a trick, linking the premise with the hypothesis.

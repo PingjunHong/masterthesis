@@ -1,6 +1,0 @@
-1. The tattooed basketball player is about to dunk the ball describes an action, while the player has a tattoo that says mother describes a specific detail about the tattoo, not the action.
-2. The tattooed basketball player is about to dunk the ball focuses on the immediate action, whereas the player has a tattoo that says mother provides information about the tattoo's design, which does not relate to the action described.
-3. The tattooed basketball player is about to dunk the ball is about the player's current activity, while the player has a tattoo that says mother is about the content of the tattoo, which does not affect the activity.
-4. The tattooed basketball player is about to dunk the ball describes an event, while the player has a tattoo that says mother shifts focus to the tattoo's wording, which does not imply or contradict the event.
-5. The tattooed basketball player is about to dunk the ball mentions the player's action, whereas the player has a tattoo that says mother provides detail on the tattoo itself, unrelated to the action of dunking.
-6. The tattooed basketball player is about to dunk the ball highlights what the player is doing, while the player has a tattoo that says mother describes the tattoo, not the action of dunking.

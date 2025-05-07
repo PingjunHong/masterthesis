@@ -1,9 +1,0 @@
-1. A little male refers to the blond little boy.
-2. Clothes on refers to the orange sweatshirt with red sleeves.
-3. A pair of scissors in his hands refers to using scissors to cut something.
-4. His hands refers to the blond little boy’s hands.
-5. The male refers to the boy in the premise.
-6. A little male with clothes refers to the boy in an orange sweatshirt.
-7. The boy using scissors refers to the little male with a pair of scissors.
-8. The statement’s mention of clothes corresponds to the orange sweatshirt with red sleeves worn by the boy.
-9. The phrase “in his hands” refers back to the blond little boy in the orange sweatshirt.

@@ -1,8 +1,0 @@
-1. "Disposable cameras are cheap" is a syntactic rephrasing of "The cameras are cheap," but the premise does not specify the cost or type of cameras.
-2. The premise describes the cameras as disposable, which can imply they are inexpensive, but does not explicitly state their price.
-3. The statement "The cameras are cheap" is a rephrasing that assumes information not provided in the premise, which focuses on the type of cameras rather than their cost.
-4. A syntactic rephrasing of "The cameras are cheap" could be "The cameras are inexpensive," yet there's no mention of price in the premise.
-5. The premise focuses on the girls looking at the cameras, not the price, so rephrasing "The cameras are cheap" doesn't match the premise content.
-6. "Cheap" is inferred in the hypothesis by the term "disposable" in the premise, but this is a structural rephrasing that assumes too much.
-7. Rephrasing "The cameras are cheap" as "The cameras are low-cost" relies on an assumption not supported by the premise's description.
-8. The structural rephrasing in "The cameras are cheap" does not align with the content that describes the girls and cameras without mentioning cost.

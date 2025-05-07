@@ -1,6 +1,0 @@
-- The couple refers to the newlywed couple.
-- Just got married refers to being newlywed.
-- The couple in the statement is the same couple mentioned as a newlywed in the content.
-- The phrase "just got married" in the statement is synonymous with "newlywed" in the content.
-- The statement's reference to "the couple" is the same as the "newlywed couple" in the content.
-- Newlywed indicates that the couple has just gotten married, resolving the reference in the statement.

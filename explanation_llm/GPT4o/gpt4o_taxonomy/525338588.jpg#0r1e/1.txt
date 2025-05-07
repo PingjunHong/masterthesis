@@ -1,9 +1,0 @@
-1. "The group of people" refers to "many people standing outside of a place."
-2. "Aren't inside of the building" is implied by "standing outside of a place."
-3. "A place" and "the building" both refer to the location with the sign 'HI-POINTE.'
-4. The word "outside" indicates that the people are not "inside of the building."
-5. "Talking to each other in front of a building" suggests the group is not inside that building.
-6. The phrase "in front of a building that has a sign that says 'HI-POINTE'" resolves to the same location mentioned in "the building."
-7. "Many people" is the same as "the group of people" in the context of the premise.
-8. "Outside of a place" confirms that the group is not inside the place, which is synonymous with "the building."
-9. "Building" in the hypothesis and "a building that has a sign" in the premise are coreferential, indicating the same structure.

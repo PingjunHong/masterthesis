@@ -1,6 +1,0 @@
-- American Football is a type of football game.
-- Playing American Football implies that a football game is taking place.
-- A game involving two people playing American Football is a football game.
-- The act of stopping someone from throwing a ball is an action that occurs in a football game.
-- The premise describes actions typical in a game of football, supporting the hypothesis.
-- Playing implies participation in a game, and since the game is American Football, it is a football game.

@@ -1,5 +1,0 @@
-1. "A man" in the statement could refer to the "black man" in the premise, but there is no mention of the season or weather in the premise.
-2. "A jacket" in the statement could refer to the "down jacket" in the premise, but the premise does not specify the time of year or season.
-3. The premise describes "a black man wearing a down jacket," and the statement mentions "a man wearing a jacket," but there is no indication that it is winter in the premise.
-4. The premise includes "a black man wearing a down jacket," which could match "a man wearing a jacket," but the statement introduces "winter," which is not mentioned in the premise.
-5. The description of the man and his attire in the premise can relate to the statement, but the temporal context of "winter" in the statement is not covered by the premise.

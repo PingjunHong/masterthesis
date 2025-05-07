@@ -1,8 +1,0 @@
-- Overlooking and watching are synonyms in this context, both suggesting observation.
-- Bike maintenance and bike repairs refer to the same activity, as maintenance often includes repairs.
-- A black shirt is a type of shirt, which is consistent with the general description of a man in a shirt.
-- The act of overlooking implies watching or observing, aligning with the statement that the man watches.
-- The context of bike maintenance inherently involves repairs, making the terms interchangeable in this scenario.
-- The term "overlooking" in the premise can be interpreted as "watching" in the hypothesis, establishing a semantic equivalence.
-- Both "maintenance" and "repairs" involve working on a bike, suggesting a synonymous relationship in this context.
-- The premise's description of clothing (black shirt) does not contradict the hypothesis's lack of specific clothing description, allowing for entailment based on activity focus.

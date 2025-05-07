@@ -1,8 +1,0 @@
-1. The premise describes a situation involving a professional swimmer surfacing and spitting water while being helped back to land, but does not mention any incident involving drowning or being sucked under a current.
-2. The premise focuses on a swimmer's actions after surfacing and being assisted, without implying any danger or near-drowning experience.
-3. The statement introduces new information about the swimmer almost drowning, which is not structurally or semantically rephrased in the premise.
-4. The premise and the statement do not share synonymous structural elements that would equate the swimmer's rescue with a near-drowning incident.
-5. The premise mentions the swimmer spitting water and being helped back to land, which could be a result of various situations, not specifically being pulled under by a current.
-6. The structural elements in the premise focus on the act of surfacing and assistance, not on the cause or severity of the situation, as implied by the statement.
-7. The statement provides additional context about the swimmer's experience that is absent from the premise, preventing a direct syntactic rephrase.
-8. The premise lacks any mention of a fast current or near-drowning, differentiating its structural content from the statement's focus on a dangerous situation.

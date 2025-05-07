@@ -1,8 +1,0 @@
-- If a tan girl is running, then she is in motion, and if she is leaning over an object, then she is engaged in that action.
-- The phrase "one tan girl" implies there is a single tan girl in the scenario, matching the "a tan girl" in the statement.
-- The description "running and leaning over an object" logically includes the actions of both running and leaning, which matches the actions described in the statement.
-- The use of "is running and leaning" in the content matches the actions described in the statement, which indicates that the girl is performing both actions simultaneously.
-- The structure of the text specifies that the girl who is running is also the one leaning over an object, directly aligning with the statement.
-- The premise explicitly mentions the presence of "one tan girl," which directly correlates to "a tan girl" in the statement, ensuring specificity without ambiguity.
-- The conjunction "and" in the premise connects the actions of running and leaning, which are both present in the statement, ensuring that both actions are accounted for in the interpretation.
-- The semantic implication of "running" followed by "leaning over an object" indicates a sequence of actions performed by the same subject, which supports the statement's claim.

@@ -1,7 +1,0 @@
-- If a couple is referred to as "newlywed," it logically implies that they have just gotten married.
-- "Newlywed" semantically entails the state of having recently entered into marriage.
-- The term "newlywed" directly implies that the couple has undergone a marriage ceremony recently.
-- Being "newlywed" means the couple is in the phase immediately following their wedding, hence they have just got married.
-- The word "newlywed" inherently contains the meaning that the couple has recently been married.
-- The descriptor "newlywed" signifies that the couple has recently completed the act of marriage.
-- The concept of "newlywed" logically necessitates that the marriage event has just taken place.

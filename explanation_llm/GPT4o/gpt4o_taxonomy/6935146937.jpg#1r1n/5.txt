@@ -1,6 +1,0 @@
-1. The premise describes the man as black, which contradicts the hypothesis stating he is Asian.
-2. There is no mention in the premise of the man being Asian; instead, his race is explicitly described as black.
-3. The hypothesis introduces the information that the man is Asian, which is not supported by the premise.
-4. The racial identity mentioned in the hypothesis is not present in the premise, leading to a contradiction.
-5. The premise provides evidence that the man is black, directly opposing the claim in the hypothesis that he is Asian.
-6. The hypothesis assumes a racial identity for the man that is not mentioned or entailed by the premise.

@@ -1,8 +1,0 @@
-- The premise does not mention anything about Bruce Springsteen's sexual orientation, so the hypothesis introduces information that is not supported by the premise.
-- There is no evidence in the premise regarding Bruce Springsteen's personal life or sexual orientation.
-- The act of singing in a concert hall does not provide any information about one's sexual orientation.
-- The premise describes a performance scene and does not include any personal details or characteristics about Bruce Springsteen's identity beyond his actions on stage.
-- The hypothesis introduces a new piece of information not addressed or implied by the details in the premise.
-- The statement about Bruce Springsteen's sexual orientation is additional information not related to the described event in the premise.
-- The premise focuses solely on Springsteen's performance and does not mention or suggest anything about his private life or identity.
-- The hypothesis involves a claim about Bruce Springsteen's identity that is not relevant to the scene described in the premise.

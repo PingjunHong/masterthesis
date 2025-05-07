@@ -1,8 +1,0 @@
-- If a girl is holding a beverage, then she has a beverage.
-- Holding an object implies possession of that object.
-- The act of holding something logically entails having it.
-- If a girl points at a painting while holding a beverage, it follows that she has the beverage.
-- Possession is implied by the action of holding the beverage.
-- To hold a beverage, one must have it, thus confirming possession.
-- The physical act of holding indicates that the girl has the beverage in her possession.
-- The semantic relationship between holding and having guarantees that the girl has a beverage.

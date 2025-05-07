@@ -1,6 +1,0 @@
-- A youth is a young person.
-- Doing tricks on a skateboard involves being on a skateboard.
-- Skateboarding involves using a skateboard.
-- A youth doing a skateboard trick implies they are on a skateboard.
-- The term "youth" is commonly understood to mean a young person.
-- Performing a skateboard trick requires the person to be on a skateboard.

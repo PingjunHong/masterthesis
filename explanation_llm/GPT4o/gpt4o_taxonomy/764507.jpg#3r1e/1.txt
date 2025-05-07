@@ -1,6 +1,0 @@
-- Four adults refers to a group of people in both the premise and the hypothesis.
-- The act of eating in the premise matches the context of eat food in the hypothesis.
-- The phrase "a group of people" in the hypothesis refers to the "four adults" in the premise.
-- The word "eat" in the hypothesis is coreferential with "eat" in the premise.
-- The activity described in the premise (eating on a tile floor) is included in the more general activity of eating described in the hypothesis.
-- The term "people" in the hypothesis encompasses "adults" in the premise, resolving the reference.

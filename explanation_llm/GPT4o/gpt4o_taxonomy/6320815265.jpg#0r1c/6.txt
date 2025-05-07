@@ -1,5 +1,0 @@
-1. Empty streets contradict the presence of spectators.
-2. Spectators imply that the streets are not empty.
-3. If spectators are lining the streets, they cannot be empty.
-4. The presence of people (spectators) conflicts with the emptiness of the streets.
-5. Streets with spectators are occupied, not empty.

@@ -1,7 +1,0 @@
-1. "The people" in the statement refers to "People" in the content, but the direction of the escalator is not specified in the content.
-2. "Their destination" in the content is not explicitly stated as being upwards, so "going up" in the statement cannot be resolved from the content.
-3. The reference to "looking outside of the glass" does not specify the direction of the escalator, so "going up" cannot be confirmed.
-4. "On an escalator" in the content could mean going up or down, but the direction "up" in the statement is not resolved.
-5. "Waiting to get to their destination" in the content does not imply "going up" on the escalator.
-6. Coreference between "People" and "The people" does not provide information about the escalator's direction.
-7. The glass wall mentioned in the content does not indicate whether the escalator is ascending or descending.

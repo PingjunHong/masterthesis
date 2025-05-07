@@ -1,5 +1,0 @@
-1. "He" in the hypothesis refers to the father mentioned in the premise, but the premise does not specify his location or activity.
-2. The premise mentions the child and her father's boots, but does not indicate that the father is at work, which is implied by "he is at work" in the hypothesis.
-3. "Her father's boots" in both the premise and hypothesis refer to the same item, but the hypothesis adds information about the father's location that is not in the premise.
-4. The premise and hypothesis both mention the child and her father's boots, but only the hypothesis includes the father's activity or location.
-5. The reference to "he" in the hypothesis does not have a corresponding activity or location mentioned in the premise, making the statement neutral.

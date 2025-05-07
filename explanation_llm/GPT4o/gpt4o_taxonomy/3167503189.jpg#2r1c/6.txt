@@ -1,9 +1,0 @@
-1. A boy is not a girl.
-2. The action of holding onto is not the same as leaning against.
-3. The presence of a boy implies the absence of a girl in this context.
-4. A single person cannot simultaneously be a boy and a girl.
-5. The specific mention of a boy excludes the possibility of the individual being a girl.
-6. The description centers on the action of a boy, not a girl.
-7. The gender specified in the premise conflicts with the gender in the hypothesis.
-8. The roles described are mutually exclusive based on gender.
-9. The premise identifies only one individual by gender, contradicting the gender in the hypothesis.

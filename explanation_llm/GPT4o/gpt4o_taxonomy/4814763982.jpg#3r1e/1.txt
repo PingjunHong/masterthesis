@@ -1,5 +1,0 @@
-- The man in the premise refers to the man in the hypothesis.
-- The phrase "with no shirt on" in the premise does not affect the reference to the man with the baton.
-- "Performing with a baton" in the premise corresponds to "doing things with a baton" in the hypothesis.
-- The phrase "a man" in both the premise and hypothesis refers to the same individual.
-- The action "performing" implies "doing things," creating a direct relationship between the premise and hypothesis.

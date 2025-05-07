@@ -1,6 +1,0 @@
-1. "People" in both the premise and the hypothesis refer to the same group of individuals engaging in the activity.
-2. "A mountain crevasse" in both the premise and hypothesis refers to the same physical location or feature.
-3. "Jump over" in the premise is in contradiction with "slide over" in the hypothesis, as these actions are mutually exclusive.
-4. "On a rope" in the premise refers to the method used by the people, which is different from "on a slide" in the hypothesis.
-5. The action described in the premise and hypothesis involves the same crevasse, but the methods—jumping versus sliding—are different, leading to a contradiction.
-6. The reference to the method of crossing the crevasse in the premise ("on a rope") contradicts the method described in the hypothesis ("on a slide").

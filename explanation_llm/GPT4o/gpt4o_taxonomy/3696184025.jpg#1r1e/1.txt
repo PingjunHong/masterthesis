@@ -1,8 +1,0 @@
-1. "A girl" in the hypothesis refers to "a young girl" in the premise.
-2. "Is standing" in the hypothesis refers to "is standing on a blanket" in the premise.
-3. The action of standing in the hypothesis is the same action described in the premise.
-4. "A girl" in the hypothesis resolves to the "young girl in a yellow top and a flowered skirt" in the premise.
-5. The concept of a girl standing is explicitly mentioned in the premise with the detail "on a blanket."
-6. The reference to "a girl" encompasses the detailed description of "a young girl" provided in the premise.
-7. The premise provides context for "standing," which directly supports the action described in the hypothesis.
-8. The noun "girl" in the hypothesis is coreferential with the detailed description of the girl in the premise.

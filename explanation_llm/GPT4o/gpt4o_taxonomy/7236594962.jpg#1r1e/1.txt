@@ -1,5 +1,0 @@
-1. A man in both the premise and hypothesis refers to the same individual.
-2. Outdoors and a nice day both describe the same setting.
-3. What looks like a beautiful sunny day in the premise is synonymous with a nice day in the hypothesis.
-4. Shooting a gun in both the premise and hypothesis refers to the same action performed by the man.
-5. The man shooting a gun outdoors corresponds to the man shooting a gun at targets, assuming targets are outdoors.

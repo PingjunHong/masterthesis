@@ -1,7 +1,0 @@
-1. Football players are not playing basketball.
-2. No girls are mentioned in the premise.
-3. The premise involves football, not basketball.
-4. The premise describes male athletes, not female athletes.
-5. The setting is a football field, not a basketball court.
-6. The activity is a football game, not a basketball game.
-7. The roles described are specific to football, not basketball.

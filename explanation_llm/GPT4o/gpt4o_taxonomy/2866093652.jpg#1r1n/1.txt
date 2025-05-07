@@ -1,7 +1,0 @@
-- The "four women" in the premise and hypothesis refer to the same group of individuals.
-- "Rollerskating" in both premise and hypothesis refers to the same activity.
-- The term "an area" in the premise does not specify enjoyment, while the hypothesis implies enjoyment, creating neutrality.
-- The premise describes "competitively rollerskating," which does not imply enjoyment, whereas the hypothesis states "enjoying rollerskating."
-- The premise does not explicitly mention enjoyment, making the hypothesis neutral in terms of emotional state.
-- The hypothesis implies a subjective experience (enjoyment), which is not referenced in the premise, leading to neutrality.
-- The coreference of "rollerskating" across both statements does not resolve the competitive aspect into enjoyment, maintaining neutrality.

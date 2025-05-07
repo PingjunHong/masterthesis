@@ -1,8 +1,0 @@
-A guy wearing jeans and a hat can be described as a man.
-If a guy is crouching on a handrail, then a man is crouching on a handrail.
-Crouching implies being on the handrail, confirming the man's position.
-The presence of concrete embankment does not affect the position of the man on the handrail.
-Clothing details like jeans and hat do not alter the fact of a man crouching on a handrail.
-The use of "guy" and "man" refers to the same person in the context, ensuring that the action of crouching on the handrail applies to both.
-The structure of the sentence confirms that the primary action is crouching on the handrail, supporting the statement.
-Being on the handrail is a logical consequence of crouching on it, maintaining entailment.

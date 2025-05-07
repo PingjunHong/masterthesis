@@ -1,8 +1,0 @@
-An adult operating a video camera refers to one of the adults in front of the boy.
-An adult using a video camera corresponds to one operating a video camera mentioned in the premise.
-The adult with the video camera is the one operating it in front of the young boy.
-The video camera operator mentioned is one of the adults in front of the boy.
-The adult using the video camera is the one described as operating it in the premise.
-The adult handling the video camera is among the five adults in front of the boy.
-The reference to an adult using a video camera aligns with the adult operating a video camera.
-The video camera operation is performed by one of the five adults, as stated in the premise.

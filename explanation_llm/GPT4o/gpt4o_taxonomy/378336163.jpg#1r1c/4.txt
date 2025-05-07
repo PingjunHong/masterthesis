@@ -1,7 +1,0 @@
-- If a man is jumping in the snow, then someone is jumping, contradicting the statement that nobody is jumping.
-- The presence of a bearded man jumping implies that the action of jumping is taking place, which directly contradicts the assertion that no jumping is occurring.
-- The action of a man jumping is logically inconsistent with the claim that nobody is engaged in jumping.
-- The statement that nobody is jumping is false if there is a bearded man who is currently jumping, as described in the premise.
-- The act of jumping by a man in the snow indicates that there is at least one person jumping, which contradicts the hypothesis that nobody is involved in jumping.
-- The logical implication of a man jumping is that there is at least one individual performing the act of jumping, creating a contradiction with the statement that no one is jumping.
-- The presence of a jumping man inherently means that jumping is taking place, which is in direct contradiction to the claim of nobody jumping.

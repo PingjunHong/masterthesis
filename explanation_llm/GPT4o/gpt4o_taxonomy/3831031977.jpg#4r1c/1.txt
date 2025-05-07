@@ -1,5 +1,0 @@
-1. The people refers to a guy and a girl, who are looking down a mountain range, not into the sky.
-2. A guy and a girl implies two individuals, who are looking down the mountain range, whereas the statement suggests they are looking into the sky.
-3. The reference to looking down in the premise contradicts the reference to looking into the sky in the hypothesis.
-4. The phrase a guy and a girl looking down resolves to an action that is not compatible with looking into the sky.
-5. The people, in this context, refers to those looking down a mountain range, which cannot simultaneously mean they are looking into the sky.

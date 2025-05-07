@@ -1,8 +1,0 @@
-1. The employee refers to the person standing at the computer, not someone swimming in the ocean.
-2. The employee standing at the computer is not in the ocean.
-3. The reference to the employee is about someone indoors, not in the ocean.
-4. The employee is identified as being at a Best Buy, not in the ocean.
-5. The term "employee" resolves to the person in the aisle, not a swimmer in the ocean.
-6. The context indicates the employee is at a computer, not in an aquatic environment.
-7. The employee's location is specified as Best Buy, which contradicts being in the ocean.
-8. The person referred to as the employee is associated with the computer area, not the ocean.

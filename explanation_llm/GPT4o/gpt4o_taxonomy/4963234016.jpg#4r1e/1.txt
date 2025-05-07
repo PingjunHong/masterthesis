@@ -1,7 +1,0 @@
-The woman working long hours refers to the woman who is working.
-The woman mentioned in the premise is the same woman referred to in the hypothesis.
-The reference to "a woman" in both the premise and hypothesis is the same individual.
-"A woman working long hours" in the premise identifies the same woman as "a woman" in the hypothesis.
-The woman is the subject of both the premise and the hypothesis.
-The woman referenced in the hypothesis is the woman described in the premise.
-Both the premise and hypothesis refer to the same woman without introducing additional entities.

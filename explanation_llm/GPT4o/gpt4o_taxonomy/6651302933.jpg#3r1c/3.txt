@@ -1,5 +1,0 @@
-1. "Two people crossing by each other" implies more than one person, contradicting "There is one person outdoors."
-2. "Two people" explicitly states the presence of two individuals, which contradicts "one person."
-3. "Crossing by each other" requires at least two people, contradicting having only "one person."
-4. "Two people" inherently means not one person, which directly contradicts "There is one person."
-5. "Two" is a numerical value greater than "one," creating a contradiction with "There is one person outdoors."

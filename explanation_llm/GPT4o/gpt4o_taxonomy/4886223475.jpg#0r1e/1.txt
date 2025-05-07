@@ -1,4 +1,0 @@
-- "The man" in the statement refers to "a man in a one piece tunic" in the content.
-- "Riding a bike" in the statement refers to "is riding a bike" in the content.
-- "The man" resolves to "a man" who is described in the content as wearing a tunic.
-- The reference to "the man" in the hypothesis is the same individual described as "touching his nose" in the premise.

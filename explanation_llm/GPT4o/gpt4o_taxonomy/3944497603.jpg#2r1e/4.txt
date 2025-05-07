@@ -1,9 +1,0 @@
-- Resting above a metro entrance implies being near a metro station because the entrance is part of the station.
-- Being in orange clothing does not affect the proximity to the metro station, so the main action of resting above confirms nearness to the station.
-- The act of resting does not contradict the notion of standing, as one can rest by standing in one place, thus supporting the hypothesis.
-- The location described as "above a metro entrance" logically requires proximity to a metro station, fulfilling the spatial requirement of being "near."
-- The existence of a metro entrance inherently implies the presence of a metro station, thus meeting the condition of being "near" it.
-- The term "above" in relation to a metro entrance implies physical proximity to the entrance, which is part of the metro station infrastructure.
-- The phrase "a person rests" does not preclude them from being considered as "standing," as both can involve being stationary near the metro station.
-- Resting in the context of a metro entrance assumes the person is stationary, which aligns with the concept of standing near the metro station.
-- The proximity required to rest above a metro entrance inherently satisfies being "near a metro station" due to the entrance's function and location.

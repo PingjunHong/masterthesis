@@ -1,4 +1,0 @@
-- A woman working long hours refers to the woman in the premise, while a woman is sleeping refers to the same woman, creating a contradiction because one cannot work long hours and sleep simultaneously.
-- The woman mentioned in the premise as working long hours is the same woman referred to in the hypothesis as sleeping, which cannot both be true at the same time.
-- The reference to a woman in both the premise and the hypothesis resolves to the same individual, leading to a contradiction as she cannot be working long hours and sleeping simultaneously.
-- The woman who is working long hours in the premise and the woman who is sleeping in the hypothesis are coreferential, resulting in a contradiction because the two states cannot coexist.

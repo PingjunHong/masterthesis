@@ -1,8 +1,0 @@
-- The professional swimmer refers to a person who is swimming.
-- The action of spitting water out after surfacing is performed by someone who is swimming.
-- Grabbing the hand of someone helping indicates the person is currently swimming or has been swimming.
-- The person helping him back to land is assisting someone who has been swimming, referring to the swimmer.
-- The professional swimmer is the person, confirming that a person is swimming.
-- Surfacing in water is an action associated with swimming, confirming the person is swimming.
-- The act of being a professional swimmer implies that the person is swimming.
-- The description of the swimmer’s actions supports that the person is engaged in swimming activities.

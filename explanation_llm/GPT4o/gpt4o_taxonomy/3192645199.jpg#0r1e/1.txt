@@ -1,4 +1,0 @@
-- "Two people" refers to "a standing man" and "a seated woman."
-- "Talking" in the statement refers to "talks" in the premise.
-- "People" in the statement refers to "man" and "woman" in the premise.
-- "Man" and "woman" in the premise serve as references for "two people" in the statement.

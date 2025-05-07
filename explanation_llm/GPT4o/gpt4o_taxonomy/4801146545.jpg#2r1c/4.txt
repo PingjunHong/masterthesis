@@ -1,6 +1,0 @@
-- The premise specifies that people are wearing only white and red, which logically excludes the possibility of wearing black.
-- If people are wearing only white and red, then they cannot be wearing black simultaneously.
-- The premise restricts clothing colors to white and red, contradicting the hypothesis that includes black clothing.
-- "Only white and red" in the premise excludes other colors, including black, leading to a contradiction in the hypothesis.
-- The use of "only" in the premise implies exclusivity to white and red, making black an impossible option.
-- The logical structure of the premise only allows for white and red clothing, rendering any inclusion of black as incorrect.

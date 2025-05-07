@@ -1,6 +1,0 @@
-1. The hypothesis does not specify the water is blue, which is mentioned in the premise.
-2. The premise mentions the woman is wearing a colorful bikini, but the hypothesis does not specify the bikini’s color.
-3. The premise describes the woman as resting laying down, while the hypothesis only states she lays near the water, without mentioning resting.
-4. The location next to the water is described as "blue water" in the premise, but the hypothesis only mentions "water" without specifying the color.
-5. The premise does not specify the woman is in a bikini, only that she is wearing one, while the hypothesis implies that she is in it.
-6. The premise includes the detail that the woman is "resting," which is not mentioned in the hypothesis, which simply states that she lays near the water.

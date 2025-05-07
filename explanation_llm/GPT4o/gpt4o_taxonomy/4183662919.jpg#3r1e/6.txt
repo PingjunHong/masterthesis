@@ -1,9 +1,0 @@
-1. The presence of "her father's boots" implies the child is currently engaged in the activity.
-2. The premise specifies the activity as "playing," which matches the action described in the hypothesis.
-3. The premise establishes the child's activity in the present tense, confirming the timing.
-4. The location context of playing with boots is consistent between the premise and the hypothesis.
-5. The use of "her" in the premise indicates the child is female, but does not affect the entailment of "A child is playing."
-6. The premise involves playing, which is a subset of the broader activity described in the hypothesis.
-7. The premise indicates a specific setting, which does not conflict with the general activity mentioned in the hypothesis.
-8. The premise's focus on the child's activity aligns with the hypothesis's statement about the child being active.
-9. The premise's structure includes a detailed context, which logically supports the more general statement in the hypothesis.

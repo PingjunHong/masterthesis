@@ -1,7 +1,0 @@
-- A pickaxe is a type of tool, and if a man is using a pickaxe, he has a tool.
-- To work on a structure with a pickaxe, a man must possess the pickaxe, which is a tool.
-- Having a pickaxe implies possession of at least one tool, fulfilling the condition for having tools.
-- The act of working with a pickaxe logically entails that the man has this tool in his possession.
-- The semantic meaning of using a pickaxe includes the implication that it is a tool, thus confirming the man has tools.
-- The structure of the premise indicates that the man is engaged in an activity requiring a pickaxe, inherently a tool, thus he has tools.
-- The logical implication of using a pickaxe is that it belongs to the category of tools, confirming the statement.

@@ -1,7 +1,0 @@
-- "A game of football" refers to the activity involving "two people playing American Football."
-- "Football" in the statement is coreferential with "American Football" mentioned in the content.
-- The act of "playing" in the statement corresponds to "playing American Football" in the content.
-- "Being played" in the statement is synonymous with the activity described in the content where two people are actively engaged in American Football.
-- The term "football" in the hypothesis is linked to "American Football" referenced in the premise, indicating the same sport.
-- The statement's "game of football" is directly coreferential with the activity described as "playing American Football" in the premise.
-- The description of a "game" in the statement corresponds to the sporting activity where "one of them is trying to stop the other from throwing the ball," indicating ongoing play.

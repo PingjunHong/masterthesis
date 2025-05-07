@@ -1,8 +1,0 @@
-1. An advertisement is commonly abbreviated as an ad.
-2. An old man is a specific type of man.
-3. A package is not relevant to the action of posing, so it can be ignored in the entailment.
-4. The inclusion of "with a package" does not negate the fact that the man is posing.
-5. "Poses" in both the premise and hypothesis indicates the same action.
-6. The phrase "in front of" is consistent in both the premise and hypothesis, indicating location.
-7. The adjective "old" specifies the man but does not change the fundamental subject of "a man."
-8. "Advertisement" and "ad" are synonyms, indicating the same object.

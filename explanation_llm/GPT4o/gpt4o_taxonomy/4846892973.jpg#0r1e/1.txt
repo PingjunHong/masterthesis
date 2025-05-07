@@ -1,5 +1,0 @@
-- "Six or seven people" in the statement refers to "Six or seven people" in the content.
-- "Standing on a pier" in the statement refers to "standing on a pier" in the content.
-- The phrase "Six or seven people are standing on a pier" in the statement directly refers to the same group of people described in the content.
-- The statement uses "Six or seven people" and "a pier," which are explicitly mentioned in the content, establishing a direct reference.
-- The reference to "people" in both the content and statement is consistent, confirming that they refer to the same individuals.

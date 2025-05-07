@@ -1,7 +1,0 @@
-- "A boy swims" in the statement refers to "A boy swims shirtless with a black and red bathing suit" in the content, but does not specify the bathing suit details.
-- "A seagull shits on the sand" in the statement refers to "a seagull sits on the sand" in the content, indicating different actions by the seagull.
-- "A boy" in the statement is the same "boy" mentioned in the content, but the activity described is consistent in both.
-- "A seagull" in the statement refers to the same "seagull" in the content, but the action attributed to the seagull differs in each.
-- The reference to "A boy swims" is consistent across both the statement and the content, but the reference to the seagull's action differs.
-- The boy's action of swimming is the same in both statement and content, but the seagull's action of "shitting" versus "sitting" changes the context, making it neutral.
-- The entities "boy" and "seagull" are coreferenced accurately, but the actions of the seagull are different.

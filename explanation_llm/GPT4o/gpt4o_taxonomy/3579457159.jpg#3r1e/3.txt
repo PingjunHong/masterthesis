@@ -1,8 +1,0 @@
-- The statement "there are several women" is a rephrase of "Several women wearing dresses dance in the forest."
-- "Several women wearing dresses dance in the forest" syntactically implies "there are several women" by confirming their presence.
-- The existence of several women is structurally reaffirmed by saying "there are several women."
-- "Several women wearing dresses dance in the forest" includes the phrase "Several women," which matches the statement "there are several women."
-- "There are several women" is a syntactic alternation of "Several women wearing dresses dance in the forest," emphasizing the presence of women.
-- "There are several women" is a subordinate clause that can be inferred from the premise "Several women wearing dresses dance in the forest."
-- "Several women" from the premise structurally corresponds to "there are several women" in the hypothesis.
-- The premise's reference to "Several women" directly supports the statement "there are several women" through syntactic rephrasing.

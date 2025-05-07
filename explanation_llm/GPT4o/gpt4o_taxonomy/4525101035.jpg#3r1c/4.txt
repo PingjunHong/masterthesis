@@ -1,5 +1,0 @@
-1. If the man is wearing a down jacket, then he cannot be wearing a cotton shirt simultaneously.
-2. If the comb being held is pink, then it cannot be green.
-3. If the person is holding the comb, they cannot be merely looking at it.
-4. If the description specifies a black man, then "someone" lacks the necessary specificity to match.
-5. If the arms are spread to hold the comb, the focus is on holding, not looking.

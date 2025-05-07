@@ -1,9 +1,0 @@
-1. "Two children, both wearing tan coats, are embracing one another" describes the act of hugging but doesn't specify a reason, such as surviving a car wreck.
-2. The premise mentions "embracing" which is structurally similar to "hugging," but it does not imply any context related to a car wreck.
-3. "Kids" is a structural rephrasing of "children," but the premise does not include details about a car wreck, making the hypothesis neutral.
-4. The statement "Two kids are hugging" can be a rephrase of "Two children are embracing one another," but the additional detail about "surviving a horrible car wreck" is not present in the premise.
-5. The premise uses "both wearing tan coats" which is structurally similar to "two kids," but lacks the context of a car wreck survival.
-6. "Embracing one another" is syntactically similar to "hugging," but the premise lacks any causal or contextual elements about a car wreck.
-7. "Two children" and "two kids" are structurally similar, yet the premise does not contain information about any event, such as a car wreck, leading to a neutral label.
-8. The hypothesis introduces the concept of a "horrible car wreck," which is not syntactically or semantically present in the premise, making it neutral.
-9. The premise mentions "tan coats," a detail absent in the hypothesis, demonstrating structural rephrasing without implying the car wreck context.

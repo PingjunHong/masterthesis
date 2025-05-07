@@ -1,7 +1,0 @@
-1. The children referred to in both the premise and hypothesis are the same group, but the premise states there are five, whereas the hypothesis claims there are ten.
-2. The reference to "children playing" in both the premise and hypothesis is mismatched in number, with the premise mentioning five and the hypothesis mentioning ten.
-3. The phrase "five children" in the premise directly contradicts the reference to "ten total children" in the hypothesis when resolving the reference to the same group of children.
-4. The hypothesis incorrectly resolves the reference to the number of children playing in the premise, which specifies five, not ten.
-5. The total number of children playing, as referenced in both the premise and hypothesis, conflicts due to differing numbers provided: five in the premise and ten in the hypothesis.
-6. Both the premise and hypothesis discuss the same group of children playing soccer, but the number five in the premise contradicts the number ten in the hypothesis.
-7. Resolving the reference to "children" between the premise and hypothesis reveals a contradiction in the count: five versus ten.

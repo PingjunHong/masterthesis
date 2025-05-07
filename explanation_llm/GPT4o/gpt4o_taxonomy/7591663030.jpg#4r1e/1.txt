@@ -1,7 +1,0 @@
-- The man refers to the guy in the premise.
-- Riding a motorcycle refers to the action performed by the guy.
-- A man is understood to be the same individual as the guy.
-- The motorcycle mentioned in both the premise and hypothesis is the same.
-- The guy and the man are coreferential terms identifying the same person.
-- The action of riding is performed by the man, who is the guy.
-- A man is the guy identified as riding the motorcycle.

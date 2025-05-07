@@ -1,8 +1,0 @@
-1. A breakdancer is a person, and performing a one-handed trick is a type of doing tricks.
-2. A group of people is synonymous with a crowd.
-3. Watching implies being in front of, which aligns with the dancer performing in front of a crowd.
-4. A red jacket is additional detail, but it does not change the fact that the breakdancer is performing tricks.
-5. A one-handed trick is a specific instance of doing tricks.
-6. The phrase "a group of people" in the premise is synonymous with "crowd" in the hypothesis.
-7. The act of doing a one-handed trick falls under the broader category of doing tricks.
-8. The breakdancer is implicitly part of the crowd's observation, aligning with the hypothesis that a person is performing tricks in front of them.

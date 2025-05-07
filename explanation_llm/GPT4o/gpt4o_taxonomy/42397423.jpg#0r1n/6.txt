@@ -1,7 +1,0 @@
-1. The statement uses "person," which is gender-neutral, while the premise specifies "boy," indicating a gender conflict.
-2. The premise specifies "young boy," while the statement uses "person," which could imply an age conflict.
-3. The statement does not specify the color of the shorts, while the premise specifies "green shorts," suggesting a detail omission.
-4. The premise specifies "above a river," while the statement omits this location detail, indicating a location conflict.
-5. "Balancing on a pipe" is specified in the premise, whereas the statement only mentions "balancing," implying a structural detail conflict.
-6. The premise mentions "a young boy," suggesting singularity, while the statement uses "a clever person," which could imply a qualitative distinction.
-7. The premise describes a specific action "balances on a pipe," whereas the statement describes a general action "balancing," suggesting a specificity conflict.

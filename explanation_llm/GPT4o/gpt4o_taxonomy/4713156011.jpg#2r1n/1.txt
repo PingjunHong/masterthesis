@@ -1,8 +1,0 @@
-- "A man" in the premise refers to "A person" in the hypothesis, but there is no mention of a circus or performance in the premise.
-- "People and canopies in the background" does not specifically refer to a circus setting in the hypothesis.
-- "A man has flung himself over a pole" does not specify that it is a trick or that it is performed at a circus.
-- "A person" in the hypothesis could refer to "A man" in the premise, but the premise does not provide context about a circus.
-- The premise describes a physical action, but lacks details about the nature of the event, such as a circus or trick.
-- "A man" in the premise and "A person" in the hypothesis may be the same individual, but the premise does not confirm the location or activity described in the hypothesis.
-- "Canopies" in the premise could imply an outdoor setting but does not explicitly indicate a circus environment.
-- The premise does not define the action as a "trick" nor does it include context about the circus, making the hypothesis neutral.

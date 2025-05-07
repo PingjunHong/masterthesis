@@ -1,6 +1,0 @@
-- A workman refers to the carpenter mentioned in the premise.
-- Helping put a roof on a house refers to working on a roof at a house being built.
-- The house being built in the premise corresponds to the house in the hypothesis.
-- The action of working on a roof is what is meant by helping put a roof on a house.
-- The carpenter and the workman are the same individual involved in the roofing activity.
-- The premise's reference to a house being built resolves to the same house in the hypothesis.

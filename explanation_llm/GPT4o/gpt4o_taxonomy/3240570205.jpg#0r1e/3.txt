@@ -1,7 +1,0 @@
-- An adult using a video camera is a rephrase of one operating a video camera from the premise.
-- The premise includes an adult who is operating a video camera, which matches the hypothesis statement.
-- The statement, An adult using a video camera, is a structural simplification of the premise's description of one operating a video camera.
-- The phrase, one operating a video camera, in the premise can be structurally rephrased as the statement An adult using a video camera.
-- Both the premise and hypothesis describe the activity of a video camera being operated by an adult, indicating syntactic alternation.
-- The hypothesis condenses the information in the premise about one adult operating a video camera.
-- The premise specifies an adult operating a video camera, which syntactically corresponds to the hypothesis.

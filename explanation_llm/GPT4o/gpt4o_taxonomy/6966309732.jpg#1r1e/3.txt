@@ -1,8 +1,0 @@
-1. The soccer team in blue plays soccer is a rephrase of, The soccer team, clad in blue for the match, began to counter down the field in front of the defender, clad in red.
-2. The phrase "The soccer team in blue plays soccer" is syntactically rephrased from "The soccer team, clad in blue for the match, began to counter down the field."
-3. The statement simplifies "The soccer team, clad in blue for the match" to "The soccer team in blue," indicating the same group engaged in playing soccer.
-4. "Clad in blue for the match" implies the team is playing soccer, which is rephrased as "plays soccer."
-5. The hypothesis condenses the action of "began to counter down the field" to the general activity of "plays soccer."
-6. "The soccer team in blue" is the same as "the soccer team, clad in blue for the match," both identifying the team engaged in the match.
-7. The action described in the premise ("began to counter down the field") is part of playing soccer, which is rephrased in the hypothesis.
-8. The phrase "in blue for the match" structurally rephrases to "in blue," maintaining the context of playing soccer.

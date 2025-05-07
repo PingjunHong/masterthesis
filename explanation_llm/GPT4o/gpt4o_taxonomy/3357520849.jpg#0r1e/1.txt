@@ -1,4 +1,0 @@
-1. The man in front of a building refers to the man sitting in front of the building painted white and blue.
-2. The man refers to the man in a black ball cap, black jacket, and pants.
-3. The building refers to the building painted white and blue with the words ING and PEOPLE written on it.
-4. The phrase "in front of a building" in the hypothesis corresponds to "sitting in front of a building painted white and blue" in the premise.

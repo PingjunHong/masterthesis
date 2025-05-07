@@ -1,8 +1,0 @@
-1. The skateboarder performing a trick on a rail and a man painting a tree describe completely different actions.
-2. The activity of skateboarding and doing a trick on a rail cannot be rephrased to mean painting a tree.
-3. The subject "a skateboarding youth" and "a man" are structurally distinct and refer to different entities.
-4. Doing a trick on a rail does not syntactically alter into painting a tree.
-5. The action of skateboarding cannot be syntactically restructured to mean painting.
-6. A skateboarding youth performing a trick cannot be rephrased as a man painting without changing the meaning.
-7. The structural elements of skateboarding and rail trick differ syntactically from man and tree painting.
-8. The syntactic structure of the premise involving a skateboarding youth cannot be rephrased to match the hypothesis involving a man painting a tree.

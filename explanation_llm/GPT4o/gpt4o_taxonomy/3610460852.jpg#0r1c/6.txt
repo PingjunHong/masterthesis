@@ -1,4 +1,0 @@
-1. Standing is not the same as seated.
-2. Behind a counter is not the same as on a beach towel.
-3. A counter and a beach towel are different locations.
-4. Being behind a counter implies being indoors, while being on a beach towel implies being outdoors.

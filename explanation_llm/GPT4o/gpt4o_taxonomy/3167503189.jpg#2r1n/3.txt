@@ -1,6 +1,0 @@
-1. The premise mentions a boy holding onto the wall of an old brick house's raised foundation, but the hypothesis adds information about construction occurring, which is not present in the premise.
-2. The structural rephrasing in the hypothesis introduces an additional element (construction occurs) that is not implied or stated in the premise, making the two statements neutral in relation to each other.
-3. The premise describes a static scene with the boy and the wall, whereas the hypothesis includes an activity (construction) that changes the context, leading to a neutral relationship.
-4. The premise and hypothesis both involve a boy holding onto a wall, but the hypothesis introduces a new scenario (construction) that is not present or rephrased in the premise.
-5. While the syntactic structure of the hypothesis is similar, the addition of construction in the hypothesis adds a layer of meaning not present in the premise, resulting in a neutral label.
-6. The hypothesis rephrases the boy's action and setting but adds construction, which is absent from the premise, thereby not altering the semantic content of the premise sufficiently to create entailment or contradiction.

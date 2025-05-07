@@ -1,5 +1,0 @@
-- "Many pedestrians on the city street" refers to "lots of pedestrians" on the crowded city street.
-- "There" in the statement refers to the crowded city street mentioned in the content.
-- "Pedestrians" in the statement refers to the "pedestrians" described in the content.
-- "City street" in the statement refers to the "city street" described in the content.
-- "Many" in the statement corresponds to "lots of" in the content.

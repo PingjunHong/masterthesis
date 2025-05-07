@@ -1,8 +1,0 @@
-- Some animals are asleep is a rephrase of, while a bunch of dogs take a nap.
-- Some animals are asleep is a syntactic alternation of, a bunch of dogs take a nap.
-- Some animals are asleep is a structural rephrasing of, dogs take a nap.
-- Some animals are asleep corresponds to the coordination of, a bunch of dogs are asleep.
-- Some animals are asleep is a subordination of the phrase, dogs are taking a nap.
-- Some animals are asleep rephrases, dogs are sleeping.
-- Some animals are asleep is a structural rephrasing of, some dogs are napping.
-- Some animals are asleep is a syntactic alternation of, a group of dogs are sleeping.

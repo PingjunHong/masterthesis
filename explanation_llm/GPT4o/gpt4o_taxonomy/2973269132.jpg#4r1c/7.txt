@@ -1,9 +1,0 @@
-- A lioness cannot close in on its prey while sleeping.
-- Closing in on prey requires the lioness to be awake and alert.
-- Sleeping implies inactivity, which contradicts the active pursuit of prey.
-- A sleeping lioness would not be engaging in hunting behavior.
-- Predation involves movement and focus, which are not possible if the lioness is asleep.
-- Sleep and active hunting are mutually exclusive activities.
-- A lioness needs to be awake to engage in the act of stalking prey.
-- The state of being asleep prevents the lioness from taking any action toward its prey.
-- A lioness that is closing in on prey is in an awake and alert state, not sleeping.

@@ -1,8 +1,0 @@
-1. The word "man" refers to a male individual, whereas "woman" refers to a female individual, indicating a contradiction in gender.
-2. The action "kicking" is a physical activity, while "puts on makeup" describes a grooming activity, suggesting a contradiction in action type.
-3. The color "blue" is associated with a jacket in the premise, which has no relevance to the statement about makeup, pointing to a contradiction in context.
-4. The color "red" in the premise pertains to a jacket, not makeup, denoting a contradiction in object application.
-5. The premise involves two men, whereas the statement involves a woman, highlighting a contradiction in the number and nature of subjects.
-6. The premise describes an interaction between two people, but the statement involves an individual action, emphasizing a contradiction in interaction.
-7. The premise does not mention makeup or any related activity, contradicting the hypothesis that involves makeup application.
-8. "Kicking" and "puts on makeup" involve two different verb actions that are contradictory in terms of activity type.

@@ -1,8 +1,0 @@
-- Outdoors is the only location where a snowy day occurs.
-- The presence of snow implies an outdoor setting.
-- A jump on a snowy day cannot occur indoors.
-- Snowy conditions are exclusive to outdoor environments.
-- The logical structure of a snowy day necessitates an outdoor location.
-- Existing outdoors is a requirement for experiencing a snowy day.
-- Snowfall only happens outside, confirming the outdoor setting.
-- The temporal context of a snowy day aligns exclusively with an outdoor location.

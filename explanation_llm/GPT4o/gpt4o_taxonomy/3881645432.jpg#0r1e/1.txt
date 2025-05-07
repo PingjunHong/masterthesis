@@ -1,5 +1,0 @@
-1. The employee mentioned in the statement refers to the employee standing at the computer in the premise.
-2. The use of "indoors" in the statement refers to the location described in the premise, which is inside a Best Buy store.
-3. "The employee" in the statement refers to the same employee standing at the computer in the premise.
-4. The reference to "indoors" is resolved by the context of being inside a store, as described in the premise.
-5. The employee in the statement and the employee in the premise are the same individual, located inside Best Buy.

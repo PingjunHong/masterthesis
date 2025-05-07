@@ -1,8 +1,0 @@
-1. The premise does not specify that the youth is showing tricks to friends, leading to a conflict in logical structure about the presence of friends.
-2. The premise mentions a singular rail, while the hypothesis implies multiple tricks, which may not all be performed on a single rail.
-3. The premise describes a youth, while the hypothesis specifies a young boy; the terms may not necessarily refer to the same individual, creating a potential gender or age conflict.
-4. The premise does not indicate the presence of an audience, while the hypothesis explicitly states that the tricks are shown to friends, creating a logical exclusivity conflict.
-5. The premise focuses on a single trick, whereas the hypothesis implies multiple tricks, leading to a quantifier conflict.
-6. The premise does not mention the skateboard being new, while the hypothesis specifies it, creating a logical structure conflict regarding the skateboard’s condition.
-7. The premise does not include any temporal indicators, while the hypothesis suggests a present or ongoing event with friends, leading to a temporal conflict.
-8. The premise does not specify any location or setting involving friends, whereas the hypothesis implies a social setting, creating a location conflict.

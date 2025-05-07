@@ -1,8 +1,0 @@
-- The premise does not mention anything about the duck sleeping, only that it is expanding its wings, so there is no evidence to support that the duck is sleeping.
-- The action of expanding wings implies the duck is awake and active, not asleep, which is contrary to the hypothesis.
-- Floating on water is not mentioned in the premise, so it cannot be assumed that the duck is floating while expanding its wings.
-- The premise describes a specific action that suggests the duck is alert or engaged, contradicting the idea of it sleeping soundly.
-- Sleeping soundly and expanding wings are mutually exclusive actions, and the premise only supports the latter.
-- No mention of the behavior or state of the duck being at rest or asleep in the premise.
-- The hypothesis introduces a state of rest (sleeping) that is not entailed by the active behavior described in the premise.
-- Expanding wings typically indicates an active state, which is in contradiction to the passive state of sleeping suggested in the hypothesis.

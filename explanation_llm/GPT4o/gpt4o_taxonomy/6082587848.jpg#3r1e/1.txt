@@ -1,7 +1,0 @@
-- The woman playing the violin refers to the woman within the orchestra playing a violin.
-- The violin mentioned in the hypothesis refers to the violin played by the woman within the orchestra.
-- "A woman" in the hypothesis is the same woman referred to as "a woman within an orchestra" in the premise.
-- The action of playing a violin in the premise is the same action referred to in the hypothesis as playing the violin.
-- "The violin" in the hypothesis is the same instrument being played by the woman in the premise.
-- The woman mentioned in the hypothesis is the one identified as playing a violin within the orchestra in the premise.
-- The reference to "a woman" in both the premise and hypothesis refers to the same individual.

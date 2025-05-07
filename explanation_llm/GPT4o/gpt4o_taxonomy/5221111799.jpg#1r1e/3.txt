@@ -1,8 +1,0 @@
-- A workman is helping put a roof on a house is a rephrase of A carpenter is working on a roof at a house being built.
-- Helping put a roof on a house is structurally similar to working on a roof at a house.
-- A carpenter working on a roof implies that the carpenter is helping to put the roof on a house.
-- The phrase "a house being built" can be syntactically alternated to "put a roof on a house."
-- "Working on a roof" and "helping put a roof on" are syntactic variations expressing the same activity.
-- The term "workman" is a structural rephrasing of "carpenter," both referring to a person engaged in construction work.
-- "Working on a roof" can be rephrased to "helping put a roof on" while maintaining the same meaning.
-- "A carpenter is working" is syntactically similar to "a workman is helping," both conveying active participation in roofing.

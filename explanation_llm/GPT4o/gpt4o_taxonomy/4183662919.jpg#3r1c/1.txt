@@ -1,6 +1,0 @@
-1. The child in both the premise and statement refers to the same individual.
-2. Her father's boots in the premise refer to the footwear belonging to her father, which contrasts with her mother's shoe in the statement.
-3. The singular term 'shoe' in the statement does not match the plural 'boots' in the premise, indicating different footwear.
-4. The reference to 'her father' in the premise contrasts with 'her mother' in the statement, indicating different parental figures.
-5. The use of 'boots' in the premise conflicts with the use of 'shoe' in the statement, suggesting different types of footwear.
-6. The phrase 'her father's' in the premise does not refer to 'her mothers'' in the statement, showing a contradiction in ownership.

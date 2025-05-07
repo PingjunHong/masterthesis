@@ -1,6 +1,0 @@
-- The little boy in the gray and white striped sweater and tan pants refers to the boy who is playing on the playground equipment, not the boy sitting on the school bus.
-- The boy mentioned in the hypothesis is assumed to be the same boy in the premise, but their activities contradict each other.
-- The reference to "the boy" in both the premise and hypothesis is to the same individual, yet his location and activity differ, leading to a contradiction.
-- The phrase "the boy" in the hypothesis attempts to refer back to the same boy described in the premise, but their situations are mutually exclusive.
-- In resolving the coreference of "the boy," the context in the premise does not match the context in the hypothesis, hence a contradiction.
-- The coreference of "the boy" in both premise and hypothesis suggests they are the same person, but his actions and location do not align.

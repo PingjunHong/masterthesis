@@ -1,4 +1,0 @@
-- A blond little boy is a little male.
-- An orange sweatshirt with red sleeves is a type of clothing, so the boy has clothes on.
-- Using scissors implies having a pair of scissors in one's hands.
-- If the boy is cutting something, he must be holding scissors.

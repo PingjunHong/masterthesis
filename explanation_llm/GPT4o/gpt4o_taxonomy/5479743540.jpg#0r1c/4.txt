@@ -1,5 +1,0 @@
-- The premise describes the guy as wearing a hat, which implies his head is covered, contradicting the hypothesis that his bald head is exposed.
-- Wearing a hat logically means covering one's head, which contradicts the idea of having an exposed bald head.
-- The structure of the premise indicates the guy's head should be hidden by the hat, conflicting with the hypothesis of his bald head being exposed.
-- The semantics of "wearing a hat" imply that the head is not visible, contradicting the statement that his bald head is exposed.
-- The act of wearing a hat implies concealment of the head, which is inconsistent with the claim that his bald head is exposed.

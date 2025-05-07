@@ -1,5 +1,0 @@
-1. "A woman in black" in the premise refers to the same person as "The woman in black" in the hypothesis; however, the premise does not mention anything about a text message or being fired.
-2. The premise describes a woman reviewing a message while walking, but does not specify the content of the message or any connection to employment or termination.
-3. The reference to "a message" in the premise is not explicitly linked to the concept of being fired in the hypothesis, leaving the nature of the message ambiguous.
-4. Both the premise and hypothesis refer to the same woman in black, but the premise does not provide information about her employment status or job-related communications.
-5. The coreference between "a woman in black" and "The woman in black" is established, yet there is no indication in the premise about the woman being fired, making the hypothesis a neutral statement.

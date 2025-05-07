@@ -1,8 +1,0 @@
-- Not all women have important meetings.
-- The building may not host meetings.
-- People loitering or waiting does not imply a meeting.
-- The woman could be visiting for reasons other than a meeting.
-- The presence of a pillar doesn't indicate the purpose of the visit.
-- The building may be a public space rather than an office.
-- Important meetings can occur in buildings without steps.
-- A woman heading towards a building does not imply an important meeting.

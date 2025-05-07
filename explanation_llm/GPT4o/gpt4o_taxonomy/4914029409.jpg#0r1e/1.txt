@@ -1,8 +1,0 @@
-A group of people refers to the little boy, the woman, and other various bike riders.
-People ride bikes refers to the boy and the woman riding bikes.
-Together refers to the boy, the woman, and other various bike riders riding bikes down a street.
-The street mentioned in the hypothesis refers to the street described in the premise.
-A group of people encompasses the little boy and the woman as part of the bike riders.
-Ride bikes refers to the action performed by the boy, the woman, and other various riders.
-The term people includes the boy and the woman mentioned in the premise.
-The street in the hypothesis is the same street with various bike riders described in the premise.

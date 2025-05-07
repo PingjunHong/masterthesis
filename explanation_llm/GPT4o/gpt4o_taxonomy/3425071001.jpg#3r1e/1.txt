@@ -1,6 +1,0 @@
-- A boy in the premise refers to the same boy in the statement.
-- The tennis ball in the premise is the ball referred to in the statement.
-- Hitting in the statement is the same action as hits in the premise.
-- The boy mentioned in both the premise and the statement is the same individual.
-- The ball being hit in the statement is the tennis ball mentioned in the premise.
-- The action of hitting in the statement corresponds to the action of hitting described in the premise.

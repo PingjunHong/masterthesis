@@ -1,5 +1,0 @@
-- A man is a type of person.
-- The maintenance garage is a type of garage.
-- Looking over a bicycle's rear wheel implies being in the vicinity of the bicycle.
-- Various tools visible in the background suggest a maintenance garage environment.
-- The presence of tools in a maintenance garage indicates the setting is a garage.

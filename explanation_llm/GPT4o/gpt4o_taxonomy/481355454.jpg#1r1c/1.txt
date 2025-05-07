@@ -1,4 +1,0 @@
-- "They" in the statement refers to the five children mentioned in the premise.
-- "Playing football" in the statement refers to the same activity as "playing soccer" in the premise, but soccer and football can imply different sports depending on the context.
-- The term "They" in the statement is a pronoun that resolves to the five children chasing the ball in the premise.
-- "Football" in the statement conflicts with "soccer" in the premise due to the different regional uses of the terms.

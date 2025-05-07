@@ -1,8 +1,0 @@
-- The phrase "her face partially covered in silver face paint" implies that the woman has something on her face.
-- "Face paint" is something on the woman's face, as stated in the hypothesis.
-- The description "face partially covered in silver face paint" structurally rephrases to "has something on her face."
-- The presence of "silver face paint" on her face indicates there is something on her face.
-- Having "silver face paint" covering part of her face means there is something on her face.
-- "Face partially covered" directly suggests there is something on her face.
-- The woman sitting with "face paint" on her face is syntactically rephrased to "has something on her face."
-- The structure of "face partially covered" can be rephrased as "has something on her face."

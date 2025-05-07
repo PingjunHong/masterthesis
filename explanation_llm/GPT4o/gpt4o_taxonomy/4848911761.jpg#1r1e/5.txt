@@ -1,6 +1,0 @@
-1. The hypothesis assumes that the person doing tricks is male, but the premise does not specify the gender of the breakdancer in the red jacket.
-2. The premise mentions a breakdancer doing a one-handed trick but does not confirm that multiple tricks are being performed, as suggested by the hypothesis.
-3. The premise describes a group of people watching a breakdancer, but it does not explicitly state that all people are watching the breakdancer while he performs tricks, as the hypothesis implies.
-4. The hypothesis implies that the breakdancer in the red jacket is performing tricks continuously, which is not mentioned or supported by the premise.
-5. The premise focuses on a one-handed trick, whereas the hypothesis generalizes this to multiple tricks without evidence of additional tricks being performed.
-6. The hypothesis suggests that people are watching the breakdancer specifically because of the tricks, but the premise does not provide information about their motivation for watching.

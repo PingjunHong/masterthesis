@@ -1,8 +1,0 @@
-- A group of people are standing outside is a rephrase of, A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.
-- The premise describes a crowd of people outdoors, which structurally supports the hypothesis that a group of people are standing outside.
-- The statement simplifies the premise by focusing on the location (outside) and the presence of multiple people (a group).
-- The hypothesis is a syntactic alternation of the premise, emphasizing the outdoor setting and collective presence.
-- The premise mentions a crowd of people outdoors, which inherently means a group of people are standing outside.
-- The hypothesis is a structural rephrasing of the premise, summarizing the setting and presence of people outdoors.
-- The premise and hypothesis share the same meaning regarding the location and presence of people outside, achieved through syntactic rephrasing.
-- The hypothesis uses coordination to express the same meaning as the premise, highlighting people standing outside.

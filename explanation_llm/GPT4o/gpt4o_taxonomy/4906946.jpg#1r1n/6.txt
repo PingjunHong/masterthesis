@@ -1,9 +1,0 @@
-1. The premise does not specify the gender of the roadside workers, while the statement assumes they are men.
-2. The premise describes workers with cones in the background, but the statement assumes the workers are actively placing the cones.
-3. The premise mentions "construction cones in the background," which could imply they are not being handled, while the statement suggests the cones are being actively placed.
-4. There is no mention of a pipeline or construction project in the premise, while the statement assumes there is a new pipeline being built.
-5. The premise describes the workers in lime green safety jackets, white hard hats, and gloves, but does not specify their activity, while the statement assumes they are preparing for a pipeline project.
-6. The premise provides a static scene, whereas the statement infers a specific future action related to pipeline construction.
-7. The premise lacks any temporal context about the workers' actions, while the statement implies an ongoing activity related to a pipeline.
-8. The premise does not indicate the number of workers beyond "two roadside workers," while the statement suggests they are both men.
-9. The premise does not confirm the location of the action, while the statement implies a specific construction site for a pipeline.

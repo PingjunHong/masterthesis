@@ -1,6 +1,0 @@
-- The man cannot be both black and Asian simultaneously.
-- Black and Asian are mutually exclusive racial identities.
-- The racial identity described in the premise is black, which contradicts the Asian identity in the hypothesis.
-- The premise specifies the man as black, conflicting with the assertion that he is Asian in the hypothesis.
-- The premise and hypothesis describe different racial identities for the same individual.
-- The racial description in the premise excludes the possibility of the man being Asian.

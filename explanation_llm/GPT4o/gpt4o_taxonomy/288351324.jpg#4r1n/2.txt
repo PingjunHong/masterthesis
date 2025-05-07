@@ -1,9 +1,0 @@
-1. The word "dancing" does not specify the type of dance being performed.
-2. "Together" implies coordinated activity but does not indicate the particular dance style.
-3. "Tango" is a specific dance style that requires particular moves and music, which is not mentioned in the premise.
-4. The premise describes a general activity of dancing, while the hypothesis specifies a particular form of dance.
-5. "Group of people dancing" can involve various types of dances, not exclusively the tango.
-6. The semantic meaning of "dancing together" is broad and can encompass multiple dance styles, not limited to tango.
-7. The premise lacks any mention of characteristics unique to the tango, such as specific steps or music.
-8. The semantic implication of "group dancing" includes diverse dance forms, which does not entail the tango.
-9. Without details on the dance style, "tango" remains an assumption rather than an inherent part of the activity described.

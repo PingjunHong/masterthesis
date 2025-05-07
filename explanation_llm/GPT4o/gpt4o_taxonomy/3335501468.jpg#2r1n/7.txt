@@ -1,8 +1,0 @@
-1. Not all birds are ducks.
-2. Birds can flap their wings without being ducks.
-3. A bird flapping its wings on water doesn't imply it's a duck.
-4. A bird flapping its wings can occur in places other than a lake.
-5. Ducks are not the only birds that interact with water.
-6. Birds can be on the water without swimming.
-7. A lake is not the only body of water a bird can be near.
-8. Flapping wings does not indicate swimming.

@@ -1,8 +1,0 @@
-1. If a person is sitting, then there is a place for them to sit.
-2. If a person is sitting in front of a wall, then the wall is nearby.
-3. A seated person implies the existence of a place to sit.
-4. A wall with graffiti implies that it is a type of wall.
-5. Sitting requires a place, which is near the wall in this context.
-6. The presence of a person in a sitting position suggests they are utilizing a sitting space.
-7. A graffiti-covered wall indicates the presence of a wall.
-8. The act of sitting in front of something implies proximity to that thing.

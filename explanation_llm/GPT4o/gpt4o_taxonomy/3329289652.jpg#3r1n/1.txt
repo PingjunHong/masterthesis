@@ -1,5 +1,0 @@
-1. The boys in the premise refers to the boys in the hypothesis, but the activity differs as the premise mentions playing with Legos and the hypothesis suggests playing outside.
-2. The reference to "boys" is consistent across both premise and hypothesis, but the setting is unspecified in the premise and explicitly outdoors in the hypothesis.
-3. The boys mentioned in both sentences are the same, but the premise includes indoor activity with Legos and the hypothesis implies an outdoor environment.
-4. The coreference of "the boys" in both sentences is clear, but the premise does not specify the location, whereas the hypothesis does, creating a neutral relationship.
-5. The reference to "boys" aligns in both sentences, yet the premise focuses on playing with Legos, which does not confirm or deny the outdoor setting in the hypothesis.

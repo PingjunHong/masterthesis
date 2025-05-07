@@ -1,4 +1,0 @@
-- A man refers to the homeless man in the premise.
-- A shopping cart refers to the overfilled plastic blue shopping cart in the premise.
-- The man mentioned in the statement is the same individual as the homeless man described in the premise.
-- The shopping cart mentioned in the statement is the same as the one described in the premise.

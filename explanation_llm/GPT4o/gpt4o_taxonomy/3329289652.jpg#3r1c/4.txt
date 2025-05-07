@@ -1,8 +1,0 @@
-- Playing with Legos involves using toy building blocks, which is distinct from playing chess, a board game.
-- The activity of playing with Legos does not involve a chessboard or chess pieces, which are essential for the game of chess.
-- Legos are not a game of strategy like chess; they are toys that allow for construction and creativity.
-- The premise specifies Legos as the objects being used, which contradicts the hypothesis that specifies chess as the activity.
-- The semantics of "playing with Legos" does not logically imply "playing chess," as the two activities require different skills and tools.
-- Playing with Legos is typically a free-form activity, whereas playing chess requires adherence to rules and strategic thinking.
-- The boys engaged in the activity mentioned in the premise cannot simultaneously be playing the distinct game mentioned in the hypothesis.
-- The structure of the premise identifies Legos as the sole focus of the boys' play, leaving no room for chess, which is a separate and specific game.

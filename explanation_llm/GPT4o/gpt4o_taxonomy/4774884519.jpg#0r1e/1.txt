@@ -1,5 +1,0 @@
-1. "People" in the hypothesis refers to the same "People" mentioned in the premise.
-2. "The escalator" in the hypothesis is the same "escalator" mentioned in the premise.
-3. "Riding" in the hypothesis is inferred as "waiting on the escalator" in the premise, as they are both on the escalator.
-4. "Their destination" in the premise implies movement, which aligns with "riding" in the hypothesis.
-5. "Looking outside of the glass that makes up the wall" implies they are stationary on the escalator, supporting the idea that they are "riding."

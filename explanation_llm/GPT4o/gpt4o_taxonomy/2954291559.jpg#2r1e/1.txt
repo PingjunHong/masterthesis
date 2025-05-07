@@ -1,8 +1,0 @@
-- A person refers to the worker mentioned in the premise.
-- The worker atop the building is the person referred to.
-- The person atop the building is the worker who peers out.
-- The reference to a person atop a building is resolved as the worker.
-- The term "atop a building" applies to both the worker and the person.
-- The person is the worker peering from the building.
-- The worker out from the building is the person atop the building.
-- The reference to "atop a building" matches the worker's position in the premise.

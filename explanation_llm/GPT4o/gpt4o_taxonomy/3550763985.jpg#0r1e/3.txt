@@ -1,5 +1,0 @@
-1. A skateboarder is outdoors is a rephrase of A skateboarder with a black and white hat at the top of a jump on a snowy day.
-2. The premise indicates an outdoor setting, which is syntactically rephrased as A skateboarder is outdoors.
-3. Being at the top of a jump on a snowy day implies being outdoors, which matches the rephrased hypothesis, A skateboarder is outdoors.
-4. The mention of a snowy day suggests an outdoor environment, rephrased as A skateboarder is outdoors.
-5. The structural rephrasing from the specific scene described in the premise to the general statement in the hypothesis maintains the same meaning, confirming entailment.

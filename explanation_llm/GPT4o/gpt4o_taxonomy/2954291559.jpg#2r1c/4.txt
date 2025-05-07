@@ -1,7 +1,0 @@
-1. A worker is employed, and an unemployed person is not employed, creating a contradiction.
-2. Peering from atop a building implies being on the building, not merely near it.
-3. The statement specifies an unemployed person, which contradicts the premise of a worker.
-4. Being atop a building is different from being near a building, leading to a contradiction.
-5. The presence of a worker implies employment, which directly contradicts the term "unemployed."
-6. The spatial relationship of being "atop" versus "near" the building contradicts the premise.
-7. The premise involves a specific activity (peering from atop), which contradicts the undefined activity of simply being "near" in the statement.

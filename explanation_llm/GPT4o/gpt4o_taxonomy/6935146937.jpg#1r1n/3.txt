@@ -1,8 +1,0 @@
-- The phrase "A black man in a white uniform" explicitly states the man's race as black, which contradicts the statement "the man is Asian."
-- The structural rephrasing from "black man" to "Asian" changes the racial identity of the individual described, leading to contradiction.
-- The description "black man" and the statement "Asian" are syntactic alternations with opposing racial designations.
-- The transformation from "black man" to "Asian" involves an alteration of the racial attribute, resulting in a contradiction.
-- The coordination of race descriptors "black" and "Asian" within the content and statement contradict each other structurally.
-- The subordination of racial identity in the premise as "black" conflicts with the hypothesis asserting "Asian."
-- Rephrasing "black man" as "Asian" alters the race implied in the content, thus contradicting the statement.
-- The structural shift from "black" to "Asian" within the sentence components results in a contradictory meaning.

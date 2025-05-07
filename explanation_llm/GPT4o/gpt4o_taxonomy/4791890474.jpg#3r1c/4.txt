@@ -1,5 +1,0 @@
-1. Posing in front of an advertisement implies being stationary, while walking by an advertisement implies movement, which is contradictory.
-2. The premise specifies an old man with a package, while the hypothesis refers to a man without any specific characteristics, creating a contradiction in specificity.
-3. The action of posing suggests a deliberate stop or pause, conflicting with the continuous action of walking described in the hypothesis.
-4. The premise involves interaction with the advertisement by posing, whereas the hypothesis involves merely passing by, indicating different levels of engagement with the advertisement.
-5. The concept of posing involves standing still, which contradicts the action of walking, as the two actions cannot occur simultaneously.

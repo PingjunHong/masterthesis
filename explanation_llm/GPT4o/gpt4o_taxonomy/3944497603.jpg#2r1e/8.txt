@@ -1,6 +1,0 @@
-1. Being above a metro entrance implies being near a metro station since metro entrances are typically located at or near metro stations.
-2. Orange clothing does not affect the spatial relationship between the person and the metro station, and being above a metro entrance confirms proximity to the station.
-3. A metro entrance is an integral part of a metro station, so if someone is above the entrance, they are necessarily near the station.
-4. The term "rests above" suggests physical proximity to the metro station since the entrance is part of the station infrastructure.
-5. Common knowledge about metro systems indicates that entrances are located directly at or adjacent to metro stations, establishing the person’s proximity to the station.
-6. The premise describes a location-specific scenario that inherently implies closeness to a metro station, as entrances are part of station access points.

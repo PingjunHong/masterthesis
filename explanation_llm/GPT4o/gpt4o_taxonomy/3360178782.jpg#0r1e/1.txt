@@ -1,8 +1,0 @@
-- Shoppers in the statement refers to the group of consumers in the premise.
-- Purchasing vegetables in the statement refers to the action the consumers are taking in the premise.
-- Busy public market in the statement is the same as the public market with the busy store in the premise.
-- The background of the busy store in the premise corresponds to the busy public market in the statement.
-- The group of consumers in the premise is referenced as shoppers in the statement.
-- The action of walking through a public market to purchase vegetables in the premise is equivalent to shoppers purchasing vegetables in the statement.
-- The busy store just behind them in the premise implies that the market is busy, supporting the statement's description of a busy public market.
-- Consumers in the premise are coreferenced as shoppers in the statement, emphasizing the act of purchasing.

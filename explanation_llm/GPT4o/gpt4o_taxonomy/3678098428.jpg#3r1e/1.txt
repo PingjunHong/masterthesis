@@ -1,6 +1,0 @@
-The man in a hat refers to the man wearing a red plaid hat.
-The hat mentioned in the statement refers to the red plaid hat from the content.
-The man in the hypothesis is the same man described wearing a black tank top and a red plaid hat in the premise.
-Both the statement and the content refer to the same man, who is wearing a hat.
-The reference to "a man" in the statement is the same individual as "a man in a black tank top wearing a red plaid hat" in the content.
-The hat in the statement is resolved by the red plaid hat the man is wearing in the content.

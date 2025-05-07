@@ -1,6 +1,0 @@
-- The term "men" specifically refers to people, which implies that "some people" is a true statement.
-- "Two men" implies "at least some people" because men are a subset of people.
-- If two men are present, then it is factual that some people are present.
-- Standing in a boat implies being in a boat, which satisfies the condition of "some people" being in the boat.
-- The presence of two men in a boat inherently satisfies the condition of having some people in the boat.
-- "Men" fall under the broader category of "people," so the presence of men confirms the presence of people.

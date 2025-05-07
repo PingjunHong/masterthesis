@@ -1,5 +1,0 @@
-- The term "carpenter" refers to a type of workman, and thus a carpenter working implies a workman is working.
-- Working on a roof implies putting a roof on a house, as it involves construction activities related to the roof.
-- The phrase "house being built" implies that construction is taking place, which includes tasks like putting a roof on the house.
-- The activity of working on a roof is inherently a form of helping to put the roof on, as it contributes to the completion of the roof installation.
-- The premise indicates a construction setting, and in such a setting, working on a specific task like a roof is a form of contributing to the overall project, which includes putting the roof on the house.

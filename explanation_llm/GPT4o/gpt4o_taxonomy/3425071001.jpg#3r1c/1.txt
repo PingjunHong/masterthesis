@@ -1,6 +1,0 @@
-1. "The boy hitting the tennis ball refers to the male subject, whereas the girl hitting the ball refers to a female subject."
-2. "The boy in the premise is the one hitting the tennis ball, contradicting the hypothesis which states a girl is hitting the ball."
-3. "The pronoun 'a boy' in the premise resolves to a male individual, while 'a girl' in the hypothesis refers to a female individual, indicating different subjects."
-4. "The premise specifies 'a boy' as the one hitting the ball, which contradicts the hypothesis indicating 'a girl' is the one hitting the ball."
-5. "The reference to 'boy' in the premise and 'girl' in the hypothesis indicates different people are involved, leading to a contradiction."
-6. "The coreference in the premise involves a boy, whereas the hypothesis involves a girl, showing conflicting information."

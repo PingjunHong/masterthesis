@@ -1,8 +1,0 @@
-1. If an old woman is wearing a jean jacket, then she has a jacket on, contradicting the statement that she has no jacket.
-2. The semantics of "in a jean jacket" imply the woman is wearing a jacket, directly opposing the hypothesis that she has none.
-3. The description "an old woman in a jean jacket" logically indicates possession or wearing of a jacket, conflicting with the claim that she lacks one.
-4. The phrase "in a jean jacket" semantically indicates the presence of a jacket, which contradicts the assertion that the old woman has no jacket.
-5. The structure of the premise specifies that the woman is covered in attire, namely a jean jacket, refuting the hypothesis that she is without a jacket.
-6. The semantics of being "in a jean jacket" logically entail wearing a jacket, which directly contradicts the statement of having no jacket.
-7. The logical implication of identifying someone "in a jean jacket" is that they are wearing it, conflicting with the idea that the woman has no jacket.
-8. The premise explicitly states that the woman is wearing a jacket, which is pragmatically incompatible with the hypothesis that she has no jacket.

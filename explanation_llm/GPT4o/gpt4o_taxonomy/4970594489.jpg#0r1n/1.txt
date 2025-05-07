@@ -1,7 +1,0 @@
-1. "An Asian man" in the statement does not specifically refer to "an Asian wearing a pastel print shirt and sunhat" in the premise.
-2. The identity of "his cart" in the premise is not linked to "selling food" in the statement.
-3. The action of "pushing his cart up the street" does not resolve to "selling food" in the statement.
-4. There is no explicit mention in the premise that the cart contains or is related to food, making the connection to "selling food" unresolved.
-5. The premise does not specify the contents of the cart, leaving the reference to "selling food" ambiguous.
-6. The phrase "pushing his cart" in the premise does not clarify that the purpose of the cart is for selling food, as stated in the hypothesis.
-7. The premise lacks information about the man's activities or intentions, such as selling food, which leaves the reference unresolved.

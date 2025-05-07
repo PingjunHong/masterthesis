@@ -1,8 +1,0 @@
-- The crowd of people are shopping is a rephrase of, A crowd of people shopping at a street market in an urban area with buildings and a statue in background.
-- The hypothesis omits details about the location and background but maintains the core meaning that the crowd of people are shopping.
-- The statement focuses on the action of the crowd, which is explicitly described as shopping in the premise.
-- The syntactic structure changes by simplifying the premise to focus solely on the shopping activity of the crowd.
-- The rephrased statement identifies the main action in the premise without altering its meaning.
-- The hypothesis removes additional context, yet the shopping activity remains unchanged, ensuring entailment.
-- A crowd of people shopping is rephrased to highlight the shopping activity, which matches the premise’s description.
-- The hypothesis distills the premise by emphasizing shopping as the key activity of the crowd.

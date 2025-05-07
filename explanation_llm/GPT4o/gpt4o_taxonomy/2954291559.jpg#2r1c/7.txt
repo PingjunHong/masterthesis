@@ -1,9 +1,0 @@
-A worker is employed.
-Being atop a building is not the same as being near a building.
-A person atop a building is not necessarily unemployed.
-A person working on a building is likely employed.
-Unemployed people do not typically work on construction sites.
-A worker is typically associated with employment.
-Being involved in construction work implies employment.
-Someone working on a building is not typically considered unemployed.
-An unemployed person does not work on buildings under construction.

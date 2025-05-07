@@ -1,8 +1,0 @@
-1. The pronoun "four men" in the hypothesis contradicts the reference to "four women" in the premise.
-2. The term "men" in the hypothesis does not resolve to "women" as mentioned in the premise.
-3. "Four women" in the premise does not corefer with "four men" in the hypothesis.
-4. "Women" in the premise is not an appropriate referent for "men" in the hypothesis.
-5. The coreference between "women" and "men" fails, as they do not refer to the same group.
-6. The premise's "women" cannot be resolved with the hypothesis's "men."
-7. The hypothesis incorrectly resolves "men" to the "women" in the premise.
-8. The reference to "women" in the premise doesn’t match the reference to "men" in the hypothesis.

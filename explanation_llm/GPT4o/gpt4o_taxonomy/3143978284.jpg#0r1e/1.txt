@@ -1,4 +1,0 @@
-- The baby in the orange and brown dress refers to the baby that is wearing orange.
-- The baby mentioned in the premise with a pacifier in its mouth is the same baby that is wearing orange in the hypothesis.
-- The description of the baby with an orange and brown dress in the premise resolves to the baby wearing orange in the hypothesis.
-- The baby wearing an orange and brown dress is the baby that the hypothesis refers to as wearing orange.

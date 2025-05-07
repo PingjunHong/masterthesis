@@ -1,7 +1,0 @@
-- The premise mentions a boy holding onto the wall, while the hypothesis introduces a girl leaning against the wall, which is not mentioned or supported by the premise.
-- The premise specifies a boy interacting with the wall, but does not mention any girl, making the presence of a girl in the hypothesis unsupported.
-- The premise describes the action of a boy, and there is no indication or mention of a girl, leading to a contradiction in the hypothesis.
-- The hypothesis introduces a girl, but the premise only refers to a boy, with no evidence or mention of a girl, contradicting the hypothesis.
-- The premise provides information about a boy holding onto the wall, with no mention of a girl's presence or actions, contradicting the hypothesis statement.
-- There is no mention of a girl in the premise, which exclusively describes a boy, leading to a contradiction when the hypothesis asserts there is a girl leaning against the wall.
-- The premise lacks any detail about a girl, focusing solely on a boy, so the hypothesis introducing a girl is unsupported and contradictory.

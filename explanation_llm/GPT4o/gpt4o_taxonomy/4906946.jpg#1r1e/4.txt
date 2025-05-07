@@ -1,8 +1,0 @@
-1. If the roadside workers are wearing lime green safety jackets, then they are wearing jackets.
-2. If the jackets are lime green and the workers are wearing them, then the color of the jackets worn by the workers is lime green.
-3. The description refers to roadside workers with lime green safety jackets, which implies the workers are wearing jackets of that color.
-4. If the premise specifies lime green safety jackets on the workers, then at least two men must be wearing jackets of that color.
-5. The premise contains two roadside workers, each with lime green safety jackets, which logically leads to the conclusion that two men are wearing lime green jackets.
-6. The presence of lime green safety jackets on the roadside workers entails that the color of the jackets worn by the workers is lime green.
-7. The premise explicitly states that two workers are wearing lime green safety jackets, satisfying the statement that two men are wearing lime green jackets.
-8. Given that the premise mentions lime green safety jackets for the workers, it follows that the jackets worn by the workers are lime green in color.

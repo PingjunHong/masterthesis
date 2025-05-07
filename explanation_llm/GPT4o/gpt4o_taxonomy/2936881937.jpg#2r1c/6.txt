@@ -1,8 +1,0 @@
-1. Black is not red.
-2. A man cannot wear both a black shirt and a red shirt simultaneously.
-3. The shirt color described in the premise and the hypothesis are mutually exclusive.
-4. The premise specifies a black shirt, which contradicts the red shirt in the hypothesis.
-5. The logical exclusivity of color means that if the shirt is black, it cannot be red.
-6. The color black is structurally exclusive from the color red in terms of shirt description.
-7. The hypothesis introduces a quantifier conflict regarding the color of the shirt.
-8. There is a conflict in the description of the man's shirt color between black and red.

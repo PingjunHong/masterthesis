@@ -1,8 +1,0 @@
-1. The phrase "An old man looking over a sculpture" can be rephrased as "the man is old" based on the description of the man in the premise.
-2. "An old man" structurally implies "the man is old" through direct rephrasing.
-3. The premise "An old man looking over a sculpture" includes the detail that the man is old, which is syntactically rephrased as "the man is old."
-4. "The man is old" is a direct rephrasing of "An old man" from the premise.
-5. The assertion "the man is old" is a syntactic alternation of "An old man" found in the premise.
-6. "An old man" in the premise can be syntactically rephrased as "the man is old."
-7. The premise contains the detail "An old man," which is structurally rephrased into "the man is old."
-8. "An old man" in the premise directly supports the statement "the man is old" through syntactic rephrasing.

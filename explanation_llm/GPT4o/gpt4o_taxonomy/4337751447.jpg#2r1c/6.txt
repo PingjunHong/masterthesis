@@ -1,6 +1,0 @@
-- Homeless man is not rich.
-- Rich man does not push an overfilled shopping cart.
-- Homeless man is unlikely to hold a Rolex.
-- A man cannot be both homeless and rich simultaneously.
-- Overfilled shopping cart does not align with wealth.
-- Rich man and homeless man are mutually exclusive identities.

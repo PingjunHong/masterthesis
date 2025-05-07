@@ -1,5 +1,0 @@
-- Four kids in the hypothesis refers to the group of four children in the premise.
-- The beach in the hypothesis refers to the muddy beach in the premise.
-- Kids in the hypothesis refers to children in the premise.
-- Pose in the hypothesis refers to pose in the premise.
-- The number four in the hypothesis refers to the same number of children mentioned in the premise.

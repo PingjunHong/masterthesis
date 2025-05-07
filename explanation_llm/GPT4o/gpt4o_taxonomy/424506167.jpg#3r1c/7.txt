@@ -1,8 +1,0 @@
-1. Dogs cannot be simultaneously standing and sitting.
-2. The yard and the porch are distinct locations.
-3. Standing and sitting are mutually exclusive actions for dogs.
-4. A yard and a porch are different physical spaces.
-5. If dogs are standing, they cannot be sitting at the same time.
-6. The description of the location differs; a yard is not a porch.
-7. The action described in the premise (standing) conflicts with the action in the statement (sitting).
-8. Being in the yard contradicts being on the porch.

@@ -1,7 +1,0 @@
-- The golfer in the hypothesis refers to the golfer mentioned in the premise.
-- The action of "getting ready to putt" in the premise corresponds to "readies to putt" in the hypothesis.
-- The phrase "on the green" in the premise implies the context in which the golfer readies to putt, as stated in the hypothesis.
-- The reference to "the ball" in the hypothesis is implicit in the action of putting on the green mentioned in the premise.
-- The crowd of people watching in the background in the premise does not affect the coreference between the golfer and the action described in both statements.
-- "Readies to putt the ball" in the hypothesis is the same action as "getting ready to putt" in the premise, establishing the coreference of the action performed by the golfer.
-- The mention of "a golfer" in both the premise and hypothesis refers to the same individual, establishing coreference.

@@ -1,8 +1,0 @@
-- The premise mentions "a group of people," which could include men and women, but does not specify their genders.
-- The premise states "fresh lettuce," while the hypothesis specifies "fresh romaine lettuce," implying a specific type of lettuce not mentioned in the premise.
-- The premise and hypothesis both mention the local street market, but the hypothesis specifies "romaine" lettuce, which is not confirmed by the premise.
-- The premise does not provide information about the specific type of lettuce being observed, making "romaine lettuce" in the hypothesis a neutral claim.
-- The hypothesis specifies "men and women," but the premise only mentions "people," which is a broader, more inclusive term without gender specification.
-- The structure of the premise allows for the possibility of the group being composed of men and women, but does not logically necessitate it, making it neutral.
-- The phrase "fresh lettuce" in the premise could refer to various types of lettuce, not necessarily "romaine," as stated in the hypothesis.
-- The premise does not exclude the possibility of men and women being part of the group, but it does not confirm it either, leading to a neutral inference.

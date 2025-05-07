@@ -1,5 +1,0 @@
-1. The woman with a green headscarf, blue shirt, and very big grin is the same woman referenced in the statement "The woman is young."
-2. The reference to "the woman" in both the premise and the hypothesis is about the same individual.
-3. The mention of "the woman" in the premise is the same individual as "the woman" in the statement, but age is not specified.
-4. The woman described with specific clothing in the premise is the same woman referred to as young in the statement, but her age is not mentioned in the premise.
-5. "The woman" in the hypothesis refers back to "a woman" described in the premise, but does not include age-related details.

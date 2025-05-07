@@ -1,6 +1,0 @@
-- "People" in the hypothesis refers to the same "people" mentioned in the premise.
-- "Jumping" in the hypothesis corresponds to "jump" in the premise, indicating the same action.
-- "Outside" in the hypothesis is implied by "mountain crevasse" in the premise, which is an outdoor location.
-- The reference to "a mountain crevasse" in the premise supports the idea that the activity takes place "outside" in the hypothesis.
-- "On a rope" in the premise does not change the outdoor context implied by "jumping," making the hypothesis consistent with the premise.
-- The word "people" consistently refers to the individuals involved in the activity described in both the premise and hypothesis.

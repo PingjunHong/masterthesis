@@ -1,9 +1,0 @@
-1. The premise describes a crowded city street with lots of pedestrians, while the statement specifies that the pedestrians are waiting for a parade, which adds an additional context not present in the premise.
-2. The statement introduces a specific event (waiting for a parade) that is not mentioned in the premise, which only describes the current state of a crowded street.
-3. The premise and the statement both discuss the presence of pedestrians, but the statement adds a reason for their presence (waiting for a parade) that is not inferred from the premise.
-4. The premise describes a general scene with many pedestrians, whereas the statement implies an intention or future event (a parade) that the premise does not indicate.
-5. The premise provides information about a busy street setting, while the statement gives an additional detail about the pedestrians' purpose, which is not evident from the premise.
-6. In the premise, the focus is on the crowded street, while in the statement, the focus shifts to the pedestrians' anticipation of a parade, a detail not derived from the premise.
-7. The statement assumes an event (parade) as the reason for pedestrian gathering, which is not a structural or syntactic transformation of the premise.
-8. The premise gives a factual description of the environment without implying any specific activities or events, unlike the statement, which suggests a specific reason for the gathering.
-9. The premise and the statement both involve the concept of pedestrians and a busy street, but the statement introduces a narrative (waiting for a parade) not reflected in the premise.

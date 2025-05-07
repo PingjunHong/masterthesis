@@ -1,7 +1,0 @@
-1. "The people" in the statement does not specify gender, while the premise only mentions "two people" without indicating they are male.
-2. The premise describes "two people" without any mention of gender, whereas the statement assumes both are male, which is not specified or inferred.
-3. The premise's "two people" lacks gender identification, making the statement's reference to "both males" unsupported.
-4. The term "people" in the premise is gender-neutral, while the statement's reference to "both males" is not resolved by any information in the premise.
-5. The premise refers to "two people" without specifying gender; the statement's assertion that they are "both males" cannot be resolved from the premise.
-6. In the premise, "two people" is a generic term without gender specification, while the statement assumes a male identity, which is unsupported by the premise.
-7. The reference to "the people" in the statement being "both males" is not corroborated by the premise, which only mentions "two people" without gender details.

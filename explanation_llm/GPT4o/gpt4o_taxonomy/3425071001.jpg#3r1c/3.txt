@@ -1,6 +1,0 @@
-1. A boy hits a tennis ball on a court does not allow for the structural rephrasing to A girl is hitting the ball.
-2. Switching the subject from a boy to a girl changes the meaning of the sentence, creating a contradiction.
-3. The phrase A girl is hitting the ball cannot structurally rephrase the original premise involving a boy.
-4. The word boy in the premise structurally contradicts the word girl in the hypothesis.
-5. The premise specifies a boy as the subject, which cannot be rephrased to a girl without altering the sentence meaning.
-6. Identifying the subject as a girl instead of a boy changes the structural meaning in a contradictory way.

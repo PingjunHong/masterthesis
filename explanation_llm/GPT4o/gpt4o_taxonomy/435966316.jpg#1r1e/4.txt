@@ -1,7 +1,0 @@
-- The presence of life vests and hard hats suggests that the individuals are workers, who are likely to be counted as people, thus confirming the statement about people.
-- Being on a boat inherently implies being in a group, and since there are three workers, it logically follows that there are three people.
-- A boat hanging from cables over water still constitutes being on a boat, supporting the idea that people are present on a boat.
-- If there are three workers, then there are at least three people, as workers are a subset of people.
-- The use of the term "workers" implies human individuals, therefore confirming they are people.
-- The fact that the individuals are on a boat inherently satisfies the condition of being on a boat as stated.
-- The description specifies a number (three) which corresponds directly to the count of people, validating the numerical aspect of the statement.

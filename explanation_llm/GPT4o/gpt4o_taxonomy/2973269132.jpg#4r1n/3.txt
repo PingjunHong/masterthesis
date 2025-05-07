@@ -1,7 +1,0 @@
-1. "A lioness closes in on its prey" does not explicitly state that the lioness is hungry; it implies a hunting activity but doesn't confirm the motivation.
-2. The premise describes an action, whereas the statement makes an assumption about the lioness's internal state, which is not directly stated.
-3. Structural rephrasing of "A lioness closes in on its prey" does not necessarily communicate hunger; it indicates pursuit but not the cause or reason behind it.
-4. The premise focuses on the action of closing in, while the statement interprets this action as being due to hunger, which is an additional inference not present in the premise.
-5. The sentence structure of the premise does not equate to the sentence structure of the statement; the former describes an observable event, while the latter suggests a possible cause for the event.
-6. The structural difference between describing an action ("closes in on its prey") and attributing a reason for the action ("is hungry") means they are not rephrasings of each other.
-7. The premise and the statement are syntactically different; the premise involves a physical action, while the statement assumes an emotional or physiological state.

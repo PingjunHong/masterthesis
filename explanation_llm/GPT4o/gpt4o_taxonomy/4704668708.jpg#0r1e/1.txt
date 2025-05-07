@@ -1,8 +1,0 @@
-- "A child" in the statement refers to "a young child" in the premise.
-- "Pulls colorful tissue paper" in the statement refers to "joyfully pulls colorful tissue paper" in the premise.
-- "A fancy box" in the statement refers to "a decorated box" in the premise.
-- "His present" in the premise implies the child is searching in the decorated box, which is consistent with the child's actions described in the statement.
-- "The child" in the statement is the same individual as "the young child" in the premise.
-- The action of pulling tissue paper in the statement corresponds to the child's action described in the premise.
-- "Colorful tissue paper" in the statement is the same as "colorful tissue paper" in the premise, with the added detail of the child's joyful demeanor.
-- The box described in the statement as "fancy" is the same as the box described in the premise as "decorated."

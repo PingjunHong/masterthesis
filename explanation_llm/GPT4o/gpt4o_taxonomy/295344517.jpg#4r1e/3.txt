@@ -1,4 +1,0 @@
-- A group of people strolling is a structural rephrase of A family walking with a soldier.
-- The premise describes a family, which is a group of people, walking, which is synonymous with strolling, with a soldier.
-- A family and a soldier together form a group of people who are walking, which can be rephrased as strolling.
-- The premise involves a family and a soldier, collectively forming a group of people, engaged in the activity of walking, which can also be expressed as strolling.

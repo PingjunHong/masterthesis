@@ -1,6 +1,0 @@
-- Guns and bows are different weapons.
-- Shooting a gun is not the same as shooting a bow and arrow.
-- A sunny day is not the same as a rainy day.
-- The weather conditions described are contradictory.
-- A gun is not a bow and arrow.
-- Outdoor sunny conditions contradict rainy conditions.

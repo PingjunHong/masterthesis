@@ -1,6 +1,0 @@
-- The premise states that a Ford car is making a right turn, which aligns with the statement that a car is making a right turn.
-- The premise mentions three males walking across the street behind the car, which matches the statement that three pedestrians crossed behind the car.
-- The term "pedestrians" in the statement can include "males," as males are a subset of pedestrians.
-- The actions described in both the premise and the statement are consistent, with both indicating that the car turned while three individuals crossed behind it.
-- The use of "a car" in the statement is consistent with "a Ford car" in the premise, as a Ford car is a type of car.
-- The premise provides factual details that fully support the events described in the statement without requiring additional inference.

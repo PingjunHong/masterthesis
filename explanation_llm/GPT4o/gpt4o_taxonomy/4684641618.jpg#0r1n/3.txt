@@ -1,8 +1,0 @@
-1. The statement introduces a causative element, "because the buses were on strike," which is absent in the premise.
-2. The premise does not mention any reason or context for why the women are walking, unlike the statement.
-3. The statement suggests a specific motivation for walking downtown, which is not implied in the premise.
-4. The premise only describes the action of walking, while the statement adds an external factor influencing that action.
-5. The structural addition of "because the buses were on strike" in the statement changes the meaning from the premise by introducing a causal relationship.
-6. The premise and the statement differ structurally as the statement includes an explanation for the action.
-7. The statement's causal clause "because the buses were on strike" does not have a direct syntactic equivalent in the premise.
-8. The premise lacks the causal inference present in the statement, altering the overall meaning.

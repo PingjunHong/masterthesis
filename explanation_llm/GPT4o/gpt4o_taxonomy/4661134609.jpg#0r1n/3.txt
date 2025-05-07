@@ -1,8 +1,0 @@
-1. Workers cleaning up after St Patrick's Day could refer to a different event or festival, not necessarily the parade or festival mentioned in the premise.
-2. The act of sweeping animal feces does not explicitly indicate that the event is St Patrick's Day, as similar activities could occur at various parades or festivals.
-3. The term "cleaners" in the premise does not specifically equate to "workers" associated with St Patrick's Day in the hypothesis.
-4. The description of sweeping animal feces is not structurally equivalent to specifying the event as St Patrick's Day.
-5. The premise describes an action during a parade or festival, whereas the hypothesis specifies a particular event which is not explicitly mentioned in the premise.
-6. The premise's focus on the activity of cleaning does not syntactically match the event-specific detail in the hypothesis.
-7. The premise gives a general scenario of a parade or festival which does not syntactically rephrase the specific mention of St Patrick's Day in the hypothesis.
-8. Both statements refer to cleaning activities related to an event, but the hypothesis does not structurally rephrase the premise to confirm it's the same event.

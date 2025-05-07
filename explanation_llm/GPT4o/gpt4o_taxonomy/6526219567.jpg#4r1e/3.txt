@@ -1,7 +1,0 @@
-- The statement "There is a statue that not many people seem to be interested in" is a rephrase of "A statue at a museum that no one seems to be looking at."
-- Both indicate a lack of attention from people towards the statue, focusing on its unobserved status.
-- The structure of "no one seems to be looking at" is rephrased as "not many people seem to be interested in" to convey the same meaning.
-- "A statue at a museum" is syntactically rephrased as "There is a statue" while maintaining the same referent.
-- The premise emphasizes absence of observation, which aligns with the hypothesis's focus on lack of interest, both indicating neglect.
-- The idea of "no one seems to be looking at" structurally transforms into "not many people seem to be interested in," without altering the meaning.
-- The syntactic alternation from "no one seems to be looking at" to "not many people seem to be interested in" retains the essence of disregard by visitors.

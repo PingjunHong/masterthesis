@@ -1,8 +1,0 @@
-1. Getting ready for a bike ride is not the same as already riding bicycles in the street.
-2. Being ready for a ride implies future action, whereas riding is a current action.
-3. The premise specifies that people are already on their bicycles, not merely preparing to ride.
-4. The statement describes a preparatory action, contradicting the ongoing activity in the premise.
-5. The temporal sequence is inconsistent: the premise describes an activity in progress, while the statement describes a future intention.
-6. The statement does not confirm that the friends are already riding, which conflicts with the premise's depiction of people actively riding.
-7. The premise indicates current helmet usage while riding, whereas the statement implies they are not yet riding and therefore not necessarily wearing helmets.
-8. The premise focuses on an activity happening in the street, while the statement does not specify the location of the preparation.

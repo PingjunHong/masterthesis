@@ -1,6 +1,0 @@
-1. People wearing orange is a rephrase of A crowd wearing orange cheering for their team in a stadium.
-2. The statement People wearing orange is a syntactic alternation of the premise A crowd wearing orange cheering for their team in a stadium.
-3. People wearing orange is a structural simplification of A crowd wearing orange cheering for their team in a stadium.
-4. The presence of people wearing orange in the statement is implied by the description of a crowd wearing orange in the premise.
-5. The statement People wearing orange captures the essential meaning of A crowd wearing orange cheering for their team in a stadium by focusing on the shared characteristic of wearing orange.
-6. The hypothesis is a shorter, equivalent version of the premise, focusing on the key detail that people in the crowd are wearing orange.

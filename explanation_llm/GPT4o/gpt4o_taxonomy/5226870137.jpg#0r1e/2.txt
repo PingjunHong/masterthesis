@@ -1,6 +1,0 @@
-- A horse-drawn buggy is a type of buggy.
-- Driving a horse-drawn buggy involves driving a buggy.
-- The act of driving a horse-drawn buggy implies driving a buggy.
-- A suit-wearing man driving a horse-drawn buggy includes the action of driving a buggy.
-- The term "horse-drawn buggy" inherently includes the concept of a "buggy."
-- The phrase "driving a horse-drawn buggy" entails operating a buggy.

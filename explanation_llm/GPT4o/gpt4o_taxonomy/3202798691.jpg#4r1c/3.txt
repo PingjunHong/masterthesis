@@ -1,6 +1,0 @@
-- Riding a bike along a dirt trail cannot be rephrased as riding a horse.
-- The statement riding a horse is a syntactic alternation of riding a bike, which changes the meaning.
-- Riding a bike and riding a horse involve different modes of transportation, thus they cannot be structurally rephrased to mean the same thing.
-- The premise involves a bike, whereas the hypothesis involves a horse, indicating a contradiction in the structural elements.
-- Riding a bike and riding a horse are mutually exclusive actions; therefore, syntactic rephrasing between them results in a contradiction.
-- The man riding a bike cannot syntactically be altered to mean riding a horse without changing the meaning.

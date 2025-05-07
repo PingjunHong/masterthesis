@@ -1,8 +1,0 @@
-1. The statement "Two men are fighting outside a bar" introduces an additional detail "outside a bar" that is not structurally rephrased from the premise "One man, wearing a blue jacket, is kicking another man, wearing a red jacket."
-2. The premise describes a specific action, "kicking," while the statement uses the broader term "fighting," which is not a direct syntactic rephrasing.
-3. The statement suggests an environmental context ("outside a bar") that is absent in the premise, indicating a shift in meaning rather than a syntactic alternation.
-4. The premise specifies clothing colors ("blue jacket" and "red jacket"), which are omitted in the statement, altering the syntactic structure rather than rephrasing it.
-5. The statement implies a mutual engagement ("fighting") whereas the premise specifically mentions one-sided action ("kicking"), illustrating a change in structural detail, not a rephrase.
-6. The premise uses descriptive language about the individuals involved ("wearing a blue jacket" and "wearing a red jacket"), which is not mirrored in the statement, indicating a lack of syntactic rephrasing.
-7. The statement broadens the scenario to include a location ("outside a bar"), which represents a syntactic addition not present in the premise.
-8. The premise's focus on attire and action is more specific than the statement's generalized context and engagement, reflecting a difference in syntactic detail rather than a rephrase.

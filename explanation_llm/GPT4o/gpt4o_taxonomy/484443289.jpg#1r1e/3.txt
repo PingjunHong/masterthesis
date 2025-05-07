@@ -1,8 +1,0 @@
-1. The man is wearing a gray cap is a rephrase of A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.
-2. The statement the man is wearing a gray cap structurally rephrases the premise, highlighting the man's gray ball cap.
-3. The man wearing a gray cap is a syntactic alternation of A man wearing a gray ball cap, focusing on the cap's color.
-4. The premise includes the detail of a man wearing a gray ball cap, which is syntactically rephrased in the hypothesis as the man is wearing a gray cap.
-5. The hypothesis simplifies the phrase from the premise by stating the man is wearing a gray cap, maintaining the same meaning.
-6. A gray ball cap worn by the man in the premise is rephrased in the hypothesis as a gray cap.
-7. The sentence structure in the hypothesis, the man is wearing a gray cap, is a subordination of the information from the premise.
-8. The description of the cap being gray in the premise is captured by the syntactic reorganization in the hypothesis.

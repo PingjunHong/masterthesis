@@ -1,9 +1,0 @@
-- The premise mentions five adults, one of whom is operating a video camera, so it supports the statement that an adult is using a video camera.
-- The premise specifies that there is an adult operating a video camera, which directly supports the hypothesis.
-- The statement about an adult using a video camera is directly mentioned in the premise.
-- The hypothesis does not introduce any new or unsupported information beyond what is stated in the premise.
-- There is explicit evidence in the premise that confirms the hypothesis, as the action of using a video camera is attributed to an adult.
-- The premise explicitly states that one of the adults is operating a video camera, thus entailing the hypothesis.
-- The presence of an adult using a video camera is exactly what is described in the premise.
-- The premise provides clear evidence that matches the hypothesis, with no additional information or assumptions needed.
-- The hypothesis is fully supported by the premise, as it merely restates an activity already described.

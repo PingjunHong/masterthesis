@@ -1,5 +1,0 @@
-1. Sitting and laying are mutually exclusive positions.
-2. Being in front of a graffiti-covered wall implies not being at home.
-3. The location in front of a wall contradicts the location at home.
-4. A person cannot simultaneously be in two different locations.
-5. The action of sitting contradicts the action of laying.

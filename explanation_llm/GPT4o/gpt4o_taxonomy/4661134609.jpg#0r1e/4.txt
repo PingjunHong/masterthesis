@@ -1,6 +1,0 @@
-- If cleaners are sweeping up after a parade, it implies the parade has ended, thus being "after a parade."
-- Cleaners working with animal feces likely indicates a task performed after the presence of animals, which fits the context of a parade.
-- The activity of sweeping up implies that the event (parade) has already occurred, satisfying the condition of being "after a parade."
-- The presence of cleaners dealing with street debris or waste is a typical activity following a parade, implying the time frame is after the event.
-- The context of a street cleanup involving animal feces suggests a completed parade, establishing the temporal sequence as "after a parade."
-- The act of cleaning up is inherently a post-event activity, logically placing the cleaners' actions after the parade.

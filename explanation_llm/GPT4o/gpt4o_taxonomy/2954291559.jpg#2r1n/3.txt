@@ -1,7 +1,0 @@
-1. "A worker peers out from atop a building under construction" does not specify the gender, while "A man is atop of a building" specifies a male individual.
-2. "A worker peers out from atop a building under construction" implies a construction context, while "A man is atop of a building" does not specify the building's status or context.
-3. "A worker peers out from atop a building under construction" suggests an ongoing activity of peering, while "A man is atop of a building" does not indicate any specific action.
-4. "A worker peers out from atop a building under construction" uses the term "worker," which does not necessarily equate to "man" in terms of gender.
-5. "A worker peers out from atop a building under construction" includes the detail of the building being under construction, which is not mentioned in "A man is atop of a building."
-6. "A worker peers out from atop a building under construction" implies employment or a job-related context, whereas "A man is atop of a building" lacks this implication.
-7. "A worker peers out from atop a building under construction" involves the action of peering, suggesting observance, which is absent in "A man is atop of a building."

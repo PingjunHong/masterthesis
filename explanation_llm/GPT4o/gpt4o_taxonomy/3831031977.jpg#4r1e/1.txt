@@ -1,5 +1,0 @@
-- "The people" refers to "a guy and a girl."
-- "The mountains" refers to "a mountain range."
-- "Look at" is implied by "look down."
-- The action of looking down a mountain range implies looking at the mountains.
-- "A guy and a girl" collectively are "the people."

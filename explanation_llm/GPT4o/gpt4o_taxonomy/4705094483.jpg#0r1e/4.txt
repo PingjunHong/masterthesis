@@ -1,8 +1,0 @@
-- If a man is in a black shirt, then he is in a shirt.
-- If a man is holding up meat, then he is holding up something.
-- If a man took meat out of a bag, then he took something out of a bag.
-- The presence of the same location "in a commercial kitchen" in both the premise and hypothesis confirms the setting.
-- The structural similarity between the premise and the hypothesis implies the hypothesis is a subset of the premise.
-- The action of holding up meat in both the premise and hypothesis confirms the consistency of the action described.
-- The descriptions of the man in both the premise and hypothesis are consistent in terms of attire and activity.
-- The logical implication of wearing a black shirt includes wearing a shirt, capturing the entailment without additional context.

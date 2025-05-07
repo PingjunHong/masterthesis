@@ -1,6 +1,0 @@
-- The phrase "soccer team" inherently implies that they play soccer.
-- "Clad in blue for the match" implies they are participating in a soccer game.
-- "Counter down the field" is an action performed in a soccer game, indicating the team is playing soccer.
-- The term "soccer team" includes the activity of playing soccer as part of its definition.
-- The context of a "match" suggests a competitive game, such as soccer, is taking place.
-- The phrase "soccer team" and the activity of playing soccer are semantically linked.

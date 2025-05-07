@@ -1,7 +1,0 @@
-1. Not all individuals in a group are men.
-2. The statement implies a specific gender, but the premise does not specify the gender of any individual.
-3. The premise mentions individuals without indicating their gender.
-4. The premise does not confirm the presence of a man among the individuals.
-5. Rafting gear is worn by people of any gender, not just men.
-6. The premise does not provide information about anyone falling out of the boat.
-7. The premise describes a group activity, but the statement specifies an event that is not mentioned in the premise.

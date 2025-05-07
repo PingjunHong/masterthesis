@@ -1,5 +1,0 @@
-- The man in the statement refers to the same man playing billiards in the premise, but the activities are different.
-- The activity of playing checkers in the statement contradicts the activity of playing billiards in the premise for the same man.
-- The reference to a man is consistent, but the activity he is engaged in is different between the premise and the statement.
-- The man mentioned in both sentences is the same individual; however, the premise specifies billiards, whereas the statement specifies checkers.
-- Coreference identifies the man in both the premise and statement as the same, but their described actions are contradictory.

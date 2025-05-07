@@ -1,6 +1,0 @@
-"3 ladies" refers to the "ladies" mentioned in the hypothesis.
-"Running" in the premise matches "running" in the hypothesis, confirming the action described.
-The ladies with numbers on their shirts are the same ladies referenced in the hypothesis.
-The presence of "ladies" in both premise and hypothesis indicates coreference.
-The number of ladies is unspecified in the hypothesis, allowing "3 ladies" in the premise to match "ladies" in the hypothesis.
-"3 ladies with numbers on their shirts" provides specific details about the "ladies" mentioned in the hypothesis without altering the core meaning.

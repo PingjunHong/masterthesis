@@ -1,5 +1,0 @@
-1. The premise only mentions a hockey player in a helmet, but does not explicitly state that they are playing hockey.
-2. Wearing a helmet does not necessarily mean the hockey player is currently engaged in a game; they could be resting or practicing drills.
-3. The presence of a hockey helmet suggests the person is prepared for hockey, but it does not confirm ongoing play.
-4. The premise lacks any mention of a hockey game, rink, puck, or other players, so we cannot assume the hockey player is playing.
-5. The hypothesis introduces the action of playing hockey, which is not specified or supported by the premise.

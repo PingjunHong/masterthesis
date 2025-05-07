@@ -1,6 +1,0 @@
-- The girl in "A girl goes down a slide" refers to the smiling girl in "A smiling girl slides down a purple slide feet first."
-- The slide in "A girl goes down a slide" refers to the purple slide in "A smiling girl slides down a purple slide feet first."
-- The action of going down the slide in "A girl goes down a slide" refers to sliding down feet first in "A smiling girl slides down a purple slide feet first."
-- The smiling girl mentioned in the premise is the same girl referred to in the hypothesis.
-- The slide mentioned in the hypothesis refers to the slide mentioned in the premise.
-- "A girl goes down a slide" is describing the same event as "A smiling girl slides down a purple slide feet first," with the girl being the same entity in both.

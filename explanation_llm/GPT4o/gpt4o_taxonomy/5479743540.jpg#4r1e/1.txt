@@ -1,6 +1,0 @@
-- A young person on a skateboard refers to the skateboarding youth.
-- The skateboarding youth is the young person mentioned on a skateboard.
-- The young person on a skateboard is the individual doing a trick on a rail.
-- The skateboarding youth and the young person on a skateboard are the same individual.
-- The reference to a young person is resolved by identifying them as the skateboarding youth.
-- The youth performing a trick on a rail is the young person on a skateboard.

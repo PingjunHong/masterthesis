@@ -1,7 +1,0 @@
-1. The premise mentions "people" while the statement specifies "men," which is a change in the subject, thus altering the meaning.
-2. "Wearing only white and red" in the premise does not specify gender, whereas the statement specifies "men," resulting in structural rephrasing with different implications.
-3. The phrase "people wearing only white and red" does not necessarily mean they are men, creating a syntactic alternation that does not preserve meaning.
-4. The premise uses "people," a broader term, while the statement narrows it down to "men," which changes the scope of the subject.
-5. The premise describes attire as "wearing only white and red," while the statement places emphasis on "men walking in red and white," which is a structural shift.
-6. "A large number of people" in the premise versus "a large number of men" in the statement indicates a syntactic change that alters meaning by gender specification.
-7. The arrangement of "wearing only white and red" versus "walking down the street in red and white" involves a syntactic restructuring that changes the focus from clothing to walking.

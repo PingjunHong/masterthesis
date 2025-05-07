@@ -1,8 +1,0 @@
-- The premise mentions a "worker," which does not specify gender, while the statement specifies "a man," leading to a gender conflict.
-- The statement refers to "a man," whereas the premise does not confirm the gender of the worker, resulting in a logical exclusivity conflict regarding gender specification.
-- The premise describes the person as "a worker," which is a role, while the statement identifies the person as "a man," which introduces a logical structure conflict by implying gender exclusivity.
-- The premise does not specify the number of workers atop the building, whereas the statement singles out "a man," leading to a quantifier conflict.
-- The statement assumes the gender of the worker, which is not specified in the premise, creating a structural logical exclusivity conflict.
-- The premise uses the location "atop a building under construction," while the statement simply says "atop a building," creating a location conflict regarding the specificity of the building's status.
-- The statement presumes a single individual, "a man," while the premise allows for the possibility of multiple workers, leading to a structural logical exclusivity conflict.
-- The premise describes the setting as "under construction," whereas the statement omits this detail, creating a temporal or situational conflict regarding the building's construction status.

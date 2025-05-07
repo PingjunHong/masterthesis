@@ -1,7 +1,0 @@
-- Billiards and checkers are two different games with distinct rules and equipment.
-- The term "playing billiards" involves the use of cues and balls on a billiard table, whereas "playing checkers" involves a board game with pieces.
-- The word "billiards" and "checkers" are not synonyms; they refer to completely different activities.
-- Antonyms are not directly involved, but the semantic distinction between billiards and checkers creates a contradiction.
-- The meaning of "playing billiards" contradicts "playing checkers" due to the different nature of the activities.
-- Negation is implied as playing one game means not playing the other.
-- Billiards cannot be considered a type or subset of checkers based on their definitions.

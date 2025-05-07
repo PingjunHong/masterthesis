@@ -1,8 +1,0 @@
-- A woman is weaving refers to the woman wearing a bright orange blouse.
-- The woman mentioned in the statement is the same woman described as wearing a bright orange blouse in the premise.
-- The woman in the statement is identified as the one in the bright orange blouse from the premise.
-- The subject "a woman" in the statement is the same as "a woman wearing a bright orange blouse" in the premise.
-- The reference to "a woman" in the statement is clarified as the woman in the bright orange blouse in the premise.
-- The statement's "a woman" is resolved to the woman described with a bright orange blouse in the premise.
-- The woman who is weaving in the statement is the same woman described in the premise with the bright orange blouse.
-- The pronoun "a woman" in the hypothesis is referring back to "a woman wearing a bright orange blouse" in the premise.

@@ -1,8 +1,0 @@
-1. "She" in the premise refers to the woman doing gymnastics, not a woman napping.
-2. The woman referred to as "she" is actively using the balance beam, contradicting the idea of her napping.
-3. The activity of using the balance beam implies alertness and activity, directly opposing the inactivity of napping.
-4. The premise describes a woman engaged in gymnastics, clearly identifying "she" as someone not at rest, which contradicts the hypothesis.
-5. The coreference of "she" to the woman involved in gymnastics indicates she cannot simultaneously be napping.
-6. "A woman doing gymnastics" aligns with "she is using the balance beam," contradicting the state of being asleep.
-7. The premise establishes the woman's action as gymnastics, conflicting with the hypothesis where "she" would be napping.
-8. The premise's "she" actively engaged on the balance beam makes it impossible for her to be napping simultaneously.

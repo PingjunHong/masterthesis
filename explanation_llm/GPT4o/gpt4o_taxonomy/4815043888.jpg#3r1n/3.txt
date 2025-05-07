@@ -1,8 +1,0 @@
-1. The premise mentions a man and a child, but does not specify their relationship, while the statement specifies a father-daughter relationship, which is not structurally rephrased in the premise.
-2. The premise describes the action of purchasing ice cream without specifying familial ties, while the statement introduces a specific familial bond, altering the meaning rather than rephrasing it.
-3. The premise uses "a man and a child," which structurally differs from the statement's "a father and his daughter," as it introduces specific roles and relations not present in the premise.
-4. The action described in the premise uses generic terms "a man and a child," whereas the statement provides a specific relational context "a father and his daughter," making it not a pure syntactic alternation.
-5. The premise and statement differ syntactically in how they describe the participants' identities, with the statement adding relational context not syntactically present in the premise.
-6. The premise's description "a man with a hand pushed ice cream cart" structurally differs from the statement, which focuses on the familial aspect without rephrasing the premise.
-7. The statement suggests a familial relationship that is absent in the premise, indicating a shift in meaning rather than a syntactic rephrasing.
-8. The premise's lack of specification regarding relationships contrasts with the statement's specific terms "father" and "daughter," resulting in a different structural focus.

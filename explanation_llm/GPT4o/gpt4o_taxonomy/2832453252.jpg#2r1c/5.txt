@@ -1,6 +1,0 @@
-- The premise only mentions young girls playing in the water, and there is no mention of boys being present.
-- The statement introduces boys, which are not supported by the information in the premise.
-- The premise specifically identifies girls, and there is no evidence provided that boys are also there.
-- The presence of boys is not mentioned or implied in the premise, leading to a contradiction with the statement.
-- The premise does not include any details or evidence about boys, making their presence in the statement unsupported.
-- The hypothesis assumes the presence of boys without any indication from the premise.

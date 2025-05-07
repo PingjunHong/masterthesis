@@ -1,8 +1,0 @@
-1. Superhero books are a subset of literature; therefore, reading superhero books implies reading literature.
-2. If two boys are reading books, then they are necessarily engaging with literature, as books are a form of literature.
-3. The term "piece of literature" is inclusive of any book, including superhero books, so reading superhero books means reading a piece of literature.
-4. Superhero books fall under the category of literature, hence reading them fulfills the condition of reading literature.
-5. Literature encompasses various genres and types, such as superhero books, so reading superhero books is an instance of reading literature.
-6. By definition, superhero books are literary works, thus reading them confirms that the boys are reading a piece of literature.
-7. Reading any type of book, including superhero books, can be classified as reading literature; thus, the activity described in the premise entails the statement in the hypothesis.
-8. The act of reading superhero books, which are recognized as literary forms, entails that the boys are reading literature.

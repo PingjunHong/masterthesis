@@ -1,7 +1,0 @@
-- Not all dogs are pets.
-- Not all dogs are playing fetch.
-- A dog may jump for a Frisbee without interacting with an owner.
-- Not all dogs enjoy playing fetch.
-- Snow does not imply the presence of an owner.
-- A dog jumping for a Frisbee does not necessarily mean it is part of a game of fetch.
-- A dog can be outside without its owner.

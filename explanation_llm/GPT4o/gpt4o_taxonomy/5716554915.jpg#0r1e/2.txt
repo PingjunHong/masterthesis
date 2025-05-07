@@ -1,6 +1,0 @@
-- A woman is a type of person.
-- A room can contain walls and windows, which are mentioned in the premise.
-- Being on a yoga mat implies being in a room, as yoga mats are typically used indoors.
-- The presence of a window suggests the setting is indoors, which typically describes a room.
-- Paintings are commonly hung on walls, which are elements of a room.
-- The sun shining through a window indicates an enclosed space, characteristic of a room.

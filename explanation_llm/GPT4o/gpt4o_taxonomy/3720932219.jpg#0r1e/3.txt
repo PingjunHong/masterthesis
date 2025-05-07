@@ -1,7 +1,0 @@
-1. A blond speaks with a group of young dark-haired woman students carrying pieces of paper is a rephrase of, A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.
-2. The term "woman" in the premise is structurally rephrased to "woman" in the hypothesis, maintaining the same meaning.
-3. The premise's "female students" is rephrased as "woman students" in the hypothesis, preserving the meaning.
-4. The structure "a blond woman speaks with" in the premise is syntactically altered to "a blond speaks with" in the hypothesis without changing the meaning.
-5. The phrase "a group of young dark-haired female students" in the premise is restructured as "a group of young dark-haired woman students" in the hypothesis, keeping the same meaning.
-6. "Carrying pieces of paper" is identically used in both the premise and hypothesis, maintaining the meaning.
-7. The overall structure of the sentence is altered by replacing "female students" with "woman students," indicating a syntactic alternation with the same meaning.

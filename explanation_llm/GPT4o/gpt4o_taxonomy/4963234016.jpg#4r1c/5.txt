@@ -1,8 +1,0 @@
-- The premise mentions a woman working long hours, but does not mention anything about her sleeping.
-- There is no information in the premise that indicates the woman is sleeping; it only describes her working.
-- The hypothesis introduces the idea of sleeping, which is not supported by the mention of working long hours in the premise.
-- The premise does not contain any details about the woman’s activities outside of working, such as sleeping.
-- The action of sleeping is not mentioned or implied in the context of working long hours in the premise.
-- The premise provides no evidence that supports the hypothesis that the woman is sleeping; it focuses solely on her working.
-- The hypothesis contradicts the premise by introducing a scenario (sleeping) that is not addressed or implied through the description of working long hours.
-- The premise lacks any mention of sleeping, which is necessary to support the hypothesis.

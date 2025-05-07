@@ -1,7 +1,0 @@
-- Kneeling and riding a bicycle are actions that cannot be performed simultaneously.
-- Kneeling implies being stationary, while riding a bicycle involves movement.
-- The action of kneeling contradicts the action of riding a bicycle.
-- Being on a street while kneeling does not equate to riding a bicycle.
-- The meanings of kneeling and riding a bicycle are mutually exclusive.
-- A person cannot kneel and ride a bicycle at the same time based on their definitions.
-- The semantic meanings of kneeling and riding a bicycle are contradictory.

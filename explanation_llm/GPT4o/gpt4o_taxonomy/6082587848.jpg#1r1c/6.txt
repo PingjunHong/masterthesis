@@ -1,6 +1,0 @@
-1. Playing a violin and washing laundry are mutually exclusive activities.
-2. The location of playing a violin is typically different from the location of washing laundry.
-3. The time required to play a violin does not coincide with the time required to wash laundry.
-4. The context of playing music with a group does not align with the solitary activity of washing laundry.
-5. The actions described contradict each other in terms of purpose and setting.
-6. The equipment needed for playing a violin is incompatible with the equipment needed for washing laundry.

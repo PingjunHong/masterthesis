@@ -1,6 +1,0 @@
-- If villagers are pulling in the fish boat, then there are people involved in the action of pulling.
-- Pulling in a fish boat logically implies that a boat is being pulled.
-- The term "villagers" indicates that people are present, and the action of pulling confirms that they are pulling a boat.
-- The act of pulling a boat by villagers necessarily involves people performing the pulling action.
-- The presence of a fish boat being pulled implies the involvement of people, as boats require human intervention to be pulled.
-- The word "villagers" specifies a group of people, and their action of pulling directly entails that they are pulling a boat.

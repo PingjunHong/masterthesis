@@ -1,7 +1,0 @@
-1. The people are standing is a rephrase of, people are standing near water with a boat heading their direction.
-2. The hypothesis, The people are standing, captures the same meaning as the assertion in the premise that people are standing near water.
-3. By syntactically focusing on the action, both the premise and the hypothesis confirm that the people are in a standing position.
-4. Simplifying the premise to its core action, people are standing, aligns directly with the hypothesis.
-5. The structural rephrasing from people are standing near water to The people are standing maintains the truth of the premise.
-6. The hypothesis is a syntactic alternation of the premise, preserving the meaning that there are people in a standing posture.
-7. The action of standing mentioned in the hypothesis is explicitly stated in the premise, despite additional context.

@@ -1,8 +1,0 @@
-1. The premise specifies that people are already riding bicycles, while the hypothesis suggests they are only preparing to ride, indicating a temporal discrepancy.
-2. The premise states that people are in the street, actively riding bicycles, while the hypothesis describes a preparatory stage not yet involving street riding.
-3. The premise mentions that people are wearing helmets while riding, whereas the hypothesis does not mention helmets, implying a lack of readiness for riding.
-4. The premise refers to people as a collective group riding, while the hypothesis describes them as individuals or a group of friends in a preparatory state.
-5. The premise indicates that the activity of riding bicycles is currently happening, while the hypothesis suggests an intention or future action not yet initiated.
-6. The premise describes a scenario of active movement on bicycles, whereas the hypothesis focuses on the static act of grabbing bikes.
-7. The premise involves an ongoing activity in the street, contrasting with the hypothesis's implication of being at home or another location preparing for the ride.
-8. The premise clearly states a requirement for safety (wearing helmets), while the hypothesis lacks any mention of safety measures or equipment.

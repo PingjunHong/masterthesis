@@ -1,8 +1,0 @@
-- A man was wearing a jacket refers to the black man wearing a down jacket.
-- Holding a comb refers to holding a pink comb.
-- A man was wearing a jacket while holding a comb refers to a black man wearing a down jacket with his arms spread and holding a pink comb.
-- The phrase holding a comb involves the action of the black man holding a pink comb.
-- Wearing a jacket matches the description of wearing a down jacket in the premise.
-- The reference to a man aligns with the black man mentioned in the premise.
-- A man holding a comb corresponds to the black man with a pink comb in the premise.
-- The phrase a man wearing a jacket and holding a comb resolves to the black man in a down jacket and holding a pink comb.

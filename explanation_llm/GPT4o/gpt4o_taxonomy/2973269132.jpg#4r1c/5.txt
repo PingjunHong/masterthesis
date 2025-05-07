@@ -1,7 +1,0 @@
-1. The premise describes the lioness actively closing in on its prey, which implies alertness and activity, while the hypothesis introduces the idea of the lioness sleeping, which is not supported by the premise.
-2. There is no mention in the premise of the lioness being at rest or asleep; the activity described contradicts the state of being asleep.
-3. The dynamic action of closing in on prey suggests the lioness is awake and focused, conflicting with the hypothesis that states the lioness is asleep.
-4. The premise implies a hunting scenario, which requires the lioness to be awake and engaged, whereas the hypothesis suggests a state of inactivity.
-5. The premise provides no evidence of sleep or rest, making the hypothesis unsupported by the described action.
-6. The hypothesis introduces a state of sleeping that is not mentioned or entailed by the premise's focus on the lioness's active behavior.
-7. The premise's context of pursuit and activity contradicts the notion of the lioness being asleep, as the two states are mutually exclusive.

@@ -1,5 +1,0 @@
-- Some men in the statement refers to several men in the premise.
-- TV in the statement refers to the television in the premise.
-- At a bar in the statement refers to at a bar in the premise.
-- Watching in the statement refers to watch in the premise.
-- Some men watching TV refers to several men watching a sports game on the television.

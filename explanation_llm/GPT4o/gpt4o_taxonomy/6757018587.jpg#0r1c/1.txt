@@ -1,5 +1,0 @@
-1. The player in the statement refers to the female softball player in the premise.
-2. The action of flying planes refers to the player mentioned in the premise, which contradicts with crouching in the infield.
-3. The female softball player mentioned in the premise is the same player referred to in the statement, and their actions are contradictory.
-4. The coreference between the player in the hypothesis and the female softball player in the premise highlights the contradiction between crouching and flying planes.
-5. The player in the hypothesis is the same individual as the female softball player in the premise, making the described activities contradictory.

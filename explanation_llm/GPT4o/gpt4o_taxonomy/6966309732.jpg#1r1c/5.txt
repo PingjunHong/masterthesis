@@ -1,5 +1,0 @@
-- The premise describes the soccer team playing on the field, while the hypothesis mentions them being in the locker room, which is not mentioned or implied.
-- There is no indication in the premise that the soccer team is in the locker room; it only describes them actively participating in the match on the field.
-- The premise focuses on the soccer team's actions during the game, without any reference to their activities in the locker room.
-- The hypothesis introduces a scenario involving a locker room that is not supported or suggested by the given premise.
-- The premise provides no evidence or implication of the soccer team being in the locker room, making the hypothesis contradictory due to the absence of mention.

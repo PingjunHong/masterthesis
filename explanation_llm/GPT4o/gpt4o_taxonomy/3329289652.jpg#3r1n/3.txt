@@ -1,8 +1,0 @@
-1. The boys are playing with Legos does not specify the location, while Boys are playing outside specifies it.
-2. Playing with Legos can happen indoors or outdoors, but Boys are playing outside explicitly states the location as outside.
-3. The premise describes the boys' activity with Legos, whereas the hypothesis describes the location of play as outside.
-4. The boys are playing with Legos does not mention where they are playing, unlike Boys are playing outside, which indicates they are outside.
-5. Boys are playing outside changes the structural focus from the activity with Legos to their outdoor location.
-6. The premise and hypothesis differ in structural emphasis; the premise focuses on the activity, while the hypothesis focuses on location.
-7. The statement Boys are playing outside introduces new information (location) not present in The boys are playing with Legos.
-8. The boys are playing with Legos and Boys are playing outside have different structural focuses, one on the activity, the other on the location.

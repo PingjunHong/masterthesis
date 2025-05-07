@@ -1,8 +1,0 @@
-1. The premise describes a boy preparing to kick a soccer ball, but it does not provide any information about his age.
-2. The statement about the boy being ten years old introduces new information that is not present in the premise.
-3. The age of the boy is not mentioned in the premise, making it impossible to determine his age based on the given content.
-4. The premise focuses on the action of getting ready to kick, which does not imply or suggest any specific age.
-5. The structural details of the premise do not include age-related information, rendering the hypothesis about the boy being ten years old as neutral.
-6. The premise and the statement describe different aspects of the boy, one focusing on his actions and the other on his age, without overlap in meaning.
-7. The action of preparing to kick a soccer ball does not syntactically or semantically rephrase or imply the boy's age.
-8. There is no syntactic alternation or rephrasing in the premise that could support the hypothesis regarding the boy's age.

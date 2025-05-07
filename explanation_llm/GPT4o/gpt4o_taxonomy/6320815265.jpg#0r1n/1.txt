@@ -1,8 +1,0 @@
-1. "There are children in the streets" refers to spectators lining the street, but no children are mentioned in the premise.
-2. The phrase "spectators line the street" does not specify that any of the spectators are children.
-3. The term "spectators" in the premise does not resolve to "children" in the hypothesis.
-4. The premise mentions only "spectators," with no indication of them being children.
-5. The hypothesis's reference to "children" has no corresponding reference in the premise's description of the scene.
-6. The coreference of "children" in the hypothesis is not established by any term in the premise.
-7. The word "children" implies a specific group not identified or referenced in the premise.
-8. The statement assumes the presence of children, whereas the premise only refers to "spectators."

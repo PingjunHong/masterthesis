@@ -1,8 +1,0 @@
-1. A boy swims is a rephrase of A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.
-2. The action of swimming by the boy in A boy swims is structurally included in A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.
-3. The statement A boy swims captures the same meaning as the swimming action described in A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.
-4. The main verb phrase A boy swims in the statement directly aligns with the activity described in the premise.
-5. The premise directly supports the statement by specifying additional details, while the core action of swimming remains unchanged.
-6. The hypothesis A boy swims is a syntactic simplification of A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand, focusing on the main action.
-7. The premise contains a detailed description that inherently includes the information in A boy swims.
-8. By stripping away details, A boy swims retains the essential action described in the more detailed premise.

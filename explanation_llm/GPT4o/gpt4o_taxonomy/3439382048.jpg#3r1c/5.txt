@@ -1,8 +1,0 @@
-- The premise describes a basketball player, but the hypothesis introduces the idea of playing football, which is not mentioned in the premise.
-- There is no mention of football in the premise; the activity described is related to basketball.
-- The premise indicates a basketball action, but the hypothesis contradicts it by mentioning a different sport, football, which lacks supporting evidence.
-- The premise specifies a basketball context, making the mention of football in the hypothesis unsupported and contradictory.
-- The premise focuses on basketball, and there is no evidence or mention of football to support the hypothesis.
-- The hypothesis introduces football, which is absent from the premise's description of basketball-related actions.
-- The premise provides information about a basketball player, while the hypothesis incorrectly mentions football, which is not implied or supported.
-- The premise involves basketball, and the hypothesis introduces football without any supporting details from the premise.

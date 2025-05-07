@@ -1,7 +1,0 @@
-1. "Several" implies a quantity of men, which includes "some" as a subset.
-2. "Watching a sports game on the television" entails "watching TV" because a sports game is a type of content shown on TV.
-3. "At a bar" is explicitly mentioned in both the premise and the hypothesis, maintaining location consistency.
-4. "Several men" encompasses "some men," as "several" is a broader term that includes "some."
-5. "Television" is synonymous with "TV," referring to the same device for watching broadcasts.
-6. "A sports game on the television" involves the action of "watching TV," as watching a sports game is a specific instance of watching TV.
-7. The phrase "some men" is logically contained within "several men," as "some" is a less specific term that fits within the definition of "several."

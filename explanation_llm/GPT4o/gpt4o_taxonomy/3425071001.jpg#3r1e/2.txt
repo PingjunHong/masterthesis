@@ -1,9 +1,0 @@
-- A tennis ball is a type of ball.
-- Hitting implies an ongoing action, and "hits" indicates this action is happening, so "hitting" is a correct description of the action.
-- The action of hitting a tennis ball necessarily involves hitting a ball.
-- The presence of a court is additional detail that does not change the fact that the boy is hitting a ball.
-- The term "tennis ball" specifies the kind of ball, but does not alter the fact that it is indeed a ball.
-- The premise specifies the location and type of ball, but the core action of hitting a ball remains unchanged.
-- "A boy hits" and "A boy is hitting" both convey the same action with slightly different tense implications, but they both denote the same activity.
-- The word "hits" in the premise corresponds to "is hitting" in the hypothesis as both describe the same action of striking.
-- The additional context of "on a court" specifies where the action takes place, supporting but not altering the statement that a ball is being hit.

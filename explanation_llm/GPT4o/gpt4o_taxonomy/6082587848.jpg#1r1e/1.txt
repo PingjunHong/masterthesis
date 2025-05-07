@@ -1,5 +1,0 @@
-A girl playing a violin refers to the girl playing an instrument.
-The instrument mentioned is the violin played by the girl.
-The girl playing an instrument is the same girl playing a violin.
-The group of people includes the girl playing a violin, who is the girl playing an instrument.
-The reference to the girl playing an instrument is resolved by identifying her as the girl playing a violin.

@@ -1,8 +1,0 @@
-1. The man and woman mentioned in the premise, who are taking a picture of themselves, are the same man and woman referenced in the hypothesis as having mug shots taken.
-2. The woman in a scarf in the premise is not the woman referred to in the hypothesis who has a mug shot taken.
-3. The act of taking a picture of themselves in the premise is contrasted with having mug shots taken in the hypothesis, indicating different circumstances for the same individuals.
-4. The man and woman in the premise are the same individuals mentioned in the hypothesis, but the contexts of taking a picture and being arrested are contradictory.
-5. The man and woman in the premise are not involved in any criminal activity, as opposed to the hypothesis where they are implied to be arrested.
-6. The reference to "a woman" in both premise and hypothesis is resolved to different contexts; in the premise, she is walking by, whereas in the hypothesis, she is arrested.
-7. The man in the premise taking a picture is the same man in the hypothesis allegedly having a mug shot taken, which contradicts their activity.
-8. The individuals in the premise and hypothesis are coreferentially linked but are described in mutually exclusive situations, taking a self-photo versus having mug shots.

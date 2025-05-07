@@ -1,5 +1,0 @@
-- A blond woman refers to the woman who speaks.
-- A group of young dark-haired female students refers to the other women.
-- Female students carrying pieces of paper refers to the other women.
-- The woman in the statement refers to the blond woman in the premise.
-- Other women in the statement refers to the young dark-haired female students in the premise.

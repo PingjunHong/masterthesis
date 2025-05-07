@@ -1,7 +1,0 @@
-1. "A person is sitting in front of a graffiti covered wall" does not structurally imply "A person is sitting outside" because the wall could be indoors.
-2. "A person is sitting outside" is not a syntactic rephrase of "A person is sitting in front of a graffiti covered wall" since the location described might be indoors.
-3. The phrase "in front of a graffiti covered wall" does not inherently mean "outside" as graffiti can be found both indoors and outdoors.
-4. "A person is sitting outside" lacks the syntactic elements present in "A person is sitting in front of a graffiti covered wall" indicating that being outside is not a syntactic alternation.
-5. Sitting "outside" is not a structural rephrasing of "in front of a graffiti covered wall" because the latter does not specify an outdoor setting.
-6. The construction of "A person is sitting in front of a graffiti covered wall" does not syntactically convert to "A person is sitting outside," as both have different implications about the setting.
-7. "A person is sitting outside" cannot be deduced from "A person is sitting in front of a graffiti covered wall" through syntactic transformation because the latter does not confirm the setting as outdoors.

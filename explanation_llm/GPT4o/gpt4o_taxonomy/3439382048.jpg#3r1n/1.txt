@@ -1,6 +1,0 @@
-1. The player in the hypothesis refers to the tattooed basketball player in the premise, but the specific content of the tattoo is not mentioned.
-2. The tattooed basketball player refers to the same player in both sentences, but the premise does not specify what the tattoo says.
-3. Both the premise and hypothesis refer to the same basketball player, but the premise does not include information about the tattoo's content.
-4. The player identified in the hypothesis is the same tattooed basketball player in the premise, yet there is no mention of the tattoo saying "mother" in the premise.
-5. The reference to the basketball player is consistent across both sentences, but the hypothesis introduces new information about the tattoo that is not addressed in the premise.
-6. The hypothesis mentions a tattoo that says "mother," which is not detailed or confirmed in the premise about the tattooed basketball player.

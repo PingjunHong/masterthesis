@@ -1,5 +1,0 @@
-- The phrase "a large number of people" in the statement refers to the same group as "a large number of people wearing only white and red" in the content.
-- The people mentioned in the statement are the same individuals described as wearing only white and red in the content.
-- The reference to "people walking on a street" in the statement is the same as "people wearing only white and red are walking on a street" in the content.
-- The walking people in the statement are the same as the people described in the content, without specifying their clothing colors.
-- The statement's reference to "people" is coreferential with the "people wearing only white and red" in the content.

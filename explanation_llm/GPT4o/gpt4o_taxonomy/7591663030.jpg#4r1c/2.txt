@@ -1,9 +1,0 @@
-1. "Riding" implies movement, whereas "sitting on a parked motorcycle" implies being stationary.
-2. "Near junk cars" suggests proximity to multiple vehicles, whereas "waiting for his friend" does not imply any specific surroundings.
-3. "A guy" and "a man" are synonymous, but their actions and circumstances differ fundamentally.
-4. "Riding a motorcycle" indicates an active engagement with the vehicle, whereas "sitting on a parked motorcycle" indicates passivity.
-5. "Riding" suggests the motorcycle is in motion, while "parked" indicates it is stationary and not in use.
-6. The term "waiting" implies a state of inactivity, contrasting with the active state of "riding."
-7. "Near junk cars" describes an environment that is not mentioned or implied in the hypothesis.
-8. "Sitting" implies a static position, whereas "riding" implies dynamic motion.
-9. "Parked" contradicts the action of "riding," which requires the vehicle to be in motion.

@@ -1,6 +1,0 @@
-The person is playing basketball refers to the tattooed basketball player.
-The tattooed basketball player is the person playing basketball.
-The person in the hypothesis is the tattooed basketball player mentioned in the premise.
-The individual about to dunk the ball is the person playing basketball.
-The person refers to the tattooed basketball player who is playing basketball.
-The tattooed basketball player in the premise is the person in the hypothesis.
