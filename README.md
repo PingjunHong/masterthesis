@@ -21,7 +21,29 @@ Thesis Structure:
 - LiveNLI: annotation results for LiveNLI
 - VariErr: annotation results for VariErr
 
-### explanation_generation
+### llm_generator
+```
+├── llm_explanation
+│   ├── Deepseek (generated explanations using ``deepseek-chat``)
+│   │   ├── deepseek_classify_and_generate.zip
+│   │   ├── deepseek_highlight_index.zip
+│   │   ├── deepseek_highlight_marked.zip
+│   │   ├── deepseek_label.zip
+│   │   ├── deepseek_taxonomy_filtered.zip
+│   ├── GPT4o (generated explanations using ``gpt4o``)
+│   │   ├── gpt4o_classify_and_generate.zip
+│   │   ├── gpt4o_highlight_index.zip
+│   │   ├── gpt4o_highlight_marked.zip
+│   │   ├── gpt4o_label.zip
+│   │   ├── gpt4o_taxonomy_filtered.zip
+│   ├── Llama (generated explanations using ``Llama-3.2-3B-Instruct``)   
+│   │   ├── llama_classify_and_generate.zip
+│   │   ├── llama_highlight_index.zip
+│   │   ├── llama_highlight_marked.zip
+│   │   ├── llama_label.zip
+│   │   ├── llama_taxonomy_filtered.zip 
+├── model_generator.py
+```
 
 ### iaa
 ```
