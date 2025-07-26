@@ -15,14 +15,14 @@ Given the following input fields:
 
 The model classifies the explanation into one of the following 8 reasoning categories:
 
-1. **Coreference Resolution**
-2. **Semantic-level Inference**
-3. **Syntactic-level Inference**
-4. **Pragmatic-level Inference**
+1. **Coreference**
+2. **Semantic**
+3. **Syntactic**
+4. **Pragmatic**
 5. **Absence of Mention**
-6. **Logical Structure Conflict**
+6. **Logic Conflict**
 7. **Factual Knowledge**
-8. **World-Informed Logical Reasoning**
+8. **Inferential Knowledge**
 
 ## Input Format
 

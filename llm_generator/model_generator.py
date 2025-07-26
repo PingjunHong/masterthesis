@@ -10,12 +10,11 @@ def init_client(model_name, backend):
     if backend == "openai":
         if model_name == "gpt4o":
             return OpenAI(
-                api_key="sk-bvHc2XGbyz9GGWkgTXKLbS6U9PoPrlv2Y1HIvlHLYev3vR3M",
-                base_url="https://xiaoai.plus/v1"
+                api_key="your-openai-api-key",
             ), "gpt-4o"
         elif model_name == "deepseek-chat":
             return OpenAI(
-                api_key="sk-fa448d9f39624998a86405f230a462ba",
+                api_key="your-deepseek-api-key",
                 base_url="https://api.deepseek.com/v1"
             ), "deepseek-chat"
         else:
@@ -55,14 +54,14 @@ def mark_tokens(text, highlight_indices_str):
 
 # description for taxonomy
 taxonomy_descriptions = {
-    1: "Coreference Resolution – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.",
-    2: "Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).",
-    3: "Syntactic-level Inference – Based on structural rephrasing with the same meaning (e.g., syntactic alternation, coordination, subordination). If the explanation itself is the rephrase of the premise or hypothesis, it should be included in this category.",
-    4: "Pragmatic-level Inference – This category would capture inferences that arise from logical implications embedded in the structure or semantics of the text itself, without relying on external context or background knowledge.",
+    1: "Coreference – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.",
+    2: "Semantic – Based on word meaning (e.g., synonyms, antonyms, negation).",
+    3: "Syntactic – Based on structural rephrasing with the same meaning (e.g., syntactic alternation, coordination, subordination). If the explanation itself is the rephrase of the premise or hypothesis, it should be included in this category.",
+    4: "Pragmatic – This category would capture inferences that arise from logical implications embedded in the structure or semantics of the text itself, without relying on external context or background knowledge.",
     5: "Absence of Mention – Lack of supporting evidence, the hypothesis introduce information that is not supported, not entailed, or not mentioned in the premise, but could be true.",
-    6: "Logical Structure Conflict – Structural logical exclusivity (e.g., either-or, at most, only, must), quantifier conflict, temporal conflict, location conflict, gender conflict etc.",
+    6: "Logic Conflict – Structural logical exclusivity (e.g., either-or, at most, only, must), quantifier conflict, temporal conflict, location conflict, gender conflict etc.",
     7: "Factual Knowledge – Explanation relies on commonsense, background, or domain-specific facts. No further reasoning involved.",
-    8: "World-Informed Logical Reasoning – Requires real-world causal, probabilistic reasoning or unstated but assumed information."
+    8: "Inferential Knowledge – Requires real-world causal, probabilistic reasoning or unstated but assumed information."
 }
 
 # few-shot examples for taxonomy
@@ -119,7 +118,7 @@ few_shot_examples = {
 
 def build_prompt(mode, premise, hypothesis, gold_label, taxonomy_idx=None, highlighted_1="", highlighted_2=""):
     if mode == "highlight_index":
-        return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences.\n\n    Context: {premise}\n    Highlighted word indices in Content: {highlighted_1}\n\n    Statement: {hypothesis}\n    Highlighted word indices in Statement: {highlighted_2}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
+        return f"""You are an expert in Natural Language Inference (NLI). Your task is to generate possible explanations for why the following statement is **{gold_label}**, focusing on the highlighted parts of the sentences.\n\n    Context: {premise}\n    Highlighted word indices in Context: {highlighted_1}\n\n    Statement: {hypothesis}\n    Highlighted word indices in Statement: {highlighted_2}\n\n    Please list all possible explanations without introductory phrases.\n    Answer:"""
     
     elif mode == "highlight_marked":
         marked_premise = mark_tokens(premise, highlighted_1)
@@ -180,31 +179,50 @@ def build_prompt(mode, premise, hypothesis, gold_label, taxonomy_idx=None, highl
         Second, for each selected category, generate all possible explanations that reflect that type.
         
         The explanation categories are:
-        1. Coreference Resolution – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.
-        2. Semantic-level Inference – Based on word meaning (e.g., synonyms, antonyms, negation).
-        3. Syntactic-level Inference – Based on structural rephrasing with the same meaning (e.g., syntactic alternation, coordination, subordination). If the explanation itself is the rephrase of the premise or hypothesis, it should be included in this category.
-        4. Pragmatic-level Inference – This category would capture inferences that arise from logical implications embedded in the structure or semantics of the text itself, without relying on external context or background knowledge.
+        1. Coreference – The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.
+        2. Semantic – Based on word meaning (e.g., synonyms, antonyms, negation).
+        3. Syntactic – Based on structural rephrasing with the same meaning (e.g., syntactic alternation, coordination, subordination). If the explanation itself is the rephrase of the premise or hypothesis, it should be included in this category.
+        4. Pragmatic – This category would capture inferences that arise from logical implications embedded in the structure or semantics of the text itself, without relying on external context or background knowledge.
         5. Absence of Mention – Lack of supporting evidence, the hypothesis introduce information that is not supported, not entailed, or not mentioned in the premise, but could be true.
-        6. Logical Structure Conflict – Structural logical exclusivity (e.g., either-or, at most, only, must), quantifier conflict, temporal conflict, location conflict, gender conflict etc.
+        6. Logic Conflict – Structural logical exclusivity (e.g., either-or, at most, only, must), quantifier conflict, temporal conflict, location conflict, gender conflict etc.
         7. Factual Knowledge – Explanation relies on commonsense, background, or domain-specific facts. No further reasoning involved.
-        8. World-Informed Logical Reasoning – Requires real-world causal, probabilistic reasoning or unstated but assumed information.
+        8. Inferential Knowledge – Requires real-world causal, probabilistic reasoning or unstated but assumed information.
 
         Context: {premise}   
         Statement: {hypothesis}  
         Label: {gold_label}
 
         Please list all possible explanations without introductory phrases for all the chosen categories. Start directly with the category number and explanation, following the strict format below:
-        1. Coreference Resolution:  
+        1. Coreference:  
         - [Your explanation(s) here]  
 
-        2. Semantic-level Inference:  
+        2. Semantic:  
         - [Your explanation(s) here]  
 
         ... (continue for all reasonable categories)
         Answer:"""
-    
+        
+    elif mode == "generate_highlight":
+        return f"""You are an expert in NLI. Based on the label '{gold_label}', highlight relevant word indices in the premise and hypothesis.
+        Highlighting rules:
+        - For entailment: highlight at least one word in the premise.
+        - For contradiction: highlight at least one word in both the premise and the hypothesis.
+        - For neutral: highlight only in the hypothesis.
+        Premise: {premise}
+        Hypothesis: {hypothesis}
+        Label: {gold_label}
+        Please list **3** possible highlights using word index in the sentence without introductory phrases. Answer using word indices **starting from 0** and include punctuation marks as tokens (count them).
+        Respond strictly this format:
+        
+        Highlight 1:
+        Premise_Highlighted: [Your chosen index(es) here] 
+        Hypothesis_Highlighted: [Your chosen index(es) here]
+        Highlight 2:
+        ...
+        Answer:"""
+        
     else:
-        raise ValueError("Invalid mode. Choose from highlight_index, highlight_marked, label, taxonomy, classify or classify_and_generate")
+        raise ValueError("Invalid mode. Choose from highlight_index, highlight_marked, label, taxonomy, classify, classify_and_generate and generate_highlight")
 
 
 def main():
@@ -214,7 +232,7 @@ def main():
     parser.add_argument("--backend", type=str, choices=["openai", "hf"], default="openai")
     parser.add_argument("--input", type=str, required=True)
     parser.add_argument("--output", type=str, default="api_generated_output.jsonl")
-    parser.add_argument("--mode", type=str, choices=["highlight_index", "highlight_marked", "label", "taxonomy", "classify", "classify_and_generate"], required=True)
+    parser.add_argument("--mode", type=str, choices=["highlight_index", "highlight_marked", "label", "taxonomy", "classify", "classify_and_generate", "generate_highlight"], required=True)
     args = parser.parse_args()
 
     client, model_name = init_client(args.hf_model if args.backend == "hf" else args.model, args.backend)
@@ -232,7 +250,7 @@ def main():
         pass
     
     # generate explanations based on unique pairID (premise + hypothesis)
-    if args.mode in ["label", "classify_and_generate", "classify"]:
+    if args.mode in ["label", "classify_and_generate", "classify", "generate_highlight"]:
         unique_data = {}
         for item in all_data:
             pid = item["pairID"]
@@ -303,8 +321,8 @@ def main():
 
             result = {
                 "pairID": pid,
-                "Sentence1_Highlighted": item.get("Sentence1_Highlighted", ""),
-                "Sentence2_Highlighted": item.get("Sentence2_Highlighted", ""),
+                # "Sentence1_Highlighted": item.get("Sentence1_Highlighted", ""),
+                # "Sentence2_Highlighted": item.get("Sentence2_Highlighted", ""),
                 "Answer": answer
             }
             

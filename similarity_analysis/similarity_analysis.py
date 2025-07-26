@@ -17,7 +17,6 @@ import torch.nn.functional as F
 from scipy.spatial.distance import cosine, euclidean
 from typing import List
 
-
 class Scorer:
     def __init__(self, lang: str):
         self.device = torch.cuda.current_device() if torch.cuda.is_available() else "cpu"

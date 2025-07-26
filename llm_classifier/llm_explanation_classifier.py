@@ -9,14 +9,14 @@ from sklearn.metrics import classification_report
 
 # label mapping
 categories = [
-    "Coreference Resolution",
-    "Semantic-level Inference",
-    "Syntactic-level Inference",
-    "Pragmatic-level Inference",
+    "Coreference",
+    "Semantic",
+    "Syntactic",
+    "Pragmatic",
     "Absence of Mention",
-    "Logical Structure Conflict",
+    "Logic Conflict",
     "Factual Knowledge",
-    "World-Informed Logical Reasoning"
+    "Inferential Knowledge"
 ]
 
 def category_to_index(category):
@@ -32,14 +32,14 @@ def build_prompt(premise, hypothesis, label, explanation, few_shot_examples=None
     instruction = (
         "You are a reasoning expert. Classify the explanation into one of the following reasoning categories.\n\n"
         "Here are the reasoning types:\n"
-        "1. Coreference Resolution\n"
-        "2. Semantic-level Inference\n"
-        "3. Syntactic-level Inference\n"
-        "4. Pragmatic-level Inference\n"
+        "1. Coreference\n"
+        "2. Semantic\n"
+        "3. Syntactic\n"
+        "4. Pragmatic\n"
         "5. Absence of Mention\n"
-        "6. Logical Structure Conflict\n"
+        "6. Logic Conflict\n"
         "7. Factual Knowledge\n"
-        "8. World-Informed Logical Reasoning\n\n"
+        "8. Inferential Knowledge\n\n"
         "Respond only with the category index (1–8). No explanation, no label name.\n"
     )
     
@@ -49,28 +49,28 @@ def build_prompt(premise, hypothesis, label, explanation, few_shot_examples=None
 
     # Here are the categories:
 
-    # 1. Coreference Resolution
+    # 1. Coreference
     #     - The explanation resolves references (e.g., pronouns or demonstratives) across premise and hypothesis.
 
-    # 2. Semantic-level Inference
+    # 2. Semantic
     #     - Based on word meaning (e.g., synonyms, antonyms, negation).
 
-    # 3. Syntactic-level Inference
+    # 3. Syntactic
     #     - Based on structural rephrasing with the same meaning.
 
-    # 4. Pragmatic-level Inference
+    # 4. Pragmatic
     #     - Based on implicature, presupposition, or speaker intent.
 
     # 5. Absence of Mention
     #     - The hypothesis contains new info not present in the premise.
 
-    # 6. Logical Structure Conflict
+    # 6. Logic Conflict
     #     - Structural logical exclusivity(e.g., either-or, at most), quantifier conflict.
 
     # 7. Factual Knowledge
     #     - Relies on commonsense, background, or domain-specific facts.
 
-    # 8. World-Informed Logical Reasoning
+    # 8. Inferential Knowledge
     #     - Requires real-world causal or probabilistic reasoning.
 
 
@@ -95,28 +95,28 @@ few_shot = [
         "hypothesis": "The man is in a black shirt.",
         "gold_label": "entailment",
         "explanation": "The man is in a black shirt refers to the man in the black t-shirt.",
-        "explanation_category": "Coreference Resolution"
+        "explanation_category": "Coreference"
     },
     {
         "premise": "A man in a black tank top is wearing a red plaid hat.",
         "hypothesis": "A man in a hat.",
         "gold_label": "entailment",
         "explanation": "A red plaid hat is a specific type of hat.",
-        "explanation_category": "Semantic-level Inference"
+        "explanation_category": "Semantic"
     },
     {
         "premise": "Two women walk down a sidewalk along a busy street in a downtown area.",
         "hypothesis": "The women were walking downtown.",
         "gold_label": "entailment",
         "explanation": "The women were walking downtown is a rephrase of, Two women walk down a sidewalk along a busy street in a downtown area.",
-        "explanation_category": "Syntactic-level Inference"
+        "explanation_category": "Syntactic"
     },
     {
         "premise": "A girl in a blue dress takes off her shoes and eats blue cotton candy.",
         "hypothesis": "The girl is eating while barefoot.",
         "gold_label": "entailment",
         "explanation": "If a girl takes off her shoes, then she becomes barefoot, and if she eats blue candy, then she is eating.",
-        "explanation_category": "Pragmatic-level Inference"
+        "explanation_category": "Pragmatic"
     },
     {
         "premise": "A person with a purple shirt is painting an image of a woman on a white wall.",
@@ -130,7 +130,7 @@ few_shot = [
         "hypothesis": "The three men sit and talk about their lives.",
         "gold_label": "contradiction",
         "explanation": "Three is not two.",
-        "explanation_category": "Logical Structure Conflict"
+        "explanation_category": "Logic Conflict"
     },
     {
         "premise": "Two people crossing by each other while kite surfing.",
@@ -144,7 +144,7 @@ few_shot = [
         "hypothesis": "The girl in a blue dress is a flower girl at a wedding.",
         "gold_label": "neutral",
         "explanation": "A girl in a blue dress doesn’t imply the girl is a flower girl at a wedding.",
-        "explanation_category": "World-Informed Logical Reasoning"
+        "explanation_category": "Inferential Knowledge"
     }
 ]
 
