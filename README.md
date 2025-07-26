@@ -15,6 +15,19 @@ Thesis Structure:
   <img src="images/thesis_structure.png" alt="Thesis Structure" width="600"/>
 </p>
 
+## Getting Started
+### Setting up the code environment
+```
+pip install -r requirements.txt
+```
+
+### Download spaCy language models
+The code requires English and German spaCy models for tokenization and linguistic analysis. Run the following commands:
+```
+python -m spacy download en_core_web_sm
+python -m spacy download de_core_news_md
+```
+
 ## Content
 ### data
 ```
@@ -36,7 +49,7 @@ To run the interactive web app, please follow the Quickstart instruction provide
 
 Then, open a terminal and run:
 
-```bash
+```
 $ streamlit run explanation_annotation.py
 $ streamlit run explanation_annotation_highlight.py
 $ streamlit run human_validation_annotation.py
