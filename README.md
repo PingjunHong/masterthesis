@@ -17,9 +17,68 @@ Thesis Structure:
 
 ## Content
 ### data
-- e-SNLI: annotation results for e-SNLI
-- LiveNLI: annotation results for LiveNLI
-- VariErr: annotation results for VariErr
+```
+├── annotation_esnli.jsonl (annotation results for e-SNLI)
+├── annotation_livenli.jsonl (annotation results for LiveNLI)
+├── annotation_varierr.jsonl (annotation results for VariErr)
+```
+
+### annotation_interface
+```
+├── explanation_annotation.py
+├── explanation_annotation_highlight.py
+├── human_validation_annotation.py
+```
+
+The annotation interfaces are designed using Streamlit (https://github.com/streamlit/streamlit)
+
+To run the interactive web app, please follow the Quickstart instruction provided on Streamlit Guide (https://github.com/streamlit/streamlit).
+
+Then, open a terminal and run:
+
+```bash
+$ streamlit run explanation_annotation.py
+$ streamlit run explanation_annotation_highlight.py
+$ streamlit run human_validation_annotation.py
+```
+
+### iaa
+```
+├── classification_iaa
+│   ├── annotator0_iaa.jsonl (classification annotation of annotator 0)
+│   ├── annotator1_iaa.jsonl (classification annotation of annotator 1)        
+├── highlight_iaa
+│   ├── annotator0_iaa_highlight.jsonl (highlight annotation of annotator 0)
+│   ├── annotator1_iaa_highlight.jsonl (highlight annotation of annotator 1)
+├── iaa.ipynb (iaa analysis)  
+```
+
+### llm_classifier
+```
+├── classification_results
+│   ├── deepseek
+│   │   ├── predictions_deepseek-v3_baseline.jsonl 
+│   │   ├── predictions_deepseek-v3_instruction.jsonl
+│   │   ├── predictions_deepseek-v3_one_example.jsonl
+│   │   ├── predictions_deepseek-v3_one_example_instruction.jsonl
+│   │   ├── predictions_deepseek-v3_two_example.jsonl
+│   │   ├── predictions_deepseek-v3_two_example_instruction.jsonl
+│   ├── gpt3.5
+│   │   ├── predictions_gpt3.5_baseline.jsonl 
+│   │   ├── predictions_gpt3.5_instruction.jsonl
+│   │   ├── predictions_gpt3.5_one_example.jsonl
+│   │   ├── predictions_gpt3.5_one_example_instruction.jsonl
+│   │   ├── predictions_gpt3.5_two_example.jsonl
+│   │   ├── predictions_gpt3.5_two_example_instruction.jsonl
+│   ├── gpt4o
+│   │   ├── predictions_gpt4o_baseline.jsonl 
+│   │   ├── predictions_gpt4o_instruction.jsonl
+│   │   ├── predictions_gpt4o_one_example.jsonl
+│   │   ├── predictions_gpt4o_one_example_instruction.jsonl
+│   │   ├── predictions_gpt4o_two_example.jsonl
+│   │   ├── predictions_gpt4o_two_example_instruction.jsonl
+│   ├── llama
+```
 
 ### llm_generator
 ```
@@ -45,24 +104,4 @@ Thesis Structure:
 ├── model_generator.py
 ```
 
-### iaa
-```
-├── classification_iaa
-│   ├── annotator0_iaa.jsonl (classification annotation of annotator 0)
-│   ├── annotator1_iaa.jsonl (classification annotation of annotator 1)        
-├── highlight_iaa
-│   ├── annotator0_iaa_highlight.jsonl (highlight annotation of annotator 0)
-│   ├── annotator1_iaa_highlight.jsonl (highlight annotation of annotator 1)
-├── iaa.ipynb (iaa analysis)  
-```
-
-### Annotation Process
-``/masterthesis/explanation_annotation.py``
-The main annotation interface is designed using Streamlit (https://github.com/streamlit/streamlit)
-
-To run the interactive web app, please follow the Quickstart instruction provided on Streamlit Guide (https://github.com/streamlit/streamlit).
-
-Then, open a terminal and run:
-```bash
-$ streamlit run explation_annotation.py
-```
+### similarity_analysis
