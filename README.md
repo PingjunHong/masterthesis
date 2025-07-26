@@ -53,8 +53,11 @@ $ streamlit run human_validation_annotation.py
 ├── iaa.ipynb (iaa analysis)  
 ```
 
-### llm_classifier
+### classification
 ```
+├── bert.ipynb
+├── roberta.ipynb
+├── llm_explanation_classifier.py
 ├── classification_results
 │   ├── deepseek
 │   │   ├── predictions_deepseek-v3_baseline.jsonl 
@@ -78,9 +81,15 @@ $ streamlit run human_validation_annotation.py
 │   │   ├── predictions_gpt4o_two_example.jsonl
 │   │   ├── predictions_gpt4o_two_example_instruction.jsonl
 │   ├── llama
+│   │   ├── predictions_llama_baseline.jsonl 
+│   │   ├── predictions_llama_instruction.jsonl
+│   │   ├── predictions_llama_one_example.jsonl
+│   │   ├── predictions_llama_one_example_instruction.jsonl
+│   │   ├── predictions_llama_two_example.jsonl
+│   │   ├── predictions_llama_two_example_instruction.jsonl
 ```
 
-### llm_generator
+### generation
 ```
 ├── llm_explanation
 │   ├── Deepseek (generated explanations using ``deepseek-chat``)
@@ -105,3 +114,7 @@ $ streamlit run human_validation_annotation.py
 ```
 
 ### similarity_analysis
+├── similarity_analysis.py
+├── similarity_score
+│   ├── livenli_similarity_per_instance_results.jsonl
+│   ├── varierr_similarity_per_instance_results.jsonl
