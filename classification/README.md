@@ -2,7 +2,7 @@
 
 `unified_explanation_classifier.py` provides a unified pipeline to classify NLI explanations into the standardized linguistic-based categories using LLMs.\\
 
-It supports both **HuggingFace models (e.g., LLaMA, Mistral)** and **OpenAI GPT-3.5 / GPT-4** for **zero-shot** and **few-shot** classification.\\
+It supports both **HuggingFace models (e.g., LLaMA)** and **OpenAI GPT-3.5 / GPT-4** for **zero-shot** and **few-shot** classification.\\
 
 ## Task
 

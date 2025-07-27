@@ -100,6 +100,7 @@ $ streamlit run human_validation_annotation.py
 │   │   ├── predictions_llama_one_example_instruction.jsonl
 │   │   ├── predictions_llama_two_example.jsonl
 │   │   ├── predictions_llama_two_example_instruction.jsonl
+├── README.md (instructions for running llm_explanation_classifier.py)
 ```
 
 ### generation
@@ -124,6 +125,7 @@ $ streamlit run human_validation_annotation.py
 │   │   ├── llama_label.zip
 │   │   ├── llama_taxonomy_filtered.zip 
 ├── model_generator.py
+├── README.md (instructions for running model_generator.py)
 ```
 
 ### similarity_analysis
