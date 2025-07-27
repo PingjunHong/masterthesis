@@ -135,8 +135,9 @@ $ streamlit run human_validation_annotation.py
 
 ### similarity_analysis
 ```
-├── similarity_analysis.py
+├── similarity_analysis.py # script for calculation similarity
 ├── similarity_score
 │   ├── livenli_similarity_per_instance_results.jsonl
 │   ├── varierr_similarity_per_instance_results.jsonl
+├── README.md # instructions for running similarity_analysis.py
 ```

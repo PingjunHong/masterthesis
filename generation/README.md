@@ -20,8 +20,11 @@ based on: `premise` + `hypothesis` + `gold_label` + GIVEN `taxonomy`
 5. `classify`
 Generate appropriate category indexes for the possible explanation types. Output only the indexes. This mode is intended to filter the explanations produced in Mode 4. Input: `premise` + `hypothesis` + `gold_label`
 
-4. `classify_and_generate`
+6. `classify_and_generate`
 The model is prompted to first identify the most relevant explanation types, and then generate corresponding explanations based on: `premise` + `hypothesis` + `gold_label`
+
+7. `generate_highlight`
+Generate 3 different highlighting suggestions (word indices) for the given `premise`, `hypothesis`, and `gold_label`.
 
 ## Backends (--backend)
 

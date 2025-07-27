@@ -1,4 +1,5 @@
 import json
+import argparse
 from collections import defaultdict
 from collections import Counter
 from itertools import combinations
@@ -223,7 +224,7 @@ def save_results_to_jsonl(results, output_path):
             safe_item = {k: convert(v) for k, v in item.items()}
             f.write(json.dumps(safe_item, ensure_ascii=False) + '\n')
 
-def main(jsonl_path):
+def main(jsonl_path, save_path):
     print("Loading data")
     data = load_jsonl(jsonl_path)
 
@@ -271,11 +272,14 @@ def main(jsonl_path):
             avg = np.mean(values)
             print(f"  {metric_name}: {avg:.4f}")
 
-    save_path = "similarity_per_instance_results.jsonl"
     save_results_to_jsonl(results, save_path)
     print(f"\nSaved per-instance similarity results to: {save_path}")
 
 
 if __name__ == "__main__":
-    jsonl_path = "path/to/your/data.jsonl"  # Replace with your actual path
-    main(jsonl_path)
+    parser = argparse.ArgumentParser(description="Compute similarity metrics over NLI explanations.")
+    parser.add_argument("--input", type=str, required=True, help="Path to the input .jsonl file")
+    parser.add_argument("--output", type=str, default="similarity_per_instance_results.jsonl", help="Path to save output results")
+    args = parser.parse_args()
+
+    main(args.input, args.output)
