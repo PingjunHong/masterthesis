@@ -58,19 +58,19 @@ $ streamlit run human_validation_annotation.py
 ### iaa
 ```
 ├── classification_iaa
-│   ├── annotator0_iaa.jsonl (classification annotation of annotator 0)
-│   ├── annotator1_iaa.jsonl (classification annotation of annotator 1)        
+│   ├── annotator0_iaa.jsonl # classification annotation of annotator 0        
+│   ├── annotator1_iaa.jsonl # classification annotation of annotator 1        
 ├── highlight_iaa
-│   ├── annotator0_iaa_highlight.jsonl (highlight annotation of annotator 0)
-│   ├── annotator1_iaa_highlight.jsonl (highlight annotation of annotator 1)
-├── iaa.ipynb (iaa analysis)  
+│   ├── annotator0_iaa_highlight.jsonl # highlight annotation of annotator 0
+│   ├── annotator1_iaa_highlight.jsonl #highlight annotation of annotator 1
+├── iaa.ipynb # notebook for iaa analysis 
 ```
 
 ### classification
 ```
-├── bert.ipynb
-├── roberta.ipynb
-├── llm_explanation_classifier.py
+├── bert.ipynb # notebook for fine-tuning BERT
+├── roberta.ipynb # notebook for fine-tuning RoBERTa
+├── llm_explanation_classifier.py # script for LLM-based explanation classification
 ├── classification_results
 │   ├── deepseek
 │   │   ├── predictions_deepseek-v3_baseline.jsonl 
@@ -100,32 +100,37 @@ $ streamlit run human_validation_annotation.py
 │   │   ├── predictions_llama_one_example_instruction.jsonl
 │   │   ├── predictions_llama_two_example.jsonl
 │   │   ├── predictions_llama_two_example_instruction.jsonl
-├── README.md (instructions for running llm_explanation_classifier.py)
+├── README.md # instructions for running llm_explanation_classifier.py
 ```
 
 ### generation
 ```
 ├── llm_explanation
-│   ├── Deepseek (generated explanations using ``deepseek-chat``)
+│   ├── Deepseek # generated explanations using ``deepseek-chat``
 │   │   ├── deepseek_classify_and_generate.zip
 │   │   ├── deepseek_highlight_index.zip
 │   │   ├── deepseek_highlight_marked.zip
 │   │   ├── deepseek_label.zip
 │   │   ├── deepseek_taxonomy_filtered.zip
-│   ├── GPT4o (generated explanations using ``gpt4o``)
+│   ├── GPT4o # generated explanations using ``gpt4o``
 │   │   ├── gpt4o_classify_and_generate.zip
 │   │   ├── gpt4o_highlight_index.zip
 │   │   ├── gpt4o_highlight_marked.zip
 │   │   ├── gpt4o_label.zip
 │   │   ├── gpt4o_taxonomy_filtered.zip
-│   ├── Llama (generated explanations using ``Llama-3.2-3B-Instruct``)   
+│   ├── Llama # generated explanations using ``Llama-3.2-3B-Instruct``
 │   │   ├── llama_classify_and_generate.zip
 │   │   ├── llama_highlight_index.zip
 │   │   ├── llama_highlight_marked.zip
 │   │   ├── llama_label.zip
 │   │   ├── llama_taxonomy_filtered.zip 
 ├── model_generator.py
-├── README.md (instructions for running model_generator.py)
+├── README.md # instructions for running model_generator.py
+```
+
+### human_validation
+```
+├── annotated_validation.jsonl # results of human validation of model-generated explanations
 ```
 
 ### similarity_analysis
