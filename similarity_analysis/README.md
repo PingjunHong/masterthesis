@@ -1,6 +1,6 @@
 # Explanation Similarity Scorer
 
-This script computes similarity metrics among Natural Language Inference (NLI) explanations for each `(pairID, explanation_category, gold_label)` group using embedding-based and ngram-based methods.
+This script computes similarity metrics among NLI explanations for each `(pairID, explanation_category, gold_label)` group using embedding-based and ngram-based methods.
 
 It supports command-line input of `.jsonl` files and outputs the per-instance similarity results in JSONL format.
 
